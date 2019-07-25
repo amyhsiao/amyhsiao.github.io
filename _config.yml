@@ -1,0 +1,15 @@
+title: amyhsiao.github.io 
+author: Amy Hsiao
+description: >
+Welcome.
+show_excerpts: true
+minima:
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    github:  amyhsiao
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
