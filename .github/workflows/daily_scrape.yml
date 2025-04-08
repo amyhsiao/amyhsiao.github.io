@@ -31,11 +31,6 @@ jobs:
       - name: Create beauty4 directory
         run: mkdir -p beauty4
 
-      - name: Move JSON files to beauty4 directory
-        run: |
-          mv watsons_products.json beauty4/
-          mv poya_products.json beauty4/
-
       - name: Configure Git
         run: |
           git config --local user.email "amyhsiao@gmail.com" # Replace with your GitHub email
