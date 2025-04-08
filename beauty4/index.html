@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Watsons Product Search</title>
+    <style>
+        body { font-family: sans-serif; }
+        #search-container { margin-bottom: 20px; }
+        #search-input { padding: 8px; width: 300px; }
+        #results-container { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; }
+        .product-card { border: 1px solid #ccc; padding: 15px; }
+        .product-image { max-width: 100%; height: auto; }
+        .product-name { font-weight: bold; margin-top: 10px; }
+        .product-price { color: green; margin-top: 5px; }
+        .product-brand { color: gray; margin-top: 5px; }
+        .product-link { display: block; margin-top: 10px; color: blue; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <h1>Watsons Product Search</h1>
+
+    <div id="search-container">
+        <input type="text" id="search-input" placeholder="Enter product name or brand">
+    </div>
+
+    <div id="results-container">
+        </div>
+
+    <script>
+        async function loadProducts() {
+            try {
+                const response = await fetch('watsons_products.json');
+                const products = await response.json();
+                displayProducts(products);
+                setupSearch(products);
+            } catch (error) {
+                console.error("Error loading products:", error);
+                document.getElementById('results-container').innerText = "Failed to load products.";
+            }
+        }
+
+        function displayProducts(products) {
+            const resultsContainer = document.getElementById('results-container');
+            resultsContainer.innerHTML = ''; // Clear previous results
+
+            if (products.length === 0) {
+                resultsContainer.innerText = "No products found.";
+                return;
+            }
+
+            products.forEach(product => {
+                const productCard = document.createElement('div');
+                productCard.classList.add('product-card');
+
+                const image = document.createElement('img');
+                image.src = product.image_url;
+                image.alt = product.name;
+                image.classList.add('product-image');
+
+                const name = document.createElement('div');
+                name.classList.add('product-name');
+                name.innerText = product.name;
+
+                const price = document.createElement('div');
+                price.classList.add('product-price');
+                price.innerText = `Price: ${product.price}`;
+
+                const brand = document.createElement('div');
+                brand.classList.add('product-brand');
+                brand.innerText = `Brand: ${product.brand}`;
+
+                const link = document.createElement('a');
+                link.href = product.url;
+                link.innerText = 'View on Watsons';
+                link.classList.add('product-link');
+                link.target = '_blank'; // Open in a new tab
+
+                productCard.appendChild(image);
+                productCard.appendChild(name);
+                productCard.appendChild(price);
+                productCard.appendChild(brand);
+                productCard.appendChild(link);
+
+                resultsContainer.appendChild(productCard);
+            });
+        }
+
+        function setupSearch(products) {
+            const searchInput = document.getElementById('search-input');
+            searchInput.addEventListener('input', function() {
+                const searchTerm = searchInput.value.toLowerCase();
+                const filteredProducts = products.filter(product =>
+                    product.name.toLowerCase().includes(searchTerm) ||
+                    product.brand.toLowerCase().includes(searchTerm)
+                );
+                displayProducts(filteredProducts);
+            });
+        }
+
+        // Load products when the page loads
+        loadProducts();
+    </script>
+</body>
+</html>

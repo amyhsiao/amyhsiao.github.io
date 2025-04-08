@@ -23,7 +23,7 @@ jobs:
           pip install selenium webdriver-manager beautifulsoup4 requests
 
       - name: Run the scraping script
-        run: python get_watsons_product_links.py
+zsh:1: command not found: q
 
       - name: Configure Git
         run: |
@@ -33,6 +33,6 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Daily scrape: Update watsons_products.json"
-          file_pattern: watsons_products.json
+          commit_message: "Daily scrape: Update /beauty4/watsons_products.json"
+          file_pattern: /beauty4/watsons_products.json
 
