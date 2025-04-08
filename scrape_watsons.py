@@ -15,7 +15,7 @@ from tqdm import tqdm
 WATSONS_BASE_URL = "https://www.watsons.com.tw"
 WATSONS_ALL_PRODUCTS_URL = "https://www.watsons.com.tw/%E5%85%A8%E9%83%A8%E5%95%86%E5%93%81/c/1"
 
-def scrape_watsons_products(url, max_pages=2):  # Limiting max pages for testing
+def scrape_watsons_products(url, max_pages=50):  # Limiting max pages for testing
     """
     Scrapes product details from Watsons category pages with pagination,
     correctly extracting brand from span and name from the a tag.
