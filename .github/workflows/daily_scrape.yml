@@ -1,4 +1,4 @@
-name: Daily Watsons Scrape and Update
+name: Daily Product Scrape and Update
 
 on:
   schedule:
@@ -20,16 +20,21 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install selenium webdriver-manager beautifulsoup4 requests
+          pip install selenium webdriver-manager beautifulsoup4 requests tqdm
 
-      - name: Run the scraping script
-        run: python get_watsons_product_links.py -o watsons_products.json
+      - name: Run Watsons scraping script
+        run: python scrape_watsons.py
+
+      - name: Run Poya scraping script
+        run: python scrape_poya.py  # Assuming you have a scrape_poya.py script
 
       - name: Create beauty4 directory
         run: mkdir -p beauty4
 
-      - name: Move JSON file to beauty4 directory
-        run: mv watsons_products.json beauty4/
+      - name: Move JSON files to beauty4 directory
+        run: |
+          mv watsons_products.json beauty4/
+          mv poya_products.json beauty4/
 
       - name: Configure Git
         run: |
@@ -39,5 +44,5 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Daily scrape: Update beauty4/watsons_products.json"
-          file_pattern: beauty4/watsons_products.json
+          commit_message: "Daily scrape: Update beauty4/watsons_products.json and beauty4/poya_products.json"
+          file_pattern: beauty4/
