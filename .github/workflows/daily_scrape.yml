@@ -27,8 +27,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --local user.email "your_github_email@example.com" # Replace with your GitHub email
-          git config --local user.name "Your GitHub Username" # Replace with your GitHub username
+          git config --local user.email "amyhsiao2015@gmail.com" # Replace with your GitHub email
+          git config --local user.name "amyhsiao" # Replace with your GitHub username
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
