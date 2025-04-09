@@ -28,8 +28,8 @@ jobs:
       - name: Run Poya scraping script
         run: python scrape_poya.py  # Assuming you have a scrape_poya.py script
 
-      - name: Create beauty4 directory
-        run: mkdir -p beauty4
+      - name: Run Cosmed scraping script
+        run: python scrape_cosmed.py
 
       - name: Configure Git
         run: |
@@ -39,5 +39,5 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Daily scrape: Update beauty4/watsons_products.json and beauty4/poya_products.json"
+          commit_message: "Daily scrape: Update beauty4/watsons_products.json, beauty4/poya_products.json, and beauty4/cosmed_products.json"
           file_pattern: beauty4/
