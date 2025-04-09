@@ -14,11 +14,11 @@ from tqdm import tqdm
 
 WATSONS_BASE_URL = "https://www.watsons.com.tw"
 WATSONS_ALL_PRODUCTS_URL = "https://www.watsons.com.tw/%E5%85%A8%E9%83%A8%E5%95%86%E5%93%81/c/1"
+PAGE_SIZE = 64  # Number of items per page. change to 64 for formal
 
-def scrape_watsons_products(url, max_pages=50):  # Limiting max pages for testing
+def scrape_watsons_products(base_url, max_pages=2):
     """
-    Scrapes product details from Watsons category pages with pagination,
-    correctly extracting brand from span and name from the a tag.
+    Scrapes product details from Watsons category pages by parsing Schema.org JSON-LD with debugging.
     """
     chrome_options = Options()
     chrome_options.add_argument("--headless=new")
@@ -30,66 +30,72 @@ def scrape_watsons_products(url, max_pages=50):  # Limiting max pages for testin
     service = ChromeService(ChromeDriverManager().install())
     driver = webdriver.Chrome(service=service, options=chrome_options)
     products_data = []
-    current_url = url
-    page_number = 1
 
     try:
-        while current_url and page_number <= max_pages:
-            print(f"Fetching page: {current_url}")
-            driver.get(current_url)
+        for page_number in range(max_pages):
+            page_url = f"{base_url}?pageSize={PAGE_SIZE}&currentPage={page_number}"
+            print(f"Fetching page: {page_url}")
+            driver.get(page_url)
             wait = WebDriverWait(driver, 10)
-            wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, 'productContainer')))
+            wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'script[type="application/ld+json"].structured-data')))
             soup = BeautifulSoup(driver.page_source, 'html.parser')
-            product_containers = soup.select('div.productContainer.gridMode')
+            structured_data_scripts = soup.select('script[type="application/ld+json"].structured-data')
 
-            for container in tqdm(product_containers, desc=f"Scraping page {page_number}"):
-                name_link_element = container.select_one('h2.productName a')
-                price_element = container.select_one('div.productPrice div.formatted-value span.afterPromo-price')
-                image_element = container.select_one('div.productImage a e2-product-thumbnail e2-media img')
+            print(f"Found {len(structured_data_scripts)} structured data scripts on page {page_number + 1}")
 
-                product_url = WATSONS_BASE_URL + name_link_element['href'] if name_link_element and 'href' in name_link_element.attrs else None
-                brand_span = name_link_element.select_one('span')
-                full_text = name_link_element.get_text(strip=True)
+            for script in structured_data_scripts:
+                try:
+                    data = json.loads(script.string)
+                    print("--- Structured Data Found ---")
+                    # print(json.dumps(data, indent=4, ensure_ascii=False))
+                    # print("--- End of Structured Data ---")
 
-                brand = brand_span.text.strip() if brand_span else None
-                product_name = full_text.replace(brand if brand else '', '', 1).strip() if full_text else None
+                    products_in_script = []
+                    if isinstance(data, dict) and data.get('@type') == 'Product':
+                        products_in_script.append(data)
+                    elif isinstance(data, list):
+                        for item in data:
+                            if isinstance(item, dict) and item.get('@type') == 'Product':
+                                products_in_script.append(item)
 
-                price_text = price_element.text.replace('$', '').replace(',', '').strip() if price_element else None
+                    for product_data in products_in_script:
+                        print("--- Processing Product Data ---")
+                        # print(json.dumps(product_data, indent=4, ensure_ascii=False))
+                        # print("--- End of Processing Product Data ---")
 
-                # Extract only the numeric part of the price using regex
-                if price_text:
-                    match = re.search(r'(\d+\.?\d*)', price_text)
-                    if match:
-                        price = float(match.group(1))
-                    else:
+                        name = product_data.get('name')
+                        brand_info = product_data.get('brand')
+                        brand = brand_info.get('name') if isinstance(brand_info, dict) else brand_info
+                        offers = product_data.get('offers')
                         price = None
-                else:
-                    price = None
+                        if isinstance(offers, dict):
+                            price = offers.get('lowPrice')
+                            if price is not None:
+                                price = float(price)
+                        image_urls = product_data.get('image')
+                        print(f"Image URLs: {image_urls}")  # Debug print
+                        image_url = image_urls[0] if isinstance(image_urls, list) and image_urls else image_urls if isinstance(image_urls, str) else None
+                        sku = product_data.get('sku')
 
-                image_url = image_element['src'] if image_element and 'src' in image_element.attrs else None
+                        product_url_element = soup.select_one('h2.productName a')
+                        print(f"Product URL Element: {product_url_element}") # Debug print
+                        url = WATSONS_BASE_URL + product_url_element['href'] if product_url_element and 'href' in product_url_element.attrs else None
+                        print(f"Product URL: {url}") # Debug print
 
-                if product_name and price is not None and image_url and product_url:
-                    products_data.append({
-                        'name': product_name,
-                        'brand': brand,
-                        'price': price,
-                        'image_url': image_url,
-                        'url': product_url,
-                        'retailer': 'Watsons'
-                    })
-
-            # Find the "next page" button
-            next_button = None
-            next_buttons = driver.find_elements(By.CSS_SELECTOR, 'a.page-link i.icon-arrow-right')
-            if next_buttons:
-                next_button_parent = next_buttons[-1].find_element(By.XPATH, '..')
-                if next_button_parent.get_attribute('href') != current_url:
-                    current_url = next_button_parent.get_attribute('href')
-                    page_number += 1
-                else:
-                    current_url = None # No more new pages
-            else:
-                current_url = None # No next button found
+                        if name is not None and price is not None and image_url is not None and url is not None and \
+                           name != ... and brand != ... and price != ... and image_url != ... and url != ...:
+                            products_data.append({
+                                'name': name,
+                                'brand': brand,
+                                'price': price,
+                                'image_url': image_url,
+                                'url': url,
+                                'retailer': 'Watsons'
+                            })
+                except json.JSONDecodeError as e:
+                    print(f"Error decoding JSON: {e}")
+                except Exception as e:
+                    print(f"Error processing structured data: {e}")
 
             time.sleep(1) # Be polite
 
@@ -101,7 +107,7 @@ def scrape_watsons_products(url, max_pages=50):  # Limiting max pages for testin
 
 if __name__ == "__main__":
     start_time = time.time()
-    print(f"Scraping product data from Watsons: {WATSONS_ALL_PRODUCTS_URL}")
+    print(f"Scraping product data from Watsons using Schema.org: {WATSONS_ALL_PRODUCTS_URL}")
     watsons_products = scrape_watsons_products(WATSONS_ALL_PRODUCTS_URL)
     end_time = time.time()
     duration = end_time - start_time
