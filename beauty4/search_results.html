@@ -15,27 +15,6 @@
         .product-link { display: block; margin-top: 5px; color: blue; text-decoration: none; }
         #back-button { padding: 8px 15px; font-size: 14px; border: 1px solid #ccc; border-radius: 5px; cursor: pointer; background-color: #f4f4f4; }
         #back-button:hover { background-color: #e0e0e0; }
-        #suggestions-container {
-            position: absolute;
-            top: auto; /* Adjust as needed */
-            left: 0;
-            width: 100%; /* Adjust to match input width */
-            border: 1px solid #ccc;
-            border-top: none;
-            background-color: white;
-            z-index: 10;
-            list-style-type: none;
-            padding: 0;
-            margin: 0;
-            display: none; /* Initially hidden */
-        }
-        #suggestions-container li {
-            padding: 8px 15px;
-            cursor: pointer;
-        }
-        #suggestions-container li:hover {
-            background-color: #f0f0f0;
-        }
     </style>
 </head>
 <body>
@@ -46,133 +25,138 @@
     </div>
 
     <script>
-        async function loadProductsAndDisplay() {
-            try {
-                const urlParams = new URLSearchParams(window.location.search);
-                const searchTerm = urlParams.get('query');
-                const searchInfoDiv = document.getElementById('search-info');
+    async function loadProductsAndDisplay() {
+        try {
+            const urlParams = new URLSearchParams(window.location.search);
+            const searchTerm = urlParams.get('query');
+            const searchInfoDiv = document.getElementById('search-info');
 
-                if (!searchTerm) {
-                    document.getElementById('results-container').innerText = "Please enter a search term.";
-                    return;
-                }
-
-                searchInfoDiv.innerText = `You searched for: "${searchTerm}"`;
-
-                const watsonsResponse = await fetch('./watsons_products.json');
-                const watsonsProducts = await watsonsResponse.json();
-
-                const poyaResponse = await fetch('./poya_products.json');
-                const poyaProducts = await poyaResponse.json();
-
-                const allProducts = [...watsonsProducts, ...poyaProducts];
-                const mergedProducts = mergeDuplicateProducts(allProducts);
-                const filteredProducts = filterProducts(mergedProducts, searchTerm);
-
-                displayProducts(filteredProducts);
-
-            } catch (error) {
-                console.error("Error loading products:", error);
-                document.getElementById('results-container').innerText = "Failed to load products.";
-            }
-        }
-
-        function mergeDuplicateProducts(products) {
-            const merged = {};
-            products.forEach(product => {
-                const lowerCaseName = product.name.toLowerCase().trim();
-                if (!merged[lowerCaseName]) {
-                    merged[lowerCaseName] = {
-                        name: product.name,
-                        image_url: product.image_url,
-                        brands: {},
-                        prices: {},
-                        links: {}
-                    };
-                }
-                const retailer = product.retailer.toLowerCase();
-                merged[lowerCaseName].brands[retailer] = product.brand;
-                merged[lowerCaseName].prices[retailer] = product.price;
-                merged[lowerCaseName].links[retailer] = product.url;
-                merged[lowerCaseName].image_url = merged[lowerCaseName].image_url || product.image_url;
-            });
-            return Object.values(merged);
-        }
-
-        function filterProducts(products, searchTerm) {
-            const lowerCaseSearchTerm = searchTerm.toLowerCase().trim();
-            return products.filter(product =>
-                product.name.toLowerCase().includes(lowerCaseSearchTerm) ||
-                (product.brand && product.brand.toLowerCase().includes(lowerCaseSearchTerm)) ||
-                Object.values(product.brands).some(brand => brand && brand.toLowerCase().includes(lowerCaseSearchTerm))
-            );
-        }
-
-        function displayProducts(products) {
-            const resultsContainer = document.getElementById('results-container');
-            resultsContainer.innerHTML = '';
-
-            if (products.length === 0) {
-                resultsContainer.innerText = "No products found for your search.";
+            if (!searchTerm) {
+                document.getElementById('results-container').innerText = "Please enter a search term.";
                 return;
             }
 
-            products.forEach(product => {
-                const productCard = document.createElement('div');
-                productCard.classList.add('product-card');
+            searchInfoDiv.innerText = `You searched for: "${searchTerm}"`;
 
-                const image = document.createElement('img');
-                image.src = product.image_url;
-                image.alt = product.name;
-                image.classList.add('product-image');
+            const watsonsResponse = await fetch('./beauty4/watsons_products.json');
+            const watsonsProducts = await watsonsResponse.json();
 
-                const name = document.createElement('div');
-                name.classList.add('product-name');
-                name.innerText = product.name;
+            const poyaResponse = await fetch('./beauty4/poya_products.json');
+            const poyaProducts = await poyaResponse.json();
 
-                const pricesDiv = document.createElement('div');
-                pricesDiv.classList.add('product-prices');
-                for (const retailer in product.prices) {
-                    const price = document.createElement('div');
-                    price.classList.add('product-price');
-                    let color = 'green';
-                    if (retailer === 'poya') {
-                        color = 'pink';
-                    }
-                    price.style.color = color;
-                    price.innerText = `${retailer.charAt(0).toUpperCase() + retailer.slice(1)}: NT$${product.prices[retailer]}`;
-                    pricesDiv.appendChild(price);
-                }
+            const cosmedResponse = await fetch('./beauty4/cosmed_products.json');
+            const cosmedProducts = await cosmedResponse.json();
 
-                const brandsDiv = document.createElement('div');
-                brandsDiv.classList.add('product-brand');
-                const allBrands = Object.values(product.brands).filter(Boolean).join(' / ');
-                if (allBrands) {
-                    brandsDiv.innerText = `Brand: ${allBrands}`;
-                }
+            const allProducts = [...watsonsProducts, ...poyaProducts, ...cosmedProducts];
+            const mergedProducts = mergeDuplicateProducts(allProducts);
+            const filteredProducts = filterProducts(mergedProducts, searchTerm);
 
-                const linksDiv = document.createElement('div');
-                for (const retailer in product.links) {
-                    const link = document.createElement('a');
-                    link.href = product.links[retailer];
-                    link.innerText = `View on ${retailer.charAt(0).toUpperCase() + retailer.slice(1)}`;
-                    link.classList.add('product-link');
-                    link.target = '_blank';
-                    linksDiv.appendChild(link);
-                }
+            displayProducts(filteredProducts);
 
-                productCard.appendChild(image);
-                productCard.appendChild(name);
-                productCard.appendChild(pricesDiv);
-                productCard.appendChild(brandsDiv);
-                productCard.appendChild(linksDiv);
+        } catch (error) {
+            console.error("Error loading products:", error);
+            document.getElementById('results-container').innerText = "Failed to load products.";
+        }
+    }
 
-                resultsContainer.appendChild(productCard);
-            });
+    function mergeDuplicateProducts(products) {
+        const merged = {};
+        products.forEach(product => {
+            const lowerCaseName = product.name.toLowerCase().trim();
+            if (!merged[lowerCaseName]) {
+                merged[lowerCaseName] = {
+                    name: product.name,
+                    image_url: product.image_url,
+                    brands: {},
+                    prices: {},
+                    links: {}
+                };
+            }
+            const retailer = product.retailer.toLowerCase();
+            merged[lowerCaseName].brands[retailer] = product.brand;
+            merged[lowerCaseName].prices[retailer] = product.price;
+            merged[lowerCaseName].links[retailer] = product.url;
+            merged[lowerCaseName].image_url = merged[lowerCaseName].image_url || product.image_url;
+        });
+        return Object.values(merged);
+    }
+
+    function filterProducts(products, searchTerm) {
+        const lowerCaseSearchTerm = searchTerm.toLowerCase().trim();
+        return products.filter(product =>
+            product.name.toLowerCase().includes(lowerCaseSearchTerm) ||
+            (product.brand && product.brand.toLowerCase().includes(lowerCaseSearchTerm)) ||
+            Object.values(product.brands).some(brand => brand && brand.toLowerCase().includes(lowerCaseSearchTerm))
+        );
+    }
+
+    function displayProducts(products) {
+        const resultsContainer = document.getElementById('results-container');
+        resultsContainer.innerHTML = '';
+
+        if (products.length === 0) {
+            resultsContainer.innerText = "No products found for your search.";
+            return;
         }
 
-        // Load products and display results when the page loads
-        loadProductsAndDisplay();
-    </script>
+        products.forEach(product => {
+            const productCard = document.createElement('div');
+            productCard.classList.add('product-card');
+
+            const image = document.createElement('img');
+            image.src = product.image_url;
+            image.alt = product.name;
+            image.classList.add('product-image');
+
+            const name = document.createElement('div');
+            name.classList.add('product-name');
+            name.innerText = product.name;
+
+            const pricesDiv = document.createElement('div');
+            pricesDiv.classList.add('product-prices');
+            for (const retailer in product.prices) {
+                const price = document.createElement('div');
+                price.classList.add('product-price');
+                let color = 'green';
+                if (retailer === 'poya') {
+                    color = 'pink';
+                } else if (retailer === 'cosmed') {
+                    color = 'orange'; 
+                }
+                price.style.color = color;
+                price.innerText = `${retailer.charAt(0).toUpperCase() + retailer.slice(1)}: NT$${product.prices[retailer]}`;
+                pricesDiv.appendChild(price);
+            }
+
+            const brandsDiv = document.createElement('div');
+            brandsDiv.classList.add('product-brand');
+            const allBrands = Object.values(product.brands).filter(Boolean).join(' / ');
+            if (allBrands) {
+                brandsDiv.innerText = `Brand: ${allBrands}`;
+            }
+
+            const linksDiv = document.createElement('div');
+            for (const retailer in product.links) {
+                const link = document.createElement('a');
+                link.href = product.links[retailer];
+                link.innerText = `View on ${retailer.charAt(0).toUpperCase() + retailer.slice(1)}`;
+                link.classList.add('product-link');
+                link.target = '_blank';
+                linksDiv.appendChild(link);
+            }
+
+            productCard.appendChild(image);
+            productCard.appendChild(name);
+            productCard.appendChild(pricesDiv);
+            productCard.appendChild(brandsDiv);
+            productCard.appendChild(linksDiv);
+
+            resultsContainer.appendChild(productCard);
+        });
+    }
+
+    // Load products and display results when the page loads
+    loadProductsAndDisplay();
+</script>
 </body>
 </html>

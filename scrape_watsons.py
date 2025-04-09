@@ -14,7 +14,7 @@ from tqdm import tqdm
 WATSONS_BASE_URL = "https://www.watsons.com.tw"
 WATSONS_ALL_PRODUCTS_URL = "https://www.watsons.com.tw/%E5%85%A8%E9%83%A8%E5%95%86%E5%93%81/c/1"
 PAGE_SIZE = 64  # Number of items per page. change to 64 for formal
-MAX_PAGES_TO_SCRAPE = 50  # Adjust as needed
+MAX_PAGES_TO_SCRAPE = 300  # Adjust as needed
 
 def scrape_watsons_products(base_url, max_pages=MAX_PAGES_TO_SCRAPE):
     """

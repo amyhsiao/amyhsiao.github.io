@@ -13,7 +13,7 @@ from tqdm import tqdm  # For the loading bar
 POYA_BASE_URL = "https://www.poyabuy.com.tw"
 ALL_PRODUCTS_CATEGORY_URL = "https://www.poyabuy.com.tw/v2/official/SalePageCategory/0"
 
-def scrape_poya_products_from_category(category_url, num_scrolls=50):
+def scrape_poya_products_from_category(category_url, num_scrolls=300):
     """
     Scrapes product details directly from the main Poya category page with infinite scrolling and a loading bar.
     """
