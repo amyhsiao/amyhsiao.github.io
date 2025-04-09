@@ -23,14 +23,56 @@ jobs:
           pip install selenium webdriver-manager beautifulsoup4 requests tqdm
 
       - name: Run Watsons scraping script
+        id: scrape_watsons
         run: python scrape_watsons.py
 
       - name: Run Poya scraping script
+        id: scrape_poya
         run: python scrape_poya.py  # Assuming you have a scrape_poya.py script
 
       - name: Run Cosmed scraping script
+        id: scrape_cosmed
         run: python scrape_cosmed.py
+        
+      - name: Prepare scrape info
+        run: |
+          import json
+          import datetime
+          watsons_count = 0
+          poya_count = 0
+          cosmed_count = 0
 
+          try:
+            with open('./beauty4/watsons_products.json', 'r') as f:
+              watsons_data = json.load(f)
+              watsons_count = len(watsons_data)
+          except FileNotFoundError:
+            pass
+
+          try:
+            with open('./beauty4/poya_products.json', 'r') as f:
+              poya_data = json.load(f)
+              poya_count = len(poya_data)
+          except FileNotFoundError:
+            pass
+
+          try:
+            with open('./beauty4/cosmed_products.json', 'r') as f:
+              cosmed_data = json.load(f)
+              cosmed_count = len(cosmed_data)
+          except FileNotFoundError:
+            pass
+
+          scrape_info = {
+            "last_scrape": datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=8))).strftime('%Y-%m-%d'), # Taiwan time
+            "watsons_count": watsons_count,
+            "poya_count": poya_count,
+            "cosmed_count": cosmed_count
+          }
+
+          with open('./beauty4/scrape_info.json', 'w') as f:
+            json.dump(scrape_info, f)
+            
       - name: Configure Git
         run: |
           git config --local user.email "amyhsiao@gmail.com" # Replace with your GitHub email
@@ -39,5 +81,5 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Daily scrape: Update beauty4/watsons_products.json, beauty4/poya_products.json, and beauty4/cosmed_products.json"
+          commit_message: "Daily scrape: Update product data and scrape info"
           file_pattern: beauty4/
