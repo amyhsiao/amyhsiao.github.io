@@ -38,13 +38,13 @@
 
             searchInfoDiv.innerText = `You searched for: "${searchTerm}"`;
 
-            const watsonsResponse = await fetch('./beauty4/watsons_products.json');
+            const watsonsResponse = await fetch('./watsons_products.json');
             const watsonsProducts = await watsonsResponse.json();
 
-            const poyaResponse = await fetch('./beauty4/poya_products.json');
+            const poyaResponse = await fetch('./poya_products.json');
             const poyaProducts = await poyaResponse.json();
 
-            const cosmedResponse = await fetch('./beauty4/cosmed_products.json');
+            const cosmedResponse = await fetch('./cosmed_products.json');
             const cosmedProducts = await cosmedResponse.json();
 
             const allProducts = [...watsonsProducts, ...poyaProducts, ...cosmedProducts];
