@@ -4,7 +4,7 @@
     <title>Product Search</title>
     <style>
         body { font-family: sans-serif; display: flex; justify-content: center; align-items: center; min-height: 100vh; margin: 0; background-color: #f4f4f4; }
-        #search-container { text-align: center; }
+        #search-container { text-align: center; position: relative; /* Add this */ }
         #search-input { padding: 10px 20px; width: 400px; border: 1px solid #ccc; border-radius: 5px; font-size: 16px; }
         #search-button { padding: 10px 20px; font-size: 16px; border: none; background-color: #007bff; color: white; border-radius: 5px; cursor: pointer; margin-left: 10px; }
         #search-button:hover { background-color: #0056b3; }
@@ -19,15 +19,39 @@
             font-size: 0.8em;
             color: #555;
         }
+        #suggestions-container {
+            position: absolute;
+            top: 100%; /* Changed from calc(100% + 5px) */
+            left: 0; /* Changed from 50% */
+            transform: translateX(0); /* Changed from translateX(-50%) */
+            width: 100%; /* Make it the same width as the container */
+            background-color: white;
+            border: 1px solid #ccc;
+            border-top: none; /* Optional: Remove top border for a cleaner look */
+            border-radius: 0 0 5px 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            z-index: 10;
+            display: none; /* Hidden by default */
+        }
+        .suggestion {
+            padding: 8px 15px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .suggestion:hover {
+            background-color: #f0f0f0;
+        }
     </style>
 </head>
 <body>
     <div id="search-container">
         <h1>Product Search</h1>
         <div>
-            <input type="text" id="search-input" placeholder="Enter product name or brand">
+            <input type="text" id="search-input" placeholder="Enter product name or brand" oninput="suggestProducts()">
             <button id="search-button">Search</button>
         </div>
+        <div id="suggestions-container">
+            </div>
     </div>
 
     <div id="scrape-status">
@@ -42,6 +66,8 @@
     <script>
         const searchInput = document.getElementById('search-input');
         const searchButton = document.getElementById('search-button');
+        const suggestionsContainer = document.getElementById('suggestions-container');
+        let allProductsData = []; // To store all product names
 
         function performSearch(searchTerm) {
             if (searchTerm) {
@@ -68,9 +94,9 @@
                 const poyaInfo = document.getElementById('poya-info');
                 const cosmedInfo = document.getElementById('cosmed-info');
 
-                watsonsInfo.textContent = `${data.last_scrape}; ${data.watsons_count} items`;
-                poyaInfo.textContent = `${data.last_scrape}; ${data.poya_count} items`;
-                cosmedInfo.textContent = `${data.last_scrape}; ${data.cosmed_count} items`;
+                watsonsInfo.textContent = `${data.watsons_last_scrape || 'N/A'}; ${data.watsons_item_count !== undefined ? data.watsons_item_count : 'N/A'} items`;
+                poyaInfo.textContent = `${data.poya_last_scrape || 'N/A'}; ${data.poya_item_count !== undefined ? data.poya_item_count : 'N/A'} items`;
+                cosmedInfo.textContent = `${data.cosmed_last_scrape || 'N/A'}; ${data.cosmed_item_count !== undefined ? data.cosmed_item_count : 'N/A'} items`;
 
             } catch (error) {
                 console.error("Error loading scrape info:", error);
@@ -79,8 +105,80 @@
             }
         }
 
-        // Load scrape info when the page loads
+        async function loadAllProductsData() {
+            try {
+                const watsonsResponse = await fetch('./watsons_products.json');
+                const watsonsProducts = await watsonsResponse.json();
+                const poyaResponse = await fetch('./poya_products.json');
+                const poyaProducts = await poyaResponse.json();
+                const cosmedResponse = await fetch('./cosmed_products.json');
+                const cosmedProducts = await cosmedResponse.json();
+
+                // Extract names (and optionally brands) for suggestions
+                const watsonsNames = watsonsProducts.map(p => p.name.toLowerCase());
+                const poyaNames = poyaProducts.map(p => p.name.toLowerCase());
+                const cosmedNames = cosmedProducts.map(p => p.name.toLowerCase());
+
+                allProductsData = [...watsonsNames, ...poyaNames, ...cosmedNames];
+                // Remove duplicates
+                allProductsData = [...new Set(allProductsData)];
+
+            } catch (error) {
+                console.error("Error loading product data for suggestions:", error);
+                suggestionsContainer.innerText = "Failed to load product data for suggestions.";
+            }
+        }
+
+        function suggestProducts() {
+            const inputText = searchInput.value.toLowerCase().trim();
+            suggestionsContainer.innerHTML = ''; // Clear previous suggestions
+            suggestionsContainer.style.display = 'none'; // Hide if no suggestions
+
+            if (inputText.length < 2) { // Suggest only after a few characters
+                return;
+            }
+
+            const matchingProducts = allProductsData.filter(productName =>
+                productName.includes(inputText)
+            ).slice(0, 6); // Limit to 6 suggestions
+
+            if (matchingProducts.length > 0) {
+                suggestionsContainer.style.display = 'block';
+                matchingProducts.forEach(productName => {
+                    const suggestionElement = document.createElement('div');
+                    suggestionElement.classList.add('suggestion');
+
+                    // Bold the matching part
+                    const index = productName.indexOf(inputText);
+                    if (index !== -1) {
+                        const before = productName.substring(0, index);
+                        const match = productName.substring(index, index + inputText.length);
+                        const after = productName.substring(index + inputText.length);
+                        suggestionElement.innerHTML = `${before}<b>${match}</b>${after}`;
+                    } else {
+                        suggestionElement.textContent = productName;
+                    }
+
+                    suggestionElement.addEventListener('click', function() {
+                        searchInput.value = productName;
+                        performSearch(productName);
+                        suggestionsContainer.style.display = 'none'; // Hide after selection
+                    });
+                    suggestionsContainer.appendChild(suggestionElement);
+                });
+            }
+        }
+
+        // Load scrape info and product data for suggestions when the page loads
         loadScrapeInfo();
+        loadAllProductsData();
+
+        // Hide suggestions when clicking outside the input/suggestions
+        document.addEventListener('click', function(event) {
+            if (!searchInput.contains(event.target) && !suggestionsContainer.contains(event.target)) {
+                suggestionsContainer.style.display = 'none';
+            }
+        });
     </script>
 </body>
 </html>
