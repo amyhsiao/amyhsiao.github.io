@@ -113,7 +113,7 @@ jobs:
   update_scrape_info:
     # Run if any of the scraper jobs ran
     if: |
-      always() && 
+      always() &&  # Ensure this job always runs, even if previous jobs fail
       (github.event_name == 'schedule' || 
        github.event.inputs.run_watsons == 'true' || 
        github.event.inputs.run_poya == 'true' || 
@@ -133,45 +133,37 @@ jobs:
           import json
           import datetime
           import os
-          
-          watsons_count = 0
-          poya_count = 0
-          cosmed_count = 0
-          
-          try:
-            with open('./beauty4/watsons_products.json', 'r') as f:
-              watsons_data = json.load(f)
-              watsons_count = len(watsons_data)
-          except FileNotFoundError:
-            pass
-            
-          try:
-            with open('./beauty4/poya_products.json', 'r') as f:
-              poya_data = json.load(f)
-              poya_count = len(poya_data)
-          except FileNotFoundError:
-            pass
-            
-          try:
-            with open('./beauty4/cosmed_products.json', 'r') as f:
-              cosmed_data = json.load(f)
-              cosmed_count = len(cosmed_data)
-          except FileNotFoundError:
-            pass
-            
-          # Ensure directory exists
-          os.makedirs('./beauty4', exist_ok=True)
-          
-          # Create the scrape info JSON
-          scrape_info = {
-            "last_scrape": datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=8))).strftime('%Y-%m-%d'), # Taiwan time
-            "watsons_count": watsons_count,
-            "poya_count": poya_count,
-            "cosmed_count": cosmed_count
-          }
-          
+           
+          scrape_info = {}  # Initialize as an empty dictionary
+
+          # Function to safely get product count
+          def get_product_count(file_path):
+            try:
+              with open(file_path, 'r') as f:
+                data = json.load(f)
+                return len(data)
+            except (FileNotFoundError, json.JSONDecodeError):
+              return 0
+
+          # Get counts
+          watsons_count = get_product_count('./beauty4/watsons_products.json')
+          poya_count = get_product_count('./beauty4/poya_products.json')
+          cosmed_count = get_product_count('./beauty4/cosmed_products.json')
+
+          # Get the current date in Taiwan time
+          now_taiwan = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=8))).strftime('%Y-%m-%d')
+
+          # Update scrape_info dictionary
+          scrape_info['watsons_last_scrape'] = now_taiwan
+          scrape_info['watsons_item_count'] = watsons_count
+          scrape_info['poya_last_scrape'] = now_taiwan
+          scrape_info['poya_item_count'] = poya_count
+          scrape_info['cosmed_last_scrape'] = now_taiwan
+          scrape_info['cosmed_item_count'] = cosmed_count
+
           with open('./beauty4/scrape_info.json', 'w') as f:
-            json.dump(scrape_info, f)
+            json.dump(scrape_info, f, indent=2)  # Add indent for readability
+
         shell: python
       - name: Configure Git
         run: |
