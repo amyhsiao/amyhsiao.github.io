@@ -29,6 +29,8 @@ jobs:
   scrape_watsons:
     if: github.event_name == 'schedule' || github.event.inputs.run_watsons == 'true' || github.event.inputs.run_all == 'true'
     runs-on: ubuntu-latest
+    outputs:
+      watsons_success: ${{ steps.scrape_watsons.outcome == 'success' }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -58,9 +60,52 @@ jobs:
           file_pattern: beauty4/watsons_*.json
           push: false
 
+  update_watsons_info:
+    needs: scrape_watsons
+    if: needs.scrape_watsons.outputs.watsons_success
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'
+      - name: Update Watsons scrape info and commit
+        run: |
+          import json
+          import datetime
+          import os
+
+          scrape_info = {}
+          info_file = './beauty4/scrape_info.json'
+
+          def get_existing_info():
+            try:
+              with open(info_file, 'r') as f:
+                return json.load(f)
+            except FileNotFoundError:
+              return {}
+
+          scrape_info = get_existing_info()
+          now_taiwan = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=8))).strftime('%Y-%m-%d')
+          scrape_info['watsons_last_scrape'] = now_taiwan
+          scrape_info['watsons_item_count'] = get_product_count('./beauty4/watsons_products.json')
+
+          with open(info_file, 'w') as f:
+            json.dump(scrape_info, f, indent=2)
+
+          git config --local user.email "amyhsiao@gmail.com"
+          git config --local user.name "amyhsiao"
+          git add beauty4/scrape_info.json
+          git commit -m "Daily scrape: Update Watsons info" || echo "No Watsons info changes to commit"
+        shell: python
+
   scrape_poya:
     if: github.event_name == 'schedule' || github.event.inputs.run_poya == 'true' || github.event.inputs.run_all == 'true'
     runs-on: ubuntu-latest
+    outputs:
+      poya_success: ${{ steps.scrape_poya.outcome == 'success' }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -88,9 +133,52 @@ jobs:
           file_pattern: beauty4/poya_*.json
           push: false
 
+  update_poya_info:
+    needs: scrape_poya
+    if: needs.scrape_poya.outputs.poya_success
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'
+      - name: Update Poya scrape info and commit
+        run: |
+          import json
+          import datetime
+          import os
+
+          scrape_info = {}
+          info_file = './beauty4/scrape_info.json'
+
+          def get_existing_info():
+            try:
+              with open(info_file, 'r') as f:
+                return json.load(f)
+            except FileNotFoundError:
+              return {}
+
+          scrape_info = get_existing_info()
+          now_taiwan = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=8))).strftime('%Y-%m-%d')
+          scrape_info['poya_last_scrape'] = now_taiwan
+          scrape_info['poya_item_count'] = get_product_count('./beauty4/poya_products.json')
+
+          with open(info_file, 'w') as f:
+            json.dump(scrape_info, f, indent=2)
+
+          git config --local user.email "amyhsiao@gmail.com"
+          git config --local user.name "amyhsiao"
+          git add beauty4/scrape_info.json
+          git commit -m "Daily scrape: Update Poya info" || echo "No Poya info changes to commit"
+        shell: python
+
   scrape_cosmed:
     if: github.event_name == 'schedule' || github.event.inputs.run_cosmed == 'true' || github.event.inputs.run_all == 'true'
     runs-on: ubuntu-latest
+    outputs:
+      cosmed_success: ${{ steps.scrape_cosmed.outcome == 'success' }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -118,8 +206,9 @@ jobs:
           file_pattern: beauty4/cosmed_*.json
           push: false
 
-  update_scrape_info:
-    needs: [scrape_watsons, scrape_poya, scrape_cosmed]
+  update_cosmed_info:
+    needs: scrape_cosmed
+    if: needs.scrape_cosmed.outputs.cosmed_success
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -128,51 +217,42 @@ jobs:
         uses: actions/setup-python@v3
         with:
           python-version: '3.x'
-      - name: Prepare scrape info and commit
-        id: prepare_info_commit
+      - name: Update Cosmed scrape info and commit
         run: |
           import json
           import datetime
           import os
 
           scrape_info = {}
+          info_file = './beauty4/scrape_info.json'
 
-          def get_product_count(file_path):
+          def get_existing_info():
             try:
-              with open(file_path, 'r') as f:
-                data = json.load(f)
-                return len(data)
-            except (FileNotFoundError, json.JSONDecodeError):
-              return 0
+              with open(info_file, 'r') as f:
+                return json.load(f)
+            except FileNotFoundError:
+              return {}
 
+          scrape_info = get_existing_info()
           now_taiwan = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=8))).strftime('%Y-%m-%d')
-
-          scrape_info['watsons_last_scrape'] = now_taiwan if steps.scrape_watsons.outcome == 'success' else scrape_info.get('watsons_last_scrape')
-          scrape_info['watsons_item_count'] = get_product_count('./beauty4/watsons_products.json')
-
-          scrape_info['poya_last_scrape'] = now_taiwan if steps.scrape_poya.outcome == 'success' else scrape_info.get('poya_last_scrape')
-          scrape_info['poya_item_count'] = get_product_count('./beauty4/poya_products.json')
-
-          scrape_info['cosmed_last_scrape'] = now_taiwan if steps.scrape_cosmed.outcome == 'success' else scrape_info.get('cosmed_last_scrape')
+          scrape_info['cosmed_last_scrape'] = now_taiwan
           scrape_info['cosmed_item_count'] = get_product_count('./beauty4/cosmed_products.json')
 
-          with open('./beauty4/scrape_info.json', 'w') as f:
+          with open(info_file, 'w') as f:
             json.dump(scrape_info, f, indent=2)
 
-          git add beauty4/scrape_info.json
-          git commit -m "Daily scrape: Update scrape info" || echo "No scrape info changes to commit"
-        shell: python
-      - name: Configure Git
-        run: |
           git config --local user.email "amyhsiao@gmail.com"
           git config --local user.name "amyhsiao"
+          git add beauty4/scrape_info.json
+          git commit -m "Daily scrape: Update Cosmed info" || echo "No Cosmed info changes to commit"
+        shell: python
 
   push_changes:
-    needs: [scrape_watsons, scrape_poya, scrape_cosmed, update_scrape_info]
+    needs: [update_watsons_info, update_poya_info, update_cosmed_info, scrape_watsons, scrape_poya, scrape_cosmed]
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v3"
         with:
           ref: master
       - name: Pull latest changes
