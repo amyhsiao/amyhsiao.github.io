@@ -184,8 +184,16 @@ jobs:
           git add beauty4/scrape_info.json
           git commit -m "Daily scrape: Update Cosmed info" || echo "No Cosmed info changes to commit"
 
-  push_changes:
+  gather_update_status:
     needs: [update_watsons_info, update_poya_info, update_cosmed_info]
+    runs-on: ubuntu-latest
+    outputs:
+      watsons_updated: ${{ needs.update_watsons_info.result }}
+      poya_updated: ${{ needs.update_poya_info.result }}
+      cosmed_updated: ${{ needs.update_cosmed_info.result }}
+
+  push_changes:
+    needs: gather_update_status
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
