@@ -74,7 +74,7 @@ jobs:
           python-version: '3.x'
       - name: Update Watsons scrape info and commit
         run: |
-          python update_scrape_info.py watsons true false false  # Pass success status
+          python update_scrape_info.py watsons true false false  
           git config --local user.email "amyhsiao@gmail.com"
           git config --local user.name "amyhsiao"
           git add beauty4/scrape_info.json
@@ -127,7 +127,7 @@ jobs:
           python-version: '3.x'
       - name: Update Poya scrape info and commit
         run: |
-          python update_scrape_info.py poya false true false  # Pass success status
+          python update_scrape_info.py poya false true false  
           git config --local user.email "amyhsiao@gmail.com"
           git config --local user.name "amyhsiao"
           git add beauty4/scrape_info.json
@@ -180,7 +180,7 @@ jobs:
           python-version: '3.x'
       - name: Update Cosmed scrape info and commit
         run: |
-          python update_scrape_info.py cosmed false false true  # Pass success status
+          python update_scrape_info.py cosmed false false true  
           git config --local user.email "amyhsiao@gmail.com"
           git config --local user.name "amyhsiao"
           git add beauty4/scrape_info.json
