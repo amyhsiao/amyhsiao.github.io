@@ -1,7 +1,7 @@
 name: Daily Product Scrape and Update
 on:
   schedule:
-    - cron: '0 20 * * *'  
+    - cron: '0 20 * * *'
   workflow_dispatch:
     inputs:
       run_watsons:
@@ -26,117 +26,56 @@ on:
         default: true
 
 jobs:
-  scrape_watsons:
-    # Run if scheduled, or manually triggered with run_watsons=true or run_all=true
-    if: github.event_name == 'schedule' || github.event.inputs.run_watsons == 'true' || github.event.inputs.run_all == 'true'
+  scrape_and_update:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          ref: master
+
+      - name: Set up Git
+        run: |
+          git config --local user.email "amyhsiao@gmail.com"
+          git config --local user.name "amyhsiao"
+
       - name: Set up Python
         uses: actions/setup-python@v3
         with:
           python-version: '3.x'
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install selenium webdriver-manager beautifulsoup4 requests tqdm
+
       - name: Run Watsons scraping script
+        if: github.event_name == 'schedule' || github.event.inputs.run_watsons == 'true' || github.event.inputs.run_all == 'true'
         id: scrape_watsons
         run: python scrape_watsons.py
-      - name: Configure Git
-        run: |
-          git config --local user.email "amyhsiao@gmail.com" 
-          git config --local user.name "amyhsiao"
-      - name: Commit and push Watsons changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Daily scrape: Update Watsons product data"
-          file_pattern: beauty4/watsons_*.json
+        continue-on-error: true 
 
-  scrape_poya:
-    # Run if scheduled, or manually triggered with run_poya=true or run_all=true
-    if: github.event_name == 'schedule' || github.event.inputs.run_poya == 'true' || github.event.inputs.run_all == 'true'
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-      - name: Set up Python
-        uses: actions/setup-python@v3
-        with:
-          python-version: '3.x'
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install selenium webdriver-manager beautifulsoup4 requests tqdm
       - name: Run Poya scraping script
+        if: github.event_name == 'schedule' || github.event.inputs.run_poya == 'true' || github.event.inputs.run_all == 'true'
         id: scrape_poya
         run: python scrape_poya.py
-      - name: Configure Git
-        run: |
-          git config --local user.email "amyhsiao@gmail.com"
-          git config --local user.name "amyhsiao"
-      - name: Commit and push Poya changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Daily scrape: Update Poya product data"
-          file_pattern: beauty4/poya_*.json
+        continue-on-error: true
 
-  scrape_cosmed:
-    # Run if scheduled, or manually triggered with run_cosmed=true or run_all=true
-    if: github.event_name == 'schedule' || github.event.inputs.run_cosmed == 'true' || github.event.inputs.run_all == 'true'
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-      - name: Set up Python
-        uses: actions/setup-python@v3
-        with:
-          python-version: '3.x'
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install selenium webdriver-manager beautifulsoup4 requests tqdm
       - name: Run Cosmed scraping script
+        if: github.event_name == 'schedule' || github.event.inputs.run_cosmed == 'true' || github.event.inputs.run_all == 'true'
         id: scrape_cosmed
         run: python scrape_cosmed.py
-      - name: Configure Git
-        run: |
-          git config --local user.email "amyhsiao@gmail.com"
-          git config --local user.name "amyhsiao"
-      - name: Commit and push Cosmed changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Daily scrape: Update Cosmed product data"
-          file_pattern: beauty4/cosmed_*.json
+        continue-on-error: true
 
-  update_scrape_info:
-    # Run if any of the scraper jobs ran
-    if: |
-      always() &&  
-      (github.event_name == 'schedule' || 
-       github.event.inputs.run_watsons == 'true' || 
-       github.event.inputs.run_poya == 'true' || 
-       github.event.inputs.run_cosmed == 'true' ||
-       github.event.inputs.run_all == 'true')
-    needs: [scrape_watsons, scrape_poya, scrape_cosmed]
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-      - name: Set up Python
-        uses: actions/setup-python@v3
-        with:
-          python-version: '3.x'
-      - name: Prepare scrape info
+      - name: Prepare scrape info and commit
+        id: prepare_info_commit
         run: |
           import json
           import datetime
           import os
-           
-          scrape_info = {}  
 
-          # Function to safely get product count
+          scrape_info = {}
+
           def get_product_count(file_path):
             try:
               with open(file_path, 'r') as f:
@@ -145,15 +84,12 @@ jobs:
             except (FileNotFoundError, json.JSONDecodeError):
               return 0
 
-          # Get counts
           watsons_count = get_product_count('./beauty4/watsons_products.json')
           poya_count = get_product_count('./beauty4/poya_products.json')
           cosmed_count = get_product_count('./beauty4/cosmed_products.json')
 
-          # Get the current date in Taiwan time
           now_taiwan = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=8))).strftime('%Y-%m-%d')
 
-          # Update scrape_info dictionary
           scrape_info['watsons_last_scrape'] = now_taiwan
           scrape_info['watsons_item_count'] = watsons_count
           scrape_info['poya_last_scrape'] = now_taiwan
@@ -162,15 +98,16 @@ jobs:
           scrape_info['cosmed_item_count'] = cosmed_count
 
           with open('./beauty4/scrape_info.json', 'w') as f:
-            json.dump(scrape_info, f, indent=2)  
+            json.dump(scrape_info, f, indent=2)
 
+          # Add and commit all changes (including scrape info)
+          git add .
+          git commit -m "Daily scrape: Update data and info" || echo "No changes to commit"
         shell: python
-      - name: Configure Git
+
+      - name: Pull latest changes
         run: |
-          git config --local user.email "amyhsiao@gmail.com"
-          git config --local user.name "amyhsiao"
-      - name: Commit and push scrape info
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Daily scrape: Update scrape info"
-          file_pattern: beauty4/scrape_info.json
+          git pull origin master --rebase
+
+      - name: Push all changes
+        run: git push origin master
