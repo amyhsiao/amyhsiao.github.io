@@ -61,6 +61,26 @@ jobs:
           file_pattern: beauty4/watsons_*.json
           push: false
 
+  update_watsons_info:
+    needs: scrape_watsons
+    if: ${{ needs.scrape_watsons.outputs.watsons_success == 'true' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'
+      - name: Update Watsons scrape info and commit
+        run: |
+          python update_scrape_info.py watsons true false false  # Pass success status
+          git config --local user.email "amyhsiao@gmail.com"
+          git config --local user.name "amyhsiao"
+          git add beauty4/scrape_info.json
+          git commit -m "Daily scrape: Update Watsons info" || echo "No Watsons info changes to commit"
+        shell: python
+
   scrape_poya:
     if: ${{ github.event_name == 'schedule' || github.event.inputs.run_poya == 'true' || github.event.inputs.run_all == 'true' }}
     runs-on: ubuntu-latest
@@ -93,6 +113,26 @@ jobs:
           commit_message: "Daily scrape: Update Poya product data"
           file_pattern: beauty4/poya_*.json
           push: false
+
+  update_poya_info:
+    needs: scrape_poya
+    if: ${{ needs.scrape_poya.outputs.poya_success == 'true' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'
+      - name: Update Poya scrape info and commit
+        run: |
+          python update_scrape_info.py poya false true false  # Pass success status
+          git config --local user.email "amyhsiao@gmail.com"
+          git config --local user.name "amyhsiao"
+          git add beauty4/scrape_info.json
+          git commit -m "Daily scrape: Update Poya info" || echo "No Poya info changes to commit"
+        shell: python
 
   scrape_cosmed:
     if: ${{ github.event_name == 'schedule' || github.event.inputs.run_cosmed == 'true' || github.event.inputs.run_all == 'true' }}
@@ -127,8 +167,9 @@ jobs:
           file_pattern: beauty4/cosmed_*.json
           push: false
 
-  update_info:
-    needs: [scrape_watsons, scrape_poya, scrape_cosmed]
+  update_cosmed_info:
+    needs: scrape_cosmed
+    if: ${{ needs.scrape_cosmed.outputs.cosmed_success == 'true' }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -137,17 +178,17 @@ jobs:
         uses: actions/setup-python@v3
         with:
           python-version: '3.x'
-      - name: Update scrape info and commit
+      - name: Update Cosmed scrape info and commit
         run: |
-          python update_scrape_info.py ${{ needs.scrape_watsons.outputs.watsons_success }} ${{ needs.scrape_poya.outputs.poya_success }} ${{ needs.scrape_cosmed.outputs.cosmed_success }}
+          python update_scrape_info.py cosmed false false true  # Pass success status
           git config --local user.email "amyhsiao@gmail.com"
           git config --local user.name "amyhsiao"
           git add beauty4/scrape_info.json
-          git commit -m "Daily scrape: Update info" || echo "No info changes to commit"
+          git commit -m "Daily scrape: Update Cosmed info" || echo "No Cosmed info changes to commit"
         shell: python
 
   push_changes:
-    needs: update_info
+    needs: [update_watsons_info, update_poya_info, update_cosmed_info]
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
