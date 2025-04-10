@@ -1,7 +1,7 @@
 name: Daily Product Scrape and Update
 on:
   schedule:
-    - cron: '0 20 * * *'  # Runs at 20:00 UTC, which is 4:00 AM UTC+8
+    - cron: '0 20 * * *'  
   workflow_dispatch:
     inputs:
       run_watsons:
@@ -113,7 +113,7 @@ jobs:
   update_scrape_info:
     # Run if any of the scraper jobs ran
     if: |
-      always() &&  # Ensure this job always runs, even if previous jobs fail
+      always() &&  
       (github.event_name == 'schedule' || 
        github.event.inputs.run_watsons == 'true' || 
        github.event.inputs.run_poya == 'true' || 
@@ -134,7 +134,7 @@ jobs:
           import datetime
           import os
            
-          scrape_info = {}  # Initialize as an empty dictionary
+          scrape_info = {}  
 
           # Function to safely get product count
           def get_product_count(file_path):
@@ -162,7 +162,7 @@ jobs:
           scrape_info['cosmed_item_count'] = cosmed_count
 
           with open('./beauty4/scrape_info.json', 'w') as f:
-            json.dump(scrape_info, f, indent=2)  # Add indent for readability
+            json.dump(scrape_info, f, indent=2)  
 
         shell: python
       - name: Configure Git
