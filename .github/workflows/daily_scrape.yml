@@ -79,7 +79,6 @@ jobs:
           git config --local user.name "amyhsiao"
           git add beauty4/scrape_info.json
           git commit -m "Daily scrape: Update Watsons info" || echo "No Watsons info changes to commit"
-        shell: python
 
   scrape_poya:
     if: ${{ github.event_name == 'schedule' || github.event.inputs.run_poya == 'true' || github.event.inputs.run_all == 'true' }}
@@ -132,7 +131,6 @@ jobs:
           git config --local user.name "amyhsiao"
           git add beauty4/scrape_info.json
           git commit -m "Daily scrape: Update Poya info" || echo "No Poya info changes to commit"
-        shell: python
 
   scrape_cosmed:
     if: ${{ github.event_name == 'schedule' || github.event.inputs.run_cosmed == 'true' || github.event.inputs.run_all == 'true' }}
@@ -185,7 +183,6 @@ jobs:
           git config --local user.name "amyhsiao"
           git add beauty4/scrape_info.json
           git commit -m "Daily scrape: Update Cosmed info" || echo "No Cosmed info changes to commit"
-        shell: python
 
   push_changes:
     needs: [update_watsons_info, update_poya_info, update_cosmed_info]
