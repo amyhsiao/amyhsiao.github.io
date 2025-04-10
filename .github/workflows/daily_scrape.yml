@@ -191,6 +191,9 @@ jobs:
       watsons_updated: ${{ needs.update_watsons_info.result }}
       poya_updated: ${{ needs.update_poya_info.result }}
       cosmed_updated: ${{ needs.update_cosmed_info.result }}
+    steps:
+      - name: Check update status
+        run: echo "Watsons Update Status: ${{ needs.update_watsons_info.result }}, Poya Update Status: ${{ needs.update_poya_info.result }}, Cosmed Update Status: ${{ needs.update_cosmed_info.result }}"
 
   push_changes:
     needs: gather_update_status
