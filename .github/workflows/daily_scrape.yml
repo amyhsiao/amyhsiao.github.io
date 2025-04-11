@@ -48,17 +48,6 @@ jobs:
         id: scrape
         run: python scrape_watsons.py
         continue-on-error: true
-      - name: Update Watsons scrape info
-        if: ${{ steps.scrape.outcome == 'success' }}
-        run: python update_scrape_info.py watsons true false false
-      - name: Upload artifacts
-        if: ${{ steps.scrape.outcome == 'success' }}
-        uses: actions/upload-artifact@v3
-        with:
-          name: watsons-data
-          path: |
-            beauty4/watsons_*.json
-            beauty4/scrape_info.json
 
   scrape_poya:
     if: ${{ github.event_name == 'schedule' || github.event.inputs.run_poya == 'true' || github.event.inputs.run_all == 'true' }}
@@ -82,17 +71,6 @@ jobs:
         id: scrape
         run: python scrape_poya.py
         continue-on-error: true
-      - name: Update Poya scrape info
-        if: ${{ steps.scrape.outcome == 'success' }}
-        run: python update_scrape_info.py poya false true false
-      - name: Upload artifacts
-        if: ${{ steps.scrape.outcome == 'success' }}
-        uses: actions/upload-artifact@v3
-        with:
-          name: poya-data
-          path: |
-            beauty4/poya_*.json
-            beauty4/scrape_info.json
 
   scrape_cosmed:
     if: ${{ github.event_name == 'schedule' || github.event.inputs.run_cosmed == 'true' || github.event.inputs.run_all == 'true' }}
@@ -116,47 +94,61 @@ jobs:
         id: scrape
         run: python scrape_cosmed.py
         continue-on-error: true
-      - name: Update Cosmed scrape info
-        if: ${{ steps.scrape.outcome == 'success' }}
-        run: python update_scrape_info.py cosmed false false true
-      - name: Upload artifacts
-        if: ${{ steps.scrape.outcome == 'success' }}
-        uses: actions/upload-artifact@v3
-        with:
-          name: cosmed-data
-          path: |
-            beauty4/cosmed_*.json
-            beauty4/scrape_info.json
 
-  push_changes:
+  update_and_commit:
     needs: [scrape_watsons, scrape_poya, scrape_cosmed]
-    if: always()
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
           ref: master
-      - name: Download all artifacts
-        uses: actions/download-artifact@v3
-      - name: Move artifacts to correct locations
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'
+      - name: Update scrape info
         run: |
-          if [ -d "watsons-data" ]; then
-            cp -r watsons-data/beauty4/* beauty4/
-          fi
-          if [ -d "poya-data" ]; then
-            cp -r poya-data/beauty4/* beauty4/
-          fi
-          if [ -d "cosmed-data" ]; then
-            cp -r cosmed-data/beauty4/* beauty4/
-          fi
+          # Update the scrape info based on which scrapers succeeded
+          python update_scrape_info.py all ${{ needs.scrape_watsons.outputs.watsons_success == 'true' }} ${{ needs.scrape_poya.outputs.poya_success == 'true' }} ${{ needs.scrape_cosmed.outputs.cosmed_success == 'true' }}
       - name: Configure Git
         run: |
           git config --local user.email "amyhsiao@gmail.com"
           git config --local user.name "amyhsiao"
       - name: Commit and push changes
         run: |
-          git add beauty4/
-          git commit -m "Daily scrape: Update product data" || echo "No changes to commit"
+          # Add all relevant files based on which scrapers succeeded
+          git add beauty4/scrape_info.json
+          
+          if [ "${{ needs.scrape_watsons.outputs.watsons_success }}" == "true" ]; then
+            git add beauty4/watsons_*.json
+            echo "Adding Watsons data to commit"
+          fi
+          
+          if [ "${{ needs.scrape_poya.outputs.poya_success }}" == "true" ]; then
+            git add beauty4/poya_*.json
+            echo "Adding Poya data to commit"
+          fi
+          
+          if [ "${{ needs.scrape_cosmed.outputs.cosmed_success }}" == "true" ]; then
+            git add beauty4/cosmed_*.json
+            echo "Adding Cosmed data to commit"
+          fi
+          
+          # Create commit message based on which scrapers succeeded
+          COMMIT_MSG="Daily scrape:"
+          if [ "${{ needs.scrape_watsons.outputs.watsons_success }}" == "true" ]; then
+            COMMIT_MSG="$COMMIT_MSG Watsons,"
+          fi
+          if [ "${{ needs.scrape_poya.outputs.poya_success }}" == "true" ]; then
+            COMMIT_MSG="$COMMIT_MSG Poya,"
+          fi
+          if [ "${{ needs.scrape_cosmed.outputs.cosmed_success }}" == "true" ]; then
+            COMMIT_MSG="$COMMIT_MSG Cosmed,"
+          fi
+          COMMIT_MSG="${COMMIT_MSG%,} product data updated"
+          
+          # Commit and push with error handling
+          git commit -m "$COMMIT_MSG" || echo "No changes to commit"
           git pull --rebase origin master
-          git push origin master || (git pull --rebase origin master && git push origin master)
+          git push origin master
