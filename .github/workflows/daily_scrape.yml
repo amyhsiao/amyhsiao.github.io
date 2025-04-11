@@ -85,7 +85,7 @@ jobs:
       - name: Update scrape info and commit if successful
         if: ${{ steps.scrape.outcome == 'success' }}
         run: |
-          python update_scrape_info.py poya false true false
+          python update_scrape_info.py poya ${{ steps.scrape.outcome == 'success' }} false false 
           git config --local user.email "amyhsiao@gmail.com"
           git config --local user.name "amyhsiao"
           git add beauty4/scrape_info.json beauty4/poya_*.json
