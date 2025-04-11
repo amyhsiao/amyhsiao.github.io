@@ -15,7 +15,7 @@ from tqdm import tqdm
 COSMED_BASE_URL = "https://shop.cosmed.com.tw"
 COSMED_ALL_PRODUCTS_URL = "https://shop.cosmed.com.tw/v2/official/SalePageCategory/0"
 
-def scrape_cosmed_products(base_url, all_products_url, scroll_delay=2, num_scrolls=500, debug_limit=None):
+def scrape_cosmed_products(base_url, all_products_url, scroll_delay=3, num_scrolls=2, debug_limit=None):
     """
     Scrapes product details from COSMED's all products page by simulating scrolling
     and attempts to extract the brand name.
@@ -38,28 +38,30 @@ def scrape_cosmed_products(base_url, all_products_url, scroll_delay=2, num_scrol
 
         previous_height = driver.execute_script("return document.body.scrollHeight;")
         no_new_content_count = 0
-        max_no_new_content = 5  # Stop if no new content loads for this many scrolls
+        max_no_new_content = 10  # Increased the tolerance
+        scroll_attempts = 0
+        max_scroll_attempts = 100 # Added a maximum scroll limit as a safety
 
-        for _ in tqdm(range(num_scrolls), desc="Scrolling COSMED Page"):
+        while no_new_content_count < max_no_new_content and scroll_attempts < min(max_scroll_attempts, num_scrolls):
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
             time.sleep(scroll_delay)
-
             current_height = driver.execute_script("return document.body.scrollHeight;")
+
             if current_height == previous_height:
                 no_new_content_count += 1
-                if no_new_content_count >= max_no_new_content:
-                    print("No new content loaded, stopping scrolling.")
-                    break
             else:
                 previous_height = current_height
                 no_new_content_count = 0
+            scroll_attempts += 1
+            print(f"Scroll attempt: {scroll_attempts}, Current height: {current_height}, No new content count: {no_new_content_count}")
 
-        time.sleep(scroll_delay * 2)  # Give extra time for content to load
-        
-        # Get page source once and parse with BeautifulSoup
+        time.sleep(scroll_delay * 3)  # Extra time to ensure final content loads
+
+        # Get page source after scrolling is complete
         soup = BeautifulSoup(driver.page_source, 'html.parser')
         product_cards = soup.select('a.product-card__vertical')
-        print(f"Number of product cards found: {len(product_cards)}")
+        print(f"Number of product cards found after scrolling: {len(product_cards)}")
+
         
         # Get all product links and IDs
         product_links = {}
@@ -85,11 +87,11 @@ def scrape_cosmed_products(base_url, all_products_url, scroll_delay=2, num_scrol
                 url = None
                 if str(i) in js_links:
                     url = base_url + js_links[str(i)]
-                    print(f"URL: {url}")
+                    # print(f"URL: {url}")
                 
                 name_element = card.select_one('[data-qe-id="body-sale-page-title-text"]')
                 name = name_element.text.strip() if name_element else None
-                print(f"Name: {name}")
+                # print(f"Name: {name}")
                 
                 brand = None
                 if name:
@@ -99,17 +101,17 @@ def scrape_cosmed_products(base_url, all_products_url, scroll_delay=2, num_scrol
                         name = re.sub(r'【.*?】\s*', '', name).strip()
                     if not brand and ' ' in name:
                         brand = name.split(' ', 1)[0].strip()
-                print(f"Brand: {brand}")
+                # print(f"Brand: {brand}")
 
                 image_element = card.select_one('figure.product-card__vertical__frame img.product-card__vertical__media')
                 image_url = image_element['src'] if image_element and 'src' in image_element.attrs else None
                 image_url = image_url.replace('//', 'https://') if image_url and image_url.startswith('//') else image_url
-                print(f"Image URL: {image_url}")
+                # print(f"Image URL: {image_url}")
 
                 price_element = card.select_one('[data-qe-id="body-price-text"]')
                 price_text = price_element.text.replace('NT$', '').replace(',', '').strip() if price_element else None
                 price = float(price_text) if price_text else None
-                print(f"Price: {price}")
+                # print(f"Price: {price}")
 
                 if name and price is not None and image_url and url:
                     products_data.append({
@@ -138,7 +140,7 @@ def scrape_cosmed_products(base_url, all_products_url, scroll_delay=2, num_scrol
 if __name__ == "__main__":
     start_time = time.time()
     print(f"Scraping product data from COSMED: {COSMED_ALL_PRODUCTS_URL}")
-    cosmed_products = scrape_cosmed_products(COSMED_BASE_URL, COSMED_ALL_PRODUCTS_URL, num_scrolls=10, debug_limit=None)
+    cosmed_products = scrape_cosmed_products(COSMED_BASE_URL, COSMED_ALL_PRODUCTS_URL, debug_limit=None)
     end_time = time.time()
     duration = end_time - start_time
     num_items = len(cosmed_products)
@@ -151,3 +153,10 @@ if __name__ == "__main__":
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(cosmed_products, f, ensure_ascii=False, indent=4)
     print(f"\nScraped COSMED data saved to {output_file}")
+
+# scrolls 
+# 1 -> 3s; 300 / h=23865
+# 2 -> 500 / 400 3s: 500
+# 3 -> 900
+# 4 -> 600
+# 5 -> 700
