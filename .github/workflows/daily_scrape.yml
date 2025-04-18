@@ -51,7 +51,7 @@ jobs:
       - name: Update scrape info and commit if successful
         if: ${{ steps.scrape.outcome == 'success' }}
         run: |
-          python update_scrape_info.py watsons true false false
+          python update_scrape_info.py watsons true 
           git config --local user.email "amyhsiao@gmail.com"
           git config --local user.name "amyhsiao"
           git add beauty4/scrape_info.json beauty4/watsons_*.json
@@ -85,7 +85,7 @@ jobs:
       - name: Update scrape info and commit if successful
         if: ${{ steps.scrape.outcome == 'success' }}
         run: |
-          python update_scrape_info.py poya ${{ steps.scrape.outcome == 'success' }} false false 
+          python update_scrape_info.py poya true 
           git config --local user.email "amyhsiao@gmail.com"
           git config --local user.name "amyhsiao"
           git add beauty4/scrape_info.json beauty4/poya_*.json
@@ -119,7 +119,7 @@ jobs:
       - name: Update scrape info and commit if successful
         if: ${{ steps.scrape.outcome == 'success' }}
         run: |
-          python update_scrape_info.py cosmed false false true
+          python update_scrape_info.py cosmed true
           git config --local user.email "amyhsiao@gmail.com"
           git config --local user.name "amyhsiao"
           git add beauty4/scrape_info.json beauty4/cosmed_*.json
