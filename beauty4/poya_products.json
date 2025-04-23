@@ -1,5 +1,355 @@
 [
     {
+        "name": "【廠商直送】Hello Morning調理護色洗護組600mL",
+        "price": 590.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10704135/0/638810359955330000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10704135",
+        "retailer": "Poya"
+    },
+    {
+        "name": "【廠商直送】Hello Morning調理護色護髮乳600mL",
+        "price": 339.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10704128/0/638810359934830000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10704128",
+        "retailer": "Poya"
+    },
+    {
+        "name": "【廠商直送】Hello Morning調理護色洗髮精600mL",
+        "price": 339.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10704123/0/638810359927470000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10704123",
+        "retailer": "Poya"
+    },
+    {
+        "name": "【廠商直送】Hello Morning深層潔淨頭皮洗護組600mL",
+        "price": 590.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10704115/0/638810359949530000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10704115",
+        "retailer": "Poya"
+    },
+    {
+        "name": "【廠商直送】Hello Morning深層潔淨頭皮護髮乳600mL",
+        "price": 339.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10704110/0/638810359921600000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10704110",
+        "retailer": "Poya"
+    },
+    {
+        "name": "【廠商直送】Hello Morning深層潔淨頭皮洗髮精600mL",
+        "price": 339.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10704108/0/638810359915330000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10704108",
+        "retailer": "Poya"
+    },
+    {
+        "name": "【廠商直送】Hello Morning修護受損髮洗護組600mL",
+        "price": 590.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10704101/0/638810359942830000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10704101",
+        "retailer": "Poya"
+    },
+    {
+        "name": "【廠商直送】Hello Morning修護受損髮護髮乳600mL",
+        "price": 339.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10704095/0/638810359909270000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10704095",
+        "retailer": "Poya"
+    },
+    {
+        "name": "【廠商直送】Hello Morning 修護受損髮洗髮精600mL",
+        "price": 339.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10704094/0/638810359903330000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10704094",
+        "retailer": "Poya"
+    },
+    {
+        "name": "IM刷酸煥顏刷",
+        "price": 39.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10703324/0/638809882381030000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10703324",
+        "retailer": "Poya"
+    },
+    {
+        "name": "IM淨顏起泡刷",
+        "price": 49.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10703306/0/638809882386070000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10703306",
+        "retailer": "Poya"
+    },
+    {
+        "name": "IM超Q彈美妝蛋2入-尖橄欖水滴款",
+        "price": 69.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10703256/0/638809882390900000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10703256",
+        "retailer": "Poya"
+    },
+    {
+        "name": "IM超Q彈美妝蛋2入-瑪德蓮水滴款",
+        "price": 69.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10703232/0/638809882395600000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10703232",
+        "retailer": "Poya"
+    },
+    {
+        "name": "CR-速乾柔彈寬鬆平口褲",
+        "price": 199.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10703219/0/638810362108930000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10703219",
+        "retailer": "Poya"
+    },
+    {
+        "name": "566 2合1舒敏染髮霜1OB曜岩黑",
+        "price": 359.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10702966/0/638809882324570000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10702966",
+        "retailer": "Poya"
+    },
+    {
+        "name": "566 2合1舒敏染髮霜3DC深栗棕",
+        "price": 359.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10702959/0/638809882336470000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10702959",
+        "retailer": "Poya"
+    },
+    {
+        "name": "Tryall涮嘴蛋白酥脆脆30g-日式海苔",
+        "price": 50.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10702950/0/638809882447030000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10702950",
+        "retailer": "Poya"
+    },
+    {
+        "name": "高絲曬可皙極效防水防曬精華80g",
+        "price": 289.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10702911/0/638810358747430000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10702911",
+        "retailer": "Poya"
+    },
+    {
+        "name": "高絲曬可皙極效防水防曬凝露80g",
+        "price": 289.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10702904/0/638810358740530000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10702904",
+        "retailer": "Poya"
+    },
+    {
+        "name": "高絲曬可皙極效防水防曬噴霧90g",
+        "price": 428.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10702895/0/638810358735230000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10702895",
+        "retailer": "Poya"
+    },
+    {
+        "name": "【廠商直送】月亮褲-簡約款夜用加量生理褲-黑",
+        "price": 1180.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10702882/0/638809752559500000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10702882",
+        "retailer": "Poya"
+    },
+    {
+        "name": "高絲曬可皙新高效防曬噴霧90g",
+        "price": 279.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10702881/0/638810358729170000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10702881",
+        "retailer": "Poya"
+    },
+    {
+        "name": "曬可皙透亮美肌防曬隔離精華80g-勻亮綠",
+        "price": 348.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10702861/0/638809882512000000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10702861",
+        "retailer": "Poya"
+    },
+    {
+        "name": "曬可皙透亮美肌防曬隔離精華80g-紅潤粉",
+        "price": 348.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10702846/0/638809882523370000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10702846",
+        "retailer": "Poya"
+    },
+    {
+        "name": "家樂氏纖穀脆300g-榛果可可",
+        "price": 275.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10702845/0/638809882476770000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10702845",
+        "retailer": "Poya"
+    },
+    {
+        "name": "家樂氏纖穀脆300g-鮮摘草莓",
+        "price": 275.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10702830/0/638809882482400000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10702830",
+        "retailer": "Poya"
+    },
+    {
+        "name": "曬可皙透亮美肌防曬隔離精華80g-清透紫",
+        "price": 348.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10702826/0/638809882517500000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10702826",
+        "retailer": "Poya"
+    },
+    {
+        "name": "奇多香酥棒派對包166g-家常起司",
+        "price": 70.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10702816/0/638810362820370000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10702816",
+        "retailer": "Poya"
+    },
+    {
+        "name": "Lay’s樂事意合包洋芋片60g-奶焗香蔥",
+        "price": 29.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10702807/0/638809882402500000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10702807",
+        "retailer": "Poya"
+    },
+    {
+        "name": "ALX-男酷冷圓領涼感衣",
+        "price": 299.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10702722/0/638809882351070000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10702722",
+        "retailer": "Poya"
+    },
+    {
+        "name": "福記芋頭甜湯360g",
+        "price": 70.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10702555/0/638809882543900000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10702555",
+        "retailer": "Poya"
+    },
+    {
+        "name": "福記台灣紅豆湯400g",
+        "price": 70.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10702552/0/638809882534000000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10702552",
+        "retailer": "Poya"
+    },
+    {
+        "name": "福記紅豆紫米粥360g",
+        "price": 70.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10702542/0/638809882539730000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10702542",
+        "retailer": "Poya"
+    },
+    {
+        "name": "川元喵喵糖20g(包裝款式隨機出貨)",
+        "price": 20.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10702517/0/638809882487430000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10702517",
+        "retailer": "Poya"
+    },
+    {
+        "name": "卡比叭拉丸子組吊飾-9cm",
+        "price": 119.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10702464/0/638809882451630000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10702464",
+        "retailer": "Poya"
+    },
+    {
+        "name": "卡比叭拉水豚吊飾-7cm",
+        "price": 99.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10702457/0/638809882456730000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10702457",
+        "retailer": "Poya"
+    },
+    {
+        "name": "廖心蘭非基改豆干110g-滷味",
+        "price": 69.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10702431/0/638809882500300000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10702431",
+        "retailer": "Poya"
+    },
+    {
+        "name": "廖心蘭非基改豆干110g-沙茶",
+        "price": 69.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10702428/0/638809882495370000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10702428",
+        "retailer": "Poya"
+    },
+    {
+        "name": "A.P雨傘-抑菌輕透網眼圓領排汗衫",
+        "price": 299.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10701541/0/638809882344000000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10701541",
+        "retailer": "Poya"
+    },
+    {
+        "name": "PROMAN豪門-極致酷涼圓領短袖",
+        "price": 299.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10701476/0/638809882420470000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10701476",
+        "retailer": "Poya"
+    },
+    {
+        "name": "PROMAN豪門-極致酷涼背心",
+        "price": 279.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10701461/0/638809882425300000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10701461",
+        "retailer": "Poya"
+    },
+    {
+        "name": "ILDONG日東豆腐鬆餅餅乾4入-馬鈴薯",
+        "price": 155.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10701409/0/638809882374170000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10701409",
+        "retailer": "Poya"
+    },
+    {
+        "name": "ILDONG日東豆腐鬆餅餅乾4入-香蕉",
+        "price": 155.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10701390/0/638809882368870000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10701390",
+        "retailer": "Poya"
+    },
+    {
+        "name": "超人力霸王短袖套裝-藍",
+        "price": 399.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10701385/0/638809882564670000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10701385",
+        "retailer": "Poya"
+    },
+    {
+        "name": "復仇者聯盟系列短袖套裝-藍",
+        "price": 399.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10701374/0/638809882506170000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10701374",
+        "retailer": "Poya"
+    },
+    {
+        "name": "韓國ILDONG日東水果脆片15g-梨子",
+        "price": 135.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10701361/0/638809882574830000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10701361",
+        "retailer": "Poya"
+    },
+    {
+        "name": "韓國ILDONG日東水果脆片12g-草莓",
+        "price": 135.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10701356/0/638809882569400000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10701356",
+        "retailer": "Poya"
+    },
+    {
+        "name": "大耳狗短袖套裝-藍",
+        "price": 399.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10701351/0/638809882466770000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10701351",
+        "retailer": "Poya"
+    },
+    {
+        "name": "韓國ILDONG日東水果脆片15g-蘋果",
+        "price": 135.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10701343/0/638809882579200000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10701343",
+        "retailer": "Poya"
+    },
+    {
+        "name": "騎士滿版男四角褲",
+        "price": 139.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10701228/0/638809882589670000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10701228",
+        "retailer": "Poya"
+    },
+    {
         "name": "【廠商直送】R.B.草本無氟牙膏100g*3+漱口水350ml*1",
         "price": 1345.0,
         "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10701194/0/638809498116100000?v=1",
@@ -21,6 +371,97 @@
         "retailer": "Poya"
     },
     {
+        "name": "無鋼絲活性乳膠內衣",
+        "price": 199.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10701149/0/638809882529130000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10701149",
+        "retailer": "Poya"
+    },
+    {
+        "name": "堤娜蜜-石墨烯莫代爾生理褲",
+        "price": 129.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10701084/0/638809882461570000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10701084",
+        "retailer": "Poya"
+    },
+    {
+        "name": "頂豐TOPPIK 噴頭+髮線梳組",
+        "price": 688.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10701079/0/638809882584400000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10701079",
+        "retailer": "Poya"
+    },
+    {
+        "name": "萊潔寵物用抗菌除臭噴霧250ml",
+        "price": 169.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10700957/0/638809882560900000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10700957",
+        "retailer": "Poya"
+    },
+    {
+        "name": "菲德醫療防護成人口罩50入-珠霜白",
+        "price": 129.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10700944/0/638809882554700000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10700944",
+        "retailer": "Poya"
+    },
+    {
+        "name": "菲德醫療防護成人口罩50入-岩曜黑彩色耳繩",
+        "price": 129.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10700936/0/638809882549800000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10700936",
+        "retailer": "Poya"
+    },
+    {
+        "name": "Somi 透明雙眼皮貼-深邃雙面(埋沒式3.0mm)",
+        "price": 139.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10700919/0/638809882437770000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10700919",
+        "retailer": "Poya"
+    },
+    {
+        "name": "Somi 透明雙眼皮貼-隱形雙面(埋沒式2.0mm)",
+        "price": 139.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10700893/0/638809882441870000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10700893",
+        "retailer": "Poya"
+    },
+    {
+        "name": "Somi 膚色雙眼皮貼-深邃單面(極透2.0mm)",
+        "price": 139.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10700871/0/638809882429600000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10700871",
+        "retailer": "Poya"
+    },
+    {
+        "name": "Somi 膚色雙眼皮貼-隱形單面(極透1.5mm)",
+        "price": 139.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10700867/0/638809882433770000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10700867",
+        "retailer": "Poya"
+    },
+    {
+        "name": "LDH-法式拼接無縫褲-F",
+        "price": 129.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10700667/0/638809882409670000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10700667",
+        "retailer": "Poya"
+    },
+    {
+        "name": "CA-無痕細帶小可愛-F",
+        "price": 179.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10700408/0/638809882357330000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10700408",
+        "retailer": "Poya"
+    },
+    {
+        "name": "L’EGERE B3 5%煥白安瓶防曬乳35ml",
+        "price": 339.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10700398/0/638809882415930000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10700398",
+        "retailer": "Poya"
+    },
+    {
         "name": "L’EGERE三胜肽水光安瓶防曬乳35ml",
         "price": 339.0,
         "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10700382/0/638809495764800000?v=1",
@@ -30,28 +471,56 @@
     {
         "name": "CA-無痕方領小可愛-F",
         "price": 179.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10699475/0/638809042013170000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10699475/0/638809504877470000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10699475",
+        "retailer": "Poya"
+    },
+    {
+        "name": "媚比琳超持久霧感液態唇膏5ml #NEW柔霧升級 #16H持久不沾",
+        "price": 366.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10699215/0/638809684590830000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10699215",
+        "retailer": "Poya"
+    },
+    {
+        "name": "媚比琳淚溝無痕遮瑕膏10ml #淚溝小熨斗 #0技巧熨平淚溝",
+        "price": 365.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10699214/0/638809943642930000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10699214",
+        "retailer": "Poya"
+    },
+    {
+        "name": "媚比琳24H立挺透明塑型眉膠7g #毛流挺挺刷",
+        "price": 332.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10699212/0/638809943642300000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10699212",
+        "retailer": "Poya"
+    },
+    {
+        "name": "媚比琳 FIT ME水啵啵裸妝乳30ml #裸妝小C管 #10秒完妝 #雙倍+C",
+        "price": 378.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10699209/0/638809943643870000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10699209",
         "retailer": "Poya"
     },
     {
         "name": "CA-花漾印花少女褲3入-粉/淺黃/白F",
         "price": 199.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10699183/0/638809042018470000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10699183/0/638809498458070000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10699183",
         "retailer": "Poya"
     },
     {
         "name": "【廠商直送】MOZTECH太空艙行動電源-5000mAh-C-綠/MOA16TGN",
         "price": 1290.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10699061/0/638808897291670000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10699061/0/638809505241770000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10699061",
         "retailer": "Poya"
     },
     {
         "name": "【廠商直送】MOZTECH太空艙行動電源-5000mAh-C-黑/MOA16TBK",
         "price": 1290.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10699055/0/638808897438270000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10699055/0/638809505230530000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10699055",
         "retailer": "Poya"
     },
@@ -79,63 +548,63 @@
     {
         "name": "【廠商直送】MOZTECH太空艙行動電源-5000mAh-C-藍/MOA16TBU",
         "price": 1290.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10698988/0/638808895714270000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10698988/0/638809505236230000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10698988",
         "retailer": "Poya"
     },
     {
         "name": "【廠商直送】MOZTECH太空艙行動電源-5000mAh-L-綠/MOA16LGN",
         "price": 1290.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10698951/0/638808894376470000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10698951/0/638809505213000000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10698951",
         "retailer": "Poya"
     },
     {
         "name": "【廠商直送】MOZTECH太空艙行動電源-5000mAh-L-黑",
         "price": 1290.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10698934/0/638808893134170000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10698934/0/638809505200630000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10698934",
         "retailer": "Poya"
     },
     {
         "name": "【廠商直送】MOZTECH萬能充Pro五合一-10000mAh-粉/MOA-08PK",
         "price": 1780.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10698925/0/638808891972330000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10698925/0/638809505262100000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10698925",
         "retailer": "Poya"
     },
     {
         "name": "【廠商直送】MOZTECH太空艙行動電源-5000mAh-L-藍/MOA16LBU",
         "price": 1290.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10698911/0/638808891668800000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10698911/0/638809505207370000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10698911",
         "retailer": "Poya"
     },
     {
         "name": "【廠商直送】MOZTECH萬能充Pro五合一-10000mAh-白/MOA-08WH",
         "price": 1780.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10698887/0/638808888563370000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10698887/0/638809505254570000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10698887",
         "retailer": "Poya"
     },
     {
         "name": "【廠商直送】MOZTECH太空艙行動電源-5000mAh-C-白/MOA16TW",
         "price": 1290.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10698855/0/638808888598570000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10698855/0/638809505224270000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10698855",
         "retailer": "Poya"
     },
     {
         "name": "CA-花漾壓紋緹花少女褲3入-粉/淺黃/紫F",
         "price": 199.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10698811/0/638809042022770000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10698811/0/638809498472130000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10698811",
         "retailer": "Poya"
     },
     {
         "name": "CA-花漾色彩少女褲4入-粉/淺黃/藍/灰F",
         "price": 259.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10698743/0/638809042026930000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10698743/0/638809498466530000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10698743",
         "retailer": "Poya"
     },
@@ -191,7 +660,7 @@
     {
         "name": "寶拉珍選2%水楊酸身體乳特惠組",
         "price": 1080.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10695801/0/638808630153130000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10695801/0/638809943925700000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10695801",
         "retailer": "Poya"
     },
@@ -261,14 +730,14 @@
     {
         "name": "韓國IsTrue1%低分子玻尿酸精華30ml",
         "price": 280.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10695499/0/638808630101770000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10695499/0/638809943889530000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10695499",
         "retailer": "Poya"
     },
     {
         "name": "韓國IsTrue5%多分子玻尿酸精華30ml",
         "price": 350.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10695494/0/638808630107870000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10695494/0/638809943890670000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10695494",
         "retailer": "Poya"
     },
@@ -303,7 +772,7 @@
     {
         "name": "韓國IsTrue2%傳明酸吸黑注白精華30ml",
         "price": 350.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10695482/0/638808630132500000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10695482/0/638809943891000000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10695482",
         "retailer": "Poya"
     },
@@ -429,7 +898,7 @@
     {
         "name": "【限時特賣】萊雅溫和眼唇卸妝液 125ml",
         "price": 379.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10687900/0/638804777597970000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10687900/0/638809793575700000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10687900",
         "retailer": "Poya"
     },
@@ -758,28 +1227,28 @@
     {
         "name": "純棉雙面漁夫帽-軍綠迷彩",
         "price": 259.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10684454/0/638804712039230000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10684454/0/638809944365000000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10684454",
         "retailer": "Poya"
     },
     {
         "name": "三明治網布球帽FLDPIA-黑",
         "price": 209.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10684442/0/638804712000570000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10684442/0/638809944313200000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10684442",
         "retailer": "Poya"
     },
     {
         "name": "三星兒童中空戶外帽-多色任選",
         "price": 329.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10684428/0/638804712005230000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10684428/0/638809944316370000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10684428",
         "retailer": "Poya"
     },
     {
         "name": "三星兒童球帽-多色任選",
         "price": 299.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10684406/0/638804712010070000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10684406/0/638809944052730000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10684406",
         "retailer": "Poya"
     },
@@ -800,14 +1269,14 @@
     {
         "name": "三星造型兒童布帽-多色任選",
         "price": 299.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10680604/0/638803851013730000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10680604/0/638809944359670000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10680604",
         "retailer": "Poya"
     },
     {
         "name": "三星男款冰感拼接袖套(開洞加大)-多色任選",
         "price": 269.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10680561/0/638803851008970000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10680561/0/638809944386770000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10680561",
         "retailer": "Poya"
     },
@@ -821,7 +1290,7 @@
     {
         "name": "三星女款冰感拼接袖套(開洞加大)-多色任選",
         "price": 269.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10680495/0/638803851005770000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10680495/0/638809944385900000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10680495",
         "retailer": "Poya"
     },
@@ -868,9 +1337,23 @@
         "retailer": "Poya"
     },
     {
+        "name": "好奇純水濕巾100抽-Kawaii",
+        "price": 79.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10680293/0/638809684552100000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10680293",
+        "retailer": "Poya"
+    },
+    {
+        "name": "靠得住絲薄好眠褲6+1片-L號",
+        "price": 339.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10680261/0/638809684610730000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10680261",
+        "retailer": "Poya"
+    },
+    {
         "name": "靠得住草本抑菌加強護墊26片2入17.5蔓越莓",
         "price": 99.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10680226/0/638803714189100000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10680226/0/638809676598130000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10680226",
         "retailer": "Poya"
     },
@@ -1052,7 +1535,7 @@
     {
         "name": "歐黎絲擴香機",
         "price": 399.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10674968/0/638807991684800000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10674968/0/638809943457400000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10674968",
         "retailer": "Poya"
     },
@@ -1073,7 +1556,7 @@
     {
         "name": "歐黎絲有機複方精油10ml-多款任選",
         "price": 199.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10674943/0/638802996246270000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10674943/0/638809943455370000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10674943",
         "retailer": "Poya"
     },
@@ -1241,7 +1724,7 @@
     {
         "name": "品田日居麻布收納凳-黑色長形",
         "price": 349.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10673784/0/638802589302170000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10673784/0/638809943326430000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10673784",
         "retailer": "Poya"
     },
@@ -1262,7 +1745,7 @@
     {
         "name": "品田日居麻布收納凳-方形黑色",
         "price": 329.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10673735/0/638802591530100000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10673735/0/638809943306100000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10673735",
         "retailer": "Poya"
     },
@@ -1304,7 +1787,7 @@
     {
         "name": "吉伊卡哇地墊-多款任選",
         "price": 169.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10673443/0/638802586979000000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10673443/0/638809943369600000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10673443",
         "retailer": "Poya"
     },
@@ -1339,7 +1822,7 @@
     {
         "name": "吉伊卡哇粉嫩地墊-多色任選",
         "price": 150.0,
-        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10671814/0/638804549126400000?v=1",
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10671814/0/638809943371670000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10671814",
         "retailer": "Poya"
     },
@@ -1397,6 +1880,223 @@
         "price": 129.0,
         "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10670150/0/638799414012830000?v=1",
         "url": "https://www.poyabuy.com.tw/SalePage/Index/10670150",
+        "retailer": "Poya"
+    },
+    {
+        "name": "【即期品】媚比琳煙燻柔霧奶霜唇膏-288煙燻烏木紅 (有效日:2025/11/30)",
+        "price": 366.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10670145/0/638799414046270000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10670145",
+        "retailer": "Poya"
+    },
+    {
+        "name": "莫蘭迪牛奶紗加大浴巾(76x152cm)-多色任選",
+        "price": 319.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10668742/0/638804533138300000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10668742",
+        "retailer": "Poya"
+    },
+    {
+        "name": "仕女純黑布藝小沙夾-多款任選",
+        "price": 49.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10668655/0/638805368307630000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10668655",
+        "retailer": "Poya"
+    },
+    {
+        "name": "造型小沙夾-蝶結-多款任選",
+        "price": 79.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10668649/0/638807991546700000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10668649",
+        "retailer": "Poya"
+    },
+    {
+        "name": "KALAIFU亮面BB夾3入-多款任選",
+        "price": 89.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10668625/0/638799522627030000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10668625",
+        "retailer": "Poya"
+    },
+    {
+        "name": "KALAIFU格紋亮面BB夾3入-多款任選",
+        "price": 89.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10668614/0/638809676596070000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10668614",
+        "retailer": "Poya"
+    },
+    {
+        "name": "KALAIFU素面格紋BB夾3入-多款任選",
+        "price": 89.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10668607/0/638809676593930000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10668607",
+        "retailer": "Poya"
+    },
+    {
+        "name": "KALAIFU格紋BB夾2入-星星-多款任選",
+        "price": 79.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10668591/0/638809676592230000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10668591",
+        "retailer": "Poya"
+    },
+    {
+        "name": "BIOLISS植感神經醯胺柔潤修護髮膜200g",
+        "price": 359.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10668533/0/638799522610130000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10668533",
+        "retailer": "Poya"
+    },
+    {
+        "name": "KALAIFU格紋BB夾2入-桃心-多款任選",
+        "price": 79.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10668525/0/638809676590730000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10668525",
+        "retailer": "Poya"
+    },
+    {
+        "name": "Lay’s樂事洋芋片56g-韓式蜂蜜芥末",
+        "price": 35.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10668474/0/638801926103870000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10668474",
+        "retailer": "Poya"
+    },
+    {
+        "name": "KALAIFU格紋BB夾2入-星星-多款任選",
+        "price": 69.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10668472/0/638805368303370000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10668472",
+        "retailer": "Poya"
+    },
+    {
+        "name": "Lay’s樂事洋芋片56g-炙鹽香蒜",
+        "price": 35.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10668469/0/638801926102530000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10668469",
+        "retailer": "Poya"
+    },
+    {
+        "name": "話匣子Mini玉米片42g-美式辣起士口味",
+        "price": 25.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10668463/0/638801926100700000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10668463",
+        "retailer": "Poya"
+    },
+    {
+        "name": "話匣子Mini玉米片42g-美式BBQ肋排口味",
+        "price": 25.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10668452/0/638801926098870000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10668452",
+        "retailer": "Poya"
+    },
+    {
+        "name": "KALAIFU楓葉格紋壓夾2入",
+        "price": 89.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10668451/0/638809676588300000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10668451",
+        "retailer": "Poya"
+    },
+    {
+        "name": "BIOLISS植感蓬鬆潤髮乳480ml扁塌對策",
+        "price": 359.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10668448/0/638799522618930000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10668448",
+        "retailer": "Poya"
+    },
+    {
+        "name": "KALAIFU春天陽光格紋壓夾2入-多款任選",
+        "price": 89.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10668444/0/638809676586830000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10668444",
+        "retailer": "Poya"
+    },
+    {
+        "name": "話匣子Mini玉米片48g-勁爆香辣口味",
+        "price": 25.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10668436/0/638801926097470000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10668436",
+        "retailer": "Poya"
+    },
+    {
+        "name": "BIOLISS植感修護潤髮乳480ml毛躁對策",
+        "price": 359.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10668431/0/638799522606200000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10668431",
+        "retailer": "Poya"
+    },
+    {
+        "name": "話匣子Mini玉米片48g-炙烤雞汁口味",
+        "price": 25.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10668427/0/638801926096100000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10668427",
+        "retailer": "Poya"
+    },
+    {
+        "name": "珍珠造型抓皺緞面髮圈-多款任選",
+        "price": 109.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10668422/0/638799522743200000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10668422",
+        "retailer": "Poya"
+    },
+    {
+        "name": "樂事輕雪鹽洋芋片意合包85g-莎莎風味醬",
+        "price": 39.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10668418/0/638801938619170000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10668418",
+        "retailer": "Poya"
+    },
+    {
+        "name": "波浪紋水晶造型細髮圈-多款任選",
+        "price": 99.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10668415/0/638799522724730000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10668415",
+        "retailer": "Poya"
+    },
+    {
+        "name": "樂事輕雪鹽洋芋片意合包85g-糖醋風味醬",
+        "price": 39.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10668414/0/638801926093200000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10668414",
+        "retailer": "Poya"
+    },
+    {
+        "name": "高顱頂波浪纏布髮圈-多款任選",
+        "price": 49.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10668406/0/638799522818730000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10668406",
+        "retailer": "Poya"
+    },
+    {
+        "name": "OREO奧利奧巧心蛋糕16g-12入",
+        "price": 125.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10668390/0/638799522672800000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10668390",
+        "retailer": "Poya"
+    },
+    {
+        "name": "麗滋起司三明治餅乾一條裝118g",
+        "price": 55.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10668379/0/638799522970000000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10668379",
+        "retailer": "Poya"
+    },
+    {
+        "name": "無痛壓感平貼髮梳髮圈-多款任選",
+        "price": 49.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10668376/0/638799522739030000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10668376",
+        "retailer": "Poya"
+    },
+    {
+        "name": "貝殼人魚珠光怪手夾-交叉-多款任選",
+        "price": 139.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10668345/0/638805571411670000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10668345",
+        "retailer": "Poya"
+    },
+    {
+        "name": "KALAIFU人魚光壓夾2入-彩色點點-多款任選",
+        "price": 99.0,
+        "image_url": "//diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10668303/0/638805368298830000?v=1",
+        "url": "https://www.poyabuy.com.tw/SalePage/Index/10668303",
         "retailer": "Poya"
     }
 ]
