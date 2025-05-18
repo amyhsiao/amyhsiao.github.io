@@ -1,5 +1,93 @@
 [
     {
+        "name": "深度學習最佳入門與專題實戰：理論基礎與影像篇",
+        "brand": null,
+        "price": 774.0,
+        "image_url": "https://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10768044/0/638831952439400000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/10768044",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "GitHub Copilot讓你寫程式快 10 倍！AI 程式開發大解放",
+        "brand": "GitHub",
+        "price": 545.0,
+        "image_url": "https://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10768041/0/638831952431630000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/10768041",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "多核心CPU加速程式32倍：深入高平行開發深度原理及專案實戰(二版)",
+        "brand": null,
+        "price": 695.0,
+        "image_url": "https://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10768040/0/638831952428900000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/10768040",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "高手用最強大Java：Spring Boot+Vue.js+uni-app全端開發",
+        "brand": "高手用最強大Java：Spring",
+        "price": 853.0,
+        "image_url": "https://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10768038/0/638831952427200000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/10768038",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "底層都完全了解 - Kubernetes API Server原始程式分析",
+        "brand": "底層都完全了解",
+        "price": 853.0,
+        "image_url": "https://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10768037/0/638831952424470000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/10768037",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "萬應的恩賜：網路人氣漫畫《我推的阿公》正式小說化！全新故事！",
+        "brand": null,
+        "price": 331.0,
+        "image_url": "https://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10768036/0/638831952416130000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/10768036",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "這樣做生醫研究才好玩：從學習、創新到市場落地",
+        "brand": null,
+        "price": 316.0,
+        "image_url": "https://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10768035/0/638831952419130000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/10768035",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "極速全端開發：Vue.js + Express.js建構全能美觀應用",
+        "brand": "極速全端開發：Vue.js",
+        "price": 853.0,
+        "image_url": "https://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10768034/0/638831952422270000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/10768034",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "漫畫世界美食冷知識王",
+        "brand": null,
+        "price": 276.0,
+        "image_url": "https://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10768032/0/638831952409270000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/10768032",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "Hey Siri及Ok Google原理：AI語音辨識專案真應用開發(二版)",
+        "brand": "Hey",
+        "price": 695.0,
+        "image_url": "https://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10768031/0/638831952409270000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/10768031",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "深度學習最佳入門與專題實戰：自然語言處理、大型語言模型與強化學習篇",
+        "brand": null,
+        "price": 695.0,
+        "image_url": "https://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10768030/0/638831952395030000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/10768030",
+        "retailer": "Cosmed"
+    },
+    {
         "name": "法式香甜維也納菓子麵包 與 頂尖風味吐司 自己在家做套書(共2本)：李志豪法式香甜維也納菓子麵包+李宜融頂尖風味吐司麵包全書",
         "brand": "法式香甜維也納菓子麵包",
         "price": 805.0,
@@ -1360,27 +1448,11 @@
         "retailer": "Cosmed"
     },
     {
-        "name": "2025主題式會計事務(人工記帳、資訊)丙級 技能檢定術科滿分題庫（七版）〔會計丙級技術士〕",
-        "brand": "符合最新檢定規範",
-        "price": 466.0,
-        "image_url": "https://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10760153/0/638830932030300000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/10760153",
-        "retailer": "Cosmed"
-    },
-    {
         "name": "送葬者 (2)",
         "brand": "送葬者",
         "price": 110.0,
         "image_url": "https://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10760151/0/638829024028930000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/10760151",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "興起與貢獻：蘆洲李氏家族之研究(1777-1945)",
-        "brand": null,
-        "price": 450.0,
-        "image_url": "https://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10760150/0/638828496571830000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/10760150",
         "retailer": "Cosmed"
     },
     {
@@ -1413,14 +1485,6 @@
         "price": 316.0,
         "image_url": "https://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10760144/0/638828496556770000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/10760144",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "鄉土社會的終結：東亞地區的殖民管治和土地政策",
-        "brand": null,
-        "price": 316.0,
-        "image_url": "https://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10760143/0/638828496553600000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/10760143",
         "retailer": "Cosmed"
     },
     {
@@ -2264,14 +2328,6 @@
         "retailer": "Cosmed"
     },
     {
-        "name": "王陽明平濠記：謀略、膽識、心學，王陽明平叛寧王的真實紀實",
-        "brand": null,
-        "price": 315.0,
-        "image_url": "https://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10755857/0/638827632481170000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/10755857",
-        "retailer": "Cosmed"
-    },
-    {
         "name": "王淑芬兒童哲思小童話3：一定要喝下午茶",
         "brand": null,
         "price": 252.0,
@@ -2357,14 +2413,6 @@
         "price": 379.0,
         "image_url": "https://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10755844/0/638827632450630000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/10755844",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "別急著說出口！言語的力量比你想像得更強大：辨識情緒×解構語言×重建關係……別再被情緒牽著說話，一句話，就可能悄悄改變你的人生軌跡",
-        "brand": null,
-        "price": 236.0,
-        "image_url": "https://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10755843/0/638827632610830000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/10755843",
         "retailer": "Cosmed"
     },
     {
@@ -2578,8 +2626,8 @@
     {
         "name": "砂鍋魚頭風味杯麵x12杯 （62g/杯）（箱出）2025/05/09依訂單順序陸續出貨_廠商直送",
         "brand": "林聰明",
-        "price": 699.0,
-        "image_url": "https://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10753003/0/638827907343400000?v=1",
+        "price": 599.0,
+        "image_url": "https://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10753003/0/638831808189430000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/10753003",
         "retailer": "Cosmed"
     },
@@ -3149,54 +3197,6 @@
         "price": 8800.0,
         "image_url": "https://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10752818/0/638826954432600000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/10752818",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "ISSEY MIYAKE 三宅一生 BAOABO KAIJU 3X4壓紋斜背包-灰色",
-        "brand": "ISSEY",
-        "price": 15199.0,
-        "image_url": "https://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10752817/0/638826954433700000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/10752817",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "ISSEY MIYAKE 三宅一生 BAOABO VOYAGER 斜背包-沙米色",
-        "brand": "ISSEY",
-        "price": 17500.0,
-        "image_url": "https://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10752816/0/638826954366830000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/10752816",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "E.City_馬卡龍手提瀝水收納置物籃",
-        "brand": null,
-        "price": 299.0,
-        "image_url": "https://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10752814/0/638826953610000000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/10752814",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "E.City_北歐風編織圓餐墊杯墊4件組",
-        "brand": null,
-        "price": 439.0,
-        "image_url": "https://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10752813/0/638826953583370000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/10752813",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "E.City_可拆卸透明蓋瀝水餐具筷子收納筒",
-        "brand": null,
-        "price": 329.0,
-        "image_url": "https://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10752812/0/638826953577270000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/10752812",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "E.City_可掛式子母防燙手套隔熱墊組(2組)",
-        "brand": null,
-        "price": 419.0,
-        "image_url": "https://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/10752811/0/638826953557570000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/10752811",
         "retailer": "Cosmed"
     }
 ]
