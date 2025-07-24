@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>中山醫學大學醫學系畢業生職涯數據分析</title> <script src="https://cdn.plot.ly/plotly-2.32.0.min.js" charset="utf-8"></script>
+
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            overflow-x: hidden;
+        }
+        body {
+            font-family: 'Arial', 'Microsoft JhengHei', '微軟正黑體', 'PingFang TC', sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        h1 {
+            color: #1f77b4;
+            text-align: center;
+            margin: 20px 0 30px 0;
+        }
+        /* NEW: Style for section titles */
+        .section-title {
+            color: #555;
+            text-align: center;
+            margin: 30px 0 15px 0; /* Adjust margin as needed */
+            font-size: 1.8em;
+        }
+        .dashboard-controls {
+            text-align: center;
+            margin-bottom: 20px;
+            padding: 15px;
+            background-color: #e0f2f7;
+            border-radius: 8px;
+            width: auto;
+            margin-left: auto;
+            margin-right: auto;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            box-sizing: border-box;
+        }
+        select {
+            padding: 8px 12px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            font-size: 1em;
+            cursor: pointer;
+            margin-left: 10px;
+            min-width: 120px;
+        }
+        .plots-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            margin: 0 auto 30px auto;
+            /* Consider making this 100% and relying on flex for responsiveness,
+               but for now, keeping fixed width to match JS plot dimensions */
+            width: 1500px;
+            box-sizing: border-box;
+        }
+        .plot-item {
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            padding: 25px;
+            box-sizing: border-box;
+            min-height: 650px; /* Ensure consistent height for all plot items */
+            position: relative;
+            overflow: hidden;
+        }
+        /* Specific styles for the smaller pie chart item */
+        .plot-item-pie-small {
+            flex: 0 0 540px; /* flex-basis: Plotly width (490) + 2*padding (50) = 540px */
+            max-width: 540px;
+        }
+        /* Style for the larger bar chart item */
+        .plot-item-bar-large {
+            flex: 0 0 940px; /* flex-basis: Plotly width (890) + 2*padding (50) = 940px */
+            max-width: 940px;
+        }
+
+        /* Ensure Plotly divs fill their containers */
+        #pie-chart-plot, #bar-chart-plot,
+        #medical-level-pie-chart-plot, #medical-level-bar-chart-plot, #medical-level-pie-chart-plot, #medical-level-bar-chart-plot { /* Added new IDs here */
+            margin: 0 auto;
+            padding-bottom: 20px;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>中山醫學大學醫學系畢業生職涯數據分析</h1> <div class="dashboard-controls">
+        <label for="year-select">選擇畢業年份:</label>
+        <select id="year-select">
+            </select>
+    </div>
+
+    <h2 class="section-title">執業科別分佈分析</h2> <div class="plots-container">
+        <div class="plot-item plot-item-pie-small">
+            <div id="pie-chart-plot">
+                <p style="text-align: center;">載入圓餅圖數據中...</p>
+            </div>
+        </div>
+
+        <div class="plot-item plot-item-bar-large">
+            <div id="bar-chart-plot">
+                <p style="text-align: center;">載入長條圖數據中...</p>
+            </div>
+        </div>
+    </div>
+
+    <h2 class="section-title">醫療層級分佈分析</h2> <div class="plots-container">
+        <div class="plot-item plot-item-pie-small">
+            <div id="medical-level-pie-chart-plot">
+                <p style="text-align: center;">載入圓餅圖數據中...</p>
+            </div>
+        </div>
+
+        <div class="plot-item plot-item-bar-large">
+            <div id="medical-level-bar-chart-plot">
+                <p style="text-align: center;">載入長條圖數據中...</p>
+            </div>
+        </div>
+    </div>
+
+    <h2 class="section-title">醫療屬性分佈分析</h2> <div class="plots-container">
+        <div class="plot-item plot-item-pie-small">
+            <div id="medical-type-pie-chart-plot">
+                <p style="text-align: center;">載入圓餅圖數據中...</p>
+            </div>
+        </div>
+
+        <div class="plot-item plot-item-bar-large">
+            <div id="medical-type-bar-chart-plot">
+                <p style="text-align: center;">載入長條圖數據中...</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
