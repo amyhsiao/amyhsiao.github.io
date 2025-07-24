@@ -10,7 +10,7 @@ let allMedicalTypes = new Set(); // NEW: To collect all unique medical types
 let medicalTypeColors = {}; // NEW: Global variable for medical type colors
 
 async function fetchData() {
-    const response = await fetch('../analysis_github.csv'); // Adjust path as needed
+    const response = await fetch('./analysis_github.csv'); // Adjust path as needed
     if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`);
     }
