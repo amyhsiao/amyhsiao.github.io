@@ -6,8 +6,8 @@ let allSpecialties = new Set(); // To collect all unique specialties for consist
 let specialtyColors = {}; // Global variable for specialty colors
 let allMedicalLevels = new Set();
 let medicalLevelColors = {};
-let allMedicalTypes = new Set(); // NEW: To collect all unique medical types
-let medicalTypeColors = {}; // NEW: Global variable for medical type colors
+let allMedicalTypes = new Set(); // To collect all unique medical types
+let medicalTypeColors = {}; // Global variable for medical type colors
 
 async function fetchData() {
     const response = await fetch('./analysis_github.csv'); // Adjust path as needed
@@ -27,23 +27,16 @@ function parseData(csvData) {
     const graduationDateColIndex = header.indexOf('畢業證書發證日期');
     const specialtyColIndex = header.indexOf('執業科別');
     const medicalLevelColIndex = header.indexOf('醫療層級');
-    // Corrected: Ensure '醫療屬性' header does not include '\r' if it's from Windows CSV
-    const medicalTypeColIndex = header.indexOf('醫療屬性\r'); // Check for exact match first
-    if (medicalTypeColIndex === -1) { // If not found, try with '\r' in case
-        const medicalTypeColIndexWithCR = header.indexOf('醫療屬性\r');
-        if (medicalTypeColIndexWithCR !== -1) {
-            console.warn("Found '醫療屬性\\r' in header. Consider cleaning your CSV to remove carriage returns.");
-            // If the header has a '\r', we need to match it, but then trim the value later.
-            // For robustness, it's better to clean the CSV header or handle specific cases.
-            // For now, let's use the index with '\r' if that's what's present.
-            // The value extraction below already uses .trim() which handles this.
-            // For simplicity, let's just make sure the initial search is flexible.
-            // Let's stick to the common case '醫療屬性' and add a more robust check later if needed.
+    // More robust way to find '醫療屬性' header by trimming each header cell
+    let medicalTypeColIndex = -1;
+    for (let i = 0; i < header.length; i++) {
+        if (header[i].trim() === '醫療屬性') {
+            medicalTypeColIndex = i;
+            break;
         }
     }
 
-
-    if (graduationDateColIndex === -1 || specialtyColIndex === -1 || medicalLevelColIndex === -1 || medicalTypeColIndex === -1) { // Added medicalTypeColIndex check
+    if (graduationDateColIndex === -1 || specialtyColIndex === -1 || medicalLevelColIndex === -1 || medicalTypeColIndex === -1) {
         console.error("CSV header missing required columns: '畢業證書發證日期', '執業科別', '醫療層級', or '醫療屬性'");
         return [];
     }
@@ -56,17 +49,17 @@ function parseData(csvData) {
             const rawGradDate = columns[graduationDateColIndex].trim();
             const specialty = columns[specialtyColIndex].trim();
             const medicalLevel = columns[medicalLevelColIndex].trim();
-            const medicalType = columns[medicalTypeColIndex].trim(); // NEW: Extract medical type
+            const medicalType = columns[medicalTypeColIndex].trim(); // Extract medical type
 
-            if (rawGradDate && specialty && medicalLevel && medicalType) { // Added medicalType check
+            if (rawGradDate && specialty && medicalLevel && medicalType) {
                 const parts = rawGradDate.split('/');
                 if (parts.length === 3) {
                     const rocYear = parseInt(parts[0]);
                     const gregorianYear = rocYear + 1911;
-                    parsedData.push({ year: gregorianYear, specialty: specialty, medicalLevel: medicalLevel, medicalType: medicalType }); // NEW: Add medicalType to parsed data
+                    parsedData.push({ year: gregorianYear, specialty: specialty, medicalLevel: medicalLevel, medicalType: medicalType });
                     allSpecialties.add(specialty);
                     allMedicalLevels.add(medicalLevel);
-                    allMedicalTypes.add(medicalType); // NEW: Add medical type to set
+                    allMedicalTypes.add(medicalType);
                 } else {
                     console.warn(`Skipping row due to malformed date: ${rawGradDate} in line: ${line}`);
                 }
@@ -96,22 +89,19 @@ function generateConsistentColors(specialties) {
     return specialtyColorMap;
 }
 
-function generateMedicalLevelColors(medicalLevels) { // Renamed parameter for clarity
+function generateMedicalLevelColors(medicalLevels) {
     const baseColors = [
         '#A7D1A9', '#E18A8A', '#C39ED0', '#F0E68C', '#77A1D3'
     ];
-    const colorMap = {}; // Changed to colorMap
-    const sortedLevels = Array.from(medicalLevels).sort(); // Renamed sortedSpecialties to sortedLevels
-    sortedLevels.forEach((level, index) => { // Renamed spec to level
+    const colorMap = {};
+    const sortedLevels = Array.from(medicalLevels).sort();
+    sortedLevels.forEach((level, index) => {
         colorMap[level] = baseColors[index % baseColors.length];
     });
     return colorMap;
 }
 
-// NEW: Color generation function for medical types
 function generateMedicalTypeColors(medicalTypes) {
-    // You can choose different colors or reuse some from existing palettes.
-    // For distinctiveness, I'll provide 5 new colors. Adjust as needed.
     const baseColors = [
         '#FF9999', // Light Red/Coral
         '#99CCFF', // Light Blue
@@ -127,9 +117,7 @@ function generateMedicalTypeColors(medicalTypes) {
     return colorMap;
 }
 
-
 // --- PIE CHART FUNCTIONS (Existing) ---
-
 function aggregateDataForPieChart(dataToAggregate, selectedYear) {
     const aggregated = {};
     let filteredData = dataToAggregate;
@@ -167,7 +155,6 @@ function updatePieChart(aggregatedSpecialties, selectedYearText) {
     }));
 
     const sortedDataPoints = rawDataPoints.sort((a, b) => a.label.localeCompare(b.label, 'zh-Hans-CN', {sensitivity: 'base'}));
-
 
     sortedDataPoints.forEach(d => {
         const percentage = (d.value / totalCount) * 100;
@@ -209,21 +196,20 @@ function updatePieChart(aggregatedSpecialties, selectedYearText) {
         title: {
             text: `<b>${selectedYearText}畢業生執業科別分佈</b>`,
             font: { size: 24 },
-            y: 0.92
+            y: 0.95
         },
-        height: 580,
-        width: 480,
-        margin: { t: 0, b: 80, l: 80, r: 80 },
+        height: 560,
+        // width: 480, // Plotly's internal width - CSS handles the container size
+        margin: { t: 50, b: 80, l: 80, r: 80 },
         showlegend: false,
-        uniformtext: { minsize: 10, mode: 'hide' }
+        uniformtext: { minsize: 10, mode: 'hide' },
+        autosize: true // Crucial for responsiveness
     };
 
     Plotly.newPlot('pie-chart-plot', data, layout, { responsive: true });
 }
 
-
 // --- BAR CHART FUNCTIONS (Existing) ---
-
 function aggregateDataForBarChart(allData) {
     const dataByYear = {};
 
@@ -279,8 +265,8 @@ function updateBarChart(aggregatedDataByYear) {
         },
         barmode: 'stack',
         height: 550,
-        width: 820,
-        margin: { t: 80, b: 80, l: 80, r: 80 },
+        // width: 820, // Plotly's internal width
+        margin: { t: 50, b: 80, l: 80, r: 80 },
         showlegend: true,
         legend: {
             orientation: "v", x: 1, y: 1, xref: 'paper', yref: 'paper',
@@ -289,9 +275,12 @@ function updateBarChart(aggregatedDataByYear) {
         },
         xaxis: {
             title: '畢業年份', type: 'category', tickmode: 'array',
-            tickvals: years.map(Number), ticktext: years, automargin: true
+            tickvals: years.filter((_, i) => i % 5 === 0).map(Number), // Only every 5th year's value
+            ticktext: years.filter((_, i) => i % 5 === 0), 
+            automargin: true
         },
-        yaxis: { title: '佔比 (%)', range: [0, 100], tickformat: '.0f', ticksuffix: '%' }
+        yaxis: { title: '佔比 (%)', range: [0, 100], tickformat: '.0f', ticksuffix: '%' },
+        autosize: true // Crucial for responsiveness
     };
 
     const finalPlotData = [];
@@ -311,114 +300,6 @@ function updateBarChart(aggregatedDataByYear) {
     });
 
     Plotly.newPlot('bar-chart-plot', finalPlotData, layout, { responsive: true });
-}
-
-
-// --- MAIN EXECUTION ---
-
-async function main() {
-    try {
-        const csvData = await fetchData();
-        allParsedData = parseData(csvData);
-
-        if (allParsedData.length === 0) {
-            document.getElementById('pie-chart-plot').innerHTML = '<p>No data to display. Check CSV file or parsing logic.</p>';
-            document.getElementById('bar-chart-plot').innerHTML = '<p>No data to display. Check CSV file or parsing logic.</p>';
-            document.getElementById('medical-level-pie-chart-plot').innerHTML = '<p>No data to display. Check CSV file or parsing logic.</p>';
-            document.getElementById('medical-level-bar-chart-plot').innerHTML = '<p>No data to display. Check CSV file or parsing logic.</p>';
-            document.getElementById('medical-type-pie-chart-plot').innerHTML = '<p>No data to display. Check CSV file or parsing logic.</p>'; // NEW
-            document.getElementById('medical-type-bar-chart-plot').innerHTML = '<p>No data to display. Check CSV file or parsing logic.</p>'; // NEW
-
-            return;
-        }
-
-        specialtyColors = generateConsistentColors(allSpecialties);
-        medicalLevelColors = generateMedicalLevelColors(allMedicalLevels);
-        medicalTypeColors = generateMedicalTypeColors(allMedicalTypes); // NEW: Generate colors for medical types
-
-        const yearSelect = document.getElementById('year-select');
-        const uniqueYears = Array.from(new Set(allParsedData.map(item => item.year))).sort((a, b) => a - b);
-
-        let allOption = document.createElement('option');
-        allOption.value = 'all';
-        allOption.textContent = '所有年份';
-        yearSelect.appendChild(allOption);
-
-        uniqueYears.forEach(year => {
-            let option = document.createElement('option');
-            option.value = year;
-            option.textContent = year;
-            yearSelect.appendChild(option);
-        });
-
-        yearSelect.addEventListener('change', (event) => {
-            const selectedYear = event.target.value;
-            const selectedYearText = selectedYear === 'all' ? '所有年份' : `${selectedYear}年`;
-
-            // Update specialty charts
-            const aggregatedPieData = aggregateDataForPieChart(allParsedData, selectedYear);
-            updatePieChart(aggregatedPieData, selectedYearText);
-
-            // Update medical level charts
-            const aggregatedMedicalLevelPieData = aggregateDataForMedicalLevelPieChart(allParsedData, selectedYear);
-            updateMedicalLevelPieChart(aggregatedMedicalLevelPieData, selectedYearText);
-
-            // NEW: Update medical type charts
-            const aggregatedMedicalTypePieData = aggregateDataForMedicalTypePieChart(allParsedData, selectedYear);
-            updateMedicalTypePieChart(aggregatedMedicalTypePieData, selectedYearText);
-        });
-
-        // Initial plot displays for all charts
-        const initialAggregatedPieData = aggregateDataForPieChart(allParsedData, 'all');
-        updatePieChart(initialAggregatedPieData, '所有年份');
-
-        const aggregatedBarData = aggregateDataForBarChart(allParsedData);
-        updateBarChart(aggregatedBarData);
-
-        const initialAggregatedMedicalLevelPieData = aggregateDataForMedicalLevelPieChart(allParsedData, 'all');
-        updateMedicalLevelPieChart(initialAggregatedMedicalLevelPieData, '所有年份');
-
-        const aggregatedMedicalLevelBarData = aggregateDataForMedicalLevelBarChart(allParsedData);
-        updateMedicalLevelBarChart(aggregatedMedicalLevelBarData);
-
-        // NEW: Initial plot displays for medical type charts
-        const initialAggregatedMedicalTypePieData = aggregateDataForMedicalTypePieChart(allParsedData, 'all');
-        updateMedicalTypePieChart(initialAggregatedMedicalTypePieData, '所有年份');
-
-        const aggregatedMedicalTypeBarData = aggregateDataForMedicalTypeBarChart(allParsedData);
-        updateMedicalTypeBarChart(aggregatedMedicalTypeBarData);
-
-
-    } catch (error) {
-        console.error("Error in main function:", error);
-        const pieChartDiv = document.getElementById('pie-chart-plot');
-        const barChartDiv = document.getElementById('bar-chart-plot');
-        const medicalLevelPieChartDiv = document.getElementById('medical-level-pie-chart-plot');
-        const medicalLevelBarChartDiv = document.getElementById('medical-level-bar-chart-plot');
-        const medicalTypePieChartDiv = document.getElementById('medical-type-pie-chart-plot'); // NEW
-        const medicalTypeBarChartDiv = document.getElementById('medical-type-bar-chart-plot'); // NEW
-
-
-        if (pieChartDiv) {
-            pieChartDiv.innerHTML = `<p style="color:red; text-align: center;">圓餅圖數據載入或處理錯誤: ${error.message}。請檢查控制台獲取更多詳情。</p>`;
-        }
-        if (barChartDiv) {
-            barChartDiv.innerHTML = `<p style="color:red; text-align: center;">長條圖數據載入或處理錯誤: ${error.message}。請檢查控制台獲取更多詳情。</p>`;
-        }
-        if (medicalLevelPieChartDiv) {
-            medicalLevelPieChartDiv.innerHTML = `<p style="color:red; text-align: center;">醫療層級圓餅圖數據載入或處理錯誤: ${error.message}。請檢查控制台獲取更多詳情。</p>`;
-        }
-        if (medicalLevelBarChartDiv) {
-            medicalLevelBarChartDiv.innerHTML = `<p style="color:red; text-align: center;">醫療層級長條圖數據載入或處理錯誤: ${error.message}。請檢查控制台獲取更多詳情。</p>`;
-        }
-        // NEW: Error messages for medical type charts
-        if (medicalTypePieChartDiv) {
-            medicalTypePieChartDiv.innerHTML = `<p style="color:red; text-align: center;">醫療屬性圓餅圖數據載入或處理錯誤: ${error.message}。請檢查控制台獲取更多詳情。</p>`;
-        }
-        if (medicalTypeBarChartDiv) {
-            medicalTypeBarChartDiv.innerHTML = `<p style="color:red; text-align: center;">醫療屬性長條圖數據載入或處理錯誤: ${error.message}。請檢查控制台獲取更多詳情。</p>`;
-        }
-    }
 }
 
 // --- MEDICAL LEVEL PIE CHART FUNCTIONS (Existing) ---
@@ -474,13 +355,14 @@ function updateMedicalLevelPieChart(aggregatedMedicalLevels, selectedYearText) {
         title: {
             text: `<b>${selectedYearText}畢業生醫療層級分佈</b>`,
             font: { size: 24 },
-            y: 0.92
+            y: 0.95
         },
         height: 580,
-        width: 480,
-        margin: { t: 0, b: 80, l: 80, r: 80 },
+        //width: 480, // Plotly's internal width
+        margin: { t: 50, b: 80, l: 80, r: 80 },
         showlegend: false,
-        uniformtext: { minsize: 10, mode: 'hide' }
+        uniformtext: { minsize: 10, mode: 'hide' },
+        autosize: true // Crucial for responsiveness
     };
 
     Plotly.newPlot('medical-level-pie-chart-plot', data, layout, { responsive: true });
@@ -542,7 +424,7 @@ function updateMedicalLevelBarChart(aggregatedDataByYear) {
         },
         barmode: 'stack',
         height: 550,
-        width: 820,
+        //width: 820, // Plotly's internal width
         margin: { t: 80, b: 80, l: 80, r: 80 },
         showlegend: true,
         legend: {
@@ -552,9 +434,12 @@ function updateMedicalLevelBarChart(aggregatedDataByYear) {
         },
         xaxis: {
             title: '畢業年份', type: 'category', tickmode: 'array',
-            tickvals: years.map(Number), ticktext: years, automargin: true
+            tickvals: years.filter((_, i) => i % 5 === 0).map(Number), // Only every 5th year's value
+            ticktext: years.filter((_, i) => i % 5 === 0), 
+            automargin: true
         },
-        yaxis: { title: '佔比 (%)', range: [0, 100], tickformat: '.0f', ticksuffix: '%' }
+        yaxis: { title: '佔比 (%)', range: [0, 100], tickformat: '.0f', ticksuffix: '%' },
+        autosize: true // Crucial for responsiveness
     };
 
     const finalPlotData = [];
@@ -575,7 +460,6 @@ function updateMedicalLevelBarChart(aggregatedDataByYear) {
 
     Plotly.newPlot('medical-level-bar-chart-plot', finalPlotData, layout, { responsive: true });
 }
-
 
 // --- NEW: MEDICAL TYPE PIE CHART FUNCTIONS ---
 function aggregateDataForMedicalTypePieChart(dataToAggregate, selectedYear) {
@@ -620,7 +504,7 @@ function updateMedicalTypePieChart(aggregatedMedicalTypes, selectedYearText) {
         textinfo: 'label+percent',
         insidetextorientation: 'radial',
         marker: {
-            colors: sortedDataPoints.map(d => medicalTypeColors[d.label]), // Use medicalTypeColors
+            colors: sortedDataPoints.map(d => medicalTypeColors[d.label]),
             line: { color: 'white', width: 1 }
         },
         name: '醫療屬性分佈'
@@ -630,13 +514,14 @@ function updateMedicalTypePieChart(aggregatedMedicalTypes, selectedYearText) {
         title: {
             text: `<b>${selectedYearText}畢業生醫療屬性分佈</b>`,
             font: { size: 24 },
-            y: 0.92
+            y: 0.95
         },
-        height: 580,
-        width: 480,
-        margin: { t: 0, b: 80, l: 80, r: 80 },
+        height: 560,
+        //width: 480, // Plotly's internal width
+        margin: { t: 80, b: 80, l: 80, r: 80 },
         showlegend: false,
-        uniformtext: { minsize: 10, mode: 'hide' }
+        uniformtext: { minsize: 10, mode: 'hide' },
+        autosize: true // Crucial for responsiveness
     };
 
     Plotly.newPlot('medical-type-pie-chart-plot', data, layout, { responsive: true });
@@ -698,7 +583,7 @@ function updateMedicalTypeBarChart(aggregatedDataByYear) {
         },
         barmode: 'stack',
         height: 550,
-        width: 820,
+        //width: 820, // Plotly's internal width
         margin: { t: 80, b: 80, l: 80, r: 80 },
         showlegend: true,
         legend: {
@@ -708,9 +593,12 @@ function updateMedicalTypeBarChart(aggregatedDataByYear) {
         },
         xaxis: {
             title: '畢業年份', type: 'category', tickmode: 'array',
-            tickvals: years.map(Number), ticktext: years, automargin: true
+            tickvals: years.filter((_, i) => i % 5 === 0).map(Number), // Only every 5th year's value
+            ticktext: years.filter((_, i) => i % 5 === 0), 
+            automargin: true
         },
-        yaxis: { title: '佔比 (%)', range: [0, 100], tickformat: '.0f', ticksuffix: '%' }
+        yaxis: { title: '佔比 (%)', range: [0, 100], tickformat: '.0f', ticksuffix: '%' },
+        autosize: true // Crucial for responsiveness
     };
 
     const finalPlotData = [];
@@ -725,11 +613,96 @@ function updateMedicalTypeBarChart(aggregatedDataByYear) {
         finalPlotData.push({
             x: trace.x, y: percentages, name: trace.name, type: 'bar',
             marker: trace.marker, customdata: trace.customdata,
-            hovertemplate: '年份: %{x}<br>屬性: %{customdata[0]}<br>佔比: %{y:.2f}%<extra></extra>' // Hover template for medical type
+            hovertemplate: '年份: %{x}<br>屬性: %{customdata[0]}<br>佔比: %{y:.2f}%<extra></extra>'
         });
     });
 
     Plotly.newPlot('medical-type-bar-chart-plot', finalPlotData, layout, { responsive: true });
 }
 
-document.addEventListener('DOMContentLoaded', main);
+document.addEventListener('DOMContentLoaded', async () => {
+    try {
+        const csvData = await fetchData();
+        allParsedData = parseData(csvData);
+
+        // Populate year dropdown
+        const years = [...new Set(allParsedData.map(d => d.year))].sort((a, b) => b - a);
+        const yearSelect = document.getElementById('year-select');
+        yearSelect.innerHTML = '<option value="all">所有年份</option>'; // Add "All Years" option
+        years.forEach(year => {
+            const option = document.createElement('option');
+            option.value = year;
+            option.textContent = year;
+            yearSelect.appendChild(option);
+        });
+
+        // Generate colors after all specialties/levels/types are collected
+        specialtyColors = generateConsistentColors(allSpecialties);
+        medicalLevelColors = generateMedicalLevelColors(allMedicalLevels);
+        medicalTypeColors = generateMedicalTypeColors(allMedicalTypes);
+
+        // Initial plot updates for the default "All Years" or latest year
+        const initialYear = yearSelect.value;
+        const initialYearText = initialYear === 'all' ? '所有年份' : `${initialYear}年`;
+
+        const aggregatedSpecialties = aggregateDataForPieChart(allParsedData, initialYear);
+        updatePieChart(aggregatedSpecialties, initialYearText);
+
+        const aggregatedMedicalLevels = aggregateDataForMedicalLevelPieChart(allParsedData, initialYear);
+        updateMedicalLevelPieChart(aggregatedMedicalLevels, initialYearText);
+
+        const aggregatedMedicalTypes = aggregateDataForMedicalTypePieChart(allParsedData, initialYear);
+        updateMedicalTypePieChart(aggregatedMedicalTypes, initialYearText);
+
+        const aggregatedBarDataSpecialty = aggregateDataForBarChart(allParsedData);
+        updateBarChart(aggregatedBarDataSpecialty);
+
+        const aggregatedBarDataMedicalLevel = aggregateDataForMedicalLevelBarChart(allParsedData);
+        updateMedicalLevelBarChart(aggregatedBarDataMedicalLevel);
+
+        const aggregatedBarDataMedicalType = aggregateDataForMedicalTypeBarChart(allParsedData);
+        updateMedicalTypeBarChart(aggregatedBarDataMedicalType);
+
+        // Add event listener for year selection
+        yearSelect.addEventListener('change', (event) => {
+            const selectedYear = event.target.value;
+            const selectedYearText = selectedYear === 'all' ? '所有年份' : `${selectedYear}年`;
+
+            const newAggregatedSpecialties = aggregateDataForPieChart(allParsedData, selectedYear);
+            updatePieChart(newAggregatedSpecialties, selectedYearText);
+
+            const newAggregatedMedicalLevels = aggregateDataForMedicalLevelPieChart(allParsedData, selectedYear);
+            updateMedicalLevelPieChart(newAggregatedMedicalLevels, selectedYearText);
+
+            const newAggregatedMedicalTypes = aggregateDataForMedicalTypePieChart(allParsedData, selectedYear);
+            updateMedicalTypePieChart(newAggregatedMedicalTypes, selectedYearText);
+            // Bar charts don't change with year select, as they show all years
+        });
+
+        // Add resize listener for Plotly charts
+        window.addEventListener('resize', () => {
+            // Re-call Plotly.newPlot with current data to trigger redraw and responsiveness
+            const currentYear = yearSelect.value;
+            const currentYearText = currentYear === 'all' ? '所有年份' : `${currentYear}年`;
+
+            updatePieChart(aggregateDataForPieChart(allParsedData, currentYear), currentYearText);
+            updateBarChart(aggregateDataForBarChart(allParsedData));
+
+            updateMedicalLevelPieChart(aggregateDataForMedicalLevelPieChart(allParsedData, currentYear), currentYearText);
+            updateMedicalLevelBarChart(aggregateDataForMedicalLevelBarChart(allParsedData));
+
+            updateMedicalTypePieChart(aggregateDataForMedicalTypePieChart(allParsedData, currentYear), currentYearText);
+            updateMedicalTypeBarChart(aggregateDataForMedicalTypeBarChart(allParsedData));
+        });
+
+    } catch (error) {
+        console.error('Error during data fetching or processing:', error);
+        // Display a user-friendly error message on the page
+        document.getElementById('pie-chart-plot').innerHTML = '<p style="color: red;">載入數據失敗，請檢查 CSV 文件路徑或格式。</p>';
+        document.getElementById('bar-chart-plot').innerHTML = '<p style="color: red;">載入數據失敗。</p>';
+        document.getElementById('medical-level-pie-chart-plot').innerHTML = '<p style="color: red;">載入數據失敗。</p>';
+        document.getElementById('medical-level-bar-chart-plot').innerHTML = '<p style="color: red;">載入數據失敗。</p>';
+        document.getElementById('medical-type-pie-chart-plot').innerHTML = '<p style="color: red;">載入數據失敗。</p>';
+        document.getElementById('medical-type-bar-chart-plot').innerHTML = '<p style="color: red;">載入數據失敗。</p>';
+    }
+});
