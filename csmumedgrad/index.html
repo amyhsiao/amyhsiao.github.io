@@ -12,6 +12,7 @@
             width: 100%;
             height: 100%;
             overflow-x: hidden;
+            scroll-behavior: smooth; /* Added for smooth scrolling */
         }
         body {
             font-family: 'Arial', 'Microsoft JhengHei', '微軟正黑體', 'PingFang TC', sans-serif;
@@ -123,9 +124,79 @@
                 width: 100%;
             }
         }
+
+        /* Sidebar Styles */
+        .sidebar {
+            position: fixed;
+            top: 50%;
+            left: 0;
+            transform: translateY(-50%) translateX(-100%); /* Initially hide the sidebar completely */
+            background-color: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(5px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            border-radius: 0 15px 15px 0;
+            z-index: 1000;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            display: flex;
+            flex-direction: column;
+            padding: 10px 5px 10px 10px;
+        }
+
+        .sidebar:hover {
+            transform: translateY(-50%) translateX(0); /* Reveal on hover */
+            box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+        }
+
+        .sidebar a {
+            text-decoration: none;
+            color: #1f77b4;
+            padding: 15px 20px 15px 15px; /* More padding for text */
+            margin: 5px 0;
+            border-radius: 10px;
+            text-align: left; /* Align text to the left */
+            font-weight: bold;
+            transition: background-color 0.3s ease, color 0.3s ease;
+            white-space: nowrap; /* Prevent text wrapping */
+        }
+
+        .sidebar a:hover {
+            background-color: #e0f2f7;
+            color: #115a8c;
+        }
+
+        .sidebar-handle {
+            position: absolute;
+            top: 50%;
+            right: -15px; /* Position it to the right of the sidebar */
+            transform: translateY(-50%);
+            width: 15px;
+            height: 50px;
+            background-color: rgba(255, 255, 255, 0.9);
+            border-radius: 0 10px 10px 0;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .sidebar-handle::after {
+            content: '';
+            width: 0;
+            height: 0;
+            border-style: solid;
+            border-width: 6px 0 6px 6px;
+            border-color: transparent transparent transparent #1f77b4;
+        }
     </style>
 </head>
 <body>
+
+    <div class="sidebar">
+        <div class="sidebar-handle"></div>
+        <a href="#section-specialty">科別分佈</a>
+        <a href="#section-level">層級分佈</a>
+        <a href="#section-type">屬性分佈</a>
+    </div>
 
     <h1>中山醫學大學醫學系畢業生職涯數據分析</h1>
     <div class="dashboard-controls">
@@ -134,7 +205,7 @@
         </select>
     </div>
 
-    <h2 class="section-title">執業科別分佈分析</h2>
+    <h2 id="section-specialty" class="section-title">執業科別分佈分析</h2>
     <div class="plots-container">
         <div class="plot-item plot-item-pie-small">
             <div id="pie-chart-plot">
@@ -149,7 +220,7 @@
         </div>
     </div>
 
-    <h2 class="section-title">醫療層級分佈分析</h2>
+    <h2 id="section-level" class="section-title">醫療層級分佈分析</h2>
     <div class="plots-container">
         <div class="plot-item plot-item-pie-small">
             <div id="medical-level-pie-chart-plot">
@@ -164,7 +235,7 @@
         </div>
     </div>
 
-    <h2 class="section-title">醫療屬性分佈分析</h2>
+    <h2 id="section-type" class="section-title">醫療屬性分佈分析</h2>
     <div class="plots-container">
         <div class="plot-item plot-item-pie-small">
             <div id="medical-type-pie-chart-plot">
