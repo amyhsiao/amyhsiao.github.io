@@ -8,6 +8,14 @@
         "retailer": "Watsons"
     },
     {
+        "name": "綠油精Green Oil 10g",
+        "brand": "新萬仁",
+        "price": 145.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-912372-front-prodcat.jpg?version=1732159410",
+        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
+        "retailer": "Watsons"
+    },
+    {
         "name": "巴黎萊雅溫和眼唇卸粧液125ML",
         "brand": "L`OREAL PARIS 巴黎萊雅",
         "price": 379.0,
@@ -20,14 +28,6 @@
         "brand": "Watsons 屈臣氏",
         "price": 749.0,
         "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-153259-side-prodcat.jpg?version=1762881685",
-        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "綠油精Green Oil 10g",
-        "brand": "新萬仁",
-        "price": 145.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-912372-front-prodcat.jpg?version=1732159410",
         "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
         "retailer": "Watsons"
     },
@@ -64,18 +64,18 @@
         "retailer": "Watsons"
     },
     {
-        "name": "Biore深層卸粧棉補充包46入",
-        "brand": "Biore 蜜妮",
-        "price": 74.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-171049-front-prodcat.jpg?version=1758041934",
-        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
-        "retailer": "Watsons"
-    },
-    {
         "name": "桂格養氣人蔘60ml*19入",
         "brand": "Quaker 桂格",
         "price": 989.0,
         "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-184029-front-prodcat.jpg?version=1748018436",
+        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "Biore深層卸粧棉補充包46入",
+        "brand": "Biore 蜜妮",
+        "price": 74.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-171049-front-prodcat.jpg?version=1758041934",
         "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
         "retailer": "Watsons"
     },
@@ -96,14 +96,6 @@
         "retailer": "Watsons"
     },
     {
-        "name": "凡士林經典滋潤護唇膏 4.8g",
-        "brand": "Vaseline 凡士林",
-        "price": 59.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-256168-front-prodcat.jpg?version=1762361731",
-        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
-        "retailer": "Watsons"
-    },
-    {
         "name": "桂格養氣人蔘 6瓶裝",
         "brand": "Quaker 桂格",
         "price": 319.0,
@@ -112,10 +104,10 @@
         "retailer": "Watsons"
     },
     {
-        "name": "綠油精Green Oil 5g",
-        "brand": "新萬仁",
-        "price": 85.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-948121-front-prodcat.jpg?version=1732159394",
+        "name": "凡士林經典滋潤護唇膏 4.8g",
+        "brand": "Vaseline 凡士林",
+        "price": 59.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-256168-front-prodcat.jpg?version=1762361731",
         "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
         "retailer": "Watsons"
     },
@@ -144,18 +136,18 @@
         "retailer": "Watsons"
     },
     {
-        "name": "保麗淨假牙黏著劑60g-清新薄荷",
-        "brand": "保麗淨",
-        "price": 329.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-164380-front-prodcat.jpg?version=1740242680",
-        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
-        "retailer": "Watsons"
-    },
-    {
         "name": "桂格養氣人蔘無糖配方60ml*6入",
         "brand": "Quaker 桂格",
         "price": 329.0,
         "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-959547-front-prodcat.jpg?version=1755022043",
+        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "保麗淨假牙黏著劑60g-清新薄荷",
+        "brand": "保麗淨",
+        "price": 329.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-164380-front-prodcat.jpg?version=1740242680",
         "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
         "retailer": "Watsons"
     },
@@ -193,7 +185,7 @@
     },
     {
         "name": "潘婷乳液修護洗髮露650G",
-        "brand": "PANTENE 潘婷",
+        "brand": "PANTENE",
         "price": 199.0,
         "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-134222-front-prodcat.jpg?version=1759427491",
         "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
@@ -217,9 +209,17 @@
     },
     {
         "name": "潘婷乳液修護潤髮精華素650G",
-        "brand": "PANTENE 潘婷",
+        "brand": "PANTENE",
         "price": 199.0,
         "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-134335-front-prodcat.jpg?version=1759423240",
+        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "潘婷絲質順滑洗髮露650G",
+        "brand": "PANTENE",
+        "price": 199.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-134324-front-prodcat.jpg?version=1759423245",
         "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
         "retailer": "Watsons"
     },
@@ -232,10 +232,10 @@
         "retailer": "Watsons"
     },
     {
-        "name": "潘婷絲質順滑洗髮露650G",
-        "brand": "PANTENE 潘婷",
+        "name": "靠得住草本抑菌23cm 14片3包",
+        "brand": "KOTEX靠得住",
         "price": 199.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-134324-front-prodcat.jpg?version=1759423245",
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-226539-front-prodcat.jpg?version=1731568573",
         "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
         "retailer": "Watsons"
     },
@@ -248,26 +248,18 @@
         "retailer": "Watsons"
     },
     {
-        "name": "靠得住草本抑菌23cm 14片3包",
-        "brand": "KOTEX靠得住",
-        "price": 199.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-226539-front-prodcat.jpg?version=1731568573",
-        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "DHC 維他命C+B2(30日份)-60粒",
-        "brand": "DHC",
-        "price": 199.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-903185-front-prodcat.jpg?version=1757783090",
-        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
-        "retailer": "Watsons"
-    },
-    {
         "name": "高露潔纖柔超細纖毛牙刷 3入",
         "brand": "高露潔Colgate",
         "price": 55.0,
         "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-582926-front-prodcat.jpg?version=1760635632",
+        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "潘婷絲質順滑潤髮精華素650G",
+        "brand": "PANTENE",
+        "price": 199.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-134426-front-prodcat.jpg?version=1759427486",
         "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
         "retailer": "Watsons"
     },
@@ -280,10 +272,10 @@
         "retailer": "Watsons"
     },
     {
-        "name": "靠得住晚安好眠褲XL號2片 (新舊包裝隨機出貨)",
-        "brand": "KOTEX靠得住",
-        "price": 99.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-266277-front-prodcat.jpg?version=1732037263",
+        "name": "飛柔滋養修護免沖洗瞬效護髮精華380g",
+        "brand": "飛柔 PERT",
+        "price": 169.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-216207-front-prodcat.jpg?version=1731485241",
         "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
         "retailer": "Watsons"
     },
@@ -304,50 +296,10 @@
         "retailer": "Watsons"
     },
     {
-        "name": "飛柔滋養修護免沖洗瞬效護髮精華380g",
-        "brand": "飛柔 PERT",
-        "price": 169.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-216207-front-prodcat.jpg?version=1731485241",
-        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
-        "retailer": "Watsons"
-    },
-    {
         "name": "蘇菲彈力貼身超薄日用潔翼23cm 12片4入",
         "brand": "蘇菲",
-        "price": 149.0,
+        "price": 139.0,
         "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-284170-front-prodcat.jpg?version=1732077929",
-        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "Hair Recipe 日本髮的食譜蘋果生薑防斷修護洗髮露530ML",
-        "brand": "HAIR RECIPE",
-        "price": 299.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-186676-front-prodcat.jpg?version=1742921732",
-        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "蘇菲 彈力貼身日用量少潔翼 17.5cm 16片3包",
-        "brand": "蘇菲",
-        "price": 69.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-127024-front-prodcat.jpg?version=1730948562",
-        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "Biore 深層卸粧乳180ml",
-        "brand": "Biore 蜜妮",
-        "price": 258.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-170382-front-prodcat.jpg?version=1759509712",
-        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "海倫仙度絲舒緩去屑洗髮露 小蒼蘭680g",
-        "brand": "海倫仙度絲",
-        "price": 249.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-171887-front-prodcat.jpg?version=1744130640",
         "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
         "retailer": "Watsons"
     },
@@ -360,26 +312,50 @@
         "retailer": "Watsons"
     },
     {
-        "name": "潘婷絲質順滑潤髮精華素650G",
-        "brand": "PANTENE 潘婷",
+        "name": "靠得住晚安好眠褲XL號2片 (新舊包裝隨機出貨)",
+        "brand": "KOTEX靠得住",
+        "price": 99.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-266277-front-prodcat.jpg?version=1732037263",
+        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "Biore 深層卸粧乳180ml",
+        "brand": "Biore 蜜妮",
+        "price": 258.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-170382-front-prodcat.jpg?version=1759509712",
+        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "蘇菲 彈力貼身日用量少潔翼 17.5cm 16片3包",
+        "brand": "蘇菲",
+        "price": 69.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-127024-front-prodcat.jpg?version=1730948562",
+        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "紐力活葡萄糖胺液946ml/瓶",
+        "brand": "NEUEVO紐力活",
+        "price": 899.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-956957-front-prodcat.jpg?version=1732163830",
+        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "Hair Recipe 日本髮的食譜蘋果生薑防斷修護洗髮露530ML",
+        "brand": "HAIR RECIPE",
+        "price": 299.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-186676-front-prodcat.jpg?version=1742921732",
+        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "DHC 維他命C+B2(30日份)-60粒",
+        "brand": "DHC",
         "price": 199.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-134426-front-prodcat.jpg?version=1759427486",
-        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "海昌美麗主張無汞生理緩衝液720ml (360mlX2罐)",
-        "brand": "HYDRON 海昌",
-        "price": 59.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-208399-front-prodcat.jpg?version=1731467021",
-        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "營養師輕食 台灣01益生菌 30條/包",
-        "brand": "DIETICIAN",
-        "price": 1580.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-288924-front-prodcat.jpg?version=1752167471",
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-903185-front-prodcat.jpg?version=1757783090",
         "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
         "retailer": "Watsons"
     },
@@ -392,10 +368,18 @@
         "retailer": "Watsons"
     },
     {
-        "name": "白蘭氏雙認證雞精12入-箱購",
-        "brand": "白蘭氏",
-        "price": 619.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-946181-front-prodcat.jpg?version=1732382112",
+        "name": "飛柔滋潤去屑洗髮露 750g",
+        "brand": "飛柔 PERT",
+        "price": 139.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-257588-front-prodcat.jpg?version=1731702503",
+        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "海昌美麗主張無汞生理緩衝液720ml (360mlX2罐)",
+        "brand": "HYDRON 海昌",
+        "price": 59.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-208399-front-prodcat.jpg?version=1731467021",
         "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
         "retailer": "Watsons"
     },
@@ -404,14 +388,6 @@
         "brand": "KOTEX靠得住",
         "price": 139.0,
         "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-226541-front-prodcat.jpg?version=1731571699",
-        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "飛柔滋潤去屑洗髮露 750g",
-        "brand": "飛柔 PERT",
-        "price": 139.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-257588-front-prodcat.jpg?version=1731702503",
         "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
         "retailer": "Watsons"
     },
@@ -448,10 +424,10 @@
         "retailer": "Watsons"
     },
     {
-        "name": "歐樂B 50M牙線無蠟 2入",
-        "brand": "歐樂B Oral-B",
-        "price": 128.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-531110-front-prodcat.jpg?version=1732161653",
+        "name": "海倫仙度絲舒緩去屑洗髮露 小蒼蘭680g",
+        "brand": "海倫仙度絲",
+        "price": 249.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-171887-front-prodcat.jpg?version=1744130640",
         "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
         "retailer": "Watsons"
     },
@@ -472,42 +448,26 @@
         "retailer": "Watsons"
     },
     {
-        "name": "DARLIE好來全亮白+密泡小蘇打蘆薈小清新牙膏 1+2超值組(140g*1+90g*2)",
-        "brand": "Darlie 好來",
-        "price": 109.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-299273-front-prodcat.jpg?version=1754071357",
+        "name": "白蘭氏雙認證雞精12入-箱購",
+        "brand": "白蘭氏",
+        "price": 619.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-946181-front-prodcat.jpg?version=1732382112",
         "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
         "retailer": "Watsons"
     },
     {
-        "name": "紐力活葡萄糖胺液946ml/瓶",
-        "brand": "NEUEVO紐力活",
-        "price": 899.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-956957-front-prodcat.jpg?version=1732163830",
+        "name": "營養師輕食 台灣01益生菌 30條/包",
+        "brand": "DIETICIAN",
+        "price": 1580.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-288924-front-prodcat.jpg?version=1752167471",
         "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
         "retailer": "Watsons"
     },
     {
-        "name": "巴黎萊雅完美淨白淨白潔面露100ML",
-        "brand": "L`OREAL PARIS 巴黎萊雅",
-        "price": 109.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-378996-front-prodcat.jpg?version=1755021861",
-        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "妮維雅夜間亮白保濕修護乳液180ml",
-        "brand": "NIVEA 妮維雅",
-        "price": 339.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-278207-front-8oXV02C3-prodcat.png?version=1762963505",
-        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "妮維雅極淨深層眼部卸妝液125ml",
-        "brand": "NIVEA 妮維雅",
-        "price": 359.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-113279-front-prodcat.jpg?version=1741711469",
+        "name": "小蜜媞 修護唇膏 10g",
+        "brand": "CARMEX小蜜媞",
+        "price": 99.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-902594-front-prodcat.jpg?version=1755022078",
         "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
         "retailer": "Watsons"
     },
@@ -516,263 +476,15 @@
         "brand": "Quaker 桂格",
         "price": 989.0,
         "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-187849-front-prodcat.jpg?version=1740329560",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "三多金盞花萃取物(含葉黃素)複方軟膠囊100粒",
-        "brand": "Sentosa 三多",
-        "price": 678.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-114028-front-prodcat.jpg?version=1745081090",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "小蜜媞 修護唇膏 10g",
-        "brand": "CARMEX小蜜媞",
-        "price": 99.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-902594-front-prodcat.jpg?version=1755022078",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "屈臣氏蒸餾水800ml",
-        "brand": "Watsons 屈臣氏",
-        "price": 25.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-921704-front-prodcat.jpg?version=1732228903",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
+        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
         "retailer": "Watsons"
     },
     {
         "name": "潘婷強韌防斷洗髮露650G",
-        "brand": "PANTENE 潘婷",
+        "brand": "PANTENE",
         "price": 199.0,
         "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-134288-front-prodcat.jpg?version=1759423285",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "康乃馨寶寶潔膚濕巾外出包超厚型20片3包(屈臣氏獨家)",
-        "brand": "康乃馨",
-        "price": 89.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-191097-front-prodcat.jpg?version=1731436409",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "凡士林玫瑰潤澤護唇膏 4.8g",
-        "brand": "Vaseline 凡士林",
-        "price": 59.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-279844-front-prodcat.jpg?version=1762361478",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "曼秀雷敦Acnes痘痘貼- 金盞花添加 綜合型52入",
-        "brand": "曼秀雷敦",
-        "price": 149.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-245043-front-prodcat.jpg?version=1731696673",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "曼秀雷敦軟膏 75g",
-        "brand": "曼秀雷敦",
-        "price": 239.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-906562-front-prodcat.jpg?version=1755022073",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "潘婷深層損傷修護精華乳(護髮免沖洗)100ML",
-        "brand": "PANTENE 潘婷",
-        "price": 199.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-116754-front-prodcat.jpg?version=1730862367",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "飛柔精萃潤養潤髮乳 750g",
-        "brand": "飛柔 PERT",
-        "price": 139.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-257589-front-prodcat.jpg?version=1731702498",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "貝恩嬰兒保養柔濕巾80抽x3包",
-        "brand": "BAAN",
-        "price": 189.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-214608-front-prodcat.jpg?version=1731484640",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "蘇菲彈力貼身超熟睡10片42cm",
-        "brand": "蘇菲",
-        "price": 129.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-614895-front-prodcat.jpg?version=1732160731",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "澎澎香浴乳補充包700g-亮澤滋潤型",
-        "brand": "PonPon 澎澎",
-        "price": 88.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-198236-front-prodcat.jpg?version=1755018901",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "天地合補含鐵玫瑰四物飲120ml*12入",
-        "brand": "Quaker 桂格",
-        "price": 585.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-939798-front-prodcat.jpg?version=1752773461",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "曼秀雷敦 Acnes痘痘貼-極緻薄 綜合型52入",
-        "brand": "曼秀雷敦",
-        "price": 139.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-142831-front-prodcat.jpg?version=1731637217",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "活沛多 膠原蛋白+維他命C口嚼錠 50錠",
-        "brand": "NutriPlus 活沛多",
-        "price": 99.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-259781-front-prodcat.jpg?version=1755019440",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "花王洗髮精清新沁涼型補充包550ML",
-        "brand": "花王",
-        "price": 59.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-254481-front-prodcat.jpg?version=1761929521",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "BUNNI KONBINY 化妝包 (格子布款) 22*8*15cm",
-        "brand": "Watsons 屈臣氏",
-        "price": 254.15,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-310338-front-prodcat.jpg?version=1758570650",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "森歐黎漾淨平衡洋甘菊控油洗髮精480ml",
-        "brand": "SAHOLEA",
-        "price": 429.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-207480-front-prodcat.jpg?version=1731478569",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "天地合補精淬玫瑰四物飲120ml*6入",
-        "brand": "Quaker 桂格",
-        "price": 299.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-202364-front-prodcat.jpg?version=1752857172",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "潘婷染燙修護潤髮精華素650G",
-        "brand": "PANTENE 潘婷",
-        "price": 199.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-134390-front-prodcat.jpg?version=1759427462",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "高露潔護齦極淨牙刷單入",
-        "brand": "高露潔Colgate",
-        "price": 20.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-268723-front-prodcat.jpg?version=1731985252",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "天地合補膠原蛋白四物飲120ml*6入",
-        "brand": "Quaker 桂格",
-        "price": 299.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-914651-front-prodcat.jpg?version=1752858941",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "舒潔袖珍包面紙10抽30包",
-        "brand": "舒潔",
-        "price": 99.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-270473-front-prodcat.jpg?version=1759338266",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "曼秀雷敦AD高效抗乾修復乳液200g",
-        "brand": "曼秀雷敦",
-        "price": 329.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-182463-front-prodcat.jpg?version=1762533826",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "海倫仙度絲去屑洗髮露 絲滑柔順 680g",
-        "brand": "海倫仙度絲",
-        "price": 249.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-207224-front-prodcat.jpg?version=1744131377",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "康乃馨寶寶潔膚濕巾超厚型80片(屈臣氏獨家)",
-        "brand": "康乃馨",
-        "price": 79.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-191101-front-prodcat.jpg?version=1731436157",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "潘婷染燙修護洗髮露650G",
-        "brand": "PANTENE 潘婷",
-        "price": 199.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-134244-front-prodcat.jpg?version=1759427440",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "靠得住 超薄潔淨護墊(無香) 23片 6包入",
-        "brand": "KOTEX靠得住",
-        "price": 199.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-150047-front-prodcat.jpg?version=1731066539",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "露得清護手霜(有香)56g",
-        "brand": "露得清 Neutrogena",
-        "price": 199.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-294773-front-prodcat.jpg?version=1732142089",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "澎澎香浴乳-漾采緊緻型補充包",
-        "brand": "PonPon 澎澎",
-        "price": 99.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-175959-front-prodcat.jpg?version=1731300346",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "巴黎萊雅專業男仕8效勁能保濕乳液50ml",
-        "brand": "L`OREAL PARIS 巴黎萊雅",
-        "price": 429.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-307545-front-prodcat.jpg?version=1752083285",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
+        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
         "retailer": "Watsons"
     },
     {
@@ -780,167 +492,207 @@
         "brand": "Darlie 好來",
         "price": 349.0,
         "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-284606-front-prodcat.jpg?version=1748105761",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
+        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
         "retailer": "Watsons"
     },
     {
-        "name": "巴黎萊雅 活力緊緻潔面乳100ml",
+        "name": "潘婷染燙修護潤髮精華素650G",
+        "brand": "PANTENE",
+        "price": 199.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-134390-front-prodcat.jpg?version=1759427462",
+        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "康乃馨寶寶潔膚濕巾外出包超厚型20片3包(屈臣氏獨家)",
+        "brand": "康乃馨",
+        "price": 89.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-191097-front-prodcat.jpg?version=1731436409",
+        "url": "https://www.watsons.com.tw/%E8%88%92%E9%85%B8%E5%AE%9A-%E8%88%92%E9%85%B8%E5%AE%9A-%E9%80%B2%E9%9A%8E%E8%AD%B7%E7%90%86-%E5%B0%88%E6%A5%AD%E4%BF%AE%E5%BE%A9%E6%8A%97%E6%95%8F%E7%89%99%E8%86%8F100g-%E5%8E%9F%E5%91%B3-%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9/p/BP_598686",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "屈臣氏蒸餾水800ml",
+        "brand": "Watsons 屈臣氏",
+        "price": 25.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-921704-front-prodcat.jpg?version=1732228903",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "曼秀雷敦Acnes痘痘貼- 金盞花添加 綜合型52入",
+        "brand": "曼秀雷敦",
+        "price": 149.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-245043-front-prodcat.jpg?version=1731696673",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "天地合補含鐵玫瑰四物飲120ml*12入",
+        "brand": "Quaker 桂格",
+        "price": 585.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-939798-front-prodcat.jpg?version=1752773461",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "凡士林玫瑰潤澤護唇膏 4.8g",
+        "brand": "Vaseline 凡士林",
+        "price": 59.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-279844-front-prodcat.jpg?version=1762361478",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "蘇菲彈力貼身超熟睡10片42cm",
+        "brand": "蘇菲",
+        "price": 129.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-614895-front-prodcat.jpg?version=1732160731",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "妮維雅夜間亮白保濕修護乳液180ml",
+        "brand": "NIVEA 妮維雅",
+        "price": 199.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-278207-front-prodcat.jpg?version=1732069858",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "潘婷深層損傷修護精華乳(護髮免沖洗)100ML",
+        "brand": "PANTENE",
+        "price": 199.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-116754-front-prodcat.jpg?version=1730862367",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "巴黎萊雅完美淨白淨白潔面露100ML",
         "brand": "L`OREAL PARIS 巴黎萊雅",
-        "price": 160.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-131767-front-prodcat.jpg?version=1730953853",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
+        "price": 109.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-378996-front-prodcat.jpg?version=1755021861",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
         "retailer": "Watsons"
     },
     {
-        "name": "絲花 化妝棉 (80+2片)X3盒",
-        "brand": "絲花",
-        "price": 119.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-608881-front-prodcat.jpg?version=1732208478",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
+        "name": "三多金盞花萃取物(含葉黃素)複方軟膠囊100粒",
+        "brand": "Sentosa 三多",
+        "price": 719.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-114028-front-prodcat.jpg?version=1745081090",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
         "retailer": "Watsons"
     },
     {
-        "name": "蕾妮亞零觸感特薄超長夜用35cm 7片2包換購組(24)",
-        "brand": "蕾妮亞",
-        "price": 79.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-290145-front-prodcat.jpg?version=1732100741",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
+        "name": "飛柔精萃潤養潤髮乳 750g",
+        "brand": "飛柔 PERT",
+        "price": 139.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-257589-front-prodcat.jpg?version=1731702498",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
         "retailer": "Watsons"
     },
     {
-        "name": "香浴乳補充包700g-水漾清爽型",
+        "name": "歐樂B 50M牙線無蠟 2入",
+        "brand": "歐樂B Oral-B",
+        "price": 128.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-531110-front-prodcat.jpg?version=1732161653",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "澎澎香浴乳補充包700g-亮澤滋潤型",
         "brand": "PonPon 澎澎",
         "price": 88.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-198247-front-prodcat.jpg?version=1755019106",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-198236-front-prodcat.jpg?version=1755018901",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
         "retailer": "Watsons"
     },
     {
-        "name": "可伶可俐潔面泡沫慕斯150ml【抗菌配方】",
-        "brand": "CNC可伶可俐",
-        "price": 159.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-238988-front-prodcat.jpg?version=1755276879",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
+        "name": "貝恩嬰兒保養柔濕巾80抽x3包",
+        "brand": "BAAN",
+        "price": 189.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-214608-front-prodcat.jpg?version=1731484640",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
         "retailer": "Watsons"
     },
     {
-        "name": "靠得住晚安好眠褲 褲型衛生棉M號2片 (新舊包裝隨機出貨)",
-        "brand": "KOTEX靠得住",
+        "name": "活沛多 膠原蛋白+維他命C口嚼錠 50錠",
+        "brand": "NutriPlus 活沛多",
         "price": 99.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-220680-front-prodcat.jpg?version=1731465701",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-259781-front-prodcat.jpg?version=1755019440",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
         "retailer": "Watsons"
     },
     {
-        "name": "潤姬桃子S1精華液 (30ml X 1入瓶裝 10%菸鹼醯胺、積雪草)",
-        "brand": "URUHIME",
-        "price": 1380.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-295266-front-prodcat.jpg?version=1755623329",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "蘭韻 化妝棉150片3盒 (獨家設計)",
-        "brand": "蘭韻",
-        "price": 79.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-117110-front-prodcat.jpg?version=1736268048",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "曼秀雷敦Acnes多效抗痘洗面乳 100g",
-        "brand": "曼秀雷敦",
-        "price": 125.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-294576-front-prodcat.jpg?version=1732114242",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "巴黎萊雅黃金胜肽柔韌修護護髮素440ml #大金瓶",
-        "brand": "L`OREAL PARIS 巴黎萊雅",
-        "price": 399.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-278516-front-prodcat.jpg?version=1761929700",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "歐芮坦小蘇打洗衣皂精補充包(晨曦花香)1200g",
-        "brand": "Orita歐芮坦",
-        "price": 149.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-243388-front-prodcat.jpg?version=1758562674",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "巴黎萊雅8效勁能深層洗面乳100ml",
-        "brand": "L`OREAL PARIS 巴黎萊雅",
-        "price": 129.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-196702-front-prodcat.jpg?version=1731382479",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "康乃馨透氣超薄護墊無香40片4包",
-        "brand": "康乃馨",
-        "price": 198.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-192987-front-prodcat.jpg?version=1736268204",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "好立善 膠原蛋白粉150g",
-        "brand": "heilusan 好立善",
-        "price": 329.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-202277-front-prodcat.jpg?version=1746032369",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "桂格滴雞精 9包/盒",
+        "name": "天地合補精淬玫瑰四物飲120ml*6入",
         "brand": "Quaker 桂格",
-        "price": 1170.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-147521-front-prodcat.jpg?version=1740328841",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
+        "price": 299.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-202364-front-prodcat.jpg?version=1752857172",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "曼秀雷敦 Acnes痘痘貼-極緻薄 綜合型52入",
+        "brand": "曼秀雷敦",
+        "price": 139.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-142831-front-prodcat.jpg?version=1731637217",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "曼秀雷敦軟膏 75g",
+        "brand": "曼秀雷敦",
+        "price": 239.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-906562-front-prodcat.jpg?version=1755022073",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "花王洗髮精清新沁涼型補充包550ML",
+        "brand": "花王",
+        "price": 59.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-254481-front-prodcat.jpg?version=1761929521",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "天地合補膠原蛋白四物飲120ml*6入",
+        "brand": "Quaker 桂格",
+        "price": 299.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-914651-front-prodcat.jpg?version=1752858941",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "蘇菲超熟睡超薄細緻棉柔28cm 14片3包",
+        "brand": "蘇菲",
+        "price": 111.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-253733-front-prodcat.jpg?version=1731691380",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "森歐黎漾淨平衡洋甘菊控油洗髮精480ml",
+        "brand": "SAHOLEA",
+        "price": 429.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-207480-front-prodcat.jpg?version=1731478569",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
         "retailer": "Watsons"
     },
     {
         "name": "潘婷強韌防斷潤髮精華素650G",
-        "brand": "PANTENE 潘婷",
+        "brand": "PANTENE",
         "price": 199.0,
         "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-134404-front-prodcat.jpg?version=1759164023",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
         "retailer": "Watsons"
     },
     {
-        "name": "好自在 經典款 液體衛生棉 27cm  10片",
-        "brand": "好自在",
-        "price": 218.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-136433-front-prodcat.jpg?version=1759941776",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "DOUBLE CARE加護抗菌潔膚巾20片",
-        "brand": "康乃馨",
-        "price": 39.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-100050-front-prodcat.jpg?version=1730842264",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "蘇菲彈力貼身超薄夜用潔翼28cm 10片4入",
-        "brand": "蘇菲",
-        "price": 149.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-284171-front-prodcat.jpg?version=1732077961",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "飛柔蓬鬆去屑洗髮露600g",
-        "brand": "飛柔 PERT",
-        "price": 139.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-304927-front-prodcat.jpg?version=1745774047",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
+        "name": "海倫仙度絲去屑洗髮露 絲滑柔順 680g",
+        "brand": "海倫仙度絲",
+        "price": 249.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-207224-front-prodcat.jpg?version=1744131377",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
         "retailer": "Watsons"
     },
     {
@@ -948,39 +700,199 @@
         "brand": "好奇",
         "price": 49.0,
         "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-292470-front-prodcat.jpg?version=1753463186",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
         "retailer": "Watsons"
     },
     {
-        "name": "曼秀雷敦軟膏 35g",
+        "name": "露得清護手霜(有香)56g",
+        "brand": "露得清 Neutrogena",
+        "price": 199.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-294773-front-prodcat.jpg?version=1732142089",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "潘婷染燙修護洗髮露650G",
+        "brand": "PANTENE",
+        "price": 199.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-134244-front-prodcat.jpg?version=1759427440",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "舒潔袖珍包面紙10抽30包",
+        "brand": "舒潔",
+        "price": 99.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-270473-front-prodcat.jpg?version=1759338266",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "巴黎萊雅黃金胜肽柔韌修護洗髮露440ml #大金瓶",
+        "brand": "L`OREAL PARIS 巴黎萊雅",
+        "price": 399.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-278519-front-prodcat.jpg?version=1759942963",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "靠得住 超薄潔淨護墊(無香) 23片 6包入",
+        "brand": "KOTEX靠得住",
+        "price": 199.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-150047-front-prodcat.jpg?version=1731066539",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "巴黎萊雅專業男仕8效勁能保濕乳液50ml",
+        "brand": "L`OREAL PARIS 巴黎萊雅",
+        "price": 429.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-307545-front-prodcat.jpg?version=1752083285",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "絲花 化妝棉 (80+2片)X3盒",
+        "brand": "絲花",
+        "price": 119.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-608881-front-prodcat.jpg?version=1732208478",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "高露潔護齦極淨牙刷單入",
+        "brand": "高露潔Colgate",
+        "price": 20.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-268723-front-prodcat.jpg?version=1731985252",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "曼秀雷敦AD高效抗乾修復乳液200g",
         "brand": "曼秀雷敦",
-        "price": 169.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-906551-front-prodcat.jpg?version=1732227889",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
+        "price": 329.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-182463-front-prodcat.jpg?version=1762533826",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
         "retailer": "Watsons"
     },
     {
-        "name": "曼秀雷敦Acnes抗痘洗面乳100g",
-        "brand": "曼秀雷敦",
-        "price": 115.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-294575-front-prodcat.jpg?version=1732113743",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
+        "name": "蕾妮亞零觸感特薄超長夜用35cm 7片2包換購組(24)",
+        "brand": "蕾妮亞",
+        "price": 79.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-290145-front-prodcat.jpg?version=1732100741",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
         "retailer": "Watsons"
     },
     {
-        "name": "Darlie好來全亮白牙膏青檸薄荷140公克2條",
-        "brand": "Darlie 好來",
-        "price": 109.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-120295-front-prodcat.jpg?version=1730860721",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
+        "name": "康乃馨透氣超薄護墊無香40片4包",
+        "brand": "康乃馨",
+        "price": 198.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-192987-front-prodcat.jpg?version=1736268204",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
         "retailer": "Watsons"
     },
     {
-        "name": "澎澎香浴乳補充包700ML-倍潤保濕型",
+        "name": "香浴乳補充包700g-水漾清爽型",
         "brand": "PonPon 澎澎",
         "price": 99.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-198258-front-prodcat.jpg?version=1731378425",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-198247-front-prodcat.jpg?version=1755019106",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "可伶可俐潔面泡沫慕斯150ml【抗菌配方】",
+        "brand": "CNC可伶可俐",
+        "price": 159.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-238988-front-prodcat.jpg?version=1755276879",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "巴黎萊雅黃金胜肽柔韌修護護髮素440ml #大金瓶",
+        "brand": "L`OREAL PARIS 巴黎萊雅",
+        "price": 399.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-278516-front-prodcat.jpg?version=1761929700",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "康乃馨寶寶潔膚濕巾超厚型80片(屈臣氏獨家)",
+        "brand": "康乃馨",
+        "price": 79.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-191101-front-prodcat.jpg?version=1731436157",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "潤姬桃子S1精華液 (30ml X 1入瓶裝 10%菸鹼醯胺、積雪草)",
+        "brand": "URUHIME",
+        "price": 1380.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-295266-front-prodcat.jpg?version=1755623329",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "蘇菲彈力貼身超薄夜用潔翼28cm 10片4入",
+        "brand": "蘇菲",
+        "price": 139.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-284171-front-prodcat.jpg?version=1732077961",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "歐芮坦小蘇打洗衣皂精補充包(晨曦花香)1200g",
+        "brand": "Orita歐芮坦",
+        "price": 149.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-243388-front-prodcat.jpg?version=1758562674",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "好自在 經典款 液體衛生棉 27cm  10片",
+        "brand": "好自在",
+        "price": 218.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-136433-front-prodcat.jpg?version=1759941776",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "DOUBLE CARE加護抗菌潔膚巾20片",
+        "brand": "康乃馨",
+        "price": 39.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-100050-front-prodcat.jpg?version=1730842264",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "曼秀雷敦Acnes多效抗痘洗面乳 100g",
+        "brand": "曼秀雷敦",
+        "price": 125.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-294576-front-prodcat.jpg?version=1732114242",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "靠得住晚安好眠褲 褲型衛生棉M號2片 (新舊包裝隨機出貨)",
+        "brand": "KOTEX靠得住",
+        "price": 99.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-220680-front-prodcat.jpg?version=1731465701",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "飛柔蓬鬆去屑洗髮露600g",
+        "brand": "飛柔 PERT",
+        "price": 139.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-304927-front-prodcat.jpg?version=1745774047",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "桂格滴雞精 9包/盒",
+        "brand": "Quaker 桂格",
+        "price": 1170.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-147521-front-prodcat.jpg?version=1740328841",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
         "retailer": "Watsons"
     },
     {
@@ -988,7 +900,31 @@
         "brand": "NIVEA 妮維雅",
         "price": 129.0,
         "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-210295-front-prodcat.jpg?version=1731483653",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "蘭韻 化妝棉150片3盒 (獨家設計)",
+        "brand": "蘭韻",
+        "price": 79.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-117110-front-prodcat.jpg?version=1736268048",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "Darlie好來全亮白牙膏青檸薄荷140公克2條",
+        "brand": "Darlie 好來",
+        "price": 109.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-120295-front-prodcat.jpg?version=1730860721",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "BUNNI KONBINY 化妝包 (格子布款) 22*8*15cm",
+        "brand": "Watsons 屈臣氏",
+        "price": 254.15,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-310338-front-prodcat.jpg?version=1758570650",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
         "retailer": "Watsons"
     },
     {
@@ -996,55 +932,7 @@
         "brand": "77",
         "price": 29.0,
         "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-146344-front-prodcat.jpg?version=1731038072",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "靠得住蘆薈高透氧護墊加長型無香24片4包",
-        "brand": "KOTEX靠得住",
-        "price": 159.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-151945-front-prodcat.jpg?version=1731033262",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "妮維雅亮白極致嫩膚乳液400ml",
-        "brand": "NIVEA 妮維雅",
-        "price": 499.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-294639-front-prodcat.jpg?version=1732114279",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "澎澎香浴乳美白玫瑰香氛型補充包 700g",
-        "brand": "PonPon 澎澎",
-        "price": 99.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-111034-front-prodcat.jpg?version=1730860994",
-        "url": "https://www.watsons.com.tw/quaker-%E6%A1%82%E6%A0%BC-%E6%A1%82%E6%A0%BC%E6%B4%BB%E9%9D%88%E8%8A%9D%E7%9B%92%E8%A3%9D19%E7%93%B6/p/BP_187849",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "BUNNI KONBINY 異材質拼接化妝包- MAME藍款",
-        "brand": "Watsons 屈臣氏",
-        "price": 299.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-312867-front-prodcat.jpg?version=1761411352",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "Hair Recipe 日本髮的食譜蘋果生薑防斷修護潤髮乳530G",
-        "brand": "HAIR RECIPE",
-        "price": 299.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-186675-front-prodcat.jpg?version=1742921552",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "全久榮75度防疫酒精350ml",
-        "brand": "全久榮",
-        "price": 45.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-202611-front-prodcat.jpg?version=1731437145",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
         "retailer": "Watsons"
     },
     {
@@ -1052,47 +940,15 @@
         "brand": "PonPon 澎澎",
         "price": 139.0,
         "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-151119-front-prodcat.jpg?version=1731036457",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
         "retailer": "Watsons"
     },
     {
-        "name": "Hair Recipe 日本髮的食譜奇異果無花果清爽豐盈洗髮露530ML",
-        "brand": "HAIR RECIPE",
-        "price": 299.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-174020-front-prodcat.jpg?version=1742921031",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "Hair Recipe 日本髮的食譜 綠茶柚子洗髮露530ML",
-        "brand": "HAIR RECIPE",
-        "price": 299.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-272879-front-prodcat.jpg?version=1742923140",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "DARLIE好來全亮白星耀紫光校色牙膏100g",
-        "brand": "Darlie 好來",
-        "price": 115.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-306990-front-prodcat.jpg?version=1756400589",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "飛柔精萃潤養洗髮露 750g",
-        "brand": "飛柔 PERT",
-        "price": 139.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-257593-front-prodcat.jpg?version=1731719903",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "巴黎萊雅玻尿酸水光豐盈洗髮露 440ml #髮根氣墊瓶 全新升級!",
-        "brand": "L`OREAL PARIS 巴黎萊雅",
-        "price": 399.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-306585-front-prodcat.jpg?version=1761930030",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
+        "name": "全久榮75度防疫酒精350ml",
+        "brand": "全久榮",
+        "price": 45.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-202611-front-prodcat.jpg?version=1731437145",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
         "retailer": "Watsons"
     },
     {
@@ -1100,15 +956,71 @@
         "brand": "蘇菲",
         "price": 59.0,
         "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-374496-front-prodcat.jpg?version=1732160653",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
         "retailer": "Watsons"
     },
     {
-        "name": "靠得住草本抑菌少流量19cm 13片",
+        "name": "台鹽海洋鹼性離子水850ML",
+        "brand": "台鹽",
+        "price": 24.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-761823-front-prodcat.jpg?version=1732160613",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "妮維雅極淨深層眼部卸妝液125ml",
+        "brand": "NIVEA 妮維雅",
+        "price": 359.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-113279-front-prodcat.jpg?version=1741711469",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "Hair Recipe 日本髮的食譜蘋果生薑防斷修護潤髮乳530G",
+        "brand": "HAIR RECIPE",
+        "price": 299.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-186675-front-prodcat.jpg?version=1742921552",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "靠得住蘆薈高透氧護墊加長型無香24片4包",
         "brand": "KOTEX靠得住",
-        "price": 35.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-619378-front-prodcat.jpg?version=1755021729",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
+        "price": 159.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-151945-front-prodcat.jpg?version=1731033262",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "巴黎萊雅 活力緊緻潔面乳100ml",
+        "brand": "L`OREAL PARIS 巴黎萊雅",
+        "price": 160.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-131767-front-prodcat.jpg?version=1730953853",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "巴黎萊雅玻尿酸水光豐盈洗髮露 440ml #髮根氣墊瓶 全新升級!",
+        "brand": "L`OREAL PARIS 巴黎萊雅",
+        "price": 399.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-306585-front-prodcat.jpg?version=1761930030",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "飛柔精萃潤養洗髮露 750g",
+        "brand": "飛柔 PERT",
+        "price": 139.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-257593-front-prodcat.jpg?version=1731719903",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "巴黎萊雅8效勁能深層洗面乳100ml",
+        "brand": "L`OREAL PARIS 巴黎萊雅",
+        "price": 129.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-196702-front-prodcat.jpg?version=1731382479",
+        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-%E5%B1%88%E8%87%A3%E6%B0%8F%E8%92%B8%E9%A4%BE%E6%B0%B4800ml/p/BP_921704",
         "retailer": "Watsons"
     },
     {
@@ -1116,15 +1028,7 @@
         "brand": "海倫仙度絲",
         "price": 249.0,
         "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-304349-front-prodcat.jpg?version=1753894940",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "日本白美學 白美茸滑嫩洗顏球 30g (白美球)",
-        "brand": "HAKUBI",
-        "price": 429.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-288544-front-prodcat.jpg?version=1741884700",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
         "retailer": "Watsons"
     },
     {
@@ -1132,47 +1036,23 @@
         "brand": "蘇菲",
         "price": 349.0,
         "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-125710-front-prodcat.jpg?version=1755018254",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
         "retailer": "Watsons"
     },
     {
-        "name": "歐芮坦小蘇打洗衣皂精補充包(薔薇香氛)1200g",
-        "brand": "Orita歐芮坦",
-        "price": 149.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-243383-front-prodcat.jpg?version=1758819314",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "妮維雅密集修護潤膚身體乳液400ml",
+        "name": "妮維雅亮白極致嫩膚乳液400ml",
         "brand": "NIVEA 妮維雅",
-        "price": 229.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-270887-front-prodcat.jpg?version=1732010266",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
+        "price": 499.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-294639-front-prodcat.jpg?version=1732114279",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
         "retailer": "Watsons"
     },
     {
-        "name": "雪芙蘭小蒼蘭滋養霜120g",
-        "brand": "雪芙蘭",
-        "price": 75.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-206688-front-prodcat.jpg?version=1731526145",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "飛柔控油去屑洗髮露600g",
-        "brand": "飛柔 PERT",
-        "price": 139.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-304966-front-prodcat.jpg?version=1745774140",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "飛柔人參萃取修護洗髮露 750g",
-        "brand": "飛柔 PERT",
-        "price": 139.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-257592-front-prodcat.jpg?version=1731702513",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
+        "name": "曼秀雷敦軟膏 35g",
+        "brand": "曼秀雷敦",
+        "price": 169.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-906551-front-prodcat.jpg?version=1732227889",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
         "retailer": "Watsons"
     },
     {
@@ -1180,15 +1060,15 @@
         "brand": "enhance",
         "price": 99.0,
         "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-283444-front-prodcat.jpg?version=1732102246",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
         "retailer": "Watsons"
     },
     {
-        "name": "畑中義和商店 水凝光毛穴淨顏蒟蒻片",
-        "brand": "HATANAKASHOUTEN",
-        "price": 149.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-294447-front-prodcat.jpg?version=1741885035",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
+        "name": "曼秀雷敦Acnes抗痘洗面乳100g",
+        "brand": "曼秀雷敦",
+        "price": 115.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-294575-front-prodcat.jpg?version=1732113743",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
         "retailer": "Watsons"
     },
     {
@@ -1196,199 +1076,15 @@
         "brand": "M2",
         "price": 1380.0,
         "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-244536-front-prodcat.jpg?version=1751129044",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
         "retailer": "Watsons"
     },
     {
-        "name": "Biore蜜妮卸粧凝露120g",
-        "brand": "Biore 蜜妮",
-        "price": 109.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-171023-front-prodcat.jpg?version=1749573821",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "潤姬桃子1入(1.5gX30條)",
-        "brand": "URUHIME",
-        "price": 1111.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-245527-front-prodcat.jpg?version=1731725920",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "蘇菲立體柔貼防漏23cm 10片4包",
-        "brand": "蘇菲",
-        "price": 119.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-397491-front-prodcat.jpg?version=1732164544",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "靠得住草本瞬吸護墊加長型17.5cm 24片2包",
-        "brand": "KOTEX靠得住",
-        "price": 119.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-138089-front-prodcat.jpg?version=1736354515",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "屈臣氏潔膚柔濕巾9入(呆萌町聯名版)",
-        "brand": "Watsons 屈臣氏",
-        "price": 139.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-304725-front-prodcat.jpg?version=1746724854",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "Crest 鑽亮炫白牙膏超值組(鑽亮炫白110g +20g*2)",
-        "brand": "美國 CREST",
-        "price": 99.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-302681-front-prodcat.jpg?version=1761930016",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "凡士林蘆薈舒緩護唇膏 4.8g",
-        "brand": "Vaseline 凡士林",
-        "price": 59.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-297776-front-prodcat.jpg?version=1762276373",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "澎澎MAN胺基酸洗面乳元氣炭",
-        "brand": "PONPONMAN",
-        "price": 79.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-262795-front-prodcat.jpg?version=1732017777",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "三得利芝麻明EX膠囊 90顆",
-        "brand": "SUNTORY",
-        "price": 1536.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-301447-front-prodcat.jpg?version=1751129715",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "雪芙蘭高效透亮美白潤膚乳液350g",
-        "brand": "雪芙蘭",
-        "price": 179.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-244196-front-prodcat.jpg?version=1731706067",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "海倫仙度絲舒緩去屑洗髮露-朝曦橙花680g/茉莉花香750ml(隨機出貨)",
-        "brand": "海倫仙度絲",
-        "price": 249.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-171886-front-prodcat.jpg?version=1744303950",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "舒潔紙手帕10抽15包 (包裝隨機出貨)",
-        "brand": "舒潔",
-        "price": 49.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-247162-front-prodcat.jpg?version=1757695996",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "海倫仙度絲去屑洗髮露 海洋清新 680g",
-        "brand": "海倫仙度絲",
-        "price": 249.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-207257-front-prodcat.jpg?version=1744131071",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "蘇菲彈力貼身瞬吸加長護墊無香17.5cm 28片2包",
-        "brand": "蘇菲",
-        "price": 139.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-209016-front-prodcat.jpg?version=1731488336",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "雪芙蘭SUPER EX超能全效美白激亮精華乳330g",
-        "brand": "雪芙蘭",
-        "price": 199.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-288528-front-prodcat.jpg?version=1732133474",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "宣若 EX染髮霜 6深栗棕 1劑/40g、2劑/40g",
-        "brand": "CIELO 宣若",
-        "price": 323.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-559742-front-prodcat.jpg?version=1753210280",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "艾翠斯 修護型護手霜100ml",
-        "brand": "atrix 艾翠斯",
-        "price": 129.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-348565-front-prodcat.jpg?version=1737582711",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "屈臣氏抗菌潔淨柔濕巾20片(藍圓點)",
-        "brand": "Watsons 屈臣氏",
-        "price": 15.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-295401-front-prodcat.jpg?version=1733562611",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "肌研毛穴對策洗顏乳100g",
-        "brand": "肌研",
+        "name": "畑中義和商店 水凝光毛穴淨顏蒟蒻片",
+        "brand": "HATANAKASHOUTEN",
         "price": 149.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-222203-front-prodcat.jpg?version=1731516685",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "宣若 EX染髮霜 7深黑棕 1劑/40g、2劑/40g",
-        "brand": "CIELO宣若",
-        "price": 323.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-151077-front-prodcat.jpg?version=1753202469",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "新升級銀寶善存100+30粒",
-        "brand": "Centrum 善存",
-        "price": 1025.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-954281-front-prodcat.jpg?version=1732161697",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "蒂芬妮亞 胺基酸深層卸妝乳 180ml",
-        "brand": "Divinia蒂芬妮亞",
-        "price": 229.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-249689-front-prodcat.jpg?version=1758042503",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "白蘭氏冰糖燕窩70g 6瓶裝",
-        "brand": "白蘭氏",
-        "price": 1199.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-937737-front-prodcat.jpg?version=1733888240",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "屈臣氏純水無香濕紙巾80抽-黃(DINOTAENG)",
-        "brand": "Watsons 屈臣氏",
-        "price": 39.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-304723-front-prodcat.jpg?version=1749141711",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-294447-front-prodcat.jpg?version=1741885035",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
         "retailer": "Watsons"
     },
     {
@@ -1396,87 +1092,167 @@
         "brand": "Dr.Satin",
         "price": 199.0,
         "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-305016-front-prodcat.jpg?version=1758568287",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
         "retailer": "Watsons"
     },
     {
-        "name": "靠得住蘆薈高透氧護墊加長香氛24片X4包",
+        "name": "Biore蜜妮卸粧凝露120g",
+        "brand": "Biore 蜜妮",
+        "price": 109.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-171023-front-prodcat.jpg?version=1749573821",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "雪芙蘭小蒼蘭滋養霜120g",
+        "brand": "雪芙蘭",
+        "price": 75.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-206688-front-prodcat.jpg?version=1731526145",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "飛柔控油去屑洗髮露600g",
+        "brand": "飛柔 PERT",
+        "price": 139.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-304966-front-prodcat.jpg?version=1745774140",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "歐芮坦小蘇打洗衣皂精補充包(薔薇香氛)1200g",
+        "brand": "Orita歐芮坦",
+        "price": 149.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-243383-front-prodcat.jpg?version=1758819314",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "飛柔人參萃取修護洗髮露 750g",
+        "brand": "飛柔 PERT",
+        "price": 139.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-257592-front-prodcat.jpg?version=1731702513",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "靠得住草本瞬吸護墊加長型17.5cm 24片2包",
         "brand": "KOTEX靠得住",
-        "price": 159.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-151946-front-prodcat.jpg?version=1731033146",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
+        "price": 119.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-138089-front-prodcat.jpg?version=1736354515",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
         "retailer": "Watsons"
     },
     {
-        "name": "桂格養氣人蔘雞精-雙效滋補盒裝18瓶",
-        "brand": "Quaker 桂格",
-        "price": 799.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-116364-front-prodcat.jpg?version=1740328872",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
+        "name": "好立善 膠原蛋白粉150g",
+        "brand": "heilusan 好立善",
+        "price": 329.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-202277-front-prodcat.jpg?version=1746032369",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
         "retailer": "Watsons"
     },
     {
-        "name": "萬應白花油10ml",
-        "brand": "WHITEFLOWER 白花油",
-        "price": 190.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-948110-front-prodcat.jpg?version=1732159405",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "曼秀雷敦極淨抗痘控油洗面乳100g",
-        "brand": "曼秀雷敦",
+        "name": "Crest 鑽亮炫白牙膏超值組(鑽亮炫白110g +20g*2)",
+        "brand": "美國 CREST",
         "price": 99.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-193542-front-prodcat.jpg?version=1731377508",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-302681-front-prodcat.jpg?version=1761930016",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
         "retailer": "Watsons"
     },
     {
-        "name": "OLAY水感透白光曜精華30ml<小白瓶>",
-        "brand": "OLAY",
-        "price": 849.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-243238-front-prodcat.jpg?version=1755622622",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "蘇菲超熟睡夜用細緻棉柔35公分8片2包",
+        "name": "蘇菲立體柔貼防漏23cm 10片4包",
         "brand": "蘇菲",
-        "price": 89.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-190664-front-prodcat.jpg?version=1731379384",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
+        "price": 119.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-397491-front-prodcat.jpg?version=1732164544",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
         "retailer": "Watsons"
     },
     {
-        "name": "屈臣氏棉花棒200支6包入",
+        "name": "凡士林蘆薈舒緩護唇膏 4.8g",
+        "brand": "Vaseline 凡士林",
+        "price": 59.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-297776-front-prodcat.jpg?version=1762276373",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "蘇菲彈力貼身瞬吸加長護墊無香17.5cm 28片2包",
+        "brand": "蘇菲",
+        "price": 139.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-209016-front-prodcat.jpg?version=1731488336",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "雪芙蘭高效透亮美白潤膚乳液350g",
+        "brand": "雪芙蘭",
+        "price": 179.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-244196-front-prodcat.jpg?version=1731706067",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "潤姬桃子1入(1.5gX30條)",
+        "brand": "URUHIME",
+        "price": 1280.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-245527-front-prodcat.jpg?version=1731725920",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "宣若 EX染髮霜 5自然棕 1劑/40g、2劑/40g",
+        "brand": "CIELO 宣若",
+        "price": 323.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-559527-front-prodcat.jpg?version=1753210784",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "日本白美學 白美茸滑嫩洗顏球 30g (白美球)",
+        "brand": "HAKUBI",
+        "price": 429.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-288544-front-prodcat.jpg?version=1741884700",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "屈臣氏潔膚柔濕巾9入(呆萌町聯名版)",
         "brand": "Watsons 屈臣氏",
-        "price": 74.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-282656-front-prodcat.jpg?version=1754930440",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
+        "price": 139.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-304725-front-prodcat.jpg?version=1746724854",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
         "retailer": "Watsons"
     },
     {
-        "name": "好自在 經典款 液體衛生棉 34cm 10片",
-        "brand": "好自在",
-        "price": 219.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-181926-front-prodcat.jpg?version=1759942514",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "屈臣氏纖細柔軟牙刷(軟毛)1入",
-        "brand": "Watsons 屈臣氏",
-        "price": 29.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-240568-front-prodcat.jpg?version=1758562699",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
-        "retailer": "Watsons"
-    },
-    {
-        "name": "潘婷乳液修護去屑洗髮露650G",
-        "brand": "PANTENE 潘婷",
+        "name": "雪芙蘭SUPER EX超能全效美白激亮精華乳330g",
+        "brand": "雪芙蘭",
         "price": 199.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-310666-front-prodcat.jpg?version=1758992502",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-288528-front-prodcat.jpg?version=1732133474",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "舒潔紙手帕10抽15包 (包裝隨機出貨)",
+        "brand": "舒潔",
+        "price": 49.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-247162-front-prodcat.jpg?version=1757695996",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "艾翠斯 修護型護手霜100ml",
+        "brand": "atrix 艾翠斯",
+        "price": 129.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-348565-front-prodcat.jpg?version=1737582711",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "Hair Recipe 日本髮的食譜 綠茶柚子洗髮露530ML",
+        "brand": "HAIR RECIPE",
+        "price": 299.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-272879-front-prodcat.jpg?version=1742923140",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
         "retailer": "Watsons"
     },
     {
@@ -1484,7 +1260,95 @@
         "brand": "L`OREAL PARIS 巴黎萊雅",
         "price": 519.0,
         "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-309950-front-prodcat.jpg?version=1761930652",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "新升級銀寶善存100+30粒",
+        "brand": "Centrum 善存",
+        "price": 1025.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-954281-front-prodcat.jpg?version=1732161697",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "靠得住草本抑菌少流量19cm 13片",
+        "brand": "KOTEX靠得住",
+        "price": 35.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-619378-front-prodcat.jpg?version=1755021729",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "屈臣氏抗菌潔淨柔濕巾20片(藍圓點)",
+        "brand": "Watsons 屈臣氏",
+        "price": 15.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-295401-front-prodcat.jpg?version=1733562611",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "肌研毛穴對策洗顏乳100g",
+        "brand": "肌研",
+        "price": 149.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-222203-front-prodcat.jpg?version=1731516685",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "屈臣氏純水無香濕紙巾80抽-黃(DINOTAENG)",
+        "brand": "Watsons 屈臣氏",
+        "price": 39.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-304723-front-prodcat.jpg?version=1749141711",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "Hair Recipe 日本髮的食譜奇異果無花果清爽豐盈洗髮露530ML",
+        "brand": "HAIR RECIPE",
+        "price": 299.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-174020-front-prodcat.jpg?version=1742921031",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "OLAY水感透白光曜精華30ml<小白瓶>",
+        "brand": "OLAY",
+        "price": 849.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-243238-front-prodcat.jpg?version=1755622622",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "屈臣氏棉花棒200支6包入",
+        "brand": "Watsons 屈臣氏",
+        "price": 74.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-282656-front-prodcat.jpg?version=1754930440",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "靠得住抑菌好眠褲XL號2片 (新舊包裝隨機出貨)",
+        "brand": "KOTEX靠得住",
+        "price": 39.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-266276-front-prodcat.jpg?version=1732037315",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "萬應白花油10ml",
+        "brand": "WHITEFLOWER 白花油",
+        "price": 190.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-948110-front-prodcat.jpg?version=1732159405",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "白蘭氏冰糖燕窩70g 6瓶裝",
+        "brand": "白蘭氏",
+        "price": 1199.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-937737-front-prodcat.jpg?version=1733888240",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
         "retailer": "Watsons"
     },
     {
@@ -1492,15 +1356,31 @@
         "brand": "好自在",
         "price": 219.0,
         "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-136438-front-prodcat.jpg?version=1759941786",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
         "retailer": "Watsons"
     },
     {
-        "name": "露得清挪威身體潤膚乳液450ml【強效保濕】",
-        "brand": "露得清 Neutrogena",
-        "price": 399.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-243716-front-prodcat.jpg?version=1731671274",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
+        "name": "潘婷乳液修護去屑洗髮露650G",
+        "brand": "PANTENE",
+        "price": 199.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-310666-front-prodcat.jpg?version=1758992502",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "桂格養氣人蔘雞精-雙效滋補盒裝18瓶",
+        "brand": "Quaker 桂格",
+        "price": 799.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-116364-front-prodcat.jpg?version=1740328872",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "妮維雅超能防曬護唇膏SPF50 4.8g",
+        "brand": "NIVEA 妮維雅",
+        "price": 129.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-304359-front-prodcat.jpg?version=1749401436",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
         "retailer": "Watsons"
     },
     {
@@ -1508,15 +1388,39 @@
         "brand": "Biore 蜜妮",
         "price": 129.0,
         "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-171717-front-prodcat.jpg?version=1758818544",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "海倫仙度絲舒緩去屑洗髮露-朝曦橙花680g/茉莉花香750ml(隨機出貨)",
+        "brand": "海倫仙度絲",
+        "price": 249.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-171886-front-prodcat.jpg?version=1744303950",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "好自在 經典款 液體衛生棉 34cm 10片",
+        "brand": "好自在",
+        "price": 219.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-181926-front-prodcat.jpg?version=1759942514",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
         "retailer": "Watsons"
     },
     {
         "name": "潘婷盈潤光澤洗髮露650G",
-        "brand": "PANTENE 潘婷",
+        "brand": "PANTENE",
         "price": 199.0,
         "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-138909-front-prodcat.jpg?version=1760373858",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "蘇菲超熟睡超薄細緻棉柔35cm8片2包",
+        "brand": "蘇菲",
+        "price": 69.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-300214-front-prodcat.jpg?version=1734281629",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
         "retailer": "Watsons"
     },
     {
@@ -1524,15 +1428,111 @@
         "brand": "蘇菲",
         "price": 159.0,
         "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-146630-front-prodcat.jpg?version=1731066481",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
         "retailer": "Watsons"
     },
     {
-        "name": "森歐黎漾淨平衡茶樹控油雙效抗屑洗髮精480ml",
-        "brand": "SAHOLEA",
+        "name": "露得清挪威身體潤膚乳液450ml【強效保濕】",
+        "brand": "露得清 Neutrogena",
         "price": 399.0,
-        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-216693-front-prodcat.jpg?version=1731479655",
-        "url": "https://www.watsons.com.tw/watsons-%E5%B1%88%E8%87%A3%E6%B0%8F-bunni-konbiny-%E7%95%B0%E6%9D%90%E8%B3%AA%E6%8B%BC%E6%8E%A5%E5%8C%96%E5%A6%9D%E5%8C%85-mame%E8%97%8D%E6%AC%BE/p/BP_312867",
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-243716-front-prodcat.jpg?version=1731671274",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "妮維雅密集修護潤膚身體乳液400ml",
+        "brand": "NIVEA 妮維雅",
+        "price": 229.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-270887-front-prodcat.jpg?version=1732010266",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "海倫仙度絲去屑洗髮露 海洋清新 680g",
+        "brand": "海倫仙度絲",
+        "price": 249.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-207257-front-prodcat.jpg?version=1744131071",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "Biore抗菌卸粧乳180ml",
+        "brand": "Biore 蜜妮",
+        "price": 258.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-253872-front-prodcat.jpg?version=1737823435",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "蘇菲超熟睡細緻棉柔28cm 14片3包",
+        "brand": "蘇菲",
+        "price": 149.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-234562-front-prodcat.jpg?version=1731599113",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "貝利達 全效防護琺瑯質牙膏 75ml",
+        "brand": "BIOREPAIR",
+        "price": 260.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-289277-front-prodcat.jpg?version=1748105527",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "歐芮坦小蘇打洗衣皂精1500g",
+        "brand": "Orita歐芮坦",
+        "price": 69.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-243605-front-prodcat.jpg?version=1758562883",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "貝利達 抗敏感牙膏 75ml",
+        "brand": "BioRepair 貝利達",
+        "price": 260.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-289278-front-prodcat.jpg?version=1748105573",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "麥迪森芭弗莎林緩衝生理食鹽水10ml*8支",
+        "brand": "AIM",
+        "price": 65.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-135831-front-prodcat.jpg?version=1730975435",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "宣若 EX染髮霜 6深栗棕 1劑/40g、2劑/40g",
+        "brand": "CIELO 宣若",
+        "price": 323.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-559742-front-prodcat.jpg?version=1753210280",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "蘇菲超熟睡細緻棉柔41.5cm 4片2包 ",
+        "brand": "蘇菲",
+        "price": 79.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-285237-front-prodcat.jpg?version=1732106366",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "潘婷盈潤光澤潤髮精華素650G",
+        "brand": "PANTENE",
+        "price": 199.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-310665-front-prodcat.jpg?version=1758992517",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
+        "retailer": "Watsons"
+    },
+    {
+        "name": "百適達高拉力細滑牙線棒50入",
+        "brand": "BESTDAY",
+        "price": 29.0,
+        "image_url": "https://medias.watsons.com.tw/publishing/WTCTW-115080-front-prodcat.jpg?version=1730930542",
+        "url": "https://www.watsons.com.tw/%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2-%E6%B5%B7%E5%80%AB%E4%BB%99%E5%BA%A6%E7%B5%B2%E5%8E%BB%E5%B1%91%E6%B4%97%E9%AB%AE%E9%9C%B2-%E5%BC%B7%E6%A0%B9%E9%9F%8C%E9%AB%AE680g/p/BP_304349",
         "retailer": "Watsons"
     }
 ]
