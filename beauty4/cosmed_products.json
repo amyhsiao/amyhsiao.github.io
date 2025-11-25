@@ -1,5 +1,949 @@
 [
     {
+        "name": "中國與歐洲文明（共生篇）：從大航海到全球化，東西文明的衝突與共榮",
+        "brand": null,
+        "price": 489.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350855/0/638996976715770000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350855",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "小遊園",
+        "brand": "上中下套書",
+        "price": 855.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350850/0/638996976704070000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350850",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "彈性界限：結合腦科學x認知心理學x日常練習，建立心靈防護罩",
+        "brand": null,
+        "price": 355.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350846/0/638996976698200000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350846",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "好好變老：不再疼痛、虛弱、遲鈍，延長健康壽命，和40歲一樣有活力",
+        "brand": null,
+        "price": 331.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350845/0/638996976694300000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350845",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "全彩圖解黃帝內經極簡養生速查全書",
+        "brand": null,
+        "price": 315.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350844/0/638996976696570000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350844",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "穿越後，我帶著全宗門到處打秋風小師弟才沒有那麼可愛（上中下卷套書）",
+        "brand": "第二部",
+        "price": 765.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350841/0/638996976688900000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350841",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "台灣ê故事——寫予咱ê島嶼系列套書",
+        "brand": "台文台灣史，限量書盒版",
+        "price": 787.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350836/0/638996976679370000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350836",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "烏托南邦：徘徊獅城與香港的理想鄉追尋",
+        "brand": null,
+        "price": 418.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350833/0/638996976673900000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350833",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "：以藝術家之眼，體悟千年古都的生活美學意蘊（全2冊）",
+        "brand": "京都美學‧極致典藏套書",
+        "price": 922.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350819/0/638996976653730000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350819",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "甲骨文學校：大明紫禁城奇譚 (隨書附贈「珍奇瑰寶的去處──故宮博物院」拉頁海報)",
+        "brand": "甲骨文學校：大明紫禁城奇譚",
+        "price": 300.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350818/0/638996976651730000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350818",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "節慶景觀：緬華樂舞的多點域流變與文化新生",
+        "brand": "限量精裝版",
+        "price": 630.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350817/0/638996976644170000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350817",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "終焉世界的亡者03",
+        "brand": "首刷附錄版",
+        "price": 244.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350815/0/638996976640470000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350815",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "夢與道之間，莊子的哲理與人間情懷：從〈逍遙遊〉到〈齊物論〉，以莊子之眼看透榮辱、生死與得失，學會在有限人生中領悟無限的精神自由",
+        "brand": null,
+        "price": 236.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350814/0/638996976636570000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350814",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "轉念，給自己的人生答案套書",
+        "brand": "轉念之年＋轉念的力量",
+        "price": 667.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350810/0/638996976618100000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350810",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "狼人生存遊戲16：驚濤駭浪！珊瑚之泉的狼人遊戲",
+        "brand": null,
+        "price": 300.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350805/0/638996976611500000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350805",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "生意的起點：白種元的小店經營心法",
+        "brand": null,
+        "price": 284.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350803/0/638996976607730000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350803",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "超越戒嚴與內亂：法學權威給韓國與亞洲的12·3戒嚴周年啟示錄",
+        "brand": null,
+        "price": 442.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350800/0/638996976604030000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350800",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "我與恰米的東京咒物探險2 泰國最恐咒物篇",
+        "brand": "我與恰米的東京咒物探險2",
+        "price": 237.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350798/0/638996976597400000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350798",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "小麋鹿大探險：咚咚咚！掉到小小模型世界了！",
+        "brand": null,
+        "price": 300.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350796/0/638996976591630000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350796",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "家政夫是名偵探！04：暑假的料理與推理",
+        "brand": null,
+        "price": 300.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350794/0/638996976596170000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350794",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "鄭振鐸的中國文學常識：以《詩經》、《楚辭》為起點，貫通史家筆力與哲人思想的中國文學通論",
+        "brand": null,
+        "price": 379.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350792/0/638996976586830000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350792",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "流量寫作密碼：日本暢銷書編輯破百萬點閱的寫作指南，自媒體時代必備的寫作力",
+        "brand": "暢銷紀念版",
+        "price": 355.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350791/0/638996976583800000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350791",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "文豪Stray Dogs 20",
+        "brand": "文豪Stray",
+        "price": 135.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350790/0/638996976582930000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350790",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "日本政治史：形塑現代日本的力量",
+        "brand": null,
+        "price": 474.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350789/0/638996976576300000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350789",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "花甲男孩嬉遊記：六個朋友六十年的故事",
+        "brand": null,
+        "price": 316.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350787/0/638996976574670000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350787",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "漢武盛世，開創強漢盛局的孤傲帝王：開拓絲路×戰火開疆×儒術定國×巫蠱之禍……權力、信仰與孤獨交織的一代帝王真實肖像",
+        "brand": null,
+        "price": 513.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350784/0/638996976570670000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350784",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "茱蒂絲‧瓊斯與美國二十世紀：大膽、非傳統，塑造美國文化的傳奇編輯",
+        "brand": null,
+        "price": 513.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350778/0/638996976564330000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350778",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "不只是異鄉人，義大利遊子們的生活：飲食、家庭、教育……從水土不服到遊刃有餘，親述在異國的生活、學習與成長",
+        "brand": null,
+        "price": 236.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350773/0/638996976528830000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350773",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "被誤讀千年的中國預言書《推背圖》：唐朝轉衰、宋室北遷、明代崩解……一場場興亡在圖讖之間輪迴重現，一部藏有中國歷史千年循環軌跡的奇書",
+        "brand": null,
+        "price": 379.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350772/0/638996976521500000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350772",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "錦繡莊武男：人間國寶的彩繪人生",
+        "brand": null,
+        "price": 395.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350770/0/638996976541800000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350770",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "精神王國的倫理與人性，人文的《聖經》：善惡與救贖的辯證：從倫理教化到人類精神的終極追尋",
+        "brand": null,
+        "price": 355.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350769/0/638996976513770000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350769",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "社會觀察筆記，從庶民、商人到知識分子的中國百年迷失：商人被權力馴化、學者集體搞抄襲、百姓在制度中求生存……現代化表象下，那些被掩蓋的社會議題",
+        "brand": null,
+        "price": 276.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350768/0/638996976517430000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350768",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "讓人生穩定快樂的心理學公式：用「擁有的＞期望的」找回生活的平衡與快樂",
+        "brand": null,
+        "price": 296.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350767/0/638996976509770000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350767",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "大漠元朝，鐵血帝國的開端：塔塔兒伏誅×扎木合敗走×鐵木真崛起……從部落合縱到統一北原，在風沙中誕生的天下新主",
+        "brand": null,
+        "price": 379.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350764/0/638996976561830000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350764",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "士人眼中的風俗，宋代文化與民間生活的雙重觀察：循著文人筆跡，解析士人在儒學與民間之間描繪出的百姓樣貌",
+        "brand": null,
+        "price": 331.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350763/0/638996976497870000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350763",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "弦語，拉出一個世紀──弦樂演奏家們的藝術與時代：四大樂器，一個世紀！從克萊斯勒到馬友友，20世紀世界著名弦樂大師",
+        "brand": null,
+        "price": 537.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11350761/0/638996976488630000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11350761",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "韓系簡約 毛呢護耳百搭秋冬包頭帽/顏色可選",
+        "brand": "Decoy",
+        "price": 520.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11349166/0/638996526592800000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11349166",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "雪花格紋 秋冬時尚保暖針織漁夫帽/顏色可選",
+        "brand": "Decoy",
+        "price": 399.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11349165/0/638996526581900000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11349165",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "日系復古 蕾絲針織保暖漁夫帽/灰色",
+        "brand": "Decoy",
+        "price": 329.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11349164/0/638996526573330000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11349164",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "可愛俏麗 0-6個月寶寶薄款保暖純棉胎帽/款式可選",
+        "brand": "iSFun",
+        "price": 369.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11349163/0/638996526589130000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11349163",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "時尚萌娃 6個月-3歲連帽圍脖一體保暖童帽/顏色可選",
+        "brand": "iSFun",
+        "price": 399.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11349162/0/638996526572870000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11349162",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "冬日英倫 刷毛格紋八角帽報童帽/灰色",
+        "brand": "Decoy",
+        "price": 499.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11349161/0/638996526549430000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11349161",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "復古韓系 針織緹花包頭毛線帽/藏青色",
+        "brand": "Decoy",
+        "price": 499.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11349160/0/638996526544500000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11349160",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "糖果色系 時尚包頭圓頂針織毛線帽/藍色",
+        "brand": "Decoy",
+        "price": 450.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11349159/0/638996526546430000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11349159",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "人字紋路 韓風保暖披肩加厚圍巾/顏色可選",
+        "brand": "Decoy",
+        "price": 599.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11349158/0/638996526553170000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11349158",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "愛心水鑽 韓系毛絨針織顯臉小秋冬包頭帽/顏色可選",
+        "brand": "Decoy",
+        "price": 520.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11349156/0/638996526530330000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11349156",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "中性韓風 仿羊羔絨保暖羽絨脖套/卡其",
+        "brand": "Decoy",
+        "price": 459.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11349155/0/638996526522630000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11349155",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "點點兔耳 保暖仿兔毛交叉脖圍圍巾/顏色可選",
+        "brand": "Decoy",
+        "price": 499.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11349154/0/638996526547000000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11349154",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "韓版百搭 仿瀨兔毛加厚保暖交叉毛絨脖圍圍巾/灰色",
+        "brand": "Decoy",
+        "price": 399.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11349153/0/638996526522700000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11349153",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "聖誕節慶 氣氛佈置鐵藝LED掛串燈/款式可選",
+        "brand": "iSFun",
+        "price": 499.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11349152/0/638996526520970000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11349152",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "文青牛津 小號防水保冷保溫便當包/藏青",
+        "brand": "iSFun",
+        "price": 349.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11349151/0/638996526501470000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11349151",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "空氣舖棉 防撞包中袋收納包/藏青色",
+        "brand": "iSFun",
+        "price": 399.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11349150/0/638996526521000000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11349150",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "買一送一多送一條隨機花色 巴黎畫框 法式花園氣息明亮浪漫圖騰絲巾 90CM",
+        "brand": "梨花HaNA",
+        "price": 380.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11349144/0/638996526311500000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11349144",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "冬日咖啡館時光 FOURTH STUDIO羊毛混紡報童畫家帽",
+        "brand": "梨花HaNA",
+        "price": 490.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11349143/0/638996526287870000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11349143",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "低調的宣示  皮革拼接MIN字母海軍報童帽",
+        "brand": "梨花HaNA",
+        "price": 399.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11349142/0/638996526274800000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11349142",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "買一送一駝色．巴黎輕奢珍珠抽繩仿水貂絨圍脖",
+        "brand": "梨花HaNA",
+        "price": 499.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11349140/0/638996526284330000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11349140",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "冬日溫柔光影 格紋暖絨大圍巾 溫柔奶油色系冬日文青",
+        "brand": "梨花HaNA",
+        "price": 450.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11349139/0/638996526255730000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11349139",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "特惠款 野性的優雅宣言  獵豹紋秋日圍巾披肩",
+        "brand": "梨花HaNA",
+        "price": 350.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11349138/0/638996526255730000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11349138",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "冬日耳語．彩點泰迪毛絨連帽領圍 (耳罩+圍巾)",
+        "brand": "梨花HaNA",
+        "price": 399.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11349137/0/638996526239200000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11349137",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "年菜3件組(佛跳牆+豬肋排+醉蝦)",
+        "brand": "胡同",
+        "price": 3519.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11348036/0/638996472944630000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11348036",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "地表最強燒肉組-550g",
+        "brand": "開丼燒肉",
+        "price": 1700.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11348028/0/638996472882630000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11348028",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "四大世界頂級燒肉饗宴組-750g",
+        "brand": "胡同",
+        "price": 2480.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11347889/0/638996469539430000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11347889",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "招牌港點3件組",
+        "brand": "易牙居",
+        "price": 1099.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11347885/0/638996469174130000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11347885",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "年菜2件組(燒雞飯+東坡肉)",
+        "brand": "上海鄉村",
+        "price": 1718.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11347790/0/638996461600430000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11347790",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "年菜2件組(佛跳牆+豬肋排)",
+        "brand": "胡同",
+        "price": 2920.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11347762/0/638996456914030000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11347762",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "FOREO LUNA 4 play 智能淨透緊緻潔面儀",
+        "brand": "FOREO LUNA",
+        "price": 2150.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11347691/0/638996443684170000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11347691",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "CHENSON 買1送1★三種用法鑰匙繩 手腕繩 可調節長度 雙頭活動扣 (W25960*2)",
+        "brand": "CHENSON",
+        "price": 288.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11346988/0/638996380545530000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11346988",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "CHENSON 超值２件組★手機包+零錢包 包夾組(P25552+W00820)",
+        "brand": "CHENSON",
+        "price": 1499.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11346987/0/638996380519870000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11346987",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "年菜6件組(佛跳牆+米糕+雞湯+海鮮羹+冰糖豬腳+魷魚螺肉蒜)",
+        "brand": "錦霞樓",
+        "price": 5595.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11346659/0/638996369342330000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11346659",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "年菜4件組(米糕+佛跳牆+冰糖豬腳+魷魚螺肉蒜)",
+        "brand": "錦霞樓",
+        "price": 4197.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11346137/0/638996350377730000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11346137",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "年菜2件組(米糕+佛跳牆)-出貨日可選",
+        "brand": "錦霞樓",
+        "price": 2899.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11346099/0/638996344371770000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11346099",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "AUGER男士修容刮鬍刀組AG-6H（刀柄1入＋替換刀片6入）/盒（5刃可替換滑順剃鬚刀，刀頭角度可變反向剃鬍，鬢角美型手動刮毛工具）_廠商直送",
+        "brand": "日本KAI貝印",
+        "price": 2377.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345894/0/638996609144730000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345894",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "FERRARI手錶，編號FE00105，46mm黑圓形精鋼錶殼，黑色三眼， 中三針顯示， 運動錶面，深黑色矽膠錶帶款_廠商直送",
+        "brand": "FERRARI手錶，編號FE00105，46mm黑圓形精鋼錶殼，黑色三眼，",
+        "price": 13110.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345893/0/638996609149370000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345893",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "達新牌沙龍級專業吹風機 TS-2300（紅色）_廠商直送",
+        "brand": "達新牌沙龍級專業吹風機",
+        "price": 450.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345892/0/638996609151570000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345892",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "燕麥脆片超值組（泰式奶茶2包、鹹香椒鹽2包、法式可可2包）_廠商直送",
+        "brand": "超比食品",
+        "price": 1150.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345891/0/638996609153970000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345891",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "L型潔齒縫軟毛牙間刷10入/盒-1號SSS白（附便攜防塵蓋，口腔清潔牙籤棒，極細護齦齒間刷，內側臼齒縫牙線棒，牙縫除殘渣異味）【日本DENTALPRO J_廠商直送",
+        "brand": "日本DENTALPRO JACKS丹特博",
+        "price": 659.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345890/0/638996609155670000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345890",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "Tab M11 （8G/128G） 11吋平板電腦 TB330FU 贈可立式皮套＋螢幕保貼_廠商直送",
+        "brand": "Lenovo",
+        "price": 5911.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345889/0/638996609157730000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345889",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "Kolin歌林自動研磨咖啡機（KCO-UD203A）_廠商直送",
+        "brand": null,
+        "price": 990.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345888/0/638996609159370000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345888",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "WAKMANN手錶，編號WA00041，44mm黑圓形精鋼錶殼，黑色中三針顯示， 復古風錶面，卡其色複合材質錶帶款_廠商直送",
+        "brand": "WAKMANN手錶，編號WA00041，44mm黑圓形精鋼錶殼，黑色中三針顯示，",
+        "price": 17365.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345886/0/638996609163000000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345886",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "TommyHilfiger手錶，編號TH00072，44mm銀錶殼，銀色錶帶款_廠商直送",
+        "brand": null,
+        "price": 6670.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345885/0/638996609164870000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345885",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "日本國際酒店專屬Airy漫香時光香薰瓶-香格里拉x2入組（香薰/擴香/車用）_廠商直送",
+        "brand": "HARIKA",
+        "price": 990.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345884/0/638996609166430000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345884",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "ACER 宏碁 Swift GO 14 SFG14-75-542S 藍 14吋筆電 - 贈多樣好禮_廠商直送",
+        "brand": "ACER",
+        "price": 28900.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345883/0/638996609168100000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345883",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "MAYLINK美菱 瞬熱式碳素電暖器/暖氣機/電暖扇（ML-D210TY）_廠商直送",
+        "brand": "MAYLINK美菱",
+        "price": 1380.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345882/0/638996609169930000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345882",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "交直流智慧型萬用電筆_廠商直送",
+        "brand": null,
+        "price": 429.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345881/0/638996609171500000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345881",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "三摺盥洗包｜哆啦A夢（表情）_廠商直送",
+        "brand": "murmur",
+        "price": 680.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345880/0/638996609173200000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345880",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "AUGER男士修容刮鬍刀替換刀片4入/盒B-4AG（本品不含刮鬍刀柄，5刃可替換滑順剃鬚刀，刀頭角度可變反向剃鬍，鬢角美型刮毛工具）_廠商直送",
+        "brand": "日本KAI貝印",
+        "price": 1530.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345879/0/638996609174900000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345879",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "Haier海爾2.5L小海豚瞬熱式淨水器WD251B_廠商直送",
+        "brand": null,
+        "price": 2680.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345878/0/638996609176530000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345878",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "ACER 宏碁 Swift GO SFG14-75-76T1 藍 14吋筆電 - 贈多樣好禮_廠商直送",
+        "brand": "ACER",
+        "price": 35900.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345877/0/638996609178270000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345877",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "L型潔齒縫軟毛牙間刷10入/盒-0號SSSS粉（附便攜防塵蓋，口腔清潔牙籤棒，極細護齦齒間刷，內側臼齒縫牙線棒，牙縫除殘渣異味）_廠商直送",
+        "brand": "日本DENTALPRO JACKS丹特博",
+        "price": 659.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345876/0/638996609180170000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345876",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "日本國際酒店專屬Airy漫香時光香薰瓶-希爾頓x2入組（香薰/擴香/車用）_廠商直送",
+        "brand": "HARIKA",
+        "price": 990.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345875/0/638996609182000000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345875",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "日本國際酒店專屬Airy漫香時光香薰瓶-小蒼蘭x2入組（香薰/擴香/車用）_廠商直送",
+        "brand": "HARIKA",
+        "price": 990.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345874/0/638996609183800000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345874",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "三井武田智能筋膜槍C-M1500（鐵灰）_廠商直送",
+        "brand": null,
+        "price": 599.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345873/0/638996609185600000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345873",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "［CCC＋BSMI雙認證］ 酷態科 PB1055 10000mAh 55W 行動電源 灰色_廠商直送",
+        "brand": "［CCC＋BSMI雙認證］",
+        "price": 1480.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345872/0/638996609187070000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345872",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "ACER 宏碁 Swift GO SFG14-75-59DG 藍 14吋筆電 - 贈多樣好禮_廠商直送",
+        "brand": "ACER",
+        "price": 29900.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345871/0/638996609189070000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345871",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "kokomo快可瀝美食煮蛋鍋/美食鍋/料理鍋KO-GP2332_廠商直送",
+        "brand": null,
+        "price": 1742.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345870/0/638996609190900000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345870",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "達新牌沙龍級專業吹風機 TS-2300（黑色）_廠商直送",
+        "brand": "達新牌沙龍級專業吹風機",
+        "price": 450.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345869/0/638996609192400000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345869",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "Kolin歌林商用40人份電子鍋KNJ-KYR402SE_廠商直送",
+        "brand": null,
+        "price": 5980.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345868/0/638996609194200000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345868",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "手持式攪拌棒 MQ5000（入門款）_廠商直送",
+        "brand": "德國百靈BRAUN",
+        "price": 1980.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345867/0/638996609196100000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345867",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "1.8L不鏽鋼電熱快煮壺AS-HP0155_廠商直送",
+        "brand": "日本AWSON歐森",
+        "price": 599.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345866/0/638996609197770000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345866",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "燕麥脆片超值組（微甜草莓2包、香濃起司2包、義式香蒜2包）_廠商直送",
+        "brand": "超比食品",
+        "price": 1150.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345865/0/638996609199530000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345865",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "日本國際酒店專屬Airy漫香時光香薰瓶-梔子花x2入組（香薰/擴香/車用）_廠商直送",
+        "brand": "HARIKA",
+        "price": 990.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345864/0/638996609201130000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345864",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "TommyHilfiger手錶，編號TH00074，44mm銀錶殼，深黑色錶帶款_廠商直送",
+        "brand": null,
+        "price": 6325.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345863/0/638996609202730000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345863",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "達新牌1400W超速乾大風量吹風機 TS-6626_廠商直送",
+        "brand": "達新牌1400W超速乾大風量吹風機",
+        "price": 590.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345862/0/638996609204270000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345862",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "四件式手持式攪拌棒 MQ5035_廠商直送",
+        "brand": "德國百靈BRAUN",
+        "price": 2880.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345861/0/638996609205970000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345861",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "ACER 宏碁 Swift GO SFG14-75-5948 藍 14吋筆電 - 贈多樣好禮_廠商直送",
+        "brand": "ACER",
+        "price": 32900.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345860/0/638996609207900000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345860",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "三井武田智能筋膜槍C-M1500（白金）_廠商直送",
+        "brand": null,
+        "price": 599.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345858/0/638996609212600000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345858",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "豪華法蘭絨銀離子雙人電熱毯NOV-H11_廠商直送",
+        "brand": "NOVOICE諾維斯",
+        "price": 1680.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345857/0/638996609214400000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345857",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "小資八段溫控電熱毯NOV-H31_廠商直送",
+        "brand": "NOVOICE諾維斯",
+        "price": 1390.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345856/0/638996609216330000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345856",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "三井武田智能筋膜槍C-M1500（朱紅）_廠商直送",
+        "brand": null,
+        "price": 599.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345855/0/638996609218130000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345855",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "GUM去齒垢牙周護理牙線1入/盒-50M含蠟滑順型（狹窄齒縫用扁平潔牙線，牙縫殘渣清潔線，彈力尼龍好抽取便攜剔牙工具）_廠商直送",
+        "brand": "日本SUNSTAR三詩達",
+        "price": 659.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345854/0/638996609220030000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345854",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "WAKMANN手錶，編號WA00050，40mm玫瑰金錶殼，金銀相間錶帶款_廠商直送",
+        "brand": null,
+        "price": 43240.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345853/0/638996609222130000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345853",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "達新牌掛壁式吹風機（按鍵開關） TS-1899P_廠商直送",
+        "brand": "達新牌掛壁式吹風機（按鍵開關）",
+        "price": 690.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345852/0/638996609224000000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345852",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "WAKMANN手錶，編號WA00049，42mm銀圓形精鋼錶殼，寶藍色簡約， 中三針顯示錶面，銀色精鋼錶帶款，低調奢華_廠商直送",
+        "brand": "WAKMANN手錶，編號WA00049，42mm銀圓形精鋼錶殼，寶藍色簡約，",
+        "price": 19090.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345851/0/638996609226330000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345851",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "WAKMANN手錶，編號WA00047，42mm銀圓形精鋼錶殼，黑色簡約， 中三針顯示， 飛行錶錶面，金銀相間精鋼錶帶款_廠商直送",
+        "brand": "WAKMANN手錶，編號WA00047，42mm銀圓形精鋼錶殼，黑色簡約，",
+        "price": 22080.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345850/0/638996609228770000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345850",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "WAKMANN手錶，編號WA00047，42mm銀圓形精鋼錶殼，黑色簡約， 中三針顯示， 飛行錶錶面，金銀相間精鋼錶帶款_廠商直送",
+        "brand": "WAKMANN手錶，編號WA00047，42mm銀圓形精鋼錶殼，黑色簡約，",
+        "price": 22080.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345849/0/638996609231030000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345849",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "25L變頻高效型清淨除濕機 MJ-EV250JV-TW_廠商直送",
+        "brand": "MITSUBISHI三菱",
+        "price": 23900.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345848/0/638996609233030000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345848",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "WAKMANN手錶，編號WA00046，46mm黑圓形精鋼錶殼，黑色潛水錶， 中三針顯示， 運動錶面，深黑色精鋼錶帶款_廠商直送",
+        "brand": "WAKMANN手錶，編號WA00046，46mm黑圓形精鋼錶殼，黑色潛水錶，",
+        "price": 21505.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345847/0/638996609234600000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345847",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "年菜3件組(米糕+佛跳牆+冰糖豬腳)",
+        "brand": "錦霞樓",
+        "price": 3498.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345794/0/638996325000300000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345794",
+        "retailer": "Cosmed"
+    },
+    {
         "name": "職場不必狠角色：和善，才是最強大的企圖心",
         "brand": null,
         "price": 300.0,
@@ -16,11 +960,27 @@
         "retailer": "Cosmed"
     },
     {
+        "name": "歐巴桑，你欲去佗位？（附台羅拼音、台語朗讀）",
+        "brand": null,
+        "price": 388.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345552/0/638996905892300000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345552",
+        "retailer": "Cosmed"
+    },
+    {
         "name": "我是許涼涼(二版)",
         "brand": null,
         "price": 355.0,
         "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345547/0/638996112571770000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11345547",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "Grafana Zero to Hero：從視覺化到智慧監控，打造全知視角的可觀測性平台（iThome鐵人賽系列書）",
+        "brand": "Grafana",
+        "price": 568.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345546/0/638996532031970000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345546",
         "retailer": "Cosmed"
     },
     {
@@ -32,11 +992,43 @@
         "retailer": "Cosmed"
     },
     {
+        "name": "國民數獨：進階篇37",
+        "brand": null,
+        "price": 162.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345541/0/638996496033300000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345541",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "國民數獨：高階篇37",
+        "brand": null,
+        "price": 162.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345539/0/638996496032700000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345539",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "倒數計時!學科男孩9-12集",
+        "brand": "套書",
+        "price": 990.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345538/0/638996640031000000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345538",
+        "retailer": "Cosmed"
+    },
+    {
         "name": "親愛的小耳朵",
         "brand": null,
         "price": 221.0,
         "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345537/0/638996112547330000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11345537",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "中華數獨：高階篇37",
+        "brand": null,
+        "price": 162.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345536/0/638996496035530000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345536",
         "retailer": "Cosmed"
     },
     {
@@ -53,6 +1045,14 @@
         "price": 260.0,
         "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345533/0/638996112516570000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11345533",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "中華數獨：進階篇37",
+        "brand": null,
+        "price": 162.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345532/0/638996496032100000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345532",
         "retailer": "Cosmed"
     },
     {
@@ -96,6 +1096,14 @@
         "retailer": "Cosmed"
     },
     {
+        "name": "藤子‧Ｆ‧不二雄大全集 酸梅星王子(02)",
+        "brand": "藤子‧Ｆ‧不二雄大全集",
+        "price": 405.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345525/0/638996496039770000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345525",
+        "retailer": "Cosmed"
+    },
+    {
         "name": "沉月之鑰 卷外．續夢．下",
         "brand": "沉月之鑰",
         "price": 237.0,
@@ -117,6 +1125,14 @@
         "price": 260.0,
         "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345522/0/638996112485100000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11345522",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "阿爾戈 後章 英雄命運 在地下城尋求邂逅是否搞錯了什麼 英雄譚",
+        "brand": "阿爾戈",
+        "price": 216.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345521/0/638996496041370000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345521",
         "retailer": "Cosmed"
     },
     {
@@ -157,6 +1173,14 @@
         "price": 284.0,
         "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345515/0/638996112462570000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11345515",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "我的世紀末：九〇年代混音帶",
+        "brand": null,
+        "price": 355.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11345514/0/638996640034230000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11345514",
         "retailer": "Cosmed"
     },
     {
@@ -400,6 +1424,14 @@
         "retailer": "Cosmed"
     },
     {
+        "name": "蕎拉燕麥纖脆片刻-野莓果口味 30g*6",
+        "brand": null,
+        "price": 234.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11341716/0/638996609294730000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11341716",
+        "retailer": "Cosmed"
+    },
+    {
         "name": "穴位按摩對症手法（經典版）：按壓‧搓揉‧摩擦，找到正確穴位，以有效手法創造最舒適的痛感！",
         "brand": "全圖解",
         "price": 300.0,
@@ -410,9 +1442,25 @@
     {
         "name": "廣告行銷自學聖經：圖解50年金獎廣告，文案撰寫、策略擬定、平面動態、品牌定位及社媒經營的全方位秘笈",
         "brand": "暢銷經典版",
-        "price": 648.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11341669/0/638995740109630000?v=1",
+        "price": 568.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11341669/0/638996905209170000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11341669",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "行銷：商業世界的成功策略",
+        "brand": "牛津通識課07",
+        "price": 405.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11341668/0/638996388032830000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11341668",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "（二冊）：《動物農莊（隨書附贈英文版）》＋《一九八四》",
+        "brand": "喬治．歐威爾政治寓言套書",
+        "price": 508.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11341666/0/638996905284770000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11341666",
         "retailer": "Cosmed"
     },
     {
@@ -440,6 +1488,14 @@
         "retailer": "Cosmed"
     },
     {
+        "name": "吞嚥照護食：給有吞嚥及咀嚼問題者的日常食譜",
+        "brand": null,
+        "price": 331.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11341657/0/638996905197470000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11341657",
+        "retailer": "Cosmed"
+    },
+    {
         "name": "修復身心的內核心呼吸",
         "brand": null,
         "price": 300.0,
@@ -461,6 +1517,22 @@
         "price": 268.0,
         "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11341652/0/638995740067270000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11341652",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "導遊領隊「一本就go」（最新試題詳解‧觀光會話大全‧導領雙榜一本就go）(10版)",
+        "brand": "導遊領隊英文",
+        "price": 458.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11341650/0/638996532038700000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11341650",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "動物農莊（隨書附贈英文版）",
+        "brand": null,
+        "price": 276.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11341649/0/638996905223870000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11341649",
         "retailer": "Cosmed"
     },
     {
@@ -496,6 +1568,14 @@
         "retailer": "Cosmed"
     },
     {
+        "name": "一九八四",
+        "brand": null,
+        "price": 331.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11341642/0/638996905235000000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11341642",
+        "retailer": "Cosmed"
+    },
+    {
         "name": "關於我轉生變成史萊姆這檔事 (22)",
         "brand": "關於我轉生變成史萊姆這檔事",
         "price": 252.0,
@@ -520,6 +1600,14 @@
         "retailer": "Cosmed"
     },
     {
+        "name": "一小時學會ChatGPT：讓AI成為工作、理財、健康與旅行最佳助理",
+        "brand": null,
+        "price": 331.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11341634/0/638996388029030000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11341634",
+        "retailer": "Cosmed"
+    },
+    {
         "name": "零信任網路｜在不受信任的網路中建構安全系統 第二版",
         "brand": "零信任網路｜在不受信任的網路中建構安全系統",
         "price": 537.0,
@@ -531,7 +1619,7 @@
         "name": "零成本AI創作術：免費工具玩出專業級影像與影片",
         "brand": null,
         "price": 395.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11341632/0/638995248499200000?v=1",
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11341632/0/638996748029730000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11341632",
         "retailer": "Cosmed"
     },
@@ -573,6 +1661,14 @@
         "price": 434.0,
         "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11341184/0/638993520420870000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11341184",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "記恨家族",
+        "brand": null,
+        "price": 355.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11341183/0/638996532033370000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11341183",
         "retailer": "Cosmed"
     },
     {
@@ -720,26 +1816,26 @@
         "retailer": "Cosmed"
     },
     {
-        "name": "檔期限定!亮顏定妝睫毛膏組★小凱老師推薦",
-        "brand": null,
+        "name": "檔期限定!ettusais艾杜紗 亮顏定妝睫毛膏組",
+        "brand": "檔期限定!ettusais艾杜紗",
         "price": 1299.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11339703/0/638993027676970000?v=1",
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11339703/0/638996594389900000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11339703",
         "retailer": "Cosmed"
     },
     {
-        "name": "檔期限定!亮顏定妝眉彩膏組★小凱老師推薦",
-        "brand": null,
+        "name": "檔期限定!ettusais艾杜紗 亮顏定妝眉彩膏組",
+        "brand": "檔期限定!ettusais艾杜紗",
         "price": 1299.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11339628/0/638993028773600000?v=1",
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11339628/0/638996594276930000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11339628",
         "retailer": "Cosmed"
     },
     {
-        "name": "檔期限定!ettusais艾杜紗 捲翹纖長眼線膠組★小凱老師推薦",
+        "name": "檔期限定!ettusais艾杜紗 捲翹纖長眼線膠組",
         "brand": "檔期限定!ettusais艾杜紗",
         "price": 1199.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11339540/0/638993029816200000?v=1",
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11339540/0/638996593575800000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11339540",
         "retailer": "Cosmed"
     },
@@ -768,10 +1864,10 @@
         "retailer": "Cosmed"
     },
     {
-        "name": "檔期限定!ettusais艾杜紗 亮顏無瑕眼線膠組★小凱老師推薦",
+        "name": "檔期限定!ettusais艾杜紗 亮顏無瑕眼線膠組",
         "brand": "檔期限定!ettusais艾杜紗",
         "price": 1299.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11339506/0/638993030450700000?v=1",
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11339506/0/638996593748570000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11339506",
         "retailer": "Cosmed"
     },
@@ -1016,6 +2112,14 @@
         "retailer": "Cosmed"
     },
     {
+        "name": "基礎日本語1發音+單字+文法+會話(AI助教版)",
+        "brand": "書+數位學習產品序號(含電腦互動軟體、AI學習功能)+別冊",
+        "price": 300.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11337591/0/638996568047000000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11337591",
+        "retailer": "Cosmed"
+    },
+    {
         "name": "暗黑破壞神(21)",
         "brand": null,
         "price": 127.0,
@@ -1029,6 +2133,22 @@
         "price": 127.0,
         "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11337583/0/638993868033830000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11337583",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "看世界名著學英語",
+        "brand": "書+朗讀MP3",
+        "price": 355.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11337581/0/638996568037230000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11337581",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "九紫離火運靈性躍升的關鍵密碼",
+        "brand": null,
+        "price": 450.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11337579/0/638996640065870000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11337579",
         "retailer": "Cosmed"
     },
     {
@@ -1920,10 +3040,10 @@
         "retailer": "Cosmed"
     },
     {
-        "name": "Ｘ超強對決王：(4) 疾影武者 日本浪人VS西方劍客（附學習單）：谁最强?!日本浪人VS西方剑客",
+        "name": "Ｘ超強對決王：(4) 疾影武者 日本浪人VS西方劍客（附學習單）",
         "brand": "Ｘ超強對決王：(4)",
         "price": 237.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11333875/0/638992176034100000?v=1",
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11333875/0/638996652104070000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11333875",
         "retailer": "Cosmed"
     },
@@ -2018,48 +3138,48 @@
     {
         "name": "Hermes 展示品 Silk'In Classique 古典神話圖騰牛皮絲巾長夾(板岩深灰)",
         "brand": "Hermes",
-        "price": 58800.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332659/0/638992157221630000?v=1",
+        "price": 51212.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332659/0/638996481900300000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11332659",
         "retailer": "Cosmed"
     },
     {
         "name": "Chanel 展示品 小牛皮短金鍊粉鑽二用包(AS4615-黑)",
         "brand": "Chanel",
-        "price": 188000.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332657/0/638992157220300000?v=1",
+        "price": 171212.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332657/0/638996481501570000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11332657",
         "retailer": "Cosmed"
     },
     {
         "name": "Hermes 展示品 Herbag Zip 50 銀釦帆布手提肩背包(黑)",
         "brand": "Hermes",
-        "price": 99000.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332656/0/638992157220500000?v=1",
+        "price": 89012.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332656/0/638996481501630000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11332656",
         "retailer": "Cosmed"
     },
     {
         "name": "Louis Vuitton 展示品 Mini Dauphine 帆布肩背斜背二用包(M45959-咖)",
         "brand": "Louis",
-        "price": 98800.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332655/0/638992157219030000?v=1",
+        "price": 91212.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332655/0/638996481505270000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11332655",
         "retailer": "Cosmed"
     },
     {
         "name": "Chanel 展示品 Mini Flap 菱格羊皮淡金鍊斜背包-20cm(A69900-紫)",
         "brand": "Chanel",
-        "price": 158000.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332654/0/638992157219230000?v=1",
+        "price": 141212.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332654/0/638996481911200000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11332654",
         "retailer": "Cosmed"
     },
     {
         "name": "Chanel 展示品 經典雙C菱格牛皮銀鍊翻蓋coco斜背包-25cm(A01112-黑)",
         "brand": "Chanel",
-        "price": 338000.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332653/0/638992157217730000?v=1",
+        "price": 311212.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332653/0/638996481923430000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11332653",
         "retailer": "Cosmed"
     },
@@ -2074,1129 +3194,9 @@
     {
         "name": "Louis Vuitton 展示品 OnTheGo BB 牛皮手提二用包(M47054-斑鳩灰)",
         "brand": "Louis",
-        "price": 76800.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332651/0/638992157216530000?v=1",
+        "price": 71212.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332651/0/638996481890100000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11332651",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Louis Vuitton 展示品 Serrures 20 字花帆布拼牛皮金扣皮帶(M8892Z-金)",
-        "brand": "Louis",
-        "price": 11800.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332650/0/638992157216330000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332650",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Hermes 展示品 Birkin 牛皮金釦手提柏金包-25cm(K刻/Gold棕)",
-        "brand": "Hermes",
-        "price": 738000.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332649/0/638992157215000000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332649",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Dior 展示品 D-Vibe 緹花布拼牛皮手提斜背包(藍)",
-        "brand": "Dior",
-        "price": 79800.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332647/0/638992157214830000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332647",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Louis Vuitton x TM  Venice 三彩塗層帆布釦式後背包(M13081-白)",
-        "brand": "Louis",
-        "price": 128000.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332572/0/638992157213870000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332572",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Louis Vuitton Neverfull MM 棋盤格帆布手提肩背托特包-(N41358-咖)",
-        "brand": "Louis",
-        "price": 56800.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332571/0/638992157213800000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332571",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Hermes Picotin 22 牛皮金釦水桶包(聖杯藍)",
-        "brand": "Hermes",
-        "price": 168000.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332570/0/638992157212570000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332570",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Louis Vuitton Micro Metis 壓紋牛皮迷你郵差包(M81390-白)",
-        "brand": "Louis",
-        "price": 56800.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332569/0/638992157212630000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332569",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Hermes Sous le Charme d'Orphee 俄耳甫斯的魔力Twilly 絲巾(灰/米白)",
-        "brand": "Hermes",
-        "price": 7800.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332568/0/638992157211430000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332568",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Hermes Rodeo GM 小馬吊飾(馬爾他藍/波爾多酒紅)",
-        "brand": "Hermes",
-        "price": 23800.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332567/0/638992157209670000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332567",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Prada Saffiano皮革琺瑯金屬標誌後背包(2VZ102-黑)",
-        "brand": "Prada",
-        "price": 76800.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332566/0/638992157208470000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332566",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Prada Re-Nylon 尼龍微型化妝袋(1ND339-黑)",
-        "brand": "Prada",
-        "price": 14800.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332565/0/638992157206300000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332565",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Chloe Woody Basket 草編大托特包(米白)",
-        "brand": "Chloe",
-        "price": 16800.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332564/0/638992157204970000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332564",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Hermes Pursangle MM 帆布拚TC皮革手提肩背托特包(黑/焦糖)",
-        "brand": "Hermes",
-        "price": 99000.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332563/0/638992157203930000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332563",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Burberry Madison 格紋帆布拚牛皮翻蓋斜背包(8084494-卡其)",
-        "brand": "Burberry",
-        "price": 25800.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332561/0/638992157201270000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332561",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Chanel 22 Bag 金logo小牛皮橫式肩背包(AS4486-黑)",
-        "brand": "Chanel",
-        "price": 168000.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332560/0/638992157199600000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332560",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Dior Lady Dior Mini 籐格紋羊皮金釦迷你二用包(紫)",
-        "brand": "Dior",
-        "price": 128000.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332559/0/638992157198200000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332559",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Fendi Sunshine 小牛皮金釦小型二用包(8BH394-淡藍)",
-        "brand": "Fendi",
-        "price": 56800.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332558/0/638992157196770000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332558",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Loewe 品牌logo拉鍊皮標羊毛流蘇圍巾(多色任選)",
-        "brand": "Loewe",
-        "price": 19800.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332557/0/638992157195130000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332557",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Gucci 雙G白logo皮革拚帆布皮帶#80(400593-咖)",
-        "brand": "Gucci",
-        "price": 13800.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332556/0/638992157193700000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332556",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Chanel Gabrielle 仿舊銀雙C牛皮雙色鍊流浪後背包(A94485-黑)",
-        "brand": "Chanel",
-        "price": 178000.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332555/0/638992157192230000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332555",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Chanel 粒紋牛皮淡金雙C釦式三折短夾(AP0231-粉)",
-        "brand": "Chanel",
-        "price": 39800.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332554/0/638992157190930000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332554",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Burberry 喀什米爾流蘇羊毛格紋圍巾(多色任選)",
-        "brand": "Burberry",
-        "price": 16800.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332553/0/638992157189400000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332553",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Chanel 油臘羊皮粗鍊肩背Hobo包(AS4912-黑)",
-        "brand": "Chanel",
-        "price": 218000.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332552/0/638992157186730000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332552",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Hermes Petit H 貓頭鷹造型絲質布吊飾(淡黃)",
-        "brand": "Hermes",
-        "price": 22800.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332551/0/638992157188000000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332551",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Hermes Petit H 吉娃娃造型絲質斜紋繩吊飾(桃紫/咖)",
-        "brand": "Hermes",
-        "price": 11800.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332550/0/638992157185200000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332550",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Burberry 馬海毛流蘇格紋圍巾(8112967-沙色)",
-        "brand": "Burberry",
-        "price": 15800.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332549/0/638992157184500000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332549",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Hermes Mini Halzan 牛皮金釦手提/斜背兩用包(Noir黑)",
-        "brand": "Hermes",
-        "price": 268000.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332548/0/638992157183700000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332548",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Hermes Evelyne 29 牛皮銀釦斜背包(金棕)",
-        "brand": "Hermes",
-        "price": 168000.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332547/0/638992157182930000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332547",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Vivienne Westwood 土星刺繡Logo羊毛流蘇圍巾(多色任選)",
-        "brand": "Vivienne",
-        "price": 4980.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332546/0/638992157182300000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332546",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Balenciaga 黑BB logo 小牛皮腰帶/皮帶(581690-黑)",
-        "brand": "Balenciaga",
-        "price": 12800.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332544/0/638992157182070000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332544",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Fendi Baguette 緹花布FF logo L型零錢袋對開短夾(棕)",
-        "brand": "Fendi",
-        "price": 18800.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332543/0/638992157180370000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332543",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Celine 金凱旋門吊飾防刮牛皮拉鍊零錢卡包(黑)",
-        "brand": "Celine",
-        "price": 12800.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332542/0/638992157180130000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332542",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Moncler 品牌刺繡logo編織羊毛混紡圍巾(黑)",
-        "brand": "Moncler",
-        "price": 12800.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332541/0/638992157179130000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332541",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Bottega Veneta 編織牛皮銀扣拉鍊長夾(814838-黑)",
-        "brand": "Bottega",
-        "price": 25800.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332540/0/638992157179000000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332540",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Loewe Puzzle 撞色小牛皮壓印logo四卡卡夾(深棕/綠)",
-        "brand": "Loewe",
-        "price": 9900.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332539/0/638992157177470000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332539",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Loewe Puzzle 撞色小牛皮壓印logo八卡對開短夾(深棕/綠)",
-        "brand": "Loewe",
-        "price": 16800.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332538/0/638992157177530000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332538",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "石墨烯能量被送石墨烯枕2入超值組(雙人尺寸/石墨烯被/冬被/石墨烯枕)",
-        "brand": "NATURALLY JOJO",
-        "price": 999.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332328/0/638992157176300000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332328",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "雙人坐墊-70X150公分_超柔暮光經典暢銷款 保暖舒適防滑沙發墊(多款任選)",
-        "brand": "HOMEMAX",
-        "price": 650.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332327/0/638992157176130000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332327",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "三人坐墊-70X180公分_超柔賽納羅浮經典暢銷款 保暖舒適防滑沙發墊(多款任選)",
-        "brand": "HOMEMAX",
-        "price": 750.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332326/0/638992157174900000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332326",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "石墨烯能量被送石墨烯枕1入超值組(單人尺寸/石墨烯被/冬被/石墨烯枕)",
-        "brand": "NATURALLY JOJO",
-        "price": 899.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11332325/0/638992157174630000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11332325",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "年菜2件組(豬肋排+醉蝦)",
-        "brand": "胡同",
-        "price": 1739.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11331960/0/638992157173530000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11331960",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Miffy x MiPOW 米飛兔 蚊蟲捕蚊燈 粉色",
-        "brand": "Miffy",
-        "price": 899.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11331758/0/638992157173230000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11331758",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "頂級鮑魚烏蔘佛跳牆-2300g",
-        "brand": "胡同X錦霞樓",
-        "price": 2000.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11331708/0/638992157172300000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11331708",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "聖誕倒數24天手鍊驚喜禮盒",
-        "brand": "Gulicc",
-        "price": 999.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11331280/0/638992157172230000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11331280",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Hera｜磁吸轉軸手機支架 (66x100x7.5mm) _多色任選",
-        "brand": "ergomi",
-        "price": 499.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11331100/0/638992157171300000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11331100",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Hebe｜雙磁圈側開卡夾支架 (95x95x5mm) _多色任選",
-        "brand": "ergomi",
-        "price": 399.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11331099/0/638992157170830000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11331099",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "輕鬆出門組合(手機掛繩夾片2入組+可調節抽繩背帶)_多色任選",
-        "brand": "ekax",
-        "price": 199.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11331097/0/638992157169630000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11331097",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Meta Stand Pro | 多角度筆電平板支架 ( 265 x 213mm)_多色任選",
-        "brand": "ergomi",
-        "price": 649.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11331096/0/638992157169600000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11331096",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Ｍamy Pets 逗貓智能炫光自動滾動精靈。4色",
-        "brand": "Ｍamy",
-        "price": 249.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330968/0/638992157167870000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330968",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "行李織帶掛環 23.5cm(含鉤扣)_多款任選",
-        "brand": "ekax",
-        "price": 399.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330862/0/638992157167830000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330862",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Michael Kors Rhea 銀字粒紋皮革拉鍊中款後背包(花生棕)",
-        "brand": "Michael",
-        "price": 3780.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330771/0/638992157166470000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330771",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Michael Kors Pratt 銀字素面手提/斜背二用小款水桶包(黑色)",
-        "brand": "Michael",
-        "price": 4500.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330770/0/638992157165170000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330770",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Michael Kors Rhea 銀字粒紋皮革拉鍊迷你後背包(黑色)",
-        "brand": "Michael",
-        "price": 3306.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330769/0/638992157165370000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330769",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "14選1 閃耀聖誕 黃金造型項鍊 約重0.03錢±0.01 (任選 聖誕交換禮物)",
-        "brand": "TLH",
-        "price": 1385.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330768/0/638992924450000000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330768",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "這才是真正的數學思維：金字塔數列×雞兔同籠×分數應用……從鞏固基礎到提升思考力，掌握關鍵難點，突破數學瓶頸",
-        "brand": null,
-        "price": 315.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330705/0/638993076049300000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330705",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "日本金獎景觀大師給你—住宅造園完全解剖書：絕不失敗造園術！拆解24個與住宅對話的造園設計，體驗機能滿載",
-        "brand": null,
-        "price": 497.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330703/0/638992631373770000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330703",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "和自己一起",
-        "brand": null,
-        "price": 342.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330701/0/638992320038730000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330701",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "蓮師修法心語：蓮花生大士為後世修行者留下的珍貴伏藏",
-        "brand": "索達吉堪布藏文直譯經典",
-        "price": 474.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330700/0/638992631381370000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330700",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "音樂的臺灣與臺灣當代音樂：戰後臺灣音樂創作的美學反思",
-        "brand": null,
-        "price": 288.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330699/0/638993040059470000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330699",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "誰的博物館？：揭開頂尖博物館避而不談的暗黑故事&觀看思辨",
-        "brand": null,
-        "price": 521.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330697/0/638992631521430000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330697",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "LLM應用開發 - 業界最實用30個應用現場直擊",
-        "brand": "LLM應用開發",
-        "price": 726.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330693/0/638990928717870000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330693",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "從數學開始的AI，基礎數學與Python實作：機率×卷積×池化……從核心數學概念到程式應用，學會AI背後的邏輯與演算法基礎",
-        "brand": null,
-        "price": 432.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330691/0/638993076039930000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330691",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "企業永續管理",
-        "brand": null,
-        "price": 495.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330690/0/638993112055470000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330690",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "中國與歐洲文明（源起篇）：文明的種子沿著絲綢之路播撒，一部跨越語言與疆界的早期世界史",
-        "brand": null,
-        "price": 446.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330689/0/638993076046200000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330689",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "餐桌上的節氣美味：中醫、名廚教你一鍋搞定健康養生菜",
-        "brand": null,
-        "price": 379.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330688/0/638991722964400000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330688",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "無土不神：野花草與小小鄰・心靈微觀34帖",
-        "brand": null,
-        "price": 355.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330686/0/638992651591030000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330686",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "歷史之外的真實曹操：寫詩也殺人，攻城也築局！真實的他從不只一面",
-        "brand": null,
-        "price": 296.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330685/0/638990928701770000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330685",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "愛你，愛你，永遠愛你：寵物離世陪伴書",
-        "brand": null,
-        "price": 284.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330684/0/638990928700370000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330684",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "「一字」是起點，「千言」是迴響：從甲骨到金字塔的文明對話",
-        "brand": null,
-        "price": 522.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330680/0/638993076037270000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330680",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "靠窗的位子，光線剛好：我在英國皇家藝術學院（15年深愛改版）",
-        "brand": null,
-        "price": 359.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330679/0/638992320036430000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330679",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "一個人的武林：分享生命分享愛",
-        "brand": null,
-        "price": 276.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330678/0/638992655063130000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330678",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "浪之浪　Waves of Waves",
-        "brand": "浪之浪　Waves",
-        "price": 234.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330676/0/638993868052700000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330676",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "115年升大學分科測驗解題王：生物考科（108課綱）",
-        "brand": null,
-        "price": 205.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330674/0/638992655053130000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330674",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "解殖中國史",
-        "brand": null,
-        "price": 276.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330673/0/638990928676130000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330673",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "好好決定：擺脫選擇障礙、決策疲勞，以排除與排序，讓每個決定更有價值與影響力",
-        "brand": null,
-        "price": 442.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330672/0/638992631362600000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330672",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "（二冊）：《日本金獎景觀大師給你—住宅造園完全解剖書》、《日本造園大師才懂的，好房子景觀設計85法則(暢銷好評版)》",
-        "brand": "日本景觀大師的造園完全解剖套書",
-        "price": 937.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330670/0/638992637218970000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330670",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "115年升大學分科測驗解題王：歷史考科（108課綱）",
-        "brand": null,
-        "price": 205.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330669/0/638995825205770000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330669",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "寫詩填詞：你的第一堂中文古典美學課",
-        "brand": null,
-        "price": 432.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330668/0/638991456031570000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330668",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "愛的奇蹟課程：透過寬恕，療癒對自己的批判",
-        "brand": "經典紀念版",
-        "price": 379.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330667/0/638992631499070000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330667",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "帥過頭傳奇：不想平凡",
-        "brand": null,
-        "price": 276.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330664/0/638991420252530000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330664",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "飲食的哲學──餐桌上的感官認知體驗",
-        "brand": null,
-        "price": 468.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330662/0/638991420033730000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330662",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "琉璃的寶石(04)",
-        "brand": null,
-        "price": 187.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330661/0/638990928650800000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330661",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "心理韌性：重建挫折復原力的132個強效練習大全",
-        "brand": null,
-        "price": 522.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330660/0/638991456039800000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330660",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "德國文化思想家班雅明的教育批判：道德意志、宗教態度、經驗批判、學生生活，「歐洲最後一位知識分子」的教育省思",
-        "brand": null,
-        "price": 236.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330659/0/638991252433630000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330659",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "生成式AI應用開發：基於OpenAI API實現",
-        "brand": "生成式AI應用開發：基於OpenAI",
-        "price": 774.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330657/0/638990928642830000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330657",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "（二冊）：《法醫才看得到的人體奧祕》、《法醫才知道的科學知識》",
-        "brand": "法醫才知道的祕密套書",
-        "price": 600.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330656/0/638992631391600000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330656",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "高雄故事1",
-        "brand": "插畫書衣版",
-        "price": 252.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330655/0/638990928638000000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330655",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "讓我無法放棄人生的小事",
-        "brand": "從日綜到疊杯選手的森川葵，首度分享私底下的內心世界！",
-        "price": 339.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330654/0/638995644059270000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330654",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "我也想要愛！：障礙女性的情慾、身體與自由",
-        "brand": null,
-        "price": 458.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330653/0/638995752341870000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330653",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "榮格論聖依納爵．羅耀拉的《神操》：基督信仰與深度心理學的對話",
-        "brand": null,
-        "price": 687.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330651/0/638992408947000000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330651",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "魔女犬碰碰7：祕密朋友 （限量贈魔力四射角色透卡）",
-        "brand": "魔女犬碰碰7：祕密朋友",
-        "price": 276.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330649/0/638990928616270000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330649",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "從奇蹟、危機到轉機：健保三十永續研討會紀實",
-        "brand": null,
-        "price": 355.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330648/0/638990928615470000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330648",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "截後餘聲：2024~2025臉書截句選",
-        "brand": null,
-        "price": 351.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330647/0/638995596037130000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330647",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "現代AI是這麼做出來的：從訓練、演算法到微調全實作",
-        "brand": null,
-        "price": 695.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330646/0/638990928609830000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330646",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "角色人物內心戲攻略：9型人格建構人物，8種角色帶動故事衝突！教你成功塑造人物的法則",
-        "brand": null,
-        "price": 315.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330645/0/638992631510330000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330645",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "越境的中國史：華南移民的衝突與融合",
-        "brand": null,
-        "price": 363.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330644/0/638990928601530000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330644",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "戀家的理由：打造心靈避風港的北歐丹麥Hygge生活指南",
-        "brand": null,
-        "price": 379.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330643/0/638990928597500000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330643",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "看穿人心的讀話術──透視人們的真正想法，他們真正想要的是什麼，以及他們的真面目",
-        "brand": null,
-        "price": 355.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330641/0/638992631401100000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330641",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "遇錦呈祥(八)(完)",
-        "brand": null,
-        "price": 229.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330640/0/638990928585300000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330640",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "德國的祕密角落：那些連德國人都不知道的祕境、奇景與被遺忘的故事",
-        "brand": null,
-        "price": 434.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330639/0/638990928580970000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330639",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "愚者之夜(09)",
-        "brand": null,
-        "price": 119.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330638/0/638990928576870000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330638",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "普波威",
-        "brand": null,
-        "price": 355.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330637/0/638990928572970000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330637",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "在自由之地：24位台灣青年的美國現場觀察",
-        "brand": null,
-        "price": 379.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330636/0/638990928564200000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330636",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "大地之相",
-        "brand": null,
-        "price": 790.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330635/0/638990928560600000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330635",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "（二冊）：《精準寫作》、《精準提問》",
-        "brand": "洪震宇的精準工作術套書",
-        "price": 675.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330634/0/638991420240030000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330634",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "消費文化與流行空間的日本近代史套書：土產物語＋三越誕生",
-        "brand": null,
-        "price": 652.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330633/0/638990928552370000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330633",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "為自由而戰：陳維明三赴敘利亞戰地筆記",
-        "brand": null,
-        "price": 434.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330632/0/638995596046870000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330632",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "塔羅小祕牌的故事煉金術：從構圖解鎖牌面隱藏的敘事，讀懂你的生活寓言",
-        "brand": "台灣第一本小秘牌專書",
-        "price": 379.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330631/0/638992631938130000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330631",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "手把手帶你實作完整機器學習專案",
-        "brand": null,
-        "price": 600.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330630/0/638990928606230000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330630",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "我的未婚妻陳小姐，想冥婚：My Ghost Girlfriend 3 （完）",
-        "brand": "我的未婚妻陳小姐，想冥婚：My",
-        "price": 221.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330629/0/638990928541100000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330629",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "（三冊）：《精準寫作》、《精準提問》、《精準敘事》",
-        "brand": "洪震宇精準三部曲套書",
-        "price": 945.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330628/0/638991420424400000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330628",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "皮膚照護小叮嚀",
-        "brand": null,
-        "price": 270.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330627/0/638991384030870000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330627",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "想念的日子：給失去摯愛者的告別練習",
-        "brand": null,
-        "price": 355.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330626/0/638990928528330000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330626",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Vibe Coding CLI 頂級開發：Claude Code 前瞻菁英育成手冊",
-        "brand": "Vibe",
-        "price": 853.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330625/0/638990928536700000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330625",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "再婚皇后06",
-        "brand": null,
-        "price": 360.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330624/0/638991384055930000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330624",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "8號出口",
-        "brand": null,
-        "price": 300.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330623/0/638991420044200000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330623",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "劉仲敬通俗阿姨學大講堂（文明的流轉＋民族的發明，共二冊）",
-        "brand": null,
-        "price": 581.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330622/0/638990928511430000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330622",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "我和班上第二可愛的女生成為朋友 (7)",
-        "brand": "我和班上第二可愛的女生成為朋友",
-        "price": 252.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330621/0/638991420044970000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330621",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "歷史從此不一樣 西洋篇1： 古典～中世紀",
-        "brand": "歷史從此不一樣",
-        "price": 284.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330620/0/638991540058370000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330620",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "栽種、澆灌與成長 台灣膝關節之父 黃俊雄回憶錄",
-        "brand": "栽種、澆灌與成長",
-        "price": 405.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330619/0/638991384034330000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330619",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "聆聽虎鯨之聲：鯨豚研究奠基者的追鯨紀實",
-        "brand": null,
-        "price": 474.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330618/0/638990928499270000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330618",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "敢動我弟弟就死定了05完",
-        "brand": null,
-        "price": 360.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330617/0/638991384062300000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330617",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "新說 狼與辛香料 狼與羊皮紙 (11)",
-        "brand": "新說",
-        "price": 221.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330616/0/638991456033930000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330616",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "拜託了！鉛筆（藝術那麼多系列Ⅰ）",
-        "brand": null,
-        "price": 300.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330615/0/638990928486370000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330615",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "終之退魔師Ender Geister(05)",
-        "brand": "終之退魔師Ender",
-        "price": 127.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330614/0/638991420047500000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330614",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "死之昇華",
-        "brand": null,
-        "price": 355.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330613/0/638992140199100000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330613",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "億男",
-        "brand": null,
-        "price": 284.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330612/0/638991384047630000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330612",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "異世界悠閒農家 (17)",
-        "brand": "異世界悠閒農家",
-        "price": 237.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330611/0/638991420050470000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330611",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "遇錦呈祥(七)",
-        "brand": null,
-        "price": 229.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330610/0/638990928469770000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330610",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "無法親近的千金05完",
-        "brand": null,
-        "price": 342.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330609/0/638991384059670000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330609",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Sword Art Online刀劍神域外傳 Gun Gale Online (14)―Invitation From BB―",
-        "brand": "Sword",
-        "price": 237.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330608/0/638991420044300000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330608",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "身為女僕這是當然的。～遭受誣陷的萬能女僕決定踏上旅途～ (1)",
-        "brand": "身為女僕這是當然的。～遭受誣陷的萬能女僕決定踏上旅途～",
-        "price": 221.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330607/0/638991420040600000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330607",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "1+2+3/三件組_超柔暮光經典暢銷款 保暖舒適防滑沙發墊(多款任選)",
-        "brand": "HOMEMAX",
-        "price": 1580.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330075/0/638992157163800000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330075",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "三人坐墊-70X180公分_超柔暮光經典暢銷款 保暖舒適防滑沙發墊(多款任選)",
-        "brand": "HOMEMAX",
-        "price": 690.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330074/0/638992157162530000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330074",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "單人坐墊二入-70X70公分_超柔暮光經典暢銷款 保暖舒適防滑沙發墊(多款任選)",
-        "brand": "HOMEMAX",
-        "price": 650.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330072/0/638992157162570000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330072",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "石墨烯能量冬被(單人/雙人 均一價/保暖/石墨烯被/冬被)",
-        "brand": "NATURALLY JOJO",
-        "price": 799.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11330071/0/638992157161130000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11330071",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Ultimate Ears MINIROLL 攜帶式藍牙喇叭",
-        "brand": "Ultimate",
-        "price": 1890.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11329251/0/638992157160970000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11329251",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "Ultimate Ears EVERBOOM 堅固便攜式藍芽喇叭",
-        "brand": "Ultimate",
-        "price": 6490.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11329250/0/638992157160100000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11329250",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "HUAWEI WATCH FIT 4 PRO",
-        "brand": "HUAWEI",
-        "price": 8090.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11329249/0/638992157159700000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11329249",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "SONY-WH-ULT900N降噪耳罩式耳機",
-        "brand": null,
-        "price": 4599.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11329248/0/638992157158630000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11329248",
         "retailer": "Cosmed"
     }
 ]
