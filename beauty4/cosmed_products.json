@@ -1,5 +1,61 @@
 [
     {
+        "name": "深度探索Go語言：物件模型與runtime的原理特性及應用(好評熱銷版)",
+        "brand": null,
+        "price": 695.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11568458/0/639070416289600000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11568458",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "ChatGPT原理，從PyTorch中的NLP功能讓你一腳跨入自然語言(好評熱銷版)",
+        "brand": null,
+        "price": 695.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11568457/0/639070416285300000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11568457",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "最紮實的基礎 - 使用PyTorch X Transformer X Hugging Face實作大模型",
+        "brand": "最紮實的基礎",
+        "price": 774.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11568456/0/639070416282270000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11568456",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "讓 LLM 飛起來的工具使用 - AI Agent MCP 協議開發、標準、應用",
+        "brand": "讓",
+        "price": 624.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11568455/0/639070416294830000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11568455",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "AI Agent智能工作流：設計與自動化全實戰",
+        "brand": "AI",
+        "price": 600.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11568454/0/639070380293670000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11568454",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "從 Pythonista 到 Rustacean：資料從業者的第一本 Rust 指南",
+        "brand": "從",
+        "price": 695.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11568453/0/639070380333400000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11568453",
+        "retailer": "Cosmed"
+    },
+    {
+        "name": "Python 大數據專案 X 工程 X 產品 資料工程師的升級攻略(第三版)",
+        "brand": "Python",
+        "price": 695.0,
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11568452/0/639070380225330000?v=1",
+        "url": "https://shop.cosmed.com.tw/SalePage/Index/11568452",
+        "retailer": "Cosmed"
+    },
+    {
         "name": "白浜戀人 x 愛的完美犯罪",
         "brand": "白浜戀人",
         "price": 276.0,
@@ -101,14 +157,6 @@
         "price": 23900.0,
         "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11566390/0/639065641733300000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11566390",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "MAG401QR 電競螢幕(2H1P1C/1ms/IPS/155Hz/無喇叭/Adaptive-Sync/HDR400)",
-        "brand": "MSI 微星",
-        "price": 13000.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11566389/0/639065641687100000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11566389",
         "retailer": "Cosmed"
     },
     {
@@ -867,7 +915,7 @@
         "name": "TYESO 316不銹鋼燜燒罐 燜燒罐 燜燒杯 寬口保溫杯 600ml ［淡雅粉］_廠商直送",
         "brand": "TYESO",
         "price": 399.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11561341/0/639065632424770000?v=1",
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11561341/0/639069681449430000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11561341",
         "retailer": "Cosmed"
     },
@@ -883,7 +931,7 @@
         "name": "簡約型電子行李秤 40kg｜LCD 顯示｜拉帶式秤重｜公斤/磅 切換｜磅秤/旅行秤/手提秤 DAL20_廠商直送",
         "brand": "太星電工",
         "price": 209.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11561336/0/639065632439830000?v=1",
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11561336/0/639069681405500000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11561336",
         "retailer": "Cosmed"
     },
@@ -891,7 +939,7 @@
         "name": "護理級銀離子100%防水防蹣抗菌透氣保潔枕套（1對）-深藍_廠商直送",
         "brand": "寢室安居",
         "price": 799.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11561335/0/639065632442900000?v=1",
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11561335/0/639069681430170000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11561335",
         "retailer": "Cosmed"
     },
@@ -899,7 +947,7 @@
         "name": "護理級銀離子100%防水防蹣抗菌透氣保潔枕套（1對）-淨白_廠商直送",
         "brand": "寢室安居",
         "price": 799.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11561333/0/639065632450770000?v=1",
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11561333/0/639069681384600000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11561333",
         "retailer": "Cosmed"
     },
@@ -907,7 +955,7 @@
         "name": "消臭元馬桶浴廁瞬間除臭芳香噴霧280ml/罐-檸檬香（黃）（化妝室尿騷便臭淨味香氛，衛浴脫臭擴香液，如廁後空氣清新劑，可用約90次）_廠商直送",
         "brand": "日本Kobayashi小林製藥",
         "price": 707.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11561332/0/639065632455430000?v=1",
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11561332/0/639069681360030000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11561332",
         "retailer": "Cosmed"
     },
@@ -915,7 +963,7 @@
         "name": "消臭元馬桶浴廁瞬間除臭芳香噴霧280ml/罐-皂香味（綠）（化妝室尿騷便臭淨味香氛，衛浴脫臭擴香液，如廁後空氣清新劑，可用約90次）_廠商直送",
         "brand": "日本Kobayashi小林製藥",
         "price": 707.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11561331/0/639065632462470000?v=1",
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11561331/0/639069681315170000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11561331",
         "retailer": "Cosmed"
     },
@@ -923,7 +971,7 @@
         "name": "護理級銀離子100%防水防蹣抗菌透氣保潔枕套（1對）-紫色_廠商直送",
         "brand": "寢室安居",
         "price": 799.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11561330/0/639065632466000000?v=1",
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11561330/0/639069681337070000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11561330",
         "retailer": "Cosmed"
     },
@@ -931,7 +979,7 @@
         "name": "護理級銀離子100%防水防蹣抗菌透氣保潔枕套（1對）-水藍_廠商直送",
         "brand": "寢室安居",
         "price": 799.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11561329/0/639065632470400000?v=1",
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11561329/0/639069681290670000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11561329",
         "retailer": "Cosmed"
     },
@@ -939,7 +987,7 @@
         "name": "護理級銀離子100%防水防蹣抗菌透氣保潔枕套（1對）-淺灰_廠商直送",
         "brand": "寢室安居",
         "price": 799.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11561326/0/639065632478900000?v=1",
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11561326/0/639069681268570000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11561326",
         "retailer": "Cosmed"
     },
@@ -947,7 +995,7 @@
         "name": "消臭元馬桶浴廁瞬間除臭芳香噴霧280ml/罐-白桃香（粉）（化妝室尿騷便臭淨味香氛，衛浴脫臭擴香液，如廁後空氣清新劑，可用約90次）_廠商直送",
         "brand": "日本Kobayashi小林製藥",
         "price": 707.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11561324/0/639065632484870000?v=1",
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11561324/0/639069681176500000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11561324",
         "retailer": "Cosmed"
     },
@@ -955,7 +1003,7 @@
         "name": "護理級銀離子100%防水防蹣抗菌透氣保潔枕套（1對）-深灰_廠商直送",
         "brand": "寢室安居",
         "price": 799.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11561323/0/639065632487870000?v=1",
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11561323/0/639069681245900000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11561323",
         "retailer": "Cosmed"
     },
@@ -963,7 +1011,7 @@
         "name": "TYESO 316不銹鋼燜燒罐 燜燒罐 燜燒杯 寬口保溫杯 600ml ［深湖藍］_廠商直送",
         "brand": "TYESO",
         "price": 399.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11561322/0/639065632492030000?v=1",
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11561322/0/639069681196070000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11561322",
         "retailer": "Cosmed"
     },
@@ -971,7 +1019,7 @@
         "name": "消臭元馬桶浴廁瞬間除臭芳香噴霧280ml/罐-薰衣草（紫）（化妝室尿騷便臭淨味香氛，衛浴脫臭擴香液，如廁後空氣清新劑，可用約90次）_廠商直送",
         "brand": "日本Kobayashi小林製藥",
         "price": 707.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11561321/0/639065632496330000?v=1",
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11561321/0/639069681218570000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11561321",
         "retailer": "Cosmed"
     },
@@ -979,7 +1027,7 @@
         "name": "消臭元馬桶浴廁瞬間除臭芳香噴霧280ml/罐-竹炭香（黑）（化妝室尿騷便臭淨味香氛，衛浴脫臭擴香液，如廁後空氣清新劑，可用約90次）_廠商直送",
         "brand": "日本Kobayashi小林製藥",
         "price": 707.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11561320/0/639065632499830000?v=1",
+        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11561320/0/639069681152600000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11561320",
         "retailer": "Cosmed"
     },
@@ -1128,27 +1176,11 @@
         "retailer": "Cosmed"
     },
     {
-        "name": "芳鄰物語完全版 盒裝套書(01-04冊)",
-        "brand": "芳鄰物語完全版",
-        "price": 1600.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11561148/0/639064368607970000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11561148",
-        "retailer": "Cosmed"
-    },
-    {
         "name": "一家親（中英雙語繪本/一套八冊）",
         "brand": null,
         "price": 632.0,
         "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11561147/0/639065580034400000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11561147",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "水滸傳典藏版（全六冊盒裝套書）",
-        "brand": null,
-        "price": 2400.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11561146/0/639064368610630000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11561146",
         "retailer": "Cosmed"
     },
     {
@@ -3165,38 +3197,6 @@
         "price": 233.0,
         "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11556270/0/639064780820370000?v=1",
         "url": "https://shop.cosmed.com.tw/SalePage/Index/11556270",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "《NIIMBOT精臣》B系列通用茶葉茶具用貼紙★ 多款可選",
-        "brand": "《NIIMBOT精臣》B系列通用茶葉茶具用貼紙★",
-        "price": 197.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11556249/0/639064780821870000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11556249",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "16吋i5輕薄筆電S3607VA(i5/16G/512GB)含滑鼠及後背包 夜幕灰/酷玩銀 VivobookS16",
-        "brand": "ASUS華碩",
-        "price": 25999.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11555006/0/639065711398400000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11555006",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "15.6吋i5輕薄文書X1502VA(i5/8GB/512GB) 午夜藍/蜜誘金 Vivobook 15",
-        "brand": "ASUS華碩",
-        "price": 20999.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11555005/0/639064780818570000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11555005",
-        "retailer": "Cosmed"
-    },
-    {
-        "name": "16吋R9 RTX 5070Ti電競筆電(R9 9955HX/16GB/1TB)電光綠G614FR-0054G9955HX ROG G16",
-        "brand": "ASUS華碩",
-        "price": 76999.0,
-        "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/11555004/0/639064780815670000?v=1",
-        "url": "https://shop.cosmed.com.tw/SalePage/Index/11555004",
         "retailer": "Cosmed"
     }
 ]
