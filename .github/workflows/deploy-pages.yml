@@ -26,8 +26,8 @@ jobs:
 
       - name: Inject public Supabase config
         env:
-          SUPABASE_URL: ${{ vars.SUPABASE_URL }}
-          SUPABASE_PUBLISHABLE_KEY: ${{ vars.SUPABASE_PUBLISHABLE_KEY }}
+          SUPABASE_URL: ${{ vars.SUPABASE_URL || secrets.SUPABASE_URL }}
+          SUPABASE_PUBLISHABLE_KEY: ${{ vars.SUPABASE_PUBLISHABLE_KEY || secrets.SUPABASE_PUBLISHABLE_KEY }}
         run: |
           test -n "$SUPABASE_URL"
           test -n "$SUPABASE_PUBLISHABLE_KEY"
