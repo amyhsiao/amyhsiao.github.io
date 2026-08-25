@@ -211,17 +211,17 @@ async function initialize() {
       showDashboard();
       return;
     }
-    if (!state.profile) {
+    if (!authUser) {
       ui.showScreen("landing-screen");
       document.querySelector("#google-login-button").hidden = !supabase;
+      if (!supabase) ui.showToast("目前尚未設定 Supabase，無法登入與提交標註。");
       return;
     }
-    document.querySelector("#display-name").value = state.profile.display_name || "";
-    if (authUser && state.profile.annotator_id !== authUser.id) {
+    if (!state.profile || state.profile.annotator_id !== authUser.id) {
       game.start(authDisplayName(authUser), { annotatorId: authUser.id });
     } else if (!game.session) game.start(state.profile.display_name);
     await syncRemoteIdentity();
-    setAuthenticatedHeader(Boolean(authUser) || Boolean(game.profile));
+    setAuthenticatedHeader(true);
     showDashboard();
   } catch (error) {
     console.error(error);
@@ -229,19 +229,9 @@ async function initialize() {
   }
 }
 
-document.querySelector("#name-form").addEventListener("submit", async (event) => {
-  event.preventDefault();
-  const input = document.querySelector("#display-name");
-  const displayName = input.value.trim();
-  if (!displayName) { input.focus(); return; }
-  game.start(displayName);
-  setAuthenticatedHeader(false);
-  showDashboard();
-});
-
 document.querySelector("#google-login-button").addEventListener("click", async () => {
   if (!supabase) {
-    ui.showToast("尚未載入 Supabase 設定，請使用暱稱登入。");
+    ui.showToast("尚未載入 Supabase 設定，請聯絡網站管理者。");
     return;
   }
   const redirectTo = `${window.location.origin}${window.location.pathname}`;
@@ -253,6 +243,11 @@ document.querySelector("#google-login-button").addEventListener("click", async (
 });
 
 document.querySelector("#submit-question").addEventListener("click", async () => {
+  if (!authUser) {
+    ui.showToast("請先使用 Google 登入，再開始標註。");
+    ui.showScreen("landing-screen");
+    return;
+  }
   if (!game.question) return;
   if (needsAllNoConfirmation(game.question)) {
     const confirmed = await ui.confirm({

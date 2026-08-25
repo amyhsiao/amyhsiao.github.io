@@ -1,6 +1,6 @@
 # 魚類影像人工標註 MVP
 
-這是一個以 GitHub Pages 提供前端、Supabase 提供登入與共享資料的魚類影像標註網站。未登入時仍可使用瀏覽器 `localStorage`；Google 登入後標註會同步到 Supabase。
+這是一個以 GitHub Pages 提供前端、Supabase 提供登入與共享資料的魚類影像標註網站。Google 登入是必要條件，所有有效標註都會同步到 Supabase。
 
 ## 在本機執行
 
@@ -45,7 +45,7 @@ python3 -m http.server 8000 --directory mvp_site
 
 右上角「資料選單」可匯出 UTF-8 CSV（含 BOM，方便 Excel 顯示中文）或 JSON。JSON 包含 profile、sessions、資料集摘要與 annotations。損壞的 app 儲存值會盡量以 `fish_labeler_mvp_v1_corrupt_*` 備份，之後可隨 JSON 匯出。
 
-登入後預設進入「我的進度」Dashboard，再由使用者選擇開始或繼續辨識。Dashboard 顯示目前資料集的總完成率、各魚種完成率、每日 10 題挑戰、連續參與天數、下一個里程碑、收藏圖鑑與個人成就勳章。統計只計入相同 `dataset_id`、相同標註者的不重複候選圖片；挑戰、連續天數與勳章均由現有標註即時計算，不另存一份容易不同步的狀態。
+登入後預設進入「我的進度」Dashboard，再由使用者選擇開始或繼續辨識；未登入者不能提交標註。Dashboard 顯示目前資料集的總完成率、各魚種完成率、每日 10 題挑戰、連續參與天數、下一個里程碑、收藏圖鑑與個人成就勳章。統計只計入相同 `dataset_id`、相同標註者的不重複候選圖片；挑戰、連續天數與勳章均由現有標註即時計算，不另存一份容易不同步的狀態。
 
 排行榜透過 Supabase 的 aggregate RPC 顯示全部與本週前 20 名，只公開暱稱與標註數量，不公開個別填答內容。
 
@@ -55,7 +55,7 @@ python3 -m http.server 8000 --directory mvp_site
 
 資料庫 schema 已透過 `supabase/migrations/` 推送到遠端 Supabase。若要在本機載入 Supabase JavaScript SDK，請將 `js/supabase-config.example.js` 複製成 `js/supabase-config.js`，填入 Project URL 與 publishable key。`supabase-config.js` 已列入 `.gitignore`，不可提交；service role key、database password 與 OAuth secret 絕對不能放在前端。
 
-Google 登入後，網站會讀取目前資料集的遠端 annotations，並在送出題目後同步寫入 Supabase；localStorage 仍保留作為離線暫存與匯出備份。尚未登入 Google 時，則維持純本機 localStorage 模式。
+Google 登入後，網站會讀取目前資料集的遠端 annotations，並在送出題目後同步寫入 Supabase；localStorage 只作為登入狀態與暫存，不提供未登入標註模式。
 
 ## 設定與架構
 
