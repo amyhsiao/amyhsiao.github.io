@@ -33,11 +33,17 @@ jobs:
           test -n "$SUPABASE_PUBLISHABLE_KEY"
           mkdir -p _site/TWfisher
           cp -R mvp_site/. _site/TWfisher/
-          printf '%s\n' \
-            'globalThis.FISH_SUPABASE_CONFIG = {' \
-            "  url: ${SUPABASE_URL@Q}," \
-            "  publishableKey: ${SUPABASE_PUBLISHABLE_KEY@Q}" \
-            '};' > _site/TWfisher/js/supabase-config.js
+          node <<'NODE'
+          const fs = require('fs');
+          const config = {
+            url: process.env.SUPABASE_URL.trim(),
+            publishableKey: process.env.SUPABASE_PUBLISHABLE_KEY.trim(),
+          };
+          fs.writeFileSync(
+            '_site/TWfisher/js/supabase-config.js',
+            `globalThis.FISH_SUPABASE_CONFIG = ${JSON.stringify(config)};\n`,
+          );
+          NODE
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
