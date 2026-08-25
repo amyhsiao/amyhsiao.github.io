@@ -84,7 +84,7 @@ export const APP_CONFIG = Object.freeze({
 
 ## GitHub Pages 部署
 
-1. 在 GitHub repository 的 **Settings → Pages** 將 Source 設為 **GitHub Actions**。
+1. 將專案放在使用者網站 repository `amyhsiao/amyhsiao.github.io`，在其 **Settings → Pages** 將 Source 設為 **GitHub Actions**。workflow 會把 `mvp_site/` 部署到 `TWfisher/` 子路徑。
 2. 在 **Settings → Secrets and variables → Actions → Variables** 新增：
    - `SUPABASE_URL`：Supabase Project URL
    - `SUPABASE_PUBLISHABLE_KEY`：Supabase publishable／anon key（可公開，不可使用 service role key）
@@ -95,7 +95,11 @@ npx supabase login
 SUPABASE_TELEMETRY_DISABLED=1 npx supabase db push --linked
 ```
 
-4. 部署完成後，將 GitHub Pages 網址加入 Supabase **Authentication → URL Configuration** 的 Site URL 與 Redirect URLs，例如 `https://<account>.github.io/<repository>/`。
+4. 部署完成後，將以下網址加入 Supabase **Authentication → URL Configuration** 的 Site URL 與 Redirect URLs：
+
+```text
+https://amyhsiao.github.io/TWfisher/
+```
 
 候選卡片會優先載入縮圖，來源連結才會開啟來源頁或原圖。常用候選圖若要完全自有化，可使用 `scripts/mirror_candidate_images.py` 鏡像到 `candidate-images` Storage bucket；外部圖片仍可作為 fallback。
 

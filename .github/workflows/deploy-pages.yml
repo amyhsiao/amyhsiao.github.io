@@ -31,18 +31,20 @@ jobs:
         run: |
           test -n "$SUPABASE_URL"
           test -n "$SUPABASE_PUBLISHABLE_KEY"
+          mkdir -p _site/TWfisher
+          cp -R mvp_site/. _site/TWfisher/
           printf '%s\n' \
             'globalThis.FISH_SUPABASE_CONFIG = {' \
             "  url: ${SUPABASE_URL@Q}," \
             "  publishableKey: ${SUPABASE_PUBLISHABLE_KEY@Q}" \
-            '};' > mvp_site/js/supabase-config.js
+            '};' > _site/TWfisher/js/supabase-config.js
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Upload static site
         uses: actions/upload-pages-artifact@v3
         with:
-          path: mvp_site
+          path: _site
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
