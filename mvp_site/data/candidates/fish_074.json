@@ -1,0 +1,556 @@
+{
+  "schema_version": 1,
+  "fish_id": "fish_074",
+  "canonical_name": "紅甘",
+  "aliases": [],
+  "pool_updated_at": "2026-08-25T06:07:01.775871+00:00",
+  "candidate_count": 78,
+  "candidates": [
+    {
+      "candidate_id": "cand_bbaadb650ce279d273c5a849",
+      "image_url": "https://img.shoplineapp.com/media/image_clips/5e15ef62d9246c002a4298c9/original.jpg?1578495841",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL2cuejmQ8qpmjQFWOzQihyLRX7Er2LN6bvZwkWKcrBA&s=10",
+      "source_page_url": "https://www.yourfreshseafood.com/products/%E3%8A%A3%E5%9F%BA%E9%9A%86%E9%87%8E%E7%94%9F%E7%8F%BE%E6%B5%81%E7%B4%85%E7%94%98%E9%AD%9A",
+      "source_domain": "www.yourfreshseafood.com"
+    },
+    {
+      "candidate_id": "cand_4bf6c8a2feb9e24802b0ec85",
+      "image_url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/280762/ed30ca5533af25e7.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNBO75Pv5IiegVfKGnX0fyWtSlemKwdtC8lN0bhOhf8A&s=10",
+      "source_page_url": "https://icook.tw/recipes/280762",
+      "source_domain": "icook.tw"
+    },
+    {
+      "candidate_id": "cand_3a3832e2676794ce8db4da8e",
+      "image_url": "https://oceanfight.wordpress.com/wp-content/uploads/2017/08/576f8-25e9259525b725e925b025ad25e925b025a4_25e525b025be25e925b025ad25e425b8258b25e82591258925e525b0259625e725ab25af25e7258425a125e7259925bd25e925bb259e.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKyogVlr2w9QUk2PsrN0-4vR8BKNRt8Vh7Vb0eBN7UiQ&s=10",
+      "source_page_url": "https://oceanfight.wordpress.com/2017/08/11/%E7%B4%85%E7%94%98/",
+      "source_domain": "oceanfight.wordpress.com"
+    },
+    {
+      "candidate_id": "cand_fb81ba438bed6092b6f5e769",
+      "image_url": "https://i.ytimg.com/vi/CBBQGhz1gP8/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS044TNIis8kmskWlzMJ3TYSOBs7B5OCBBYEd6wdRVcXg&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=CBBQGhz1gP8",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_56086960ec2b4d528165c579",
+      "image_url": "https://kmweb.moa.gov.tw/files/production_map/218/A01_4_m.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmlLWMZMZ6K4FmAflMeTnpVKbfCTliv4Hu_TS1Upelrw&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/theme_data.php?theme=production_map&id=218",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_316e31976066b9565d3837d1",
+      "image_url": "https://i.ytimg.com/vi/pxUpOAx1Ook/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC0gdZCuweTDXivgGoADWh4zbOjAQ",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9H_DsLOiexYbKwU95bDtdIQy04rnVkFULIRIwfrdIdQ&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=pxUpOAx1Ook",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_07bd370ed94a05b6b42d11da",
+      "image_url": "https://dessertgirl.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2021/01/10092201/IMG_6593.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7B7wdCyojz7N_E5DR-rQrSWZNT3Cx_1YM4dS69z2TJQ&s=10",
+      "source_page_url": "https://www.taitung-dessertgirl-blog.tw/kanpachi/",
+      "source_domain": "www.taitung-dessertgirl-blog.tw"
+    },
+    {
+      "candidate_id": "cand_514a8249d8f5615a563b4c4f",
+      "image_url": "http://penghu-shrimp.com/wp-content/uploads/2018/02/0730.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ6rWgtUmHEX5XvpMCqv68JG6Y61Hsw00G1DtxdEn6fg&s=10",
+      "source_page_url": "https://penghu-shrimp.com/%E6%BE%8E%E6%B9%96%E7%B4%85%E9%AD%BD%EF%BC%9F%E9%9D%92%E9%AD%BD%EF%BC%9F%E5%82%BB%E5%82%BB%E4%B8%8D%E5%88%86%EF%BC%9F/",
+      "source_domain": "penghu-shrimp.com"
+    },
+    {
+      "candidate_id": "cand_40c1e7542d0368892387213a",
+      "image_url": "https://www.travelrich.com.tw/data/93df17a4-7670-4382-bfc3-b98998ea5026.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjHFvv4AjIdWJujYey4c-e75V0GpDLULj_Pn9DePo8CA&s=10",
+      "source_page_url": "https://www.travelrich.com.tw/news/foodnews/foodnews8866.html",
+      "source_domain": "www.travelrich.com.tw"
+    },
+    {
+      "candidate_id": "cand_bd5e1a923ab717f9afb1bb16",
+      "image_url": "https://cdn-general.cybassets.com/media/W1siZiIsIjI3Njg0L3Byb2R1Y3RzLzU0NTU1NTkxLzE3NDI2MDgzODNfMjJkZjU3OWYyMTZjOTI0M2E3ZDIuanBlZyJdLFsicCIsInRodW1iIiwiMjA0OHgyMDQ4Il1d.jpeg?sha=01b9c4f03da752aa",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-mFvoxVPmkIWJzlV5ZmLFEU-_ZNcXohRg34mCHVcWyw&s=10",
+      "source_page_url": "https://shop.rocnfa.org.tw/products/%E7%B4%85%E7%94%98%E9%AD%9A",
+      "source_domain": "shop.rocnfa.org.tw"
+    },
+    {
+      "candidate_id": "cand_b5ed459814f0589428fb1fe5",
+      "image_url": "https://www.foodnext.net/dispPageBox/getFile/GetImg.aspx?FileLocation=%2FPJ-FOODNEXT%2FFiles%2F&FileName=photo-14669-i.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGkkoP0IMW5LWHGixCLLKj0zm9ZZBpfYAOur9PxQpImQ&s",
+      "source_page_url": "https://www.foodnext.net/science/knowledge/paper/5616294865",
+      "source_domain": "www.foodnext.net"
+    },
+    {
+      "candidate_id": "cand_57833b3d798649cc38a16092",
+      "image_url": "https://image.yida-design.com.tw/fengshop/a/product620621f860b4a.png?n1=6",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbFRLXfRvUxlU21S0abjaPCAKJtWWIsVVv0ty75LHZuA&s=10",
+      "source_page_url": "https://www.fengshop.com.tw/product620621f860b4a.htm",
+      "source_domain": "www.fengshop.com.tw"
+    },
+    {
+      "candidate_id": "cand_bd860d3d27322778fc828f0c",
+      "image_url": "https://img.freshmackerel.com/NewsPic/16442861364163.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR2AT92REOhwx4Vs8nYWN2HU7OAEJN_zZlJxnaBfdNHQ&s=10",
+      "source_page_url": "https://www.freshmackerel.com/fishKnowledge/1543",
+      "source_domain": "www.freshmackerel.com"
+    },
+    {
+      "candidate_id": "cand_56c38d65cb7dec13248fed0c",
+      "image_url": "https://penghu-shrimp.com/wp-content/uploads/2019/02/timeline_20180814_091726.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8eZJd5UMdF-rlTT46h1WOmYNTQKkceIlkiATTlr9MTg&s=10",
+      "source_page_url": "https://penghu-shrimp.com/product/%E6%BE%8E%E6%B9%96%E7%B4%85%E7%94%98-2/",
+      "source_domain": "penghu-shrimp.com"
+    },
+    {
+      "candidate_id": "cand_cd4767948407d8bdf41a3c59",
+      "image_url": "https://img.freshmackerel.com/NewsPic/164249791217550.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkfbOUzBLO8Vf4r2lJ6bxJDId2Nrbzyi_w-UxdmCgeqQ&s=10",
+      "source_page_url": "https://www.freshmackerel.com/cook/1506",
+      "source_domain": "www.freshmackerel.com"
+    },
+    {
+      "candidate_id": "cand_0b70d12d20167beea5e31890",
+      "image_url": "https://img.ltn.com.tw/Upload/news/600/2018/01/24/2321543_1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY6E1sMABZpQZZozZ-ncwDUCOWf9DJ6gPoGVMCzzMyOA&s=10",
+      "source_page_url": "https://news.ltn.com.tw/news/life/breakingnews/2321543",
+      "source_domain": "news.ltn.com.tw"
+    },
+    {
+      "candidate_id": "cand_63365b5e9e4ed4266dea7934",
+      "image_url": "https://static.iyp.tw/17645/products/photooriginal-359079-yn7Am.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB36wref9Iy2pILUD5VEEO2ZkCK2gZxWXbZCHqOkqYyw&s=10",
+      "source_page_url": "https://www.ligi168.com.tw/product-detail-510407.html",
+      "source_domain": "www.ligi168.com.tw"
+    },
+    {
+      "candidate_id": "cand_df9ff5e3e99ca4bcdbb40b32",
+      "image_url": "https://img.freshmackerel.com/NewsPic/157905304021965.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkqmwK31BGtsm-cEpRtMFhE5iub6VLSWFpi8f4CozrZw&s=10",
+      "source_page_url": "https://www.freshmackerel.com/fishKnowledge/656",
+      "source_domain": "www.freshmackerel.com"
+    },
+    {
+      "candidate_id": "cand_bf8112523f410fdf085a000c",
+      "image_url": "https://shoplineimg.com/62b3f00f627770004c0cedf5/6a1e924c70e13e2cda6a08e4/800x.jpg?",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfPY6Cbqw-vvKepvaNvI3DXPEKazkaCChNwQ_0HAW2XA&s",
+      "source_page_url": "https://www.salmon-island.co/products/%E7%B4%85%E7%94%98%E7%94%9F%E9%AD%9A%E7%89%87300g-%E9%AE%AD%E5%B1%B1%E5%B3%B6%E6%B0%B4%E7%94%A2",
+      "source_domain": "www.salmon-island.co"
+    },
+    {
+      "candidate_id": "cand_3b66a4e4cdabf3dfbd4a96b6",
+      "image_url": "https://img.freshmackerel.com/NewsPic/157905275522869.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY5ITopYpTNXrErHm9vW_BnFojHv1roACSAqGNb5TCRQ&s=10",
+      "source_page_url": "https://www.freshmackerel.com/fishlife/654",
+      "source_domain": "www.freshmackerel.com"
+    },
+    {
+      "candidate_id": "cand_3a9925c4ceb3514d066383ca",
+      "image_url": "https://kmweb.moa.gov.tw/files/production_map/218/A01_3_m.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmLxtt8ySZxpTfisuF8n0imfY7C_RDN3TLDUeNmGzfyA&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/theme_data.php?theme=production_map&id=218",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_ac3faf9d4d7f4da0dced9e09",
+      "image_url": "https://www.fishbar.com.tw/img.php?img=5543_92f590a2.jpg&dir=goods_pic&width=390&height=400",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShJ6In3kELt6OdStozbQFR5UdIOt1wOoX_U9CE8-5_oA&s=10",
+      "source_page_url": "https://www.fishbar.com.tw/store/goods/25?srsltid=AfmBOooq54XNjKZ3L3QdZtfW2VBEm9xyIXBIU4ndEOAKudPp3NeOaf_P",
+      "source_domain": "www.fishbar.com.tw"
+    },
+    {
+      "candidate_id": "cand_a6b5f73550501862ee27ec23",
+      "image_url": "https://i.ytimg.com/vi/7IjDSOs3NLg/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQExCF4JzokU9-Inc4bymIYJAcik-8q5OQmi7CDcAFLMA&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=7IjDSOs3NLg",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_7246a08900ba6676f4df2976",
+      "image_url": "https://www.7-11-seafood.com.tw/img/Product/old/147.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQku8Sob06Ug8afjtdDqHtGwucCreNV5QXQulv-6TXKuA&s=10",
+      "source_page_url": "https://www.7-11-seafood.com.tw/product/984",
+      "source_domain": "www.7-11-seafood.com.tw"
+    },
+    {
+      "candidate_id": "cand_1757d3f6ea8c61fe51ae7e8f",
+      "image_url": "http://digiarch.sinica.edu.tw/digiarch3/ImageCache/ImageCache/00/0f/92/e8.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWqYGvHabfWGtzvqjdV-mBQG0z9Q4-2V2PFTtAQDtq_g&s=10",
+      "source_page_url": "https://digiarch.sinica.edu.tw/content/repository/resource_content.jsp?oid=4352524&queryType=qs&queryString=%E7%94%9F%E9%AD%9A%E7%89%87",
+      "source_domain": "digiarch.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_c95e22b03b5172c4e5db4ab9",
+      "image_url": "https://jamesdiscover.tw/wp-content/uploads/2025/09/ab4f6b9185befb5d8a143dfc65c6c9be.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaPWSc8MyDmVpetF3VaOWc-fdnPN7TocOX3K2jnF1Iag&s=10",
+      "source_page_url": "https://jamesdiscover.tw/blog/8134",
+      "source_domain": "jamesdiscover.tw"
+    },
+    {
+      "candidate_id": "cand_8135146a6de417bfe73746bf",
+      "image_url": "https://www.wanahong.co.uk/wp-content/uploads/2023/01/FZ-NY4-1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiNSZtysrcTjBSCvqibVz2YWqolXrLVFCVnebuu1puwA&s=10",
+      "source_page_url": "https://www.wanahong.co.uk/product/%E9%9B%AA%E8%97%8F-%E5%88%BA%E8%BA%AB%E7%B4%9A-%E6%B2%B9%E7%94%98%E9%AD%9A-1-5kg/?srsltid=AfmBOoo-EtAANiQDxwIJW5x58EUu1lydx8XihxLWKYfIbM4rpeImWeWb",
+      "source_domain": "www.wanahong.co.uk"
+    },
+    {
+      "candidate_id": "cand_917d192230a9509f1bb5d4f9",
+      "image_url": "https://img.freshmackerel.com/NewsPic/16424957577468.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ1GgeQbYmt_jI9ZjYTH4xIh-5levBDad56-I6D0atuQ&s=10",
+      "source_page_url": "https://www.freshmackerel.com/cook/1505",
+      "source_domain": "www.freshmackerel.com"
+    },
+    {
+      "candidate_id": "cand_d0ef0a245d9179884143d278",
+      "image_url": "https://www.workband.com.tw/store_image/dashu/P3176372508398.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0KvSleOu2mWs23NSHabF_SqxH9zM8uZx6XFA8nNMadA&s",
+      "source_page_url": "https://www.dashu-fishery.com/products/info.php?id=64337",
+      "source_domain": "www.dashu-fishery.com"
+    },
+    {
+      "candidate_id": "cand_2eb3a8d1e3286ec5bf12ce7f",
+      "image_url": "https://cdn1-next.cybassets.com/media/W1siZiIsIjI3Njg0L3Byb2R1Y3RzLzQ1MjY4MjU0LzE3MTA1NjE4ODJfY2I5OWJiYzYxMWQ2ZDdkY2M2NDguanBlZyJdLFsicCIsInRodW1iIiwiNDgweDQ4MCJdXQ.jpeg?sha=11be8e4eaa1d59b9",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzarDUUGtqmMP-chgiynGyoZYUH77SSGe09omvoU6Mdw&s=10",
+      "source_page_url": "https://shop.rocnfa.org.tw/products/%E7%B4%85%E7%94%98%E5%88%87%E7%89%87",
+      "source_domain": "shop.rocnfa.org.tw"
+    },
+    {
+      "candidate_id": "cand_5555507821b82e197bb436d6",
+      "image_url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/45971/8f6ec90857ef8099.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyVo9XzibxN_M2pxnES_-B9hPd_yB67Gc0m2a1jGCM0Q&s=10",
+      "source_page_url": "https://icook.tw/recipes/45971",
+      "source_domain": "icook.tw"
+    },
+    {
+      "candidate_id": "cand_808d0516ecca3ba5a02905f1",
+      "image_url": "https://s3.buy123.com.tw/images/upload/DO0pmlyxIXYfkqgJ.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF36FSzI3a5g9p8DCt9Mky8anrs4OiVcFH14fgUhL1Bw&s=10",
+      "source_page_url": "https://www.buy123.com.tw/site/sku/2190396?srsltid=AfmBOoqhrh5v5trlyKb8_yGQapIr4rZsmxJweJFQ1dvTRXcwLuDNobh9",
+      "source_domain": "www.buy123.com.tw"
+    },
+    {
+      "candidate_id": "cand_5db7881ae537114bc2cb485a",
+      "image_url": "https://img.freshmackerel.com/NewsPic/16422418913275.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk8mYXw26PUhCZjn2EZ2br6kWblyMQ0AvYVKCPZaBhiQ&s=10",
+      "source_page_url": "https://www.freshmackerel.com/fishlife/1501",
+      "source_domain": "www.freshmackerel.com"
+    },
+    {
+      "candidate_id": "cand_4691acb4a18a15214204a6a4",
+      "image_url": "https://ama526.com/image/cache/catalog/0001/08071-640x640.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxIWp4IOpNtbkkuq9xcH7Y0EXXsmqStLR5pxI-IsNe6Q&s=10",
+      "source_page_url": "https://ama526.com/index.php?route=product/product&product_id=356",
+      "source_domain": "ama526.com"
+    },
+    {
+      "candidate_id": "cand_c5a1ce5704f077925d9ff50a",
+      "image_url": "https://www.7-11-seafood.com.tw/img/Product/old/%E7%B4%85%E7%94%98%E9%A0%AD.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMxC5glHNVWGk7A4uff-mapi3ZXAJclF1aDWTbE2rp8A&s=10",
+      "source_page_url": "https://www.7-11-seafood.com.tw/product/982",
+      "source_domain": "www.7-11-seafood.com.tw"
+    },
+    {
+      "candidate_id": "cand_23d1a437b7d14a212ea7fe04",
+      "image_url": "https://bucket-image.inkmaginecms.com/version/hd/1/image/2025/04/8df8effb-3249-47a7-8663-a8834f3863b5.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFF5D5CxBf_4aU7pEyOnQcIt11qxDfL4_D8f8_DzY1xg&s=10",
+      "source_page_url": "https://www.cool3c.com/article/129681",
+      "source_domain": "www.cool3c.com"
+    },
+    {
+      "candidate_id": "cand_8b25ebb6e4e7c91f26c47062",
+      "image_url": "https://kikkoman.com.tw/tmp/image/20131209/D9F00238-553F-41E1-AEA7-FB3977B38924.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5hZowghay10h4lp_dkWpWM6rqjewArnEgMMQKS1GEJA&s=10",
+      "source_page_url": "https://kikkoman.com.tw/recipe_detal_%E7%85%A7%E7%87%92%E7%B4%85%E7%94%98%E9%AD%9A_582",
+      "source_domain": "kikkoman.com.tw"
+    },
+    {
+      "candidate_id": "cand_666e319b184c9a793f4f8651",
+      "image_url": "https://img.ltn.com.tw/Upload/news/600/2023/01/14/4185207_1_1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOnimuMiY3F4HiKgSoYdFJIl0f-1ALhNh40N0Uu5YssA&s=10",
+      "source_page_url": "https://news.ltn.com.tw/news/life/breakingnews/4185207",
+      "source_domain": "news.ltn.com.tw"
+    },
+    {
+      "candidate_id": "cand_1fad5612cd29b9fb5412b405",
+      "image_url": "https://greenboxcdn.azureedge.net/upload/News_3032/202305110900041.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDwiozrhAwVkNkr87-e0au1ThQg8LDqdR3YMcid9Dadg&s=10",
+      "source_page_url": "https://greenbox.tw/Blog/BlogPostNew/7470/serio-dumer-fried-fish-recip?srsltid=AfmBOooyMOgEoSotwJeGlr33m0pbmxDTQHnj-AA-Az-35Zh_TVglCxUC",
+      "source_domain": "greenbox.tw"
+    },
+    {
+      "candidate_id": "cand_30a04fab543a4f6828999d7d",
+      "image_url": "https://shoplineimg.com/5af9b5a710abb9c4ba00117a/6a27a07bff192168c6250e8d/800x.jpg?",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_QpCnCRecKFYvtD1bOg7A3UKrn9CtUvvatjPYHauWTQ&s",
+      "source_page_url": "https://www.foodsandsation.com.tw/products/penghu-greater-amberjack-steaks-300-350g?srsltid=AfmBOoqyGXwDXnYYkf3ug7T1K3ahUcSTDIl6Kcku1sztokzki_WVh53a",
+      "source_domain": "www.foodsandsation.com.tw"
+    },
+    {
+      "candidate_id": "cand_06b8a25219ed19da879a4faf",
+      "image_url": "https://www.workband.com.tw/store_image/dashu/P4176372508406.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiIYuQxSXKbx4p40IQLT_WPI3pDrLMv41WIV56hGyDFg&s",
+      "source_page_url": "https://www.dashu-fishery.com/products/info.php?id=64337",
+      "source_domain": "www.dashu-fishery.com"
+    },
+    {
+      "candidate_id": "cand_aafeab9db3d42b2abf64473a",
+      "image_url": "https://chiufish.com.tw/wp-content/uploads/2022/02/pexels-lukas-952485-scaled.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGtqprp9e38MckVLf2i6STbGwQY1MiqAzEbYrCRMHnKw&s=10",
+      "source_page_url": "https://chiufish.com.tw/product/%E7%B4%85%E7%94%98%E9%AD%9A-650-750%E5%85%AC%E5%85%8B%EF%BC%8F%E6%A2%9D/",
+      "source_domain": "chiufish.com.tw"
+    },
+    {
+      "candidate_id": "cand_bf05589d7c99d33b8b8a52ad",
+      "image_url": "https://i.ytimg.com/vi/XcXidheXPTk/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdFVoDB0nr--Np0sXFc5QcX_r1lHg_ui4cOzFzNkFOaQ&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=XcXidheXPTk",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_d6ca7331f7e49517b4634ce1",
+      "image_url": "https://img.freshmackerel.com/NewsPic/164430426616680.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf-cNuWfknemavbPuTTgqRiO5kYm33zYRyLjy9JaZbow&s=10",
+      "source_page_url": "https://www.freshmackerel.com/Recipes/1540",
+      "source_domain": "www.freshmackerel.com"
+    },
+    {
+      "candidate_id": "cand_05964be32db8ec4f5726af6c",
+      "image_url": "https://g.udn.com.tw/upfiles/B_UP/uppu/PSN_PHOTO/966/f_11684966_1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpP-jXBtd_DipZBUOQEj4FLH4qhd-OOnBoverMewu_DA&s=10",
+      "source_page_url": "https://blog.udn.com/uppu/19663643",
+      "source_domain": "blog.udn.com"
+    },
+    {
+      "candidate_id": "cand_26ec4212680f4f0fd5c46b48",
+      "image_url": "https://i.redd.it/zzla24cp2vld1.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc0rHAhpj7agIQF8PM2_vYPT_X6xxOMSSaNDxtaG1VsQ&s=10",
+      "source_page_url": "https://www.reddit.com/r/Fishing/comments/1f55bm9/anyone_ever_ate_a_amberjack/?tl=zh-hant",
+      "source_domain": "www.reddit.com"
+    },
+    {
+      "candidate_id": "cand_77ad0c6951ad0e562e265132",
+      "image_url": "https://www.tpfish.com.tw/Upload/article/upload_630eb23502b481_64480755.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg2HpqR6z3JXvnWzv2CQYi1ex0FX4thJwFZFrr-ybOwg&s=10",
+      "source_page_url": "https://www.tpfish.com.tw/fish_know_de.php?obj_id=zACRYbSMeuzSBsQSZJD0fyWpbV3I9JRh",
+      "source_domain": "www.tpfish.com.tw"
+    },
+    {
+      "candidate_id": "cand_9f68f4c6cee33159d11af13c",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/f029fd2a814caf2e64f6a3f83204ffbe5ad55dcba426e8fb6890349422acfb5f/lightyear_networkapi/resizefill_w640%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Ftw-travel.travelrich.com.tw%2Ff03c2ebe41c10742ef7c8f1f85dc3eb2",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROXKn4QQEIW1TtWClcfUFYlZuVmSLA3DPX-iCKh7AbAQ&s=10",
+      "source_page_url": "https://tw.news.yahoo.com/%E7%B4%85%E7%94%98%E6%AD%A3%E7%95%B6%E5%AD%A3-%E7%94%9F%E9%AD%9A%E7%89%87-%E7%81%AB%E9%8D%8B-%E7%B4%85%E7%87%92%E7%B4%85%E7%94%98-%E7%83%A4%E7%B4%85%E7%94%98%E4%B8%8B%E5%B7%B4%E6%96%B0%E9%AE%AE%E5%A5%BD%E6%BB%8B%E5%91%B3-022700878.html",
+      "source_domain": "tw.news.yahoo.com"
+    },
+    {
+      "candidate_id": "cand_6411b4c7d32e774b4acc7a8d",
+      "image_url": "https://imgproxy.icook.network/safe/rt:fit/w:1200/el:0/q:80/plain/http://tokyo-kitchen.icook.tw.s3.amazonaws.com/uploads/recipe/cover/280764/15477e91cedcfb40.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9uE0lZEpCDuQ05u6I0-I2b4xkj51dxpMwreuPhZxTsg&s=10",
+      "source_page_url": "https://icook.tw/recipes/280764",
+      "source_domain": "icook.tw"
+    },
+    {
+      "candidate_id": "cand_9049f8a19d5bf81037a6644f",
+      "image_url": "https://img.ltn.com.tw/Upload/news/600/2018/01/24/2321543_2.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnNeNe7-37PSDs1Bn_2lXd4xmilT9VV-nnJsOrDsGEAw&s=10",
+      "source_page_url": "https://news.ltn.com.tw/news/life/breakingnews/2321543",
+      "source_domain": "news.ltn.com.tw"
+    },
+    {
+      "candidate_id": "cand_48013016a6aad69b5a8371d3",
+      "image_url": "https://live.staticflickr.com/545/19665015406_c1ffe61b96_b.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBdeUBI2cs3XuF-IZyUbRzA1hDIBD4RQezmDMBDBuYeg&s=10",
+      "source_page_url": "https://www.flickr.com/photos/peppai/19665015406",
+      "source_domain": "www.flickr.com"
+    },
+    {
+      "candidate_id": "cand_322b3b039448a84ae2627f9e",
+      "image_url": "https://i.ytimg.com/vi/vfe4fxTTuRc/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8XrCbxuQfmwa8jEHA5nkO5bnZaxn92OPxb7AtPYerww&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=vfe4fxTTuRc",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_203ffde162e0742560a7341f",
+      "image_url": "https://kmweb.moa.gov.tw/files/production_map/218/A01_2_m.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO2J2ohqqcqwMWuS2Knvr75BziRTD9KmPTUX1cIMZocQ&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/theme_data.php?theme=production_map&id=218",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_7811384c766ebebd4c0d5eb6",
+      "image_url": "https://www.fishbar.com.tw/files/archive/1277_dab7f377.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT249d0m09FWwX9azH9euFDpJ-sELNsizWpiOzU8rZjWQ&s=10",
+      "source_page_url": "https://www.fishbar.com.tw/store/goods/25?srsltid=AfmBOoqWG69i6wnwiV1aoeZtk7uia_YXPeLkGj-m5OuFEbOWxJloow-h",
+      "source_domain": "www.fishbar.com.tw"
+    },
+    {
+      "candidate_id": "cand_a1e0341750b5512cd3aec065",
+      "image_url": "https://www.workband.com.tw/store_image/dashu/P2_20260601152515_2996.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZVLbGWh-xQLRi6jW4o6Fhgkv_mJD19F0GNITS-CoWLA&s",
+      "source_page_url": "https://www.dashu-fishery.com/products/info.php?id=64337",
+      "source_domain": "www.dashu-fishery.com"
+    },
+    {
+      "candidate_id": "cand_705d0dbda2a88697571a8d44",
+      "image_url": "https://img.shoplineapp.com/media/image_clips/6375eae38292e50010edee5d/original.jpeg?1668672226",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjHzSRjS9r11izxIgaPN0Dv5Ixlaw-QdsSkoyvWwcavQ&s=10",
+      "source_page_url": "https://www.crabtastichk.com/products/%E6%B2%B9%E7%94%98%E9%AD%9A%E5%88%BA%E8%BA%AB",
+      "source_domain": "www.crabtastichk.com"
+    },
+    {
+      "candidate_id": "cand_4dc5f05785a6eaafa23e3675",
+      "image_url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/393894/e89593d4ea5abb8e.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrURxnATRC4xhEjQ8O4uvo7dyCyWNek0CS_Gd65t4OHg&s=10",
+      "source_page_url": "https://icook.tw/recipes/393894",
+      "source_domain": "icook.tw"
+    },
+    {
+      "candidate_id": "cand_b516f17d41f5f636f801f653",
+      "image_url": "https://s3.buy123.com.tw/images/upload/3b42lOiLe7N5pvUa.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ96gskJlrpPldLx-R27YcqjuzIpbEhwN6sfRai7fSLzw&s=10",
+      "source_page_url": "https://www.buy123.com.tw/site/sku/2190396?srsltid=AfmBOorTuq7Sy2mZoIqN0uJEyggTVgUCNGLKqhayu-3xulKfQVjbwdN6",
+      "source_domain": "www.buy123.com.tw"
+    },
+    {
+      "candidate_id": "cand_f5513e70870073ee330f4bbf",
+      "image_url": "https://www.fishbar.com.tw/files/archive/1376_764c5a3d.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR931DEs8oCokSAOAHOrl0QB-Pqniq-vyelyFKV0YGWog&s=10",
+      "source_page_url": "https://www.fishbar.com.tw/store/goods/16?srsltid=AfmBOoqQJJKiEVnS0bRN03DBK9U2sBEJmsX-DJLFnL6CLyMr-0zvnYKu",
+      "source_domain": "www.fishbar.com.tw"
+    },
+    {
+      "candidate_id": "cand_771f2a39877b23d232f62d2f",
+      "image_url": "http://i0.wp.com/fatnya.com/wp-content/uploads/2023/05/20230528205055_73.jpg?fit=800%2C600&quality=99&ssl=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtkikqmljyP0nB7V2-mMcDGecV1ijcsIeVTG1-1aCRkA&s=10",
+      "source_page_url": "https://fatnya.com/snapper/",
+      "source_domain": "fatnya.com"
+    },
+    {
+      "candidate_id": "cand_f59ebfb9a993fcf1abddca50",
+      "image_url": "https://www.chunfu-food.com/images/product_l_472568.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQskTxiuzF54MBkOkOhakPOEBFExZbCERCU38VuzS94yQ&s=10",
+      "source_page_url": "https://www.chunfu-food.com/product_472568.html",
+      "source_domain": "www.chunfu-food.com"
+    },
+    {
+      "candidate_id": "cand_58f4f16bd45b529a87e36c6b",
+      "image_url": "https://img-global.cpcdn.com/recipes/2d3d5dd08f015043/200x200cq80/%E9%A6%99%E7%85%8E%E7%B4%85%E7%94%98%E9%AD%9A-%E9%A3%9F%E8%AD%9C%E6%88%90%E5%93%81%E7%85%A7%E7%89%87.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk8f17knBLcMnzrzmtVARkh3is649oCDbxjq6_TAKP5A&s",
+      "source_page_url": "https://cookpad.com/tw/%E6%90%9C%E5%B0%8B/%E7%B4%85%E7%94%98%E6%96%99%E7%90%86",
+      "source_domain": "cookpad.com"
+    },
+    {
+      "candidate_id": "cand_142064e7d275453a7b07d4f6",
+      "image_url": "https://www.fishbar.com.tw/files/archive/899_d10543bd.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgSbuO4P4xzbdx0UJkV4f84NZ32im-WfJj-o2WnNv7MA&s=10",
+      "source_page_url": "https://www.fishbar.com.tw/news1/nc/101/117?srsltid=AfmBOoo0EBIW0Qtv0Z1u-DvLlBEYnfBhZcT1nfIoHsuukIKNdpYvGxQv",
+      "source_domain": "www.fishbar.com.tw"
+    },
+    {
+      "candidate_id": "cand_a1192c83965349591803c705",
+      "image_url": "https://img.shoplineapp.com/media/image_clips/61db973056b3e5002f809d30/original.jpg?1641781040",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp11S_ilaGTi9h6f1n9G_DTYzo3FHZHohu9yn9BnVsFw&s=10",
+      "source_page_url": "https://www.arkrealfood.com/products/wp017-2",
+      "source_domain": "www.arkrealfood.com"
+    },
+    {
+      "candidate_id": "cand_99b09880e494cc9625b244f8",
+      "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7qul1-levasdhgy24n82",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9kK4lvxWNoDx3V6pODBNCkPDYsAiWvfyceExGeffLDA&s=10",
+      "source_page_url": "https://shopee.tw/%E6%98%9F%E6%B5%B7%E5%AE%B6%E6%BE%8E%E6%B9%96%E5%90%8D%E7%94%A2%F0%9F%94%8D%E7%B4%85%E7%94%98%E9%AD%9A%EF%BC%88%E4%B8%8B%E5%96%AE%E5%89%8D%E8%AB%8B%E7%A7%81%E8%81%8A%EF%BC%89-i.2238247.2894457666",
+      "source_domain": "shopee.tw"
+    },
+    {
+      "candidate_id": "cand_5b28e17322d73a950b42d633",
+      "image_url": "https://www.fishbaby.com.tw/upload/images/20240506132250pm05v.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs__at8JeVrKN9USCue5MmAZHRGEh3l312qC8P1pd8oA&s=10",
+      "source_page_url": "https://www.fishbaby.com.tw/products_detail/381?sid=",
+      "source_domain": "www.fishbaby.com.tw"
+    },
+    {
+      "candidate_id": "cand_bf9cc7ebb7b5092c20df8c12",
+      "image_url": "https://img-global.cpcdn.com/recipes/89407ffd2e8a359a/200x200f0.49074_0.5_1.0q80/%E4%B9%BE%E7%85%8E%E7%B4%85%E7%94%98%E9%AD%9A%E8%BC%AA%E5%88%87%E6%8E%92-%E9%A3%9F%E8%AD%9C%E6%88%90%E5%93%81%E7%85%A7%E7%89%87.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCknKWTc7_zQxv2TecrDKZ_hLSDNpJcXM2576-lOehrg&s=10",
+      "source_page_url": "https://cookpad.com/tw/%E6%90%9C%E5%B0%8B/%E7%B4%85%E7%94%98%E9%AD%9A",
+      "source_domain": "cookpad.com"
+    },
+    {
+      "candidate_id": "cand_ad717fac497c18afd30eac8c",
+      "image_url": "http://penghu-shrimp.com/wp-content/uploads/2018/02/timeline_20180213_200438.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJiqfyQwuX5NzSu28C8cjeMmgsG1tzERupRr0EDLRTQQ&s=10",
+      "source_page_url": "https://penghu-shrimp.com/%E6%BE%8E%E6%B9%96%E7%B4%85%E7%94%98%E9%AD%9A%E5%91%B3%E5%A2%9E%E6%B9%AF/",
+      "source_domain": "penghu-shrimp.com"
+    },
+    {
+      "candidate_id": "cand_6f215c44f08eed7d16aecf0c",
+      "image_url": "https://down-tw.img.susercontent.com/file/5acf33a0d3b7456e2ec7f40cff969970",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm4wSI-zl1nKPPOzZsCQvmt06qyLN2O_927VGWnP4heQ&s=10",
+      "source_page_url": "https://shopee.tw/-%E4%B8%B8%E7%A2%A7%E6%B0%B4%E7%94%A2%E5%B0%88%E9%96%80-%E7%B4%85%E7%94%98-%E4%B8%8B%E5%B7%B4-%E7%B4%85%E9%AD%BD-%E9%AD%9A%E4%B8%8B%E5%B7%B4-%E5%8F%B0%E7%81%A3-%E6%B5%B7%E9%AD%9A-i.2513315.7407525536",
+      "source_domain": "shopee.tw"
+    },
+    {
+      "candidate_id": "cand_0c7a499c45f1cb3214cdbcee",
+      "image_url": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/1/47e20318-ab13-4ab2-a953-3f07f949ff54.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR74myOrwfwtCKH2wVlcRFIHO1KAGuR507Ag4gkrSdL2g&s=10",
+      "source_page_url": "https://www.ftvnews.com.tw/news/detail/2021C26W0123",
+      "source_domain": "www.ftvnews.com.tw"
+    },
+    {
+      "candidate_id": "cand_ad07fa71589878c70e1402dd",
+      "image_url": "https://japan-food.jetro.go.jp/seafood/hk/assets/images/charm/yellowtail/img_yellowtail_03.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw_7GZjH7ZrORbUy0hZckmfUdEkLgGtdVtFK-B7YniGA&s=10",
+      "source_page_url": "https://japan-food.jetro.go.jp/seafood/hk/charm-yellowtail.html",
+      "source_domain": "japan-food.jetro.go.jp"
+    },
+    {
+      "candidate_id": "cand_91e77dd8754d8c0a70f5f55f",
+      "image_url": "https://www.fishbar.com.tw/files/archive/900_9f220558.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdWeJU9A54VX9t21x4E1VDHRvfWHhYahWSahU8qBK31A&s=10",
+      "source_page_url": "https://www.fishbar.com.tw/news1/nc/101/117?srsltid=AfmBOopRSIxJvlJwEbjZRnLEkAUMzr97phn9tEgbovl7bs3SFlMDVAqb",
+      "source_domain": "www.fishbar.com.tw"
+    },
+    {
+      "candidate_id": "cand_1653809ad32cb2f2e39cfb1b",
+      "image_url": "https://img.ltn.com.tw/Upload/news/600/2018/01/24/2321543_3.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfEuYNMa9wplaZ_aob0q71v7BK-o9ba_ZLA3Af_yj_3g&s=10",
+      "source_page_url": "https://news.ltn.com.tw/news/life/breakingnews/2321543",
+      "source_domain": "news.ltn.com.tw"
+    },
+    {
+      "candidate_id": "cand_ab7dee743d0fcdad864dc7bf",
+      "image_url": "https://www.workband.com.tw/store_image/dashu/P5176372508561.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRztuOjREM2jAnPETVqfq6AAvxU1Fr0702IW2SKWCKcFg&s",
+      "source_page_url": "https://www.dashu-fishery.com/products/info.php?id=64337",
+      "source_domain": "www.dashu-fishery.com"
+    },
+    {
+      "candidate_id": "cand_8451e1875c9e1590e358a8f8",
+      "image_url": "https://www.tpfish.com.tw/Upload/article/upload_630ecd60af6067_50261158.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr2l8Vts_MSytcTxxo8Vpxx2Za_hs13vwxJfBvFyVKMw&s=10",
+      "source_page_url": "https://www.tpfish.com.tw/fish_know_de.php?obj_id=zACRYbSMeuzSBsQSZJD0fyWpbV3I9JRh",
+      "source_domain": "www.tpfish.com.tw"
+    },
+    {
+      "candidate_id": "cand_7e38cf8ee78015ebacf2a7b1",
+      "image_url": "https://penghu-shrimp.com/wp-content/uploads/2019/02/IMG_0626.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG4QXZ9KzNjrEIzEhnwVsD4r4YfmuQEZmvp3yh505_Og&s=10",
+      "source_page_url": "https://penghu-shrimp.com/product/%E6%BE%8E%E6%B9%96%E7%B4%85%E7%94%98/",
+      "source_domain": "penghu-shrimp.com"
+    },
+    {
+      "candidate_id": "cand_724b62af6969c24b1c3b3bbc",
+      "image_url": "https://www.kankitsu.aifood.jp/assets/img/about/04/img-01.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3qBbsOsgIlD72U0bxMyu797F1JeRGRgnmx8sogz8-iQ&s=10",
+      "source_page_url": "https://www.kankitsu.aifood.jp/cn/about/4/",
+      "source_domain": "www.kankitsu.aifood.jp"
+    },
+    {
+      "candidate_id": "cand_e78a522822cfe2b6255015ba",
+      "image_url": "https://image-cdn-flare.qdm.cloud/q6312ddcb816e5/image/data/2026/01/14/a009d9cbe673cb07a74431acb808aa6e.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAiE44rIxR1_HynC4h-8yr1mAwpUF_ORCK2trHMmlLCg&s=10",
+      "source_page_url": "https://www.blakatmama.com/%E6%BE%8E%E6%B9%96%E9%87%8E%E7%94%9F%E7%B4%85%E7%94%98-%E5%A4%A7%E7%B4%85%E9%AD%BD",
+      "source_domain": "www.blakatmama.com"
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "schema_version": 1,
+  "fish_id": "fish_084",
+  "canonical_name": "尖吻棘鯛",
+  "aliases": [
+    "五棘鯛"
+  ],
+  "pool_updated_at": "2026-08-25T03:55:20.084251+00:00",
+  "candidate_count": 51,
+  "candidates": [
+    {
+      "candidate_id": "cand_4b50c0bf1d55ef7a819b4d1b",
+      "image_url": "https://churaumi.okinawa/userfiles/fish_images/shinkaigyo/tenngudai-resize.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5PJ-reasfJpPSbQUFkLwuFwgcO2-E3_aSw95tFqiF0Q&s=10",
+      "source_page_url": "https://churaumi.okinawa/sp/tc/fishbook/00000661/",
+      "source_domain": "churaumi.okinawa"
+    },
+    {
+      "candidate_id": "cand_8c4d8a46b0cae3886e12c57a",
+      "image_url": "https://kmweb.moa.gov.tw/files/knowledge_question/16206/A01_1_m.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX2iuhArC472YJTSCAYtTcjoB-OrXoGQR0PhMyI8JuAw&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/knowledge_view.php?id=16208",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_2c5ac8f2557da42576b64073",
+      "image_url": "https://kmweb.moa.gov.tw/files/IMITA_Gallery/186/614c09ab0b_m.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxhcrubosP3gT0JW_7apZNC48inF1fLrZS_HGSkYtZAg&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/subject/subject.php?id=45559",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_16ba57b6d45c36a4a995ebdb",
+      "image_url": "https://churaumi.okinawa/userfiles/fish_images/sanngogyo/murasamemonngaranew.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7YTfiOTrmnP-xpA-o9q8cnOtW5nEj31nzXktLY7y3Uw&s=10",
+      "source_page_url": "https://churaumi.okinawa/tc/fishbook/00000143/",
+      "source_domain": "churaumi.okinawa"
+    },
+    {
+      "candidate_id": "cand_5d7254071920b9cd5c2abd4b",
+      "image_url": "http://digiarch.sinica.edu.tw/digiarch3/ImageCache/ImageCache/00/0f/93/81.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLowUHhJKgUyGLsQnF7GX4vCJSkeB0Q4R0xF0TwWAuQg&s=10",
+      "source_page_url": "https://digiarch.sinica.edu.tw/content/repository/resource_content.jsp?oid=15404&queryType=qs&queryString=%E9%BE%8D%E5%8D%A0",
+      "source_domain": "digiarch.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_c435921aa4f6b57886009f4c",
+      "image_url": "https://picx.zhimg.com/v2-19a47af36056bce3eeae6607882f72a7_1440w.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoYfhFENLrGVR3OHQKVanCrQ8_eZTzyxDVuR3_gtt5ag&s=10",
+      "source_page_url": "https://zhuanlan.zhihu.com/p/32364017",
+      "source_domain": "zhuanlan.zhihu.com"
+    },
+    {
+      "candidate_id": "cand_e4c7e337b2b58b689d4224fa",
+      "image_url": "http://image.digitalarchives.tw/ImageCache/00/00/ae/d0.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iKjbxIbzIlRosY6mp_MdHJeIT3fueRJ6rdm6po_nEg&s=10",
+      "source_page_url": "https://catalog.digitalarchives.tw/item/00/06/9e/17.html",
+      "source_domain": "catalog.digitalarchives.tw"
+    },
+    {
+      "candidate_id": "cand_f602e233caf81cf0b5f25309",
+      "image_url": "https://pic4.zhimg.com/v2-c5121fd22641d36d594d848bafc1f3d1_1440w.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoS-SQCxKRyRsNzwW3prJAwXVHWJqOtO1cQlK3fa96aw&s",
+      "source_page_url": "https://zhuanlan.zhihu.com/p/32364017",
+      "source_domain": "zhuanlan.zhihu.com"
+    },
+    {
+      "candidate_id": "cand_60c57f2a87bb0748f7563f8c",
+      "image_url": "https://ik.imagekit.io/diving/rx/Sargocentron_spiniferum4892_8LyKypxrd.jpeg?tr=ar-3-4,w-200,fo-auto",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRTJm--QBw2WnK7-LjOh1Zlo9vv0DieP5G2_zGkx0YLA&s",
+      "source_page_url": "https://www.lazydiving.com/species/Sargocentron%20spiniferum",
+      "source_domain": "www.lazydiving.com"
+    },
+    {
+      "candidate_id": "cand_0d09feccd07b9b2eb764c19c",
+      "image_url": "https://static.inaturalist.org/photos/27541890/medium.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1BbrsMDHYz-fJB6mC4SE4aVhARlS3tCt-jpvZRIQ7ng&s=10",
+      "source_page_url": "https://www.inaturalist.org/zh-CN/taxa/53696-Diplodus-puntazzo",
+      "source_domain": "www.inaturalist.org"
+    },
+    {
+      "candidate_id": "cand_6b534fe9d3ff6c5ea1de1393",
+      "image_url": "http://image.digitalarchives.tw/ImageCache/00/0f/94/dc.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJRchPkjMDlTIjGPs0fISu-IVcj5gLs8l3K4-WqXSqvA&s=10",
+      "source_page_url": "https://ascdc.digitalarchives.tw/collection_15750.html",
+      "source_domain": "ascdc.digitalarchives.tw"
+    },
+    {
+      "candidate_id": "cand_f9840e30e22ceb997753c22e",
+      "image_url": "https://ik.imagekit.io/diving/rx/Sargocentron_spiniferum4892_8LyKypxrd.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCwimqHIu1Ho69WQTBHFa0ZGakOm_oqmiJRQO7OFvDOg&s=10",
+      "source_page_url": "https://www.lazydiving.com/species/Sargocentron%20spiniferum",
+      "source_domain": "www.lazydiving.com"
+    },
+    {
+      "candidate_id": "cand_6584b466178bd9b4c66b91b7",
+      "image_url": "https://i1.hdslb.com/bfs/archive/330dc11aa1f11cf6dfbab6661084b1c3cd5e88d5.jpg@1200w_630h",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOCt3pPxihjJnb31D38-CZ4dr6ZIiBx954CfcWGuESSg&s=10",
+      "source_page_url": "https://www.bilibili.com/video/BV1GH4y117hc/",
+      "source_domain": "www.bilibili.com"
+    },
+    {
+      "candidate_id": "cand_19aadaa048a12ead8fce29f6",
+      "image_url": "https://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/Jheng2604.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkWiy5xbRaaEUIVxBJfcBv7XA0TtYeFLq_UJotVI79LA&s=10",
+      "source_page_url": "https://fishdb.sinica.edu.tw/chi/showpic.php?science=Evistias%20acutirostris",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_275213ea0ec2579c792ea306",
+      "image_url": "https://pic2.zhimg.com/v2-15b30ee7b4ca229c1a5bf5bcbf83a675_1440w.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuYW3PyFIMclWZeoIKefUWedmU5EF7vmY6mSNslisDJA&s=10",
+      "source_page_url": "https://zhuanlan.zhihu.com/p/32364017",
+      "source_domain": "zhuanlan.zhihu.com"
+    },
+    {
+      "candidate_id": "cand_f2f63d28051e463112d18d33",
+      "image_url": "https://ik.imagekit.io/diving/rx/Sargocentron_spiniferum4889_FBdRb3AbB.jpeg?tr=ar-3-4,w-200,fo-auto",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScWjWlFGhGjj1UWPn7r1DqX4-WT7mV0LtK9glmF8FavQ&s",
+      "source_page_url": "https://www.lazydiving.com/species/Sargocentron%20spiniferum",
+      "source_domain": "www.lazydiving.com"
+    },
+    {
+      "candidate_id": "cand_47459902df169c96e712f286",
+      "image_url": "http://image.digitalarchives.tw/ImageCache/00/0f/91/bc.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR_0d5G6Sp9jLjOKvCsyJimggoLj1GQAmqgNL-X-k1MA&s=10",
+      "source_page_url": "https://catalog.digitalarchives.tw/item/00/00/3a/71.html",
+      "source_domain": "catalog.digitalarchives.tw"
+    },
+    {
+      "candidate_id": "cand_e3ba70968cb55487aceb92ad",
+      "image_url": "https://i2.hdslb.com/bfs/archive/541d3c8e819c626f62e780f3b51aa0f29032090b.jpg@384w_216h_1c",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOoDQ9Edp1H5M54f6aKf-WZsXxb2p4IRCwR5qSpOiDBw&s=10",
+      "source_page_url": "https://www.bilibili.com/video/BV1GH4y117hc/",
+      "source_domain": "www.bilibili.com"
+    },
+    {
+      "candidate_id": "cand_ba3d91b64cf13e27b889f53e",
+      "image_url": "https://churaumi.okinawa/userfiles/fish_images/kuroshio/kitunefuefuki-resize.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6y5VSzJFZa4qPstZzWV1VIIRpKYPqKqmVK5zDgFxaAQ&s=10",
+      "source_page_url": "https://churaumi.okinawa/tc/fishbook/00000571/",
+      "source_domain": "churaumi.okinawa"
+    },
+    {
+      "candidate_id": "cand_2642dbe200a1c72833aa423a",
+      "image_url": "https://img.vocus.cc/Yk1ckmUKKtBTlQrpcdUatHJK0ObdjTHXHsRmHzzK_jM/w:650/f:webp/plain/https://images.vocus.cc/c0df7a34-9468-43ae-a28b-bc0ace1a4981.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNC98cXLArnvoZPVIhE-4H52bJr-9FkDAmit1-NxVXTA&s",
+      "source_page_url": "https://vocus.cc/article/65db0cbefd89780001eda770",
+      "source_domain": "vocus.cc"
+    },
+    {
+      "candidate_id": "cand_c5800d09a6cbcbdba72945ec",
+      "image_url": "https://www.114ehkreeffish.org/wp-content/uploads/2018/03/EvynnisCardinalis_StanShea_08.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7xDDcUOFyU7HA-X_-2CkAX-jkfUmEAdZk44U-tLgbog&s=10",
+      "source_page_url": "https://www.114ehkreeffish.org/reef-fish/%E4%BA%8C%E9%95%B7%E6%A3%98%E7%8A%81%E9%BD%92%E9%AF%9B/",
+      "source_domain": "www.114ehkreeffish.org"
+    },
+    {
+      "candidate_id": "cand_09eaefeae0617b0cb4580e61",
+      "image_url": "https://pic4.zhimg.com/v2-9292f01963f48c740cbcdc025f6f02c7_1440w.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7KIsyiSU1IFbBS0jIALcfXCz25U-1c8SzraPbQRkqBg&s",
+      "source_page_url": "https://zhuanlan.zhihu.com/p/32364017",
+      "source_domain": "zhuanlan.zhihu.com"
+    },
+    {
+      "candidate_id": "cand_af3e9019e2d0a581916005ac",
+      "image_url": "https://i0.hdslb.com/bfs/archive/5783a71d20d06eafc722ccf55b885b617b328d56.jpg@384w_216h_1c",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvTPPsr9qakUZ3T0lAdfPH4MngIlL8zLIIM_ikYNZKQ&s=10",
+      "source_page_url": "https://www.bilibili.com/video/BV1GH4y117hc/",
+      "source_domain": "www.bilibili.com"
+    },
+    {
+      "candidate_id": "cand_343ba874a155f7ce6e4f74d2",
+      "image_url": "http://image.digitalarchives.tw/ImageCache/00/0f/91/bb.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvOU45cD-TeXL-jYOG-d5Npm7ZtEvIJAKRpvtDh46NYw&s=10",
+      "source_page_url": "https://catalog.digitalarchives.tw/item/00/00/3a/70.html",
+      "source_domain": "catalog.digitalarchives.tw"
+    },
+    {
+      "candidate_id": "cand_2dbea3e13bcaa070f02985c8",
+      "image_url": "https://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a660-01.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuy5kmgOM4MULSS9epmnW0sVmfxibCoXIfRHIQ4Qgelg&s=10",
+      "source_page_url": "https://fishdb.sinica.edu.tw/chi/species.php?id=380937",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_7ec1fa2d8f541a975d6fd1b6",
+      "image_url": "https://aborgpedia.alcd.center/?option=com_fileman&view=file&routed=1&name=165.%E6%96%9C%E5%B8%B6%E5%90%BB%E6%A3%98%E9%AD%A8.jpg&folder=%E6%B0%91%E6%97%8F%E5%8B%95%E6%A4%8D%E7%89%A9%2F%E5%8B%95%E7%89%A9&container=fileman-files",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTvNnUsanCTs7vJy5Kt0dbgCxjIqI6sW8LIxwn93g8Qg&s=10",
+      "source_page_url": "https://aborgpedia.alcd.center/detail?id=5432&search=&cat=0&race=0&writer=",
+      "source_domain": "aborgpedia.alcd.center"
+    },
+    {
+      "candidate_id": "cand_a48a8f411f3b9af3acc3b3ba",
+      "image_url": "https://www.114ehkreeffish.org/wp-content/uploads/2018/03/144eReefFishHK_AnnotatedImages_Acanthopagrus-latus.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFM-Y4-dMkf40FsGI335jX5wl6GK7Dvp5JLe76jLn3w&s=10",
+      "source_page_url": "https://www.114ehkreeffish.org/reef-fish/%E9%BB%83%E9%B0%AD%E6%A3%98%E9%AF%9B/",
+      "source_domain": "www.114ehkreeffish.org"
+    },
+    {
+      "candidate_id": "cand_490440abd1df514904d2a972",
+      "image_url": "https://i0.wp.com/etaiwan.news/wp-content/uploads/2025/03/img_3975-1.jpg?resize=1024%2C687&ssl=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLGc6YAGiDSYg6kWEpoUs0WIVP-ep0T2Cyv6OgGuIOtA&s=10",
+      "source_page_url": "https://etaiwan.news/2025/03/25/%E5%A4%A9%E7%8B%97%E9%AF%9B%EF%BD%9C%E5%AF%8C%E5%B2%A1%E6%BC%81%E6%B8%AF%E6%8D%95%E7%8D%B2%EF%BC%8C%E8%A7%80%E8%B3%9E%E3%80%81%E9%A3%9F%E7%94%A8%E7%9A%86%E5%AE%9C%EF%BC%8C%E9%A1%9E%E4%BC%BC%E6%94%BE/",
+      "source_domain": "etaiwan.news"
+    },
+    {
+      "candidate_id": "cand_09d156da644a516fd71d469c",
+      "image_url": "https://picx.zhimg.com/v2-ab5c84df74ee25e0fac32d24b1426eaf_1440w.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-bljorVNTFwiIWVIILkD-4q0qJOEitFuZ7cQ3PsItWQ&s=10",
+      "source_page_url": "https://zhuanlan.zhihu.com/p/32364017",
+      "source_domain": "zhuanlan.zhihu.com"
+    },
+    {
+      "candidate_id": "cand_dcad4328929ec854e40b826d",
+      "image_url": "https://churaumi.okinawa/userfiles/fish_images/05/DSC05319.JPG",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgncwZPvmoi7bxTMWZw_0Cphv46vVL6BHXFPkj_QJCww&s=10",
+      "source_page_url": "https://churaumi.okinawa/sc/fishbook/00000143/",
+      "source_domain": "churaumi.okinawa"
+    },
+    {
+      "candidate_id": "cand_44018e12174ba715d809119d",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCKnIHl6knX0XC7vfYWgd9cLFtyne53HYzeHruQ-2T3kUbuU9O5u9sxqLcoAr4YGX9Tr6Mffk5hIasujvb6cmT20ZFy7Mk2TcAm2LkzjlKc03Cjj1X-uCYAvat-ofzCWfQ8TEEi88vm_X9STPrb8fO7jPCVCpBta-p15x9CdUHfycH1HznT9-A_UHsvByt/s699/P2220083.JPG",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0HSvO7N152mDoUqzAbxIeLryfRdqOpze2UeRpwaxi1A&s",
+      "source_page_url": "https://goldfishmessage.blogspot.com/2013/09/distichodus-sexfasciatus-distichodus.html",
+      "source_domain": "goldfishmessage.blogspot.com"
+    },
+    {
+      "candidate_id": "cand_1d77fb943bb5f8cb65020109",
+      "image_url": "https://fishdb.sinica.edu.tw/files/muse_fishdb/muse_styles/term_thumbs_silder/mcode/eaf7085fe9db391fd66030a8bb1cf4ec.jpg?itok=ylEsy3us",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTULj4mNPhdaP0Zyy_Yudz-eOAuLDTH0i6NHtwu6QtY1Q&s=10",
+      "source_page_url": "https://fishdb.sinica.edu.tw/taxon/382075-fishdb",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_32885fff381345e84b188e0e",
+      "image_url": "https://i0.hdslb.com/bfs/archive/983307cdb4fc29c648d61f4d1f35fad1e88cb156.jpg@384w_216h_1c",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSDaFf0DJ9awVgJvhaiLsND_aeYAU3iYnbixpkSGi2KQ&s=10",
+      "source_page_url": "https://www.bilibili.com/video/BV1GH4y117hc/",
+      "source_domain": "www.bilibili.com"
+    },
+    {
+      "candidate_id": "cand_cae5dc5591e4aa85707429cd",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5faf512e5d4b4d054bf40b61/b03df065-bfd4-4191-921b-158ce172b1f6/6DA63A16-F159-4AEE-8502-92AEE1DD91AF.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt2hU7zZPsCUOdQWUiDPNzmfvCHTVymA5K-n-clFmTWw&s=10",
+      "source_page_url": "https://www.topfreshanz.com/orange-rough",
+      "source_domain": "www.topfreshanz.com"
+    },
+    {
+      "candidate_id": "cand_7ad85b365229f6d67cf0687e",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0RTnW6ZrFvpe43xiEawl1W4D4BvHbcAZMAGlf4ufD7jfmABx4_Am1i57MlGgz_Qf2F5nWaRQLYaKug54VhTJLH5JYKukLN5Qn-KmolLsePgvc9L7jmNJ9KMgmpCSQ3HSs6c2ebtnv6Obi/s1600/%25E9%25BB%2591%25E6%25A0%25BC.JPG",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAvKA2179hZr0extwYmZ6AjGghO7t1aXby9crzXEtibw&s=10",
+      "source_page_url": "https://goldfishmessage.blogspot.com/2013/10/acanthopagrus-schlegelii.html",
+      "source_domain": "goldfishmessage.blogspot.com"
+    },
+    {
+      "candidate_id": "cand_9b65afc386a0f8ab344e0ea1",
+      "image_url": "http://image.digitalarchives.tw/ImageCache/00/61/83/8b.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB-I8zAUJq7TFyJySi7_OxpSOq-cCTQNH0hjDqbU05GQ&s=10",
+      "source_page_url": "https://catalog.digitalarchives.tw/item/00/40/00/65.html",
+      "source_domain": "catalog.digitalarchives.tw"
+    },
+    {
+      "candidate_id": "cand_470064b5ad88f441707850a4",
+      "image_url": "https://picx.zhimg.com/v2-9d682db7741b335a7ba5d3dc5a1adb4f_1440w.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9L9-Bt2sWL-FYhXXgzotCFSDUnbL5pAvy1af-DQ3w8Q&s=10",
+      "source_page_url": "https://zhuanlan.zhihu.com/p/32364017",
+      "source_domain": "zhuanlan.zhihu.com"
+    },
+    {
+      "candidate_id": "cand_1a43cf68010e2c35babb2bca",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5faf512e5d4b4d054bf40b61/6ad5b910-363b-42b6-a30f-57012b64934b/192069169_l.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLn7eRfbR-mByG1p2rUPb-mjNeDMXh1DC9azysZ0F9jA&s=10",
+      "source_page_url": "https://www.topfreshanz.com/orange-rough",
+      "source_domain": "www.topfreshanz.com"
+    },
+    {
+      "candidate_id": "cand_35d49bc05e82dbf6b03aadb3",
+      "image_url": "https://i1.kknews.cc/sUNRKP6boFBP2FAqCcRwzzMlZqH7rIH5SQ/0.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMM-KDwLDbV4eIQPNHElqldpzzPnZMpgeVY6fRik7dug&s=10",
+      "source_page_url": "https://kknews.cc/nature/ppm9g98.html",
+      "source_domain": "kknews.cc"
+    },
+    {
+      "candidate_id": "cand_4c353811c2a0ac78be2254a2",
+      "image_url": "https://churaumi.okinawa/userfiles/fish_images/shinkaigyo/hasikinme201801.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtl8BqVdpowLrMFoABSkdw0x024IojQTfLuzH8V9OyCA&s=10",
+      "source_page_url": "https://churaumi.okinawa/sp/tc/fishbook/00000624/",
+      "source_domain": "churaumi.okinawa"
+    },
+    {
+      "candidate_id": "cand_662d92ccc1fd12baab8f088a",
+      "image_url": "https://shoplineimg.com/604093b04bf8b200265d7de1/6377fd0f93e3bf00193b686d/800x.jpeg?",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsjmVwdF-M836LGV-Ytpaj3Znt9Kk9d96ITqgTB3_41w&s=10",
+      "source_page_url": "https://topfreshanz848.shoplineapp.com/products/633e4074c28bf6001c943b36",
+      "source_domain": "topfreshanz848.shoplineapp.com"
+    },
+    {
+      "candidate_id": "cand_ef97e5f554ff97ee4c2ef825",
+      "image_url": "https://kmweb.moa.gov.tw/files/fisheasy/367/A01_1_m.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0KOpf2zp8uK3xrCNvZwHCHOBOZ0JsxBmC7KVz7rre0Q&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/theme_data.php?theme=fisheasy&id=367",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_42f5b2b0a77b5839b776d073",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDRdjG51Na6dWCjNS5J7XnVqpJLsm6uHyaGrEys8e9M_YKsVyMqp-UkKdYgIrGbtsgqkKhJbcyDE8bbEI1xYziwyhmpaicSaBe52hsHaBFqW3azl6EFvsRr_zitWhfKVkSptSwHyrzXSs/s1600/03.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWxR6d_JuHhmC1dVHyppKR41YS3PRVMxFsNGieJmn2vg&s",
+      "source_page_url": "https://goldfishmessage.blogspot.com/2013/09/distichodus-sexfasciatus-distichodus.html",
+      "source_domain": "goldfishmessage.blogspot.com"
+    },
+    {
+      "candidate_id": "cand_1ccc30f56f81374539c0a932",
+      "image_url": "https://taieol.tw/files/muse_taieol/muse_styles/color_box_match/mcode/7e88b5120d39e1c8c18118bfa9cf58a5.jpg?itok=PL8ecxza",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHO7cBqwz6zACa15MPCpZFdbVoG417norWP0J1r_Zusg&s=10",
+      "source_page_url": "https://taieol.tw/muse/digi_object/3795a5c797d881f04ce24e00b428431d",
+      "source_domain": "taieol.tw"
+    },
+    {
+      "candidate_id": "cand_64b33801d0e7bd57f7bc2ac6",
+      "image_url": "http://p9.itc.cn/q_70/images03/20210116/210956123c8d48f4972ff8598847c12b.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXwZRXAo-P39JYeQrj1NpXu_bo5eeJV9WvJAo2t27xwA&s=10",
+      "source_page_url": "https://www.sohu.com/a/444824396_100013296",
+      "source_domain": "www.sohu.com"
+    },
+    {
+      "candidate_id": "cand_7becab9147cbc92227702f97",
+      "image_url": "https://pica.zhimg.com/v2-6ce0190f75bdb65cef2fca7de0ba709e_1440w.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD_DXUdJx10FI2UWe1UfdhUqiwH4Pr3fp5W-ae1zCCkw&s=10",
+      "source_page_url": "https://zhuanlan.zhihu.com/p/681878139",
+      "source_domain": "zhuanlan.zhihu.com"
+    },
+    {
+      "candidate_id": "cand_b59ef8651b034b6be0719029",
+      "image_url": "https://churaumi.okinawa/userfiles/fish_images/sanngogyo/murasamemonngaranew2.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKi_KMAwtuz5ZNUC3FY7jHNkYQ_UkYkxidGlZDqPjJkw&s=10",
+      "source_page_url": "https://churaumi.okinawa/tc/fishbook/00000143/",
+      "source_domain": "churaumi.okinawa"
+    },
+    {
+      "candidate_id": "cand_d39f0f44f55bb159e0fd6a31",
+      "image_url": "https://www.114ehkreeffish.org/wp-content/uploads/2018/03/AcanthopagrusLatus_AllenTo_02.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8LC8CHKPVKEar01yvjJYO49vkzdqVO0HSdwC8G6KC1A&s=10",
+      "source_page_url": "https://www.114ehkreeffish.org/reef-fish/%E9%BB%83%E9%B0%AD%E6%A3%98%E9%AF%9B/",
+      "source_domain": "www.114ehkreeffish.org"
+    },
+    {
+      "candidate_id": "cand_d1698501aa1ece9e333cb989",
+      "image_url": "https://scientieic-american-media.s3.ap-northeast-1.amazonaws.com/posts/2025/03/e2d1915b-0d61-40f5-bdf2-4bf6f4ef432d.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQPQUVGPYZa5_Wh1jdQdRbbcQZ3iCpjh8CawVsMB2jqg&s=10",
+      "source_page_url": "https://www.scitw.cc/tags/da4-xi1-yang2-xiong1-ji2-diao1",
+      "source_domain": "www.scitw.cc"
+    },
+    {
+      "candidate_id": "cand_4d8826221fdcec329102af3f",
+      "image_url": "https://fishdb.sinica.edu.tw/files/muse_fishdb/muse_styles/term_thumbs_silder/mcode/60889f427d9070095a141436dfe7559a.jpg?itok=wMVQ5eY0",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk3RL1Mp-v8w39Yr9IYRZeY6ZHDl7EQPSH993CHLsQEw&s=10",
+      "source_page_url": "https://fishdb.sinica.edu.tw/taxon/382637-fishdb/specimen",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_4e88c076156f6332fa19a34e",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5faf512e5d4b4d054bf40b61/7aee6163-5001-44f8-a74f-7bf17b088a23/S__30802038.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-UePHqHBXpB3Jd9AYB3rwVZO1QHYrI2HCm4XL-Pb_YA&s=10",
+      "source_page_url": "https://www.topfreshanz.com/orange-rough",
+      "source_domain": "www.topfreshanz.com"
+    }
+  ]
+}

@@ -1,0 +1,584 @@
+{
+  "schema_version": 1,
+  "fish_id": "fish_034",
+  "canonical_name": "白線鮨",
+  "aliases": [],
+  "pool_updated_at": "2026-08-25T05:35:25.878308+00:00",
+  "candidate_count": 82,
+  "candidates": [
+    {
+      "candidate_id": "cand_11d2c6e6c7ef261e9683c817",
+      "image_url": "https://kmweb.moa.gov.tw/files/fisheasy/373/A01_1_m.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1j8Ai0IOHlHImzBPlkLFKTN2jYMXizicXc3MaJLcxIA&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/theme_data.php?theme=fisheasy&id=373",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_282fbe28da489c257e84fb46",
+      "image_url": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a681-09.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdp5QRONG-DKtgumI8sd57ovBmC3cwApYw0MCYB9wpfw&s=10",
+      "source_page_url": "https://fishdb.sinica.edu.tw/mobi/species.php?id=382506",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_ecd2764720e5719fda4cc17a",
+      "image_url": "https://fishdb.sinica.edu.tw/files/muse_fishdb/muse_styles/term_thumbs_silder/mcode/a7400adc9200a1f793047a11bb361e1c.jpg?itok=xGsiltgJ",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRTZ0jW-UvW-4gKlGgsdLE4PWGK6z9VBF7zwM9s-O6FA&s=10",
+      "source_page_url": "https://fishdb.sinica.edu.tw/taxon/382506-fishdb/occurrence",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_ebee529826c66a2340e07ab1",
+      "image_url": "https://fishdb.sinica.edu.tw/files/muse_fishdb/muse_styles/term_thumbs_silder/mcode/018eb14c7f2562c959597bc1fd39e80c.jpg?itok=eO8hCECh",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSikyJJqXA0uEWRy-qW-TQaSfmL67S2tZEwcI6VSj6ALw&s",
+      "source_page_url": "https://fishdb.sinica.edu.tw/taxon/382506-fishdb/occurrence",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_0d7094168adf250ea06ff8b9",
+      "image_url": "https://fishdb.sinica.edu.tw/e_books/fishshell2011/M/382506.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyQt6vntPrUk3sZkSClrLEQJG6SkQAhrC32foZLKtoZw&s",
+      "source_page_url": "https://fishdb.sinica.edu.tw/e_books/fishshell2011pic_m.php?id=245",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_516bc26d4463d3d4580dbe6d",
+      "image_url": "https://pimg.1px.tw/fishshop/1626422662-3484786503-g.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThEYOjNJ_3bA8bmYOJqkTipvf3pkrkCWoSXUvseEmHKQ&s=10",
+      "source_page_url": "https://fishshop.pixnet.net/blog/posts/1033422107",
+      "source_domain": "fishshop.pixnet.net"
+    },
+    {
+      "candidate_id": "cand_19cba911391035662540688d",
+      "image_url": "https://media-01.cmosite.com/wp-content/uploads/sites/516/2025/01/09171109/media20250109171107992.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB2F_2r0Q3S_dePDfmaxwH1CKaw817TIXZe29ynXzdfQ&s=10",
+      "source_page_url": "https://toyamasushi-ginza.com/zh_cn/blog/post-0/",
+      "source_domain": "toyamasushi-ginza.com"
+    },
+    {
+      "candidate_id": "cand_76aeba10958b2552354e0d62",
+      "image_url": "https://storage.googleapis.com/production-os-assets/assets/28f7fb6d-974b-43b7-ba19-42dbd0c02109",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrXfcVylq9pyejm1s7nAizWbaNB7FpemhCAs9Nm6wQWQ&s=10",
+      "source_page_url": "https://sushi-haku.com/ct",
+      "source_domain": "sushi-haku.com"
+    },
+    {
+      "candidate_id": "cand_01499e60cab23964774a1723",
+      "image_url": "https://fishdb.sinica.edu.tw/files/muse_fishdb/muse_styles/term_thumbs_silder/mcode/38127d6f9ab4627186ad8b214e92babd.jpg?itok=D4wWMYy9",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOzOO3UvIyYXhsHhFKXMZMEzduhdtxckVp9t13dAYpnw&s",
+      "source_page_url": "https://fishdb.sinica.edu.tw/taxon/382506-fishdb/occurrence",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_c07cc110609032757627ce15",
+      "image_url": "https://kmweb.moa.gov.tw/files/fisheasy/374/A01_1_m.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvUFrsdW3gvPBGm8GDaxMAsOFoQTcNlrbdDiPLiMsbCQ&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/theme_data.php?theme=fisheasy&id=374",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_940e82fe6a3cb15dde7382e2",
+      "image_url": "https://storage.ctinews.com/compression/files/default/cut-1753455805-k4XxVaZ.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7fRXR1DzSDJk3zVwYy4ksxiqaVrVBOleZD_Y1WvBfww&s=10",
+      "source_page_url": "https://ctinews.com/news/items/GVxoylVpW8",
+      "source_domain": "ctinews.com"
+    },
+    {
+      "candidate_id": "cand_ba013c195e4ec64e603b5e2f",
+      "image_url": "https://image.kkday.com/v2/image/get/c_fill%2Cq_55%2Ct_webp%2Cw_960/s1.kkday.com/product_182977/20240624050749_RZBVZ/jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpg2nOc3wXyVD8i6CDQufsGiCAM6VEj_xh9xE-1rUmFQ&s",
+      "source_page_url": "https://www.kkday.com/zh-hk/product/182977?srsltid=AfmBOoqGh-fj9QP3njNsI8HgCLiWoVOmtwJ7c1UaadqbldlJbdJsVjP2",
+      "source_domain": "www.kkday.com"
+    },
+    {
+      "candidate_id": "cand_9c6c8766363e1bfa39167843",
+      "image_url": "https://saliday.tw/wp-content/uploads/2024/01/20240109023811_0.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vbOOPWpxPmeKpP0vmDcjwjYoq62dzbO3zj2NueL6xw&s=10",
+      "source_page_url": "https://travel.yam.com/article/133883",
+      "source_domain": "travel.yam.com"
+    },
+    {
+      "candidate_id": "cand_390d3773a7daae7a771ca14b",
+      "image_url": "https://media-01.cmosite.com/wp-content/uploads/sites/516/2023/11/25131902/media20231125131900627.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhq6FO78R_SGJc8JIsCpghEeL2yoZHrMchyQOnFeu7Lw&s=10",
+      "source_page_url": "https://toyamasushi-ginza.com/zh_cn/blog/post-0/",
+      "source_domain": "toyamasushi-ginza.com"
+    },
+    {
+      "candidate_id": "cand_fc71843fc086c71945466960",
+      "image_url": "https://storage.ctinews.com/compression/files/default/cut-1753455802-9WsYAwA.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb26lcrZT-_aNP5biaxup8CiwQba6aGMKVKk4352AYtw&s=10",
+      "source_page_url": "https://ctinews.com/news/items/GVxoylVpW8",
+      "source_domain": "ctinews.com"
+    },
+    {
+      "candidate_id": "cand_a63e04d517929736ce94dae5",
+      "image_url": "https://tblg.k-img.com/resize/640x360c/restaurant/images/Rvw/339729/ad105bae4b2a70ae3dc704509766532b.jpg?token=bdcfe6f&api=v2",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9_4pkp_AyzLE5Y5-_YsReEW_GAhuyEFWACqYEjfujAQ&s",
+      "source_page_url": "https://tabelog.com/tw/tokyo/A1307/A130701/13277815/",
+      "source_domain": "tabelog.com"
+    },
+    {
+      "candidate_id": "cand_4690e38dd26d1363e1481953",
+      "image_url": "https://media-01.cmosite.com/wp-content/uploads/sites/516/2026/03/12170252/media20260312170251892.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWtsVEhm5JzQLVVlXUo-opYgVtdf6Kwu8eKUmrFXdZ6w&s=10",
+      "source_page_url": "https://toyamasushi-ginza.com/zh_cn/blog/post-0/",
+      "source_domain": "toyamasushi-ginza.com"
+    },
+    {
+      "candidate_id": "cand_310735b3dd7f2ffcc1543ca4",
+      "image_url": "https://saliday.tw/wp-content/uploads/2025/11/20251115192946_0_59d873.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScgeMpRRuQO8BEHBssP4rg6Kaa9KBoIICnMqcNlwxZMQ&s=10",
+      "source_page_url": "https://saliday.tw/zhuchu_2023/",
+      "source_domain": "saliday.tw"
+    },
+    {
+      "candidate_id": "cand_d51299f9244b2722877a8cf8",
+      "image_url": "https://media-01.cmosite.com/wp-content/uploads/sites/516/2024/05/21200333/media20240521200331632.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQluH2b9J1M9dK8nUjB7SkOzrE_8a9fg6yQvP1GVf4YaA&s=10",
+      "source_page_url": "https://toyamasushi-ginza.com/zh_cn/blog/post-0/",
+      "source_domain": "toyamasushi-ginza.com"
+    },
+    {
+      "candidate_id": "cand_b9cd7151f6873029fee06530",
+      "image_url": "https://rimage.gnst.jp/livejapan.com/public/article/detail/a/10/00/a1000002/img/zh-cn/a1000002_parts_5b1887151493b.jpg?20210222173132&q=80&rw=686&rh=490",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXvcQQqU5MwHqE24fqGjvQPTFCYMUPuZLrE61mV7SHKw&s=10",
+      "source_page_url": "https://livejapan.com/zh-cn/in-hokkaido/in-pref-hokkaido/in-sapporo_chitose/article-a1000002/",
+      "source_domain": "livejapan.com"
+    },
+    {
+      "candidate_id": "cand_99f3d7fc1c80fce8098eb369",
+      "image_url": "https://pimg.1px.tw/blog/jennieschen/post/912212969654465710/912214839538105406.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkTBqhRcPh48sorEC-RjVa3rGGXJ4rcXkMH3cHoBrwZw&s=10",
+      "source_page_url": "https://jennieschen.pixnet.net/blog/posts/912212969654465710",
+      "source_domain": "jennieschen.pixnet.net"
+    },
+    {
+      "candidate_id": "cand_2b46783e1dba79eade72b188",
+      "image_url": "https://pimg.1px.tw/blog/jennieschen/post/912212969654465710/912213167558507706.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMXkT_UebSl6yJNclhWVO4Z3ggL_oZbjHe67ZAW1jtA&s=10",
+      "source_page_url": "https://jennieschen.pixnet.net/blog/posts/912212969654465710",
+      "source_domain": "jennieschen.pixnet.net"
+    },
+    {
+      "candidate_id": "cand_f69277e5df26d55838ad6d4d",
+      "image_url": "https://mag0221.com/wp-content/uploads/2025/09/20250909-ojq7h.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCQTBMSESXzTBwDJa7_CZOd8bpOd4uVwtCwvuwErlIpw&s=10",
+      "source_page_url": "https://mag0221.com/%E8%B3%9E%E9%AE%A8%E6%89%8B%E4%BD%9C%E6%96%99%E7%90%86%EF%BD%9C%E5%9F%BA%E9%9A%86%E9%AB%98cp%E5%80%BC%E7%84%A1%E8%8F%9C%E5%96%AE%E6%97%A5%E6%9C%AC%E6%96%99%E7%90%86%EF%BC%8C1580%E5%85%8313%E9%81%93/",
+      "source_domain": "mag0221.com"
+    },
+    {
+      "candidate_id": "cand_ac95e31503728a4133e8d776",
+      "image_url": "https://albertblog.tw/wp-content/uploads/2025/09/20250903-rfl8w.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLHoJSdAM824dOuUCtxbqHlDqFfdNnMOUJQ5_pwc04eQ&s=10",
+      "source_page_url": "https://albertblog.tw/121786/sushi_kokoro",
+      "source_domain": "albertblog.tw"
+    },
+    {
+      "candidate_id": "cand_26ed481c33a48cad6c598b42",
+      "image_url": "https://pimg.1px.tw/blog/jennieschen/post/912212969654465710/912213086746852276.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKVThCm_GMaqnLmmkSHc1ryb3iarTDuez6FH0b1ZFMnQ&s=10",
+      "source_page_url": "https://jennieschen.pixnet.net/blog/posts/912212969654465710",
+      "source_domain": "jennieschen.pixnet.net"
+    },
+    {
+      "candidate_id": "cand_fd9b3b5fd27dc22c6a6d8cec",
+      "image_url": "https://images.deliveryhero.io/image/fd-hk/187523775.jpg?width=577.5&height=577.5",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJGQsyJUgSwRkIibyRVuh41DtOO0bMREQVKZuerD_Feg&s=10",
+      "source_page_url": "https://www.foodpanda.hk/zh/restaurant/rcx8/shiro",
+      "source_domain": "www.foodpanda.hk"
+    },
+    {
+      "candidate_id": "cand_cdf9b166085e5c9265ebfa73",
+      "image_url": "https://albertblog.tw/wp-content/uploads/2025/09/20250903-hf5sb.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNTtV_rxSnBAnyBSoTRbGH0kMX8oIZNQ4L-z0ZD8B08w&s=10",
+      "source_page_url": "https://albertblog.tw/121786/sushi_kokoro",
+      "source_domain": "albertblog.tw"
+    },
+    {
+      "candidate_id": "cand_127f9fe78fc23d4cda5001c5",
+      "image_url": "https://pimg.1px.tw/blog/jennieschen/post/912212969654465710/912213186999104057.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgsCAoKAJCY3svaqvaTMtsuLF8453GP7Qsjlx3gSEA5g&s=10",
+      "source_page_url": "https://jennieschen.pixnet.net/blog/posts/912212969654465710",
+      "source_domain": "jennieschen.pixnet.net"
+    },
+    {
+      "candidate_id": "cand_56ea58533ffb0f8ea3e89af5",
+      "image_url": "https://i.autoreserve.com/thumb/800x800/restaurant_image/image/058/951/153/58951153/4a6a75e9-f178-4147-b56a-c1139f7ec5ba.png?format=webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1_fWVitlgZUTfZRnOAQ761nsBTecXIVQS_igADL4p2A&s",
+      "source_page_url": "https://sushikoushiro.com/zh-tw",
+      "source_domain": "sushikoushiro.com"
+    },
+    {
+      "candidate_id": "cand_6477dbdf42341f5adb3b766a",
+      "image_url": "https://image.kkday.com/v2/image/get/c_fill%2Cq_55%2Ct_webp%2Cw_960/s1.kkday.com/product_182977/20240624050645_cR4oh/jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMjentQIhH0Itq7jwoPPr5hMxFvkNNlqfT5Bx5ce836Q&s",
+      "source_page_url": "https://www.kkday.com/zh-hk/product/182977?srsltid=AfmBOoorSnjyr_ImZBTtdo3CQ3Um7hZ3TIAF1ZHiwfv45Ie6BsyqJyOS",
+      "source_domain": "www.kkday.com"
+    },
+    {
+      "candidate_id": "cand_fc9eb423543fea0a5f1615c1",
+      "image_url": "https://storage.ctinews.com/compression/files/default/cut-1753455794-u9XcYy9.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzpaZpE4S_r-9GNPW1SDkzeiZv2vhw3zQMT2sIDqIsrA&s=10",
+      "source_page_url": "https://ctinews.com/news/items/GVxoylVpW8",
+      "source_domain": "ctinews.com"
+    },
+    {
+      "candidate_id": "cand_5894d7c2fe9ff01ddccaad3c",
+      "image_url": "https://albertblog.tw/wp-content/uploads/2025/09/20250903-vhndt.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL2yoIGcnOFla5Deq5Mrd1t3lyT-EUiPiMjpIQB3g53g&s=10",
+      "source_page_url": "https://albertblog.tw/121786/sushi_kokoro",
+      "source_domain": "albertblog.tw"
+    },
+    {
+      "candidate_id": "cand_a3a193f575c15973a1eb54c6",
+      "image_url": "https://i.autoreserve.com/thumb/1200x1200/restaurant_image/image/049/054/821/49054821/8ecf7ee5-3d96-4c44-aa27-ed9273833420.png?format=webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkQ_pASEM2dGPnSyFTQfbiR_gftMFJhmkjxf-vPGEmRw&s",
+      "source_page_url": "https://sushikoushiro.com/zh-tw",
+      "source_domain": "sushikoushiro.com"
+    },
+    {
+      "candidate_id": "cand_86ace409436842ebed4dc8cb",
+      "image_url": "https://cdn.myfunnow.com/imgs/product/album%2FOKA_%E9%AE%A8%E9%8C%AC%E7%A3%A8__%E3%83%95%E3%82%9A%E3%83%A9%E3%83%B3_4_52cc8e.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXEPqjrWcZlR0nzfTDiaxuiZA06kkqM4C0n4PUUbk7ZA&s=10",
+      "source_page_url": "https://www.myfunnow.com/zh-tw/branches/3052774307058",
+      "source_domain": "www.myfunnow.com"
+    },
+    {
+      "candidate_id": "cand_75f84fcc33634ec3bf94eca3",
+      "image_url": "https://images.deliveryhero.io/image/fd-hk/products/187523766.jpg?width=577.5&height=577.5",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCy_ji1qnInOJILjuUYqOZhsBCDN_c6eALLchsSCb1_w&s=10",
+      "source_page_url": "https://www.foodpanda.hk/zh/restaurant/rcx8/shiro",
+      "source_domain": "www.foodpanda.hk"
+    },
+    {
+      "candidate_id": "cand_050a1c6ebaa0f3b43c502a2e",
+      "image_url": "https://i.autoreserve.com/thumb/1200x1200/restaurant_image/image/049/054/818/49054818/1d5698b1-cdf0-46c4-94b8-5cf5cfb8ff43.png?format=webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyfV4XGN8s2luYs1P5ncRRORJtv0jMQx8pyCsg9xrOtQ&s",
+      "source_page_url": "https://sushikoushiro.com/zh-tw",
+      "source_domain": "sushikoushiro.com"
+    },
+    {
+      "candidate_id": "cand_b8b4ab2f75881a6537832251",
+      "image_url": "https://www.esquirehk.com/var/site/storage/images/_aliases/img_804_w_only/lifestyle/tst-sushi-hakucho-21-fall-menu/node_289378/4702866-1-chi-HK/_1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8YUnV0_Wl-fUJW9hQCt-dJK7RUcKKhwBnZFA3Mf5i2Q&s=10",
+      "source_page_url": "https://www.esquirehk.com/lifestyle/tst-sushi-hakucho-21-fall-menu",
+      "source_domain": "www.esquirehk.com"
+    },
+    {
+      "candidate_id": "cand_de8e766499b7598c592a0fde",
+      "image_url": "https://media-01.cmosite.com/wp-content/uploads/sites/516/2023/11/08115832/i00674214.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPKiLSuyQed4YTQAdkbvmFXQ1Fzh5gULOIcFK07DHLDA&s=10",
+      "source_page_url": "https://toyamasushi-ginza.com/zh_tw/menu/",
+      "source_domain": "toyamasushi-ginza.com"
+    },
+    {
+      "candidate_id": "cand_307800df0a072c03e7129401",
+      "image_url": "https://pimg.1px.tw/blog/jennieschen/post/912212969654465710/912214387018839093.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZLvhvaTH_Y5VTAz9FNyccWyLickDkcLMjXS19LfIW5Q&s=10",
+      "source_page_url": "https://jennieschen.pixnet.net/blog/posts/912212969654465710",
+      "source_domain": "jennieschen.pixnet.net"
+    },
+    {
+      "candidate_id": "cand_8354d2539d55527174134364",
+      "image_url": "https://tblg.k-img.com/restaurant/images/Rvw/373151/640x640_rect_35791d8944ed22b88f2c38ccbb4ace29.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlHJdSgr0mWhkYr8IyAtA1CM8Et_C3UEzml5_XTZGLDw&s",
+      "source_page_url": "https://tabelog.com/tw/osaka/A2701/A270204/27132364/",
+      "source_domain": "tabelog.com"
+    },
+    {
+      "candidate_id": "cand_2421642560de135966938a39",
+      "image_url": "https://c-vod.orstatic.com/tos-sgcomm1-v-4a5b5a09e1a01d2e-sg/48ed6efdad4f4a0195de5a69d8b7e162~tplv-vod-noop.image",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS81OYu_9VyBE-NDB_0cuc7bc8XFUFzpPQbIYW28fy42w&s=10",
+      "source_page_url": "https://www.openrice.com/zh/hongkong/r-%E7%99%BD%E9%AE%A8-%E9%87%91%E9%90%98-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E5%A3%BD%E5%8F%B8-%E5%88%BA%E8%BA%AB-r736202",
+      "source_domain": "www.openrice.com"
+    },
+    {
+      "candidate_id": "cand_2ce85784c57b3bcca9f7da0e",
+      "image_url": "https://tblg.k-img.com/restaurant/images/Rvw/373151/640x640_rect_a048c5f6fbe943633bd629d216a7ca48.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPNCOKKj25nFeNXIvWH2fC-6fZMcG3elCZx0ZMfzhCKg&s",
+      "source_page_url": "https://tabelog.com/tw/osaka/A2701/A270204/27132364/",
+      "source_domain": "tabelog.com"
+    },
+    {
+      "candidate_id": "cand_7fed266cf4e198c6bf003905",
+      "image_url": "https://images.deliveryhero.io/image/fd-hk/products/187523776.jpg?width=577.5&height=577.5",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxchEqJc0HI9-wkyB4smYe5G-VegDmuUN9I3jbxpPhSw&s=10",
+      "source_page_url": "https://www.foodpanda.hk/zh/restaurant/rcx8/shiro",
+      "source_domain": "www.foodpanda.hk"
+    },
+    {
+      "candidate_id": "cand_5a9b11b7c0675c01498f2eed",
+      "image_url": "https://media-01.cmosite.com/wp-content/uploads/sites/516/2025/09/18180824/%E5%90%8D%E7%A7%B0%E6%9C%AA%E8%A8%AD%E5%AE%9A%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3-4.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5TjiDUz6lkOz1yO1OG00AacbCKdY4xzLyjN7ftE1cMg&s=10",
+      "source_page_url": "https://toyamasushi-ginza.com/zh_cn/",
+      "source_domain": "toyamasushi-ginza.com"
+    },
+    {
+      "candidate_id": "cand_4ec9a3ebbd2d436a9570d806",
+      "image_url": "https://cdn.myfunnow.com/imgs/product/album%2FOKA_%E9%AE%A8%E9%8C%AC%E7%A3%A8__%E3%83%95%E3%82%9A%E3%83%A9%E3%83%B3_3_b463c5.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6zopz6XBKxwCLnrxzzFl0yjKMAZ8WB2Hr7sgZCPGCMw&s=10",
+      "source_page_url": "https://www.myfunnow.com/zh-tw/branches/3052774307058",
+      "source_domain": "www.myfunnow.com"
+    },
+    {
+      "candidate_id": "cand_5497638f2ea253c44b5be87d",
+      "image_url": "https://i.autoreserve.com/thumb/1200x1200/restaurant_image/image/058/890/250/58890250/941c448c-bcbc-4063-a9e7-9ddff7b161fb.jpg?format=webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOsXFhLt4kT3U940GGRXAZwPl09Um68HbhYHmdHh4k2w&s",
+      "source_page_url": "https://sushikoushiro.com/zh-tw",
+      "source_domain": "sushikoushiro.com"
+    },
+    {
+      "candidate_id": "cand_375aff05b201290a166ae2f4",
+      "image_url": "https://mag0221.com/wp-content/uploads/2025/09/20250909-ig7wn.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSatnb6_8aen5bxfcLK2dHtsswv79IpE0weXmI6ZDEU6w&s=10",
+      "source_page_url": "https://mag0221.com/%E8%B3%9E%E9%AE%A8%E6%89%8B%E4%BD%9C%E6%96%99%E7%90%86%EF%BD%9C%E5%9F%BA%E9%9A%86%E9%AB%98cp%E5%80%BC%E7%84%A1%E8%8F%9C%E5%96%AE%E6%97%A5%E6%9C%AC%E6%96%99%E7%90%86%EF%BC%8C1580%E5%85%8313%E9%81%93/",
+      "source_domain": "mag0221.com"
+    },
+    {
+      "candidate_id": "cand_d3f196a37517684676e01b9a",
+      "image_url": "https://cdn.walkerland.com.tw/images/upload/poi/p107211/m66620/1a536c13a88153518492eeef5bd4f49b777fd4cf.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkHyQzOVrXyxiaJirqUIuDp0fJMGBQ5kugVhlcekFITA&s=10",
+      "source_page_url": "https://www.walkerland.com.tw/article/view/416809",
+      "source_domain": "www.walkerland.com.tw"
+    },
+    {
+      "candidate_id": "cand_96cf3ba138f0345f10fac899",
+      "image_url": "https://tblg.k-img.com/resize/640x360c/restaurant/images/Rvw/316896/1aec6898eca2e10308bc373c17ab27ba.jpg?token=a89c19e&api=v2",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMUTH1Lz1NwB2y9dlBHNtM3_0M5bBdVUSTtOZEPI3hCQ&s",
+      "source_page_url": "https://tabelog.com/tw/tokyo/A1316/A131602/13270319/",
+      "source_domain": "tabelog.com"
+    },
+    {
+      "candidate_id": "cand_cdf3fd075bc20e2fb4122149",
+      "image_url": "https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/04/a0004456/img/basic/a0004456_main.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG6N0T-k8YWuCi9u_vvWznYFhWDiVqu0e7lu3Q2MwrGA&s=10",
+      "source_page_url": "https://livejapan.com/zh-tw/in-tokyo/in-pref-tokyo/in-ginza/article-a0004456/",
+      "source_domain": "livejapan.com"
+    },
+    {
+      "candidate_id": "cand_dfff496604755bfad6382144",
+      "image_url": "https://images.ctee.com.tw/newsphoto/2026-01-28/1024/20260128701039.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHNDhmbjAcI65WoKblt3vltW8a8sxVQ0_7amuP1fLyYQ&s=10",
+      "source_page_url": "https://www.ctee.com.tw/news/20260128701035-430901",
+      "source_domain": "www.ctee.com.tw"
+    },
+    {
+      "candidate_id": "cand_80b16b06e1bb3fcc222d32c0",
+      "image_url": "https://sushi-harasho.com/wp-content/uploads/2019/10/slider_sp5.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0z1wnuX5wfhKs4qsCO1i_YI69VlW01VfbBqB8Wd2uZg&s=10",
+      "source_page_url": "https://sushi-harasho.com/zh-hant/",
+      "source_domain": "sushi-harasho.com"
+    },
+    {
+      "candidate_id": "cand_fe2b2e8b67f452a5b2b652f2",
+      "image_url": "https://static.japan-food.guide/uploads/restaurant_image/file/000/030/994/a4f2206112bbaa0961a15e383a3c3c45110eb21a38c3e2179b4afd2e7d58a7f9/eye_catch_c13f2dee-9f5b-4945-92c4-26bd9dd11fbf.jpg?1774506420",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKLBmV-ivaIatHQm_SvjVcfi43aZRu_m0UNdUaYYJdaQ&s",
+      "source_page_url": "https://japan-food.guide/zh-TW/restaurants/1093",
+      "source_domain": "japan-food.guide"
+    },
+    {
+      "candidate_id": "cand_26cb81dd33abb964ea582a3e",
+      "image_url": "https://www.sushiya-yohee.com/images/photo/pho_cuisine_slide_5.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUuwJFYDzLIanfSHSQczdZ7apPtPv_0vJ1ASAW9O8wdQ&s=10",
+      "source_page_url": "https://www.sushiya-yohee.com/cn/",
+      "source_domain": "www.sushiya-yohee.com"
+    },
+    {
+      "candidate_id": "cand_c760151093bdb79929ae19d7",
+      "image_url": "https://cdn.myfunnow.com/imgs/product/cover%2FOKA_%E9%AE%A8%E9%8C%AC%E7%A3%A8__cover1_a95263.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ip9koS-Gv2Cu3ayaj6fcJxES_MATD9WhTDnTAHIGQA&s=10",
+      "source_page_url": "https://www.myfunnow.com/zh-tw/branches/3052774307058",
+      "source_domain": "www.myfunnow.com"
+    },
+    {
+      "candidate_id": "cand_1667646f66b628c99f640ead",
+      "image_url": "https://cdn.walkerland.com.tw/images/upload/poi/p150219/m66058/ce8d9b2eb4d6a72e5a63980dfecabcfbbf066ab1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAAImNMbLIsorxOiiBwanodLdtySdbPY6doX80lxc3CQ&s=10",
+      "source_page_url": "https://www.walkerland.com.tw/article/view/381584",
+      "source_domain": "www.walkerland.com.tw"
+    },
+    {
+      "candidate_id": "cand_1e60c58e427f33cc69cd858e",
+      "image_url": "https://sushi-harasho.com/wp-content/uploads/2019/10/slider_sp2.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbBGY791WQgBkIyLGq3ABsqKwIF2knJwEnLMvzJ04ioA&s=10",
+      "source_page_url": "https://sushi-harasho.com/zh-hant/",
+      "source_domain": "sushi-harasho.com"
+    },
+    {
+      "candidate_id": "cand_06d331a34b0df517e4b91780",
+      "image_url": "https://tblg.k-img.com/resize/640x360c/restaurant/images/Rvw/316896/df3669f4d5843c5fc59e2153706c62b7.jpg?token=14f28e2&api=v2",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWnbMmd3yznwUoeGneiBtWCV900mAaBgIVAD0BmEvquw&s=10",
+      "source_page_url": "https://tabelog.com/tw/tokyo/A1316/A131602/13270319/",
+      "source_domain": "tabelog.com"
+    },
+    {
+      "candidate_id": "cand_fd4d32dfa8c0dd4dbac9f5fc",
+      "image_url": "https://sushi-harasho.com/wp-content/uploads/2019/10/topj-cuisine-1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrsdOhaSVMwY1lEQZbNwBjgdycT1m3Bf_mC4vkVKUslw&s=10",
+      "source_page_url": "https://sushi-harasho.com/zh-hant/",
+      "source_domain": "sushi-harasho.com"
+    },
+    {
+      "candidate_id": "cand_65118a4693df69d03707baee",
+      "image_url": "https://media-01.cmosite.com/wp-content/uploads/sites/516/2026/04/20193707/media20260420193706493.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoDWV-3yuxYyRQl0wP1bCC9E2nXtCVjeHawa1x57fpfA&s=10",
+      "source_page_url": "https://toyamasushi-ginza.com/zh_cn/blog/post-0/",
+      "source_domain": "toyamasushi-ginza.com"
+    },
+    {
+      "candidate_id": "cand_f4cc097afa4bac8ec762113b",
+      "image_url": "https://i.autoreserve.com/thumb/1200x1200/restaurant_image/image/054/013/549/54013549/a1392c7c-cda0-46af-b652-8798d8567951(2).jpg?format=webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvlGpGmGLka_QUyzmKRZJTFDpMJCQgrv-kg0aV8U-Rng&s",
+      "source_page_url": "https://sushirakumi.com/zh-tw",
+      "source_domain": "sushirakumi.com"
+    },
+    {
+      "candidate_id": "cand_829a2172fc6a5689039f422d",
+      "image_url": "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_640,h_640/w_39,x_7,y_7,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/ijidark5qlrdrixznawl/%E5%93%81%E5%B7%9D%E5%A3%BD%E5%8F%B8%E9%AE%A8%E3%81%BE%E3%81%A4%E3%82%82%E3%81%A8(%E9%AE%A8%E6%9D%BE%E6%9C%AC)%E6%9D%B1%E4%BA%AC.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7kimltyAhv5c0S1A43fHgIlyb8lOWaE5kmrzYwrq6Ug&s",
+      "source_page_url": "https://www.klook.com/zh-HK/activity/163612-shinagawa-sushi-sushimatsumoto-tokyo/",
+      "source_domain": "www.klook.com"
+    },
+    {
+      "candidate_id": "cand_fe688266c4de74218c27e63b",
+      "image_url": "https://rimage.gnst.jp/livejapan.com/public/article/detail/a/10/00/a1000002/img/zh-cn/a1000002_parts_5b1886bdd0de0.jpg?20210222173132&q=80&rw=686&rh=490",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHyv61HmlKAwa-Q4ZU-kbCLiCmpbLYD3vsilO3k5tglg&s=10",
+      "source_page_url": "https://livejapan.com/zh-cn/in-hokkaido/in-pref-hokkaido/in-sapporo_chitose/article-a1000002/",
+      "source_domain": "livejapan.com"
+    },
+    {
+      "candidate_id": "cand_6f81160292e89aa801dd7ffd",
+      "image_url": "https://res.klook.com/images/w_1200,h_630,c_fill,q_65/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/luqoqyfgnfrlgxaawixs/%E5%93%81%E5%B7%9D%E5%A3%BD%E5%8F%B8%E9%AE%A8%E6%9D%BE%E6%9C%AC%E6%9D%B1%E4%BA%AC-Klook.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScn5mQqCziTSAnxT-VfXDbNrswFijrqUBiLzJDFWcc4A&s",
+      "source_page_url": "https://www.klook.com/zh-HK/activity/163612-shinagawa-sushi-sushimatsumoto-tokyo/",
+      "source_domain": "www.klook.com"
+    },
+    {
+      "candidate_id": "cand_c06c3e5ed430252495a729e3",
+      "image_url": "http://image.digitalarchives.tw/ImageCache/00/61/90/0d.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt02Z2-QcOxxupPThVTihso-tcqxKxp6VXhJWVaDbulA&s=10",
+      "source_page_url": "https://catalog.digitalarchives.tw/item/00/31/00/35.html",
+      "source_domain": "catalog.digitalarchives.tw"
+    },
+    {
+      "candidate_id": "cand_ab850953773010bb17746af7",
+      "image_url": "https://saliday.tw/wp-content/uploads/2024/01/20240109144432_0.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCZUBYeTrm7sR1ekox7mNE6NvoX0y96XtCETWovxrT2A&s=10",
+      "source_page_url": "https://travel.yam.com/article/133883",
+      "source_domain": "travel.yam.com"
+    },
+    {
+      "candidate_id": "cand_b3dded580281220838651746",
+      "image_url": "https://cdn.myfunnow.com/imgs/branch/cover%2FOKA_%E9%AE%A8%E9%8C%AC%E7%A3%A8__cover2_5f3563.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOUTbN8N2umesQyI8-gmTz1FUu0rzv8dRmQg8XkwFbiQ&s=10",
+      "source_page_url": "https://www.myfunnow.com/zh-tw/branches/3052774307058",
+      "source_domain": "www.myfunnow.com"
+    },
+    {
+      "candidate_id": "cand_07327b5d031ca45dd91f2135",
+      "image_url": "https://cdn.myfunnow.com/imgs/product/cover%2FOKA_%E9%AE%A8%E3%81%A4%E3%82%80%E3%81%8D%E3%82%99_cover3_609250.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4OcuicVXFwBMtB5ffh7tdfTaPl4srsdGCG0eCSDZe9Q&s=10",
+      "source_page_url": "https://www.myfunnow.com/zh-tw/branches/3375434255322",
+      "source_domain": "www.myfunnow.com"
+    },
+    {
+      "candidate_id": "cand_d4f42f3232200c9d955d4c89",
+      "image_url": "https://www.sushiya-yohee.com/images/photo/pho_cuisine_slide_1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtip2JTZrVmdR9VwZF6_wXsvLVORvu_qDZgctYCFkyyg&s=10",
+      "source_page_url": "https://www.sushiya-yohee.com/cn/",
+      "source_domain": "www.sushiya-yohee.com"
+    },
+    {
+      "candidate_id": "cand_2d29a9f1a3a6b645274743cf",
+      "image_url": "https://images.deliveryhero.io/image/fd-hk/products/187523772.jpg?width=577.5&height=577.5",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAdFFEaOw7KeUluL5WwBnX87ijfbnPz629f4iI3Hg2AA&s=10",
+      "source_page_url": "https://www.foodpanda.hk/zh/restaurant/rcx8/shiro",
+      "source_domain": "www.foodpanda.hk"
+    },
+    {
+      "candidate_id": "cand_2eadf2e2af1125a041ec1846",
+      "image_url": "https://pic.upmedia.mg/upfile/img/2026/0129/202601290638218840.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAJ8HflPec-oEiYcvEC715XvpEgagYQSJjx22ls2PO9g&s=10",
+      "source_page_url": "https://www.upmedia.mg/tw/lifestyle/food/250738",
+      "source_domain": "www.upmedia.mg"
+    },
+    {
+      "candidate_id": "cand_934b655e1e1b1cacb3531aec",
+      "image_url": "https://res.klook.com/image/upload/w_750,h_469,c_fill,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/duzk5cgjmzlvt5rsnd3m.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8deRsOe45SSx3zsOHyHqgVZsyCeB52cwz6bthD_zkdA&s",
+      "source_page_url": "https://www.klook.com/zh-HK/activity/163612-shinagawa-sushi-sushimatsumoto-tokyo/",
+      "source_domain": "www.klook.com"
+    },
+    {
+      "candidate_id": "cand_18fba07eab29a9f85ea95228",
+      "image_url": "https://images.deliveryhero.io/image/fd-hk/products/187523705.jpg?width=393.75&height=393.75",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrzcTM7zFO9kKpG0sTt-bIVTHHWLRCDI9KzVet7FxPAw&s=10",
+      "source_page_url": "https://www.foodpanda.hk/zh/restaurant/rcx8/shiro",
+      "source_domain": "www.foodpanda.hk"
+    },
+    {
+      "candidate_id": "cand_affc1a005f7b2c83bef25b59",
+      "image_url": "https://rimage.gnst.jp/livejapan.com/public/article/detail/a/10/00/a1000002/img/zh-cn/a1000002_parts_5b1887e52e711.jpg?20210222173132&q=80&rw=686&rh=490",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtyvnZkMsm_zXLXjPAlyziuuy-OxidX8nsAlPnzt7wuA&s=10",
+      "source_page_url": "https://livejapan.com/zh-cn/in-hokkaido/in-pref-hokkaido/in-sapporo_chitose/article-a1000002/",
+      "source_domain": "livejapan.com"
+    },
+    {
+      "candidate_id": "cand_f07b1ed5a442747f1bcc0be5",
+      "image_url": "https://tblg.k-img.com/resize/640x360c/restaurant/images/Rvw/353074/b454fca967a42cf231323140fc6606a3.jpg?token=5374aa1&api=v2",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKKPXgIu3KItFxVEEEaBOQJx0cMPtwerkNJCwXDW4Cnw&s",
+      "source_page_url": "https://tabelog.com/tw/fukuoka/A4001/A400104/40066178/",
+      "source_domain": "tabelog.com"
+    },
+    {
+      "candidate_id": "cand_3bb45d13ebd07eaa472eb14b",
+      "image_url": "https://ak-d.tripcdn.com/images/0106212000c2l72883845_D_750_520_Q90.jpg?proc=autoorient",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBqmEOTMRXFkQiQqf7Ta2IVpcbPq4VJYbiQyDGuUv1JQ&s",
+      "source_page_url": "https://hk.trip.com/restaurant/japan/tokyo/detail/sushikuni-28172866/",
+      "source_domain": "hk.trip.com"
+    },
+    {
+      "candidate_id": "cand_6b5a59e1d9ad0b72ad12d191",
+      "image_url": "https://linnote.com/wp-content/uploads/2021/11/sushiplus-cover.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCRbJxhuGVm9R7HIIi4ZXpY3o76kbSDkQNXcdVCVVklw&s=10",
+      "source_page_url": "https://linnote.com/toufen-sushiplus/",
+      "source_domain": "linnote.com"
+    },
+    {
+      "candidate_id": "cand_bc66ae78b8c8e50106593749",
+      "image_url": "https://images.ctee.com.tw/newsphoto/2026-02-28/1024/ALBAC2_PictureItem_Clipping_01_7.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf91IoPpVD-wdIrYEJUSMCA9da8P1Io-IU3C2gvLCBog&s=10",
+      "source_page_url": "https://www.ctee.com.tw/news/20260228700123-439902",
+      "source_domain": "www.ctee.com.tw"
+    },
+    {
+      "candidate_id": "cand_e094ed970a8c8eefcab7b0b1",
+      "image_url": "https://cdn.walkerland.com.tw/images/upload/poi/p107211/m66620/724a9dde2adb85506d46b5bdeae79961a3442517.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2uXeNmz76mju7sRB21BgD447-jdymZJB6hpJ7BFp8iw&s=10",
+      "source_page_url": "https://www.walkerland.com.tw/article/view/416809",
+      "source_domain": "www.walkerland.com.tw"
+    },
+    {
+      "candidate_id": "cand_bdef8423c774683f71992062",
+      "image_url": "https://i.redd.it/emsono9sqvla1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQWSAg_Qc_mu1lrEyS2TOIzAMEegavsu7HX-dnA4kOig&s=10",
+      "source_page_url": "https://www.reddit.com/r/sushi/comments/11irokp/is_this_fresh_sashimi_what_are_all_of_the_white/?tl=zh-hant",
+      "source_domain": "www.reddit.com"
+    },
+    {
+      "candidate_id": "cand_fc2d53ebbc1a23a1f42bb573",
+      "image_url": "https://storage.ctinews.com/compression/files/default/cut-1753455849-7hap6DM.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHjh0mQ6e7_XwtQ5LFVxBZyGbKVWKnMoS0y4p6Mbb6BQ&s=10",
+      "source_page_url": "https://ctinews.com/news/items/GVxoylVpW8",
+      "source_domain": "ctinews.com"
+    },
+    {
+      "candidate_id": "cand_7a82bd2f290e998e6ba8d204",
+      "image_url": "https://lh3.googleusercontent.com/YO0h2zNg1PDZRhayFFvWHf1PbohUFE-NLf2wMFwWMaYT3U6pp5hCG-Tnx9O4buXxlRCZ8cDnP4TMnVDZ_jw9KIi5zpmNCA=s600",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWpVHOku8DTouEWL4pDjfGpYKESzd7ac38z8rPwMUrkw&s=10",
+      "source_page_url": "https://ifoodie.tw/restaurant/5eda55042756dd28bbf071de-%E8%B3%9E%E9%AE%A8%E6%89%8B%E4%BD%9C%E6%96%99%E7%90%86%E5%BA%97",
+      "source_domain": "ifoodie.tw"
+    }
+  ]
+}

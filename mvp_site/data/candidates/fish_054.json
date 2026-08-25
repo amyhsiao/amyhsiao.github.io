@@ -1,0 +1,612 @@
+{
+  "schema_version": 1,
+  "fish_id": "fish_054",
+  "canonical_name": "青衣",
+  "aliases": [],
+  "pool_updated_at": "2026-08-25T05:53:51.727418+00:00",
+  "candidate_count": 86,
+  "candidates": [
+    {
+      "candidate_id": "cand_ac19cf81e8459a64e854aadb",
+      "image_url": "https://bkimg.cdn.bcebos.com/pic/f703738da9773912b31bb38d14439118367adbb4449e",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt1ovcnnmbrrKfzPhySqQ2Pcloxo31Rcxfl5vYyZA36A&s",
+      "source_page_url": "https://baike.baidu.com/item/%E9%9D%92%E8%A1%A3/53451",
+      "source_domain": "baike.baidu.com"
+    },
+    {
+      "candidate_id": "cand_ef6141bad872d92e7f19c6d3",
+      "image_url": "https://storage.moegirl.org.cn/moegirl/commons/1/1e/%E9%9D%92%E8%A1%A3.png!/fw/1200/watermark/url/L21vZWdpcmwvd2F0ZXJtYXJrLnBuZw==/align/southeast/margin/10x10/opacity/50?v=20240813053608",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk27s4oxZUB6U7PRk2TgRX0oOvhkMUfrEFm3fCu6j1zA&s",
+      "source_page_url": "https://zh.moegirl.org.cn/%E9%9D%92%E8%A1%A3",
+      "source_domain": "zh.moegirl.org.cn"
+    },
+    {
+      "candidate_id": "cand_44a7e75ad894dcad66beec9d",
+      "image_url": "https://www.discoverhongkong.cn/content/dam/dhk/data/poi/media/t/tsing-yi-nature-trails/tsing-yi-nature-trails-01.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR87lBt3-ka9XUhr3F7wVaEQS1xylW_iqqWwpZ6wB4F3w&s=10",
+      "source_page_url": "https://www.discoverhongkong.cn/place-to-go/travel.guide-tsing-yi-nature-trails.html",
+      "source_domain": "www.discoverhongkong.cn"
+    },
+    {
+      "candidate_id": "cand_82675d50c72e3939b29afe51",
+      "image_url": "https://p3-sdbk2-media.byteimg.com/tos-cn-i-xv4ileqgde/66dd750afe8f401d980950c7ed3ad8b3~tplv-xv4ileqgde-resize-w:750.image",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-8TXu-Nm7YmFq5uKwvRvbt2xIe9w3OV2BNpTyUebtPA&s=10",
+      "source_page_url": "https://m.baike.com/wikiid/350040603735487656",
+      "source_domain": "m.baike.com"
+    },
+    {
+      "candidate_id": "cand_0e3e2662e1d7088443fd942f",
+      "image_url": "https://inews.gtimg.com/news_bt/O3oOGYEL5iTfkgrP0Shjh0CU-CnH96EUDGo1uaLV_YEvcAA/641",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSosKwd_YS-tNeJ5p0e_YKfkZ7j3eRh-uCFrb70CWcCOg&s=10",
+      "source_page_url": "https://news.qq.com/rain/a/20250305A06E8300",
+      "source_domain": "news.qq.com"
+    },
+    {
+      "candidate_id": "cand_557a2814f5e550dd0b4d7794",
+      "image_url": "https://i.ytimg.com/vi/a-KwM_l6WuA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDElG4NTPZYHowRjlkjjUPOCH83NQ",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe6YUM1aGF5g8asl-OAolCqzzCq3g-xMCkjRqyw0pHpA&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=a-KwM_l6WuA",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_97639ea8d41088137c1d1df3",
+      "image_url": "https://i.scdn.co/image/ab67616d00001e02fe3acd6e482a2ae453feb055",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnhdelClBpLvC5CimeVggK5AlSRrgKlQnJuUKTuY8TBw&s=10",
+      "source_page_url": "https://open.spotify.com/track/6OTfNr8FpbMrHJMQbQ1dUf",
+      "source_domain": "open.spotify.com"
+    },
+    {
+      "candidate_id": "cand_b5282b63e79eff4e3b931ff7",
+      "image_url": "https://www.hkdance.com/sites/default/files/2022-07/%E6%9C%AA%E5%91%BD%E5%90%8D%E8%A8%AD%E8%A8%88%20%2822%29.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_dbCLlX2VnaJLhOBR_jqttLtzXWH8CQ67pswHqQ-_1g&s=10",
+      "source_page_url": "https://www.hkdance.com/zh-hans/performance/%E3%80%8A%E9%9D%92%E8%A1%A3%E3%80%8B",
+      "source_domain": "www.hkdance.com"
+    },
+    {
+      "candidate_id": "cand_67fd95f208821571b6257edc",
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/c7/e8/5f/tsing-yi.jpg?w=900&h=500&s=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPPwOdYX_62bgjyPtAmRjq7XTOkSbUErY103vqoaPJuQ&s=10",
+      "source_page_url": "https://www.tripadvisor.com.tw/Attraction_Review-g294217-d2210623-Reviews-Tsing_Yi-Hong_Kong.html",
+      "source_domain": "www.tripadvisor.com.tw"
+    },
+    {
+      "candidate_id": "cand_0efdf9f166e054f2c7fe576f",
+      "image_url": "https://fastcdn.hoyoverse.com/content-v2/nap/125174/69f4a6ca4e79531ba8f94691652d4ef8_8036724047017456638.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnNuQGIjO4pI4EhyQz4WkLEOqLlv46WLIs6Fe2xh-Ubw&s=10",
+      "source_page_url": "https://zenless.hoyoverse.com/zh-cn/news/125174",
+      "source_domain": "zenless.hoyoverse.com"
+    },
+    {
+      "candidate_id": "cand_ed538fdfcab957cf5c0d8eac",
+      "image_url": "https://www.chinanews.com/cr/2014/0409/2117232399.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYr5GVWnwjZKJ2cgIuqwce1Tn2qvLNWjOT5yP2LVYF2Q&s=10",
+      "source_page_url": "https://www.chinanews.com/edu/2014/04-09/6044732.shtml",
+      "source_domain": "www.chinanews.com"
+    },
+    {
+      "candidate_id": "cand_99c2f55e4458bf0dacc76d82",
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/d0/7b/4b/photo2jpg.jpg?w=900&h=500&s=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6NSjNt6TVg8sx6AAMFsRDF52VTNZAemWY8MaXZ54j7Q&s=10",
+      "source_page_url": "https://cn.tripadvisor.com/Attraction_Review-g294217-d14981944-Reviews-Tsing_Yi_Northeast_Park-Hong_Kong.html",
+      "source_domain": "cn.tripadvisor.com"
+    },
+    {
+      "candidate_id": "cand_c55708575b80124402e5b71a",
+      "image_url": "https://www.discoverhongkong.cn/content/dam/dhk/data/poi/media/t/tsing-yi-promenade/tsing-yi-promenade-01.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbA62kLrZbeQ8D_f1wQ1wVAk_X5K4LI_2IwOK3U_OF0A&s=10",
+      "source_page_url": "https://www.discoverhongkong.cn/place-to-go/travel.guide-tsing-yi-promenade.html",
+      "source_domain": "www.discoverhongkong.cn"
+    },
+    {
+      "candidate_id": "cand_14326a44d2f72fc6ae7e8acc",
+      "image_url": "https://bkimg.cdn.bcebos.com/pic/d1a20cf431adcbef3a775512a5af2edda3cc9f66",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaeSarpLCBye9EQFVKAMXsoupJ3rt3UnRFnBULzCm1Zw&s=10",
+      "source_page_url": "https://wapbaike.baidu.com/tashuo/browse/content?id=8a0f5539f90407e5f74f87c8",
+      "source_domain": "wapbaike.baidu.com"
+    },
+    {
+      "candidate_id": "cand_51735d9018aced86c680fa80",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/HK_Tsing_Yi_Estate.jpg/250px-HK_Tsing_Yi_Estate.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS93HZnhSkykcIas3bOp7um8KKSBZtJmUakhCp3fFZD8A&s=10",
+      "source_page_url": "https://zh-yue.wikipedia.org/wiki/%E9%9D%92%E8%A1%A3%E5%B8%82",
+      "source_domain": "zh-yue.wikipedia.org"
+    },
+    {
+      "candidate_id": "cand_c8df3913e10b864d6da60dd3",
+      "image_url": "https://res-cms.midland.com.hk/property-news/wp-content/uploads/2019/11/iStock-499872091.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk2wX37OiXir--wYWIFquGAEfHWwW06fjN27TLT80KZA&s=10",
+      "source_page_url": "https://www.midland.com.hk/zh-hk/property-news/%E7%90%86%E8%B2%A1%E5%AF%A6%E6%88%B0/%E6%B8%AF%E6%BC%82%E5%B0%88%E5%8D%80/%E5%83%852%E7%AB%99%E5%B0%B1%E8%83%BD%E7%9B%B4%E9%81%94%E4%B8%AD%E7%92%B0%E7%9A%84%E6%B5%B7%E5%B3%B6%E7%94%9F%E6%B4%BB-%E4%BD%A0%E4%B8%8D%E6%83%B3%E9%AB%94%E9%A9%97%E4%B8%80%E4%B8%8B%E5%97%8E%EF%BC%9F/",
+      "source_domain": "www.midland.com.hk"
+    },
+    {
+      "candidate_id": "cand_d0de14c360940e2f32daf02f",
+      "image_url": "https://i.scdn.co/image/ab67616d00001e0216771ac6e20836f9efac7963",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_2aAGVmTFNJ2YWvxR3bWNjOnbdNt4_8UzC9bqq_Ed1w&s",
+      "source_page_url": "https://open.spotify.com/album/5Au7cVeruiYWvOZtkAgXMY",
+      "source_domain": "open.spotify.com"
+    },
+    {
+      "candidate_id": "cand_a1ad287978a861f536d9c244",
+      "image_url": "https://img.mp.sohu.com/q_70,c_zoom,w_640/upload/20170518/8bd4470babae4b808055d2521785a259_th.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8BULOaQQDk5tYLfrrxIwPZQ4XI7EwMsod0L9dH7raJQ&s=10",
+      "source_page_url": "https://www.sohu.com/a/141383907_687846",
+      "source_domain": "www.sohu.com"
+    },
+    {
+      "candidate_id": "cand_f89cb510e7a3b394a99ed40f",
+      "image_url": "https://www.discoverhongkong.cn/content/dam/dhk/data/poi/media/t/tsing-yi-nature-trails/route/stop-1/nature-trails-01.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR76aWJ4lBCwi1YWgQNx0Y0yQQKj0gRPnJGOaK8Kinv3Q&s=10",
+      "source_page_url": "https://www.discoverhongkong.cn/place-to-go/travel.guide-tsing-yi-nature-trails.html",
+      "source_domain": "www.discoverhongkong.cn"
+    },
+    {
+      "candidate_id": "cand_122e1e0ebc5739f4a73ede45",
+      "image_url": "https://images.trvl-media.com/place/178921/3891fbd0-4c35-4163-a04e-cbad7806fde1.jpg?impolicy=fcrop&w=450&h=280&q=medium",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKNRRyNa4c3u1-PLaoAGmR6ZNhooAJPDAEa0E2XWcjnQ&s",
+      "source_page_url": "https://www.expedia.com/cn/Tsing-Yi-Hotels.d178921.Travel-Guide-Hotels",
+      "source_domain": "www.expedia.com"
+    },
+    {
+      "candidate_id": "cand_40a8f79b07ebf13c62430e2b",
+      "image_url": "https://pic.huitu.com/res/20260423/3183222_20260423110445073204_1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ0VFadxGsMP8Zg-4yNZvfgDXbbA3UiSnhD02OmomEdQ&s",
+      "source_page_url": "https://www.huitu.com/design/show/20260423/110445073204.html",
+      "source_domain": "www.huitu.com"
+    },
+    {
+      "candidate_id": "cand_ef1dab16dde11d2e0a566fcb",
+      "image_url": "https://hk365day.com/mtr/images/TCLAIE/TSYXI.JPG",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuNLv8Rm9EJRyqX4CdLWzPB9VwxxAWuVEn8SxdpwlfZw&s=10",
+      "source_page_url": "https://hk365day.com/mtr/Railway/line_S/TCL_AEL/TSY.html",
+      "source_domain": "hk365day.com"
+    },
+    {
+      "candidate_id": "cand_2e37de0d8818d180a322402c",
+      "image_url": "https://i.ytimg.com/vi/vH80zCXsi0M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCABNnucDHzHI3j5DND8RpkTAUG6A",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR86AXJQxOPUXIW3ljRhuj2moTyF2YyXcCtC0pC8lLn9w&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=vH80zCXsi0M",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_9b381c0f32b750d463366afb",
+      "image_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/08/12/f56397426e28c52fef40c688ae4d1886_5355906968251820932.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiAuaauV48u77Ej5uKlTJulvgfjOgN9_h4rAsMHWme1Q&s=10",
+      "source_page_url": "https://wiki.bittopup.com/zh-CN/zzz/agents/350",
+      "source_domain": "wiki.bittopup.com"
+    },
+    {
+      "candidate_id": "cand_5c72c98b0669444e6ca522a8",
+      "image_url": "https://q1.itc.cn/q_70/images03/20241014/ba870c4a596448f8a1392c676d5caf86.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX1qsKtqnEwUMwWcBg7KaX5uchLKJHjpp3Jg3zZKyAkg&s=10",
+      "source_page_url": "https://www.sohu.com/a/816250604_121124707",
+      "source_domain": "www.sohu.com"
+    },
+    {
+      "candidate_id": "cand_08ca585863c50799222c0989",
+      "image_url": "https://preview.qiantucdn.com/58pic/71/19/81/47G58PICezyvhVMkQAGqY_origin_PIC2018.jpg!qt_w320_webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ68XYpjVEeOB0xraW3EIOzD9BOnYIkWSxw0F_t1UtmkA&s",
+      "source_page_url": "https://www.58pic.com/tupian-tupian/28773.html",
+      "source_domain": "www.58pic.com"
+    },
+    {
+      "candidate_id": "cand_53a06f7851b051a4c61050eb",
+      "image_url": "https://gia.info.gov.hk/general/202305/12/P2023051100477_photo_1241003.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfkc-B7MuDl9AmdP7Uoshiy4Wpkhwfe3e9Z5yQ-OsbCQ&s=10",
+      "source_page_url": "https://www.info.gov.hk/gia/general/202305/12/P2023051100477.htm",
+      "source_domain": "www.info.gov.hk"
+    },
+    {
+      "candidate_id": "cand_6f68e0328eee2d77b71bbcd1",
+      "image_url": "http://www.xinhuanet.com/ent/20231113/92bdd9e3676849e1b625bab1c75d0a87/2023111392bdd9e3676849e1b625bab1c75d0a87_202311130beafc4db8744d5aa9786a6dd10f5133.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPn0G8AAR76iFbaeDVphFtj7mXjR7csJj0Qz2n3fvI8Q&s=10",
+      "source_page_url": "http://www.xinhuanet.com/ent/20231113/92bdd9e3676849e1b625bab1c75d0a87/c.html",
+      "source_domain": "www.xinhuanet.com"
+    },
+    {
+      "candidate_id": "cand_1fbf893f4700adbcecc3b5ae",
+      "image_url": "https://cdn-images.dzcdn.net/images/cover/2d3ee1cf08aa749366f00419178fa66e/0x1900-000000-80-0-0.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBywlkY8qEBN33bxbT1kDsJ_Eq-7sItooYtZ76dkB29g&s",
+      "source_page_url": "https://www.deezer.com/ar/album/466264105",
+      "source_domain": "www.deezer.com"
+    },
+    {
+      "candidate_id": "cand_ac92644590865244ab910051",
+      "image_url": "https://static.wikia.nocookie.net/hongkongbus/images/a/ad/Tsing_Yi_20221207.jpeg/revision/latest?cb=20221207032330&path-prefix=zh",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUzxd0rlZTl50Gp7sbQlzgLei27yK-xND60PaJhmVHZw&s=10",
+      "source_page_url": "https://hkbus.fandom.com/wiki/%E9%9D%92%E8%A1%A3",
+      "source_domain": "hkbus.fandom.com"
+    },
+    {
+      "candidate_id": "cand_adbbd2638adf7bec1c848c56",
+      "image_url": "https://i.scdn.co/image/ab67616d00001e02562dc96ec5de2c9493f6beda",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVKW9HFtNQZpsDayOff5GCuzXj7dzbC8nP3NlC-BAvtw&s",
+      "source_page_url": "https://open.spotify.com/album/0ezBE3ikyLlcqHia0Jcwad",
+      "source_domain": "open.spotify.com"
+    },
+    {
+      "candidate_id": "cand_d5d4c9bc91e3c560b2fc3f0c",
+      "image_url": "http://www.chinawriter.com.cn/NMediaFile/2017/0307/MAIN201703070736000361706214614.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbwCWZmKhTetG2n4qw_9uNF7D3hKT-2DZRIBxMzBfMWg&s=10",
+      "source_page_url": "http://www.chinawriter.com.cn/n1/2017/0307/c404004-29127727.html",
+      "source_domain": "www.chinawriter.com.cn"
+    },
+    {
+      "candidate_id": "cand_d7d5cc346dd1fe9967f26474",
+      "image_url": "http://images.china.cn/attachement/jpg/site1000/20170222/b8aeed99057d1a174cab16.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVKH8EfYG_h_VWU9tmtlhIqU3mVHUaCkBNIoZ1e426HQ&s",
+      "source_page_url": "http://photo.china.com.cn/news/2017-02/22/content_40337186_3.htm",
+      "source_domain": "photo.china.com.cn"
+    },
+    {
+      "candidate_id": "cand_4d63815e0796c2abc337209b",
+      "image_url": "https://images.trvl-media.com/place/178921/3891fbd0-4c35-4163-a04e-cbad7806fde1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFsa8M9f0Dq7cjl8koZchYHUdFHgL9mfgwrzqtSnY6&s",
+      "source_page_url": "https://www.expedia.com.hk/cn/Things-To-Do-In-Tsing-Yi.d178921.Travel-Guide-Activities",
+      "source_domain": "www.expedia.com.hk"
+    },
+    {
+      "candidate_id": "cand_8771d3aa190475aabde14b88",
+      "image_url": "https://file3.qdnd.vn/data/images/15/2026/08/09/upload_2069/7%201.png?dpi=150&quality=100&w=800",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9VrR2JYH_9rObHeKL3xCN6Yh5-mjzdvOWW1XKJ6KOw&s",
+      "source_page_url": "https://cn.qdnd.vn/cid-6149/7237/-636654",
+      "source_domain": "cn.qdnd.vn"
+    },
+    {
+      "candidate_id": "cand_64506a2ea95752bae41b5900",
+      "image_url": "https://img3.chinadaily.com.cn/images/202101/12/5ffd511ba3101e7c9207e3f2.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuc6K27YvI9piD8et1hnzKvxE1tyn7bnSP7MXDQDgQwg&s=10",
+      "source_page_url": "https://sh.chinadaily.com.cn/a/202101/12/WS5ffd511ba3101e7ce973a64c.html",
+      "source_domain": "sh.chinadaily.com.cn"
+    },
+    {
+      "candidate_id": "cand_7bd45bb808e842d5be1df7e7",
+      "image_url": "http://www.news.cn/globe/20250930/40b6e593888e4ede8359bd18f41ca554/2025093040b6e593888e4ede8359bd18f41ca554_20250930260bd93a6a724c0796e7a598b7d7aa0c.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-tDOYRmuNjhQibycVk3hH0dyh26dpXUtrX0VpA9hJQQ&s=10",
+      "source_page_url": "http://www.news.cn/globe/20250930/40b6e593888e4ede8359bd18f41ca554/c.html",
+      "source_domain": "www.news.cn"
+    },
+    {
+      "candidate_id": "cand_b4a5ef6a2dea0d069f0f591f",
+      "image_url": "https://upload-os-bbs.hoyolab.com/upload/2024/08/12/404923347/111775392f0002b0187b814e3082fef4_1342071563260487603.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeQ8jNmnCGPg_F_oVDqCrBkubQEMhAGaRZEYvfodAn_w&s=10",
+      "source_page_url": "https://www.hoyolab.com/article/32035402",
+      "source_domain": "www.hoyolab.com"
+    },
+    {
+      "candidate_id": "cand_41fb28346b23eeac7bab88e6",
+      "image_url": "https://cdn.hk01.com/di/media/images/dw/20260408/1118613038384025600805276.png/gMt5wAhiuot0-hUUhUjsJpw95Vp4p7y2qsIft6rCH7c?v=w1280r16_9",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPSy7KZJrRm_B6-G02MVPp8J8N2z5wiwcBGMI0OZqyrQ&s=10",
+      "source_page_url": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60338324/%E9%9D%92%E8%A1%A3%E5%8C%97%E7%99%BC%E5%B1%95%E5%9C%B0%E4%B8%8B%E6%8E%A1%E7%9F%B3%E5%A0%B4-%E6%94%BF%E5%BA%9C%E7%A8%B1%E5%A2%9E%E5%9C%9F%E5%9C%B0%E5%84%B2%E5%82%99-%E9%96%8B%E6%8B%93%E6%96%B0%E6%94%B6%E5%85%A5%E4%BE%86%E6%BA%90",
+      "source_domain": "www.hk01.com"
+    },
+    {
+      "candidate_id": "cand_4343378eb45063af83f7df3f",
+      "image_url": "http://www.chinawriter.com.cn/NMediaFile/2017/0303/MAIN201703030640000560630808706.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh4vE-mHK_SaHZTbSwKjtAydYhuj9i6-AfDUCkfAjuvg&s=10",
+      "source_page_url": "http://www.chinawriter.com.cn/n1/2017/0303/c405171-29119968.html",
+      "source_domain": "www.chinawriter.com.cn"
+    },
+    {
+      "candidate_id": "cand_ff780684d6ddd46bef8a4076",
+      "image_url": "https://pic4.zhimg.com/v2-78859c3379f19aac9c17cd39edd15cab_1440w.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuvz82Sujv33J1jZN7HWG4ze82_cWc4hQgqtTQPHWRcw&s=10",
+      "source_page_url": "https://zhuanlan.zhihu.com/p/15362096967",
+      "source_domain": "zhuanlan.zhihu.com"
+    },
+    {
+      "candidate_id": "cand_50bdb7ff46a225118f3f67c0",
+      "image_url": "https://img2-tc.tapimg.com/moment/etag/FjU7P2nLEzJVarYQq0TkxU7oyGZZ.png/_tap_ugc.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpkk6yElUC898Xly5jte85gpKjgwc4USTeMb1k1_GPeA&s",
+      "source_page_url": "https://www.taptap.cn/moment/567442500017458105",
+      "source_domain": "www.taptap.cn"
+    },
+    {
+      "candidate_id": "cand_28a2d9ff42a9576654b562f9",
+      "image_url": "https://i.scdn.co/image/ab67616d00001e0215febc655018e97e10bb5d0f",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEmzcjdZU1cda_hDP9ygOR2TF2T2F-EG4BmFcyG0cARg&s",
+      "source_page_url": "https://open.spotify.com/album/3B5egPFkjaV1j50e6C2rfp",
+      "source_domain": "open.spotify.com"
+    },
+    {
+      "candidate_id": "cand_e1fde9e817d992b5b6008f9c",
+      "image_url": "https://i.ytimg.com/vi/cDQN0BM2ZFY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBFCM7igVGnmUWD8nYy-0nBLBIFUQ",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGMOs5HXkn4IjADMO9TBlXI6viWSnE3a78NuFhgXOSAA&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=cDQN0BM2ZFY",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_c2310ccde1b437742818efe9",
+      "image_url": "https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20180815/bdabe55506ea4e898cd410454efb929a.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMZPIqCB3TF7wB93lnXqON8loymYtTI-So9cFwUMzBwA&s=10",
+      "source_page_url": "https://www.sohu.com/a/247233652_385093",
+      "source_domain": "www.sohu.com"
+    },
+    {
+      "candidate_id": "cand_2a6daf71fd61014c692a77bb",
+      "image_url": "http://img.tvb.com/mytvs/poster/1432/h_143178_v1_o.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd6a8gZRBlZIzl7oxIJ_G5vxBAMKev2crLp4er-X8PCw&s=10",
+      "source_page_url": "https://www.mytvsuper.com/tc/programme/tsingyi_143178/%E9%9D%92%E8%A1%A3/",
+      "source_domain": "www.mytvsuper.com"
+    },
+    {
+      "candidate_id": "cand_fb2b104d1c0502141922d8a4",
+      "image_url": "https://bkimg.cdn.bcebos.com/pic/2fdda3cc7cd98d1001e936e7736faf0e7bec55e73a9f?x-bce-process=image/resize,m_lfit,w_1049,h_700,limit_0/quality,Q_90",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS34qx0Sdd9jDnVOJepiXTxcVZb-Rfdeu5cy4OtzLLlXw&s",
+      "source_page_url": "https://baike.baidu.com/tashuolist/%E9%9D%92%E8%A1%A3/53451?fromLemmaModule=list&fromLemmaTitle=%E9%9D%92%E8%A1%A3&fromLemmaId=53451",
+      "source_domain": "baike.baidu.com"
+    },
+    {
+      "candidate_id": "cand_d4b791ad75ea5235a801cdff",
+      "image_url": "https://preview.qiantucdn.com/58pic/71/19/80/97y58PICib7wiZSUPWt6M_origin_PIC2018.jpg!qt_w320_webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ21w8YMFQDHGNhu6ZxZIwjjNHx8pOOaMDvxlgDL1S_gg&s",
+      "source_page_url": "https://www.58pic.com/tupian-tupian/jingjuqingyi.html",
+      "source_domain": "www.58pic.com"
+    },
+    {
+      "candidate_id": "cand_99a207c08f370b9107b2a242",
+      "image_url": "https://mc-gxlmmz-public.8531.cn/17427127534404.jpg?width=3072&height=4096&size=5390189&x-oss-process=image/format,jpg/auto-orient,1/watermark,g_se,x_0,y_0,image_MTc0MjgyNjYxMDAxMDAucG5nP3gtb3NzLXByb2Nlc3M9aW1hZ2UvcmVzaXplLFBfNTA",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmzo5FlXSwKrwQJC_t3vP1gyB3yKjR71GJPIe-kWNyIA&s",
+      "source_page_url": "https://tidenews.com.cn/short_news.html?id=6a5c25ff1be74500010845cb",
+      "source_domain": "tidenews.com.cn"
+    },
+    {
+      "candidate_id": "cand_bd55cfdefb84b8be37184feb",
+      "image_url": "https://img.alicdn.com/imgextra/i3/111942793/O1CN01zqC9jN1WVFKQSSUjc_!!111942793.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT42ewtIRUqczJALNRbIJRpFEV3IWNELOKzW4hb8Tdz1Q&s",
+      "source_page_url": "https://pingjia.taobao.com/d3hNNFpmc3krZW1LeG9sTHhuK29VUT09.html",
+      "source_domain": "pingjia.taobao.com"
+    },
+    {
+      "candidate_id": "cand_9094cf7f52707e86ab897d16",
+      "image_url": "https://www.primefood.com.hk/image/cache/catalog/product-630/86ef566d1efbdef4ba5a90b9191acf1d-850x850.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp2zWJHwFQ7VI2tphiSz5stofj-5bYdAfAkjUfu_Ns9A&s=10",
+      "source_page_url": "https://www.primefood.com.hk/%E7%B4%90%E8%A5%BF%E8%98%AD%E9%9D%92%E8%A1%A3%E6%9F%B3%E4%BB%B6400%E5%85%8B",
+      "source_domain": "www.primefood.com.hk"
+    },
+    {
+      "candidate_id": "cand_24d1a2978df25482cf266721",
+      "image_url": "https://cdn-images.dzcdn.net/images/cover/9797c7223bf6be2845eaa88214e5f95e/0x1900-000000-80-0-0.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx1jWsm8srjFpTW9iedP3IpNme4umXGGdWUs9g09_N_A&s",
+      "source_page_url": "https://www.deezer.com/us/album/661248721",
+      "source_domain": "www.deezer.com"
+    },
+    {
+      "candidate_id": "cand_427c1f93f35ed930811114e9",
+      "image_url": "https://i.ytimg.com/vi/bdqltjc7cwk/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWG6B4KT6CSW1o7N-yira5vA78g7bUvHSVYwgtXQtRmg&s=10",
+      "source_page_url": "https://wiki.hoyolab.com/pc/zzz/entry/350?lang=zh-cn",
+      "source_domain": "wiki.hoyolab.com"
+    },
+    {
+      "candidate_id": "cand_5078f4d4e53d60f98735bafd",
+      "image_url": "https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20180205/23e7ecd5b8e04a2190f2de83f2b6f9f8.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSozUkS92SuZkHXx6B_2XJIGRv7JzSGZEMc4RI0lIkJjQ&s=10",
+      "source_page_url": "https://www.sohu.com/a/220987580_203257",
+      "source_domain": "www.sohu.com"
+    },
+    {
+      "candidate_id": "cand_d217cf22facd285052f82d9e",
+      "image_url": "https://shoplineimg.com/5e0c299792f5c90053548b70/69d0d59ad88e121200a9a75b/800x.jpeg?",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcnyhZjF2pw9YRu5ZLf3ZgLXp6KoTSSeb0CKHZrZwDaw&s",
+      "source_page_url": "https://www.twine.tw/products/%E3%80%90%E9%9D%92%E8%A1%A3%E3%80%91%E5%8D%8A%E8%A2%96%E3%83%AF%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9-%E6%8A%98%E3%82%8A%E7%B4%99",
+      "source_domain": "www.twine.tw"
+    },
+    {
+      "candidate_id": "cand_630065d5d298b44d3f96852b",
+      "image_url": "https://img.alicdn.com/imgextra/i4/2151127261/O1CN01Xa7jaF23VanwAAvp2_!!2151127261.jpg_q50.jpg_.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIx3bzFbGPWH3lGZXh2-PKut5nHrDz_tbprUE27T6tBg&s=10",
+      "source_page_url": "https://www.taobao.com/list/item/cG9VVlAxYmthME9XY1Yrc3VHSGFuZz09.htm",
+      "source_domain": "www.taobao.com"
+    },
+    {
+      "candidate_id": "cand_ff837b76d4d9243577bfaffa",
+      "image_url": "https://fpf.ccidahk.gov.hk/common/images/location/00983/00983b.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEzmF1bWWQkLX5EKrKaZA0uWnVNaMb8-h3M42as2pgrw&s=10",
+      "source_page_url": "https://fpf.ccidahk.gov.hk/tc/location/detail.php?id=983",
+      "source_domain": "fpf.ccidahk.gov.hk"
+    },
+    {
+      "candidate_id": "cand_f1d59db1ac9326b2ad7d080e",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tsing_Yi_1.jpg/330px-Tsing_Yi_1.jpg?utm_source=zh.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWhPy_B1ZP23ibdeU8XndnzYe8wW6aSTyluTsyG2PtMQ&s=10",
+      "source_page_url": "https://zh.wikipedia.org/zh-cn/%E9%9D%92%E8%A1%A3%E5%B3%B6",
+      "source_domain": "zh.wikipedia.org"
+    },
+    {
+      "candidate_id": "cand_a1680d45a748a2dac91df574",
+      "image_url": "https://cdn.art-mate.net/uploads/artmate/202011/20201127_154959_AvH8BDpAxb_p.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ZPDB534VCFSdnSRFI09SX50RthVAy4LXOxa2jeJiPg&s=10",
+      "source_page_url": "https://www.art-mate.net/doc/58075",
+      "source_domain": "www.art-mate.net"
+    },
+    {
+      "candidate_id": "cand_ad4cffbd5c281f59bd0d9f01",
+      "image_url": "https://preview.redd.it/qingyi-in-a-different-outfit-v0-dfovnbi0804e1.png?width=640&crop=smart&auto=webp&s=f119aa9dccc8cd72ca82c1d8a17a237fca23df87",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2tuMpPPFqkegsHYHcr7shBuGRfOH9KL-V50D5dNduEA&s=10",
+      "source_page_url": "https://www.reddit.com/r/ZZZ_Official/comments/1h38p1u/qingyi_in_a_different_outfit/?tl=zh-hans",
+      "source_domain": "www.reddit.com"
+    },
+    {
+      "candidate_id": "cand_c98c4c7345247e6f9fb1391c",
+      "image_url": "https://news.2500sz.com/uploadfiles/202306/18/2023061810311548327446.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ074R4pbB5lP2GyVedcrIan6eJtW90NDu_s0hWuL2jtA&s=10",
+      "source_page_url": "https://news.2500sz.com/doc/2023/06/18/1005936.shtml",
+      "source_domain": "news.2500sz.com"
+    },
+    {
+      "candidate_id": "cand_76a2eaadf108922bf3b64392",
+      "image_url": "https://i.ytimg.com/vi/hwgjPI51NUs/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-vssPXX_0X2CgQqg8ph1sYqPG5wAz864qjCsbvsel_A&s=10",
+      "source_page_url": "https://www.shazam.com/song/1836465151/e99d92e8a1a3-e6888fe88594e78988",
+      "source_domain": "www.shazam.com"
+    },
+    {
+      "candidate_id": "cand_aaa334ed8384d97ea6c52aa1",
+      "image_url": "https://i.pinimg.com/474x/2f/ca/80/2fca80a4a5b8206841b6748514f6d773.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxL4zhVf3EXWSb3u7SNjkVXDDsUkb9UZuPkgrWx-GhcA&s=10",
+      "source_page_url": "https://www.pinterest.com/pin/716142778247557235/",
+      "source_domain": "www.pinterest.com"
+    },
+    {
+      "candidate_id": "cand_5857ae0ed14b26beb08fd497",
+      "image_url": "https://www.ecnu.edu.cn/__local/6/BE/BA/B1C17A62050C8B4711842DB8C86_A66FF93A_460AF.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMRpvtN8bZP5Pyl3mruaix15eDAe9xNoRpn7cIcmbFlA&s=10",
+      "source_page_url": "https://www.ecnu.edu.cn/info/1426/69282.htm",
+      "source_domain": "www.ecnu.edu.cn"
+    },
+    {
+      "candidate_id": "cand_48d962ee2e12ae52a5b6963f",
+      "image_url": "https://static.owlting.com/market/public/items/thumbs/640x480/item_17444_59ee5ce40e4bdf44f4d5ed72062ffe9e",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdsPTV6W2tIxKlBUsIo8_7iNLfvv279bQDaweKro9bqw&s=10",
+      "source_page_url": "https://market.owlting.com/items/17444",
+      "source_domain": "market.owlting.com"
+    },
+    {
+      "candidate_id": "cand_d649b9da036ccf3b57c20d6c",
+      "image_url": "https://inews.gtimg.com/om_bt/Ox8-E53GsN350Y_-6wcan4RhICjmkvQsAmXmcbfl50kAwAA/641",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoNLgT740oLZ8sJTuXFzpvpWw7JXRz7xeempOcKEZ_w&s",
+      "source_page_url": "https://news.qq.com/rain/a/20250426A0594U00",
+      "source_domain": "news.qq.com"
+    },
+    {
+      "candidate_id": "cand_85a1e84d665515ba0927955a",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Maritime_Square_Enterance_2025.jpg/1280px-Maritime_Square_Enterance_2025.jpg?utm_source=zh.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRacNuy1jgeOXqWWx4nuNYxBohihH5tgg_mRXV74KzO_A&s=10",
+      "source_page_url": "https://zh.wikipedia.org/zh-tw/%E9%9D%92%E8%A1%A3%E5%9F%8E",
+      "source_domain": "zh.wikipedia.org"
+    },
+    {
+      "candidate_id": "cand_5b9d6f18d16e29c337e67fc2",
+      "image_url": "https://www.lcsd.gov.hk/en/parks/typ/common/graphics/slideshow/01.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOro6V7Gd0SBtHaTrp44Pw7rlhG0QVZwd0ouxxifGjUA&s=10",
+      "source_page_url": "https://www.lcsd.gov.hk/tc/parks/typ/index.html",
+      "source_domain": "www.lcsd.gov.hk"
+    },
+    {
+      "candidate_id": "cand_6bf85adb7e4d99211b6ef1f1",
+      "image_url": "https://www.getreadyhk.com/images/stories/lifestyle/Tsing-Yi-Park/ching_yi_park_02.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToTvSEjwPNA3sJ-RAf1TS7NVKNz7oNTMdZVGiS481fKg&s=10",
+      "source_page_url": "https://www.getreadyhk.com/leisure-and-fun/place-to-go/item/454-tsing-yi-park",
+      "source_domain": "www.getreadyhk.com"
+    },
+    {
+      "candidate_id": "cand_0d3444f9bb86b476b4b0bb73",
+      "image_url": "https://images.trvl-media.com/place/178921/1df38a88-6deb-4cfa-b6bf-1500d194c8c5.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmc9WponxLQ5zwZD_hT2JF0Ck_7KuS2gCZLa42OJVh&s",
+      "source_page_url": "https://www.expedia.com.hk/Things-To-Do-In-Tsing-Yi.d178921.Travel-Guide-Activities",
+      "source_domain": "www.expedia.com.hk"
+    },
+    {
+      "candidate_id": "cand_92fecfab791d6cfa2f223823",
+      "image_url": "https://i2.kknews.cc/eoDqjYkIxz2M3CQLUoLJLxk_aj6Hs9rUfg/0.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdose-bkncBWnLqrzhJeASHizV_MW81QNcYbNivxmP_A&s=10",
+      "source_page_url": "https://kknews.cc/zh-sg/culture/mpv5bmz.html",
+      "source_domain": "kknews.cc"
+    },
+    {
+      "candidate_id": "cand_bb32bdac7706ab3d74205993",
+      "image_url": "https://hkis.centanet.com/p/te1qvbYzhtX9NJmAMhFNIEC1sLW3ZbXl.jpg?d=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkgzuASx3SpuLzIqX3jLuZATNg27wcOgHR3C7XNdRpHQ&s=10",
+      "source_page_url": "https://hk.centanet.com/estate/%E9%9D%92%E8%A1%A3%E9%82%A8/2-ABPPWPPRPP",
+      "source_domain": "hk.centanet.com"
+    },
+    {
+      "candidate_id": "cand_64ece850a88f32191d9a12cb",
+      "image_url": "https://i.scdn.co/image/ab67616d00001e02afe225ba9d037aa62bcee98c",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs1Xbyx4Jftgz-hNIbQ84HXWs-qTLG5EcOJXT4sRatNQ&s",
+      "source_page_url": "https://open.spotify.com/album/5uWGqmIsH3QtJCZSgJ9bQ5",
+      "source_domain": "open.spotify.com"
+    },
+    {
+      "candidate_id": "cand_d7f7ccdbf95ff6ea0fbfeeda",
+      "image_url": "https://i0.wp.com/www.wetoasthk.com/wp-content/uploads/2022/03/%E9%9D%92%E8%A1%A3%E7%A8%BB%E7%94%B0.jpg?resize=529%2C354&ssl=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXj7qaGWFsypqVVcyUauuyA1GSg9MgLvzc_NQft8Ly0w&s=10",
+      "source_page_url": "https://www.wetoasthk.com/%E3%80%90%E9%A6%99%E6%B8%AF%E6%9C%AC%E5%9C%B0%E9%81%8A%E3%80%91%E5%85%AD%E5%8D%81%E5%B9%B4%E4%BB%A3%E7%9A%84%E9%9D%92%E8%A1%A3%E7%86%B1%E9%96%80%E6%99%AF%E9%BB%9E/",
+      "source_domain": "www.wetoasthk.com"
+    },
+    {
+      "candidate_id": "cand_dbd8a47354537768ca357f30",
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/d0/7e/53/photo0jpg.jpg?w=900&h=500&s=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA7B1zRwy-r1bAVS1fzO6IR0a5l6Sps3qrp318DDBmrA&s=10",
+      "source_page_url": "https://cn.tripadvisor.com/Attraction_Review-g294217-d12962292-Reviews-Tsing_Yi_Park-Hong_Kong.html",
+      "source_domain": "cn.tripadvisor.com"
+    },
+    {
+      "candidate_id": "cand_21325d4323db96671a71177b",
+      "image_url": "https://static.liontech.com.tw/DS/go_images/7303/8245/8807/8819/8820/Q7849709/HK_Tsing_Yi_Park_Amphitheatre.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlDeRmoM7EpCwV5OnoqDTXqCVcftzV6kbQnXnWq1cCvQ&s=10",
+      "source_page_url": "https://go.liontravel.com/zh-tw/attraction/hong_kong-tsing_yi_park-q7849709",
+      "source_domain": "go.liontravel.com"
+    },
+    {
+      "candidate_id": "cand_a501e68ec1be58a297526069",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPYskQ1N6poaNfs6TkgT4k3cGWtS7Ir9Mq6VWKL0UCo2VouE9bmw3hjva_AI5Dvgr5fXgq9I-EqKfbXlAI5_eF4UATslXy9CGlAj625MlrcO3ux3x3NOtfyPa2Bx59kR6cx-ZJIgCTJKw/s1600/IMG_1257.JPG",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHCHqbFtK3PwdYoWCQJEZYaim2NuUH0Zh4-A6S5JA34A&s=10",
+      "source_page_url": "http://lausoldier.blogspot.com/2016/05/blog-post_24.html",
+      "source_domain": "lausoldier.blogspot.com"
+    },
+    {
+      "candidate_id": "cand_55155ade83cbad657768d22a",
+      "image_url": "https://www.gohk.gov.hk/uploads/photo/large/14_K&T_10_%E9%9D%92%E8%A1%A3%E6%B5%B7%E6%BF%B1%E5%85%AC%E5%9C%92_3.jpg?=1786862523",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjrlEoYptT8OJhfeE2dn1rDDKGzP2zpbePYuRu4St5ug&s=10",
+      "source_page_url": "https://www.gohk.gov.hk/tc/spots/spot_detail.php?spot=Tsing+Yi+Promenade",
+      "source_domain": "www.gohk.gov.hk"
+    },
+    {
+      "candidate_id": "cand_49505c55db9813a90ed32a7a",
+      "image_url": "https://assets.699pic.com/public/web/images/700/119/046.jpg!list1x.v4",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGlzG8OCIG6yhyAgWwIIlei9QyRsercHztlH2mnfeHaQ&s",
+      "source_page_url": "https://699pic.com/tupian/399107-5.html",
+      "source_domain": "699pic.com"
+    },
+    {
+      "candidate_id": "cand_013887ed3e2ade0b3e8f3703",
+      "image_url": "https://koyama.com.tw/wp-content/uploads/2025/08/aogoromo-20250825-01.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWglLSY3cjVGmOczYhgdAqO3nVX24XQLodBufQQ-UxJg&s=10",
+      "source_page_url": "https://koyama.com.tw/product-tag/aogoromo/",
+      "source_domain": "koyama.com.tw"
+    },
+    {
+      "candidate_id": "cand_603dee2d2318b9351eef5511",
+      "image_url": "https://www.gohk.gov.hk/uploads/photo/large/14_K&T_14_%E9%9D%92%E8%A1%A3%E5%9F%8E_5.jpg?=1787243226",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm3-7zN9EPREbA-8KIzxYAYFDyNmnDCiO5OnF3b_yZ-Q&s=10",
+      "source_page_url": "https://www.gohk.gov.hk/tc/spots/spot_detail.php?spot=Maritime+Square",
+      "source_domain": "www.gohk.gov.hk"
+    },
+    {
+      "candidate_id": "cand_63ba05b87476cb7427e27150",
+      "image_url": "https://resource02.ulifestyle.com.hk/ulcms/content/article/image/w600/2025/04/20250408162644_49d1106e9a020203fe678e84c4468817ece860b1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu5WO8uRTytY9pWBb6kz9RAS_v-DDW_EdN_43cCmpw7Q&s=10",
+      "source_page_url": "https://ufood.com.hk/restaurant/news/detail/20061521/%E9%9D%92%E8%A1%A3%E6%88%B2%E6%A3%9A-%E9%9D%92%E8%A1%A3%E6%88%B2%E6%A3%9A%E6%AD%A3%E5%BC%8F%E9%96%8B%E9%91%BC-%E9%80%BE-%E5%80%8B%E7%BE%8E%E9%A3%9F%E6%94%A4%E4%BD%8D-%E6%8E%83%E8%A1%97%E5%A5%BD%E5%8E%BB%E8%99%95-%E7%B2%B5%E5%8A%87%E8%A1%A8%E6%BC%94",
+      "source_domain": "ufood.com.hk"
+    },
+    {
+      "candidate_id": "cand_7824e719be0cd40edd4a3bde",
+      "image_url": "https://imgcdn.lnrbxmt.com/6532_1761100114000.jpg?imageMogr2/thumbnail/1080x%3E/strip/ignore-error/1|imageslim",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiBAn-_2SKm2KeKW4S_rU-LpX7XwSEQqszOOF955ZP6A&s",
+      "source_page_url": "https://wap.lnrbxmt.com/news_details.html?id=488465",
+      "source_domain": "wap.lnrbxmt.com"
+    },
+    {
+      "candidate_id": "cand_5e5c30e1a76d888354ffd3b6",
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/05/9d/f3/caption.jpg?w=900&h=-1&s=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjT8aUoPence5BjkvHvFpOfHp6ilBl-e1vIyPZ54lA_g&s=10",
+      "source_page_url": "https://cn.tripadvisor.com/Attraction_Review-g294217-d3362329-Reviews-Maritime_Square-Hong_Kong.html",
+      "source_domain": "cn.tripadvisor.com"
+    },
+    {
+      "candidate_id": "cand_0b3feb3f4bd28767cbf9af16",
+      "image_url": "https://ak-d.tripcdn.com/images/1lo3b12000rnhx4196B38_C_568_320_Q80.jpg?proc=source%2Ftrip",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0NTfWX87vJntqHDmnMpY3UWjNcPTmrjl0nffZ1Jx1zw&s",
+      "source_page_url": "https://hk.trip.com/guide/info/%E9%9D%92%E8%A1%A3%E5%A5%BD%E5%8E%BB%E8%99%95.html",
+      "source_domain": "hk.trip.com"
+    },
+    {
+      "candidate_id": "cand_42e044a4ce8eee97fe8e8634",
+      "image_url": "https://www.ecnu.edu.cn/__local/9/F6/91/8B9B2C41962EDBE8A2C805C7E29_C9EF6454_F3CE0.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4DysjQWm5slU4gosrRVybEfenrhv5ueSlG-Uu1ab6Vg&s",
+      "source_page_url": "https://www.ecnu.edu.cn/info/1094/69356.htm",
+      "source_domain": "www.ecnu.edu.cn"
+    }
+  ]
+}

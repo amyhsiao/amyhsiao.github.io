@@ -1,0 +1,2 @@
+-- Development seed data is intentionally empty.
+-- Never copy real user annotations or credentials into this file.

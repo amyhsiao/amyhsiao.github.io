@@ -1,0 +1,712 @@
+{
+  "schema_version": 1,
+  "fish_id": "fish_039",
+  "canonical_name": "金目鯛",
+  "aliases": [
+    "紅皮刀"
+  ],
+  "pool_updated_at": "2026-08-25T05:46:28.910859+00:00",
+  "candidate_count": 100,
+  "candidates": [
+    {
+      "candidate_id": "cand_4b33982840943316e57275ff",
+      "image_url": "https://furunavi.jp/discovery/wp-content/uploads/2025/05/202506_beryx-splendens_main.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0KOhURRNAdNApazEcDni3KsXumquEm0fXd0-nR9dOug&s=10",
+      "source_page_url": "https://furunavi.jp/discovery/knowledge_food/202506-beryx-splendens/?srsltid=AfmBOoquseN4VrInxK-lct2mK6CMrmr9H5LePQLrn2LPCLJV5AvNPYHN",
+      "source_domain": "furunavi.jp"
+    },
+    {
+      "candidate_id": "cand_abb819fabc85edc3026656c8",
+      "image_url": "https://www.hyponex.co.jp/yasai_daijiten/websys/wp-content/uploads/2024/02/%E3%82%AD%E3%83%B3%E3%83%A1%E3%83%80%E3%82%A4A-scaled.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmMQ38Q9-1BEpgAQhLKzEPLR9gZDxghHe43Oo7Jn-yGw&s=10",
+      "source_page_url": "https://www.hyponex.co.jp/yasai_daijiten/column/column-11319",
+      "source_domain": "www.hyponex.co.jp"
+    },
+    {
+      "candidate_id": "cand_7abab42baded6d6aa4c2fb8a",
+      "image_url": "https://www.watanabe-suisan.co.jp/wp-content/themes/watanabe-suisan/common/images/kinmedai-content03.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrpJZdD6ouecgQ7AVPq8P2HDUc0YfKa7RR3YPrT1aXXA&s=10",
+      "source_page_url": "https://www.watanabe-suisan.co.jp/kinmedai",
+      "source_domain": "www.watanabe-suisan.co.jp"
+    },
+    {
+      "candidate_id": "cand_d8d23b008c6ed6c8bd17ac87",
+      "image_url": "https://www.shinyei-shokuhin.jp/images/dic/seafood/item_kinmedai02.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZMK35n7dARQGLRdGWkYlxJryk2Pi_uYCECvzgvHTaw&s=10",
+      "source_page_url": "https://www.shinyei-shokuhin.jp/dic/seafood/dic_kinmedai.html",
+      "source_domain": "www.shinyei-shokuhin.jp"
+    },
+    {
+      "candidate_id": "cand_e20525d934e60619d5653f9c",
+      "image_url": "https://yamani.blog/blog/wp-content/uploads/2025/11/240124_0012.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvD7eGzGfaPKtV84TM5kExd-NG8Cyfakeyho5JKJrnlw&s=10",
+      "source_page_url": "https://www.yamani-suisan.jp/blog/%E3%80%90%E5%B0%82%E9%96%80%E5%BA%97%E7%9B%B4%E4%BC%9D%E3%80%91%E9%87%91%E7%9B%AE%E9%AF%9B%E3%81%97%E3%82%83%E3%81%B6%E3%81%97%E3%82%83%E3%81%B6%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%81%8A%E3%81%84/?srsltid=AfmBOoopNJHTcK57VTvvOV5ny2OouyPpjrGXXZV4rxACEh2YQb-msDqZ",
+      "source_domain": "www.yamani-suisan.jp"
+    },
+    {
+      "candidate_id": "cand_77f7b853c5bfc2efadbefba8",
+      "image_url": "https://cdn.funq.jp/contents/uploads/2020/11/06205653/kinmedai_eyecatch.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD-yyIWN-6Nw6qCACFuipC2qUTYUzYO9RG_DdqoBrfAA&s=10",
+      "source_page_url": "https://www.funq.jp/buono/article/645684/",
+      "source_domain": "www.funq.jp"
+    },
+    {
+      "candidate_id": "cand_143fdb589e36b1f5cc4dcf06",
+      "image_url": "https://foodslink.jp/syokuzaihyakka/syun/fish/kinmedai/kinme008L.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4OHyRnd0A2u2TGL1qbYsWFd8_Ueve2HHzPYYtiBsi_w&s=10",
+      "source_page_url": "https://foodslink.jp/syokuzaihyakka/syun/fish/kinme.htm",
+      "source_domain": "foodslink.jp"
+    },
+    {
+      "candidate_id": "cand_a550dc60ddf545f109be5106",
+      "image_url": "https://izunohana.jp/wp-content/uploads/2024/05/%E9%87%91%E7%9B%AE%E9%AF%9B3.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZLZMzbtPBUOcg_wJRQV_La1jKiShntl4Yvk0OBKMAdg&s=10",
+      "source_page_url": "https://izunohana.jp/news/%E9%9D%99%E5%B2%A1%E3%81%8C%E8%AA%87%E3%82%8B%E3%80%8C%E9%87%91%E7%9B%AE%E9%AF%9B%E3%80%8D/",
+      "source_domain": "izunohana.jp"
+    },
+    {
+      "candidate_id": "cand_5ca8b8266c68dca7d90a4f18",
+      "image_url": "https://totomon.fish/wp-content/uploads/2023/08/kinmedai_thumbnail_desc-1200x675.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOpZ6EIHvIvqC5iZ8-7VCTAhuqKyN0WAHCtrbff7LesA&s=10",
+      "source_page_url": "https://totomon.fish/info/kinmedai/",
+      "source_domain": "totomon.fish"
+    },
+    {
+      "candidate_id": "cand_c04c738aeeb6a5e50ea9b424",
+      "image_url": "https://1930.jp/pic-labo/kinme-kinkai-sugata.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxaOTienmqoSmBoz0ect8A1FNnihA0U26gmY8JkUU7tg&s=10",
+      "source_page_url": "https://1930.jp/SHOP/529.html",
+      "source_domain": "1930.jp"
+    },
+    {
+      "candidate_id": "cand_9b9a7e8a9cde94ec010049cf",
+      "image_url": "https://ippin-gourmet.com/wp-content/uploads/2018/05/%E9%87%91%E7%9B%AE%E9%AF%9B.gif",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgObNa3tHLn2YhydMn5ajVhxF8DkbN7nSA4IEBf0rqzA&s=10",
+      "source_page_url": "https://ippin-gourmet.com/foods/1033",
+      "source_domain": "ippin-gourmet.com"
+    },
+    {
+      "candidate_id": "cand_06679061eea13ad795dc1748",
+      "image_url": "https://cont-daidokolog.pal-system.co.jp/system/recipe/1038/COP09_AE_371.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWKY17T997hgz2zqhTR-Pp4GMm2WydBNsNWsRPu8Lb3Q&s=10",
+      "source_page_url": "https://daidokolog.pal-system.co.jp/recipe/1038",
+      "source_domain": "daidokolog.pal-system.co.jp"
+    },
+    {
+      "candidate_id": "cand_d7c99d4edf0ba1d3fa5c2770",
+      "image_url": "https://www.muroto-kankou.com/wp-content/uploads/2020/10/sg_2.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlnQg2lMagdL3exF9K0fRY3P3I0Hp41vxOTKxAOhsJaA&s=10",
+      "source_page_url": "https://www.muroto-kankou.com/search_spot/specialty_goods/sg_2/",
+      "source_domain": "www.muroto-kankou.com"
+    },
+    {
+      "candidate_id": "cand_738cd07c244d5737eed6a93d",
+      "image_url": "https://yamaria-encyclopedia-us.s3.amazonaws.com/image/artwork/image/9522/01351b50-f7e8-4a29-bff6-55e404fe6085.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS11zPeL8GVMTlzFy_IMNqq3I2y045aNoDO7lpyRSB9KQ&s=10",
+      "source_page_url": "https://tsurihyakka.yamaria.com/issues/%E3%82%AD%E3%83%B3%E3%83%A1%E3%83%80%E3%82%A4",
+      "source_domain": "tsurihyakka.yamaria.com"
+    },
+    {
+      "candidate_id": "cand_b39aab229d241c9211c694b6",
+      "image_url": "https://shizuoka.mytabi.net/izu/images/kinmedai_001.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkS0p0CUnIIWlWRIMA2JP_3kgYowfKCfbH76CwHMVaw&s=10",
+      "source_page_url": "https://shizuoka.mytabi.net/izu/archives/kinmedai.php",
+      "source_domain": "shizuoka.mytabi.net"
+    },
+    {
+      "candidate_id": "cand_b23d595543d787c360368fa3",
+      "image_url": "https://www.watanabe-suisan.co.jp/wp-content/themes/watanabe-suisan/common/images/kinmedai-content02.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWGakUcSNz1h6Wm79iN6vibFc9T5dUt_KPQrqrqHIa6w&s=10",
+      "source_page_url": "https://www.watanabe-suisan.co.jp/kinmedai",
+      "source_domain": "www.watanabe-suisan.co.jp"
+    },
+    {
+      "candidate_id": "cand_5b572d4ae78ea22e4e4db184",
+      "image_url": "https://foodslink.jp/syokuzaihyakka/syun/sample/sakana4/kinme014(6720x4480).jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgDKjyEJW3UKfJbORgJldtLOdypE6hRl1Svu0ejyM4g&s=10",
+      "source_page_url": "https://foodslink.jp/syokuzaihyakka/syun/fish/kinme.htm",
+      "source_domain": "foodslink.jp"
+    },
+    {
+      "candidate_id": "cand_2e62a878ec6eaac324e2455f",
+      "image_url": "https://makeshop-multi-images.akamaized.net/ogiso0154/itemimages/000000000192_BOwuAkL.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlMebBKQo9X60jjD3vHyw71lH-o-tIyfdTVzsMOgME-g&s",
+      "source_page_url": "https://www.ogiso-himono.shop/view/item/000000000192?srsltid=AfmBOopUvC1n4KlgJghIDUFHElCJhIe-O3M5jHlePcmU9EZOAlxOVV9h",
+      "source_domain": "www.ogiso-himono.shop"
+    },
+    {
+      "candidate_id": "cand_1789177167c4743700cc4555",
+      "image_url": "https://rita-terrace.co.jp/ecochoku/wp-content/uploads/2023/07/11.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg5E1QWCUxZpc5NE-SLHhJFHDD86hAtOU9rYDc1ohsEg&s=10",
+      "source_page_url": "https://rita-terrace.co.jp/ecochoku/products/seafood/nituke-tsurikinme",
+      "source_domain": "rita-terrace.co.jp"
+    },
+    {
+      "candidate_id": "cand_abb05a6b87b10fec46881045",
+      "image_url": "https://www.izu-hamabe.jp/brand/images/product_03.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRurOaWtDtwzy9RHWLaPTs0_YOQktepWfkNyBkm_bFsOw&s=10",
+      "source_page_url": "https://www.izu-hamabe.jp/brand/",
+      "source_domain": "www.izu-hamabe.jp"
+    },
+    {
+      "candidate_id": "cand_41c9b2c1bb4b079413b46e02",
+      "image_url": "https://chefgohan.gnavi.co.jp/static/food/img/sp_img_food_detail_splendid_alfonsino.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzp2Jp0hDkq-fXeeJleYkpr4pIQT1Evc9s3sgg3VPUGw&s=10",
+      "source_page_url": "https://chefgohan.gnavi.co.jp/food/splendid_alfonsino/",
+      "source_domain": "chefgohan.gnavi.co.jp"
+    },
+    {
+      "candidate_id": "cand_157e7b864c499e59f1463343",
+      "image_url": "https://dancyu.jp/images/mm3914.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6p3Sc53kcsK_mqhkSutgrJ1QoVZk3mZ6wo67y6nQo-g&s=10",
+      "source_page_url": "https://dancyu.jp/recipe/2020_00003914.html",
+      "source_domain": "dancyu.jp"
+    },
+    {
+      "candidate_id": "cand_49727a7af9a6acb603d3ab8b",
+      "image_url": "https://www.uoden-himono.co.jp/pic-labo/uo30_17.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ89Z6A2CnxbyqDS6tk5CaL1lnvbW5Z6dEHfUHKL5KcIA&s=10",
+      "source_page_url": "https://www.uoden-himono.co.jp/SHOP/UD019.html",
+      "source_domain": "www.uoden-himono.co.jp"
+    },
+    {
+      "candidate_id": "cand_bd7683e9401e1f8ac97b31df",
+      "image_url": "https://img07.shop-pro.jp/PA01453/176/etc_base64/UDExOTAwMDE.JPG?cmsp_timestamp=20230710093910",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxySWwNPeW4eSRJCBAIKAmgEzpgAjifPeY5Onq6DJ5iQ&s=10",
+      "source_page_url": "https://watanabe-suisan.shop-pro.jp/?pid=161914928",
+      "source_domain": "watanabe-suisan.shop-pro.jp"
+    },
+    {
+      "candidate_id": "cand_6f97979eb0ac00a3b65bfd14",
+      "image_url": "https://gyogun.net/upload/save_image/m_1819.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwbdVqbNkfoa6xU8Avof---RNAh4lMILDpcUJpHRcaUQ&s=10",
+      "source_page_url": "https://gyogun.net/products/detail1819.html?srsltid=AfmBOoqDssNObSvi8WAG_Zf73_o7E7DRGkXCSQ06omkXXm39spCK3lz4",
+      "source_domain": "gyogun.net"
+    },
+    {
+      "candidate_id": "cand_a3b8a7c201955a3edc9bc1a6",
+      "image_url": "https://image1.shopserve.jp/kanmon-club.com/pic-labo/llimg/tamu302.png?t=20260704120817",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRfoN-p1DiAM19BzZunQPGN_qN6_E0QDVjxPg641AOkQ&s",
+      "source_page_url": "https://www.kanmon-club.com/SHOP/KKHIR217.html?var_1=R310%E3%80%80%E5%A4%A7(%E7%B4%84200g)",
+      "source_domain": "www.kanmon-club.com"
+    },
+    {
+      "candidate_id": "cand_af1e1db783fdd20023220598",
+      "image_url": "https://img.hachimenroppi.com/image.php?f=CZe4hR2R&adir=topic&id=808",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdU4JDZsiK04MhGaczpcBiwUqAYmyMXLxTJTapNOJ8PA&s=10",
+      "source_page_url": "https://hachimenroppi.com/wiki/details/kinmedai/?srsltid=AfmBOopz43il2s8irlG7HxTb0bqWRfTKlESbPzso4__ubvsBkLEf8ZSK",
+      "source_domain": "hachimenroppi.com"
+    },
+    {
+      "candidate_id": "cand_09f1164091573fa3189301e4",
+      "image_url": "https://foodslink.jp/syokuzaihyakka/syun/sample/sakana4/kinme015(6720x4480).jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxlR_l3eX5262ZFzxbkDi4Dpz06PFBoPIEPAsPUKtySw&s=10",
+      "source_page_url": "https://foodslink.jp/syokuzaihyakka/syun/fish/kinme3.htm",
+      "source_domain": "foodslink.jp"
+    },
+    {
+      "candidate_id": "cand_3421bc3549812560349a4d95",
+      "image_url": "https://sakayoshi.jp/cdn/shop/products/IMG_7339.jpg?v=1633758487&width=1946",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS30fNVWNGabSFN6A4E9n-au72cBlZJMezI2LNbmEWtaA&s",
+      "source_page_url": "https://sakayoshi.jp/products/kinmedai-no-hirakiboshi",
+      "source_domain": "sakayoshi.jp"
+    },
+    {
+      "candidate_id": "cand_d90bd072e850dd33dca25876",
+      "image_url": "https://tshop.r10s.jp/manten/cabinet/frzimg/frz4/2/00148945.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMIH1QlILZ7RkoANNPnr0QPWDlp9eepCnJIPxXk8sHxA&s",
+      "source_page_url": "https://www.vshouston.com/dp/eb241607362",
+      "source_domain": "www.vshouston.com"
+    },
+    {
+      "candidate_id": "cand_7be0c06b1cc51f348e05321d",
+      "image_url": "https://www.chowari.jp/sp/book/img/679_1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7XYUV4snVYT1xiPZeX7BKgGsqyxC5OQJd5151TsbxRw&s=10",
+      "source_page_url": "https://fishai.jp/679",
+      "source_domain": "fishai.jp"
+    },
+    {
+      "candidate_id": "cand_b62d5451fdd1043fdded2bc9",
+      "image_url": "https://www.ito-yukitei.com/relaxationnews/wp-content/uploads/2018/09/%E9%87%91%E7%9B%AE%E9%AF%9B%E7%85%AE%E4%BB%98R1000.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGBxW47MKzNbANexjotCQ4XuBHLO6K8K2Lb_VXa6aQ_g&s=10",
+      "source_page_url": "https://www.ito-yukitei.com/relaxationnews/?p=6338",
+      "source_domain": "www.ito-yukitei.com"
+    },
+    {
+      "candidate_id": "cand_c4812bbba041cd4ca79fbe54",
+      "image_url": "https://www.kikkoman.co.jp/homecook/assets/img/00003784.jpg?size=large",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-gGYvC52fJKNYoMAXxwN6nm29D09Nsrst7LUYI_8ZTg&s=10",
+      "source_page_url": "https://www.kikkoman.co.jp/homecook/search/recipe/00003784/",
+      "source_domain": "www.kikkoman.co.jp"
+    },
+    {
+      "candidate_id": "cand_51100367d71856d2d6c3d789",
+      "image_url": "https://www.izu-hamabe.jp/brand/images/product_02.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTjdNotFl6m0g_pgqZYhafvVGosOEcqtIEIfI6A-J9Q&s=10",
+      "source_page_url": "https://www.izu-hamabe.jp/brand/",
+      "source_domain": "www.izu-hamabe.jp"
+    },
+    {
+      "candidate_id": "cand_9a67bbfa780187ced7eacd89",
+      "image_url": "https://dancyu.jp/images/mm3188.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPdtg4KStVuIgd0KkcKbVxeVo7xPpsNjK8kpo7KB9Apw&s=10",
+      "source_page_url": "https://dancyu.jp/recipe/2020_00003188.html",
+      "source_domain": "dancyu.jp"
+    },
+    {
+      "candidate_id": "cand_4bb038bc80b4278662b9942a",
+      "image_url": "https://baseec-img-mng.akamaized.net/images/item/origin/d71779b07711adda4875c603ad92199c.jpg?imformat=generic&q=90&im=Resize,width=1280,type=normal",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF5jbA8gHBApJkASxMfCIbkZQ9cw9OhSS1eX7SW_aZMg&s=10",
+      "source_page_url": "https://maguro.theshop.jp/items/29962538",
+      "source_domain": "maguro.theshop.jp"
+    },
+    {
+      "candidate_id": "cand_7a2c292ea5ce2f8bfb180221",
+      "image_url": "https://furunavi.jp/discovery/wp-content/uploads/2025/05/202506_beryx-splendens_4.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8OIg6JS18v9IvclvJaPilEoMbz2AHdStir_QvAZ9Rqw&s=10",
+      "source_page_url": "https://furunavi.jp/discovery/knowledge_food/202506-beryx-splendens/?srsltid=AfmBOopJ7wRbksB4bFk_0KTIe0FzMhGMvkDxlPl3fBPNbPfEeW-h4A7x",
+      "source_domain": "furunavi.jp"
+    },
+    {
+      "candidate_id": "cand_597a70b29c40ae0e9909fdba",
+      "image_url": "https://www.lettuceclub.net/i/R1/img/dish/1/S20101210158001A_000.png?w=450",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQPAHRTcbxMQoJ5yr2_OHSY4Khn0xvXYlFur0nwWNRug&s=10",
+      "source_page_url": "https://www.lettuceclub.net/recipe/dish/17330/",
+      "source_domain": "www.lettuceclub.net"
+    },
+    {
+      "candidate_id": "cand_c83b520e00f1bea01d73dbf0",
+      "image_url": "https://gyogun.net/upload/save_image/m_1978.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwH4d01JTOlYzdOxNUmNciWKBk-kxg1X8oId5a6TIvvA&s=10",
+      "source_page_url": "https://gyogun.net/products/detail1978.html?srsltid=AfmBOopmoHai26CPP4tLGgjXGTqkTO4Anw0aEXfD4XEC12dG8pTPwMaw",
+      "source_domain": "gyogun.net"
+    },
+    {
+      "candidate_id": "cand_a5825808c9e2091572999430",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/fg2209-recipe-02-08-2-1200-0-72-80-1659075707.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1nr4YjjuMKH3c0DxG-Y34yqfgxc0PqkrbySqO5u06sg&s=10",
+      "source_page_url": "https://www.fujingaho.jp/gourmet/recipe/a40750128/recipehiroshikaibara-7-220823/",
+      "source_domain": "www.fujingaho.jp"
+    },
+    {
+      "candidate_id": "cand_739c01749863112a9718ab91",
+      "image_url": "https://shop.s-kotobuki.co.jp/cdn/shop/files/kinnmedaihuimono-tanpin_1b0d6b7b-e2ed-4fb9-87e1-c006bbb66f92.jpg?v=1717054345&width=1445",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSHN4xHvtHAifqSEUQ7qHNjxPmhiD0NgfQXpiomjOiJA&s=10",
+      "source_page_url": "https://shop.s-kotobuki.co.jp/products/kinmedaihimono-1?srsltid=AfmBOopb-ybnIcwY1cBrlY9PEyeEPczlM-SDQfnfLBAlYpMYX_jP3vQk",
+      "source_domain": "shop.s-kotobuki.co.jp"
+    },
+    {
+      "candidate_id": "cand_2f84b1c4ec721d71e55da4c7",
+      "image_url": "https://i.ytimg.com/vi/MsOayXrDCoM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAl6ZjZNWWcyn1qba_e1MkHDB-jKg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd5QkelFF2QKIs9yelbvHT4DeQGG_j_YhQH7P_eQz4FQ&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=MsOayXrDCoM",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_8390729489f1263f390bb196",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Splendid_alfonsino_%28_Beryx_splendens_%29.jpg?utm_source=ja.wikipedia.org&utm_campaign=index&utm_content=original",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qVMtAW0w3HafVfUz6svhH4ZHsgCCl84gEaMilxaXeg&s=10",
+      "source_page_url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%83%A1%E3%83%80%E3%82%A4",
+      "source_domain": "ja.wikipedia.org"
+    },
+    {
+      "candidate_id": "cand_bb04ef39a84c7c3e5685a5ea",
+      "image_url": "https://lh3.googleusercontent.com/0spKfrS96Ij0sOQ6DGnKDTMBhFzmSERbXyyvW694tdKCZHR-BQP3OUh7xgDd-Svm2444iJLVQ6NoZyYVEhqnh2uPKlt9",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSdvW30t17jpQauXPspMrJd59gaF5q50rc0jsnRIgZhg&s=10",
+      "source_page_url": "https://www.ogiso-himono.shop/view/item/000000000088?srsltid=AfmBOoo9h8Wl0oQdXAIS3JSe_PptV6axlCKxcsET0SmYCsfrDAOHlXeF",
+      "source_domain": "www.ogiso-himono.shop"
+    },
+    {
+      "candidate_id": "cand_a3220fc47d9ab29a10154204",
+      "image_url": "https://c-chefgohan.gnst.jp/imgdata/recipe/00/42/4200/rc640x477_1604181026_02c5664c1820d6a73bf3029de1f4017a.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTELyTlbjRIJtTKRLoOe-yCnt6FrnDe9ZqtnFPz0BShcg&s=10",
+      "source_page_url": "https://chefgohan.gnavi.co.jp/detail/4200/",
+      "source_domain": "chefgohan.gnavi.co.jp"
+    },
+    {
+      "candidate_id": "cand_ae4c92d282a4903effe46c4d",
+      "image_url": "http://e-3710.com/cdn/shop/products/image_116bbdd1-bd97-4c71-9e58-f52374c4255b.heic?v=1690505772",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToNEaEr9x53_L1jArYMH1OV01Jfc_pY4bc0ojxtKkfag&s=10",
+      "source_page_url": "https://e-3710.com/products/kinmedai?srsltid=AfmBOorfph3aNGP2IE0XDC35gEiJ8xAy2MySTiivi2NHkOeuHdu_L1zi",
+      "source_domain": "e-3710.com"
+    },
+    {
+      "candidate_id": "cand_77d238e802dcddfe26259976",
+      "image_url": "https://www.muroto-kankou.com/wp-content/uploads/2020/10/sg_2_2.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGxfrESIHXbryL-Q4Or-WAw9s0FULstbKlUp7_Qln3vg&s=10",
+      "source_page_url": "https://www.muroto-kankou.com/search_spot/specialty_goods/sg_2/",
+      "source_domain": "www.muroto-kankou.com"
+    },
+    {
+      "candidate_id": "cand_f94276cb239b0960740bef10",
+      "image_url": "https://shop.marukinmiura.com/html/upload/save_image/0909131253_68bfa94590f23.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDTzHxLy92OeQgUWBrmQQ9vqsi95Dl_Wrkrc9tqYhOPA&s=10",
+      "source_page_url": "https://shop.marukinmiura.com/products/detail/27?srsltid=AfmBOopJUj28Xe-dYtUSOUC-8SaP38Vxa9TjakRgWrPIshyOjKo40pbQ",
+      "source_domain": "shop.marukinmiura.com"
+    },
+    {
+      "candidate_id": "cand_06ef7f334ba41968e1a3ade9",
+      "image_url": "https://image1.shopserve.jp/kamaturu.co.jp/pic-labo/llimg/kinmedai1.jpg?t=20210227092926",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ILRVW-Lq6-IS5B2A7sfNNEaYIJXhM_S5VrYfwF7UWg&s=10",
+      "source_page_url": "https://www.kamaturu.co.jp/SHOP/43011.html?srsltid=AfmBOorj_hbjmSOPyBO0uAzY-puIKyJBqORawOLyVsfB1IKA8UVPGA1G",
+      "source_domain": "www.kamaturu.co.jp"
+    },
+    {
+      "candidate_id": "cand_eb0ff164d954284b9915dd33",
+      "image_url": "https://fujinokuni.shokunomiyako-shizuoka.pref.shizuoka.jp/contents/images/culture/kyodoryori/17%E9%87%91%E7%9B%AE%E3%81%AE%E7%85%AE%E4%BB%98%E3%81%91.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMv1qz1Iw9fbe97a-tilRWg6I3vhlNF7rNqkSnaoZH9g&s=10",
+      "source_page_url": "https://fujinokuni.shokunomiyako-shizuoka.pref.shizuoka.jp/culture/article/2493",
+      "source_domain": "fujinokuni.shokunomiyako-shizuoka.pref.shizuoka.jp"
+    },
+    {
+      "candidate_id": "cand_e44eda941a77d8c39bc4199d",
+      "image_url": "https://image1.shopserve.jp/sumigen.co.jp/pic-labo/llimg/kinme2026top.png?t=20260622160454",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEd64WWZHjbUE6myA_S-TAyRid8NTH4eiWJ00Wgsd1RA&s",
+      "source_page_url": "https://www.sumigen.co.jp/SHOP/CH071.html?srsltid=AfmBOopNP2cjD59dEicsFH1bvpF5Val_oYRNKPzubpcl75pFJulJgNrB",
+      "source_domain": "www.sumigen.co.jp"
+    },
+    {
+      "candidate_id": "cand_fc30b07d59a04d97b07cea49",
+      "image_url": "https://www.sakana-center.com/wp-content/uploads/2024/04/4b295db64dbc08449ce80697543798e3.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCd5JBljD5Bv8hG-VjXy0tbb-a9DxSbIbJ2tAPRfq1Q&s=10",
+      "source_page_url": "https://www.sakana-center.com/nagisa/6017/",
+      "source_domain": "www.sakana-center.com"
+    },
+    {
+      "candidate_id": "cand_f44c5c756a476031d3875401",
+      "image_url": "https://img14.shop-pro.jp/PA01305/075/product/162592500.jpg?cmsp_timestamp=20250104115014",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZClE7Nm5PyrJq5L8iEmK1IImP7cP6T1LaBERqC8OmIg&s=10",
+      "source_page_url": "https://aokihimono.com/?pid=162592500&srsltid=AfmBOoqQj8iabLO6DXiyYkw6_X0TNfPuWEZD72ok1VhTryt7oz8LoW8E",
+      "source_domain": "aokihimono.com"
+    },
+    {
+      "candidate_id": "cand_7aff8f06e423458fb6633651",
+      "image_url": "https://makeshop-multi-images.akamaized.net/izucyu/itemimages/005000000001.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ5z4hmGx755HqzYjJ1ZCG2v3eHzOjro-ugdiRVORThg&s=10",
+      "source_page_url": "https://www.izuchu.jp/shopdetail/005000000001/?srsltid=AfmBOop9P4ysJs7ShL7ABbXgPQF25J9PwOe3b22vILOZJTCWtuzmL-rw",
+      "source_domain": "www.izuchu.jp"
+    },
+    {
+      "candidate_id": "cand_8252289938f6c287a127d461",
+      "image_url": "https://image1.shopserve.jp/1930.jp/pic-labo/llimg/643-28.jpg?t=20240628140028",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb5c9AjYLgm-LWDlkISygeyIzzVxtbcYsrWEFfXEYqSw&s=10",
+      "source_page_url": "https://1930.jp/SHOP/643.html",
+      "source_domain": "1930.jp"
+    },
+    {
+      "candidate_id": "cand_f68f52bbe438185c6f41f897",
+      "image_url": "https://www.k-uoichiba.co.jp/common/resize_image.php?file=/home/rental/k-uoichiba_co_jp/www/upload/2/file_5_32_1.jpg&width=300&1463127609",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShmpNlQDb-GVla6UK8DSH_hDyuTsqTBkUFJKKMJ6rVQQ&s=10",
+      "source_page_url": "https://www.k-uoichiba.co.jp/sakana-story/dizakana.html?id=32",
+      "source_domain": "www.k-uoichiba.co.jp"
+    },
+    {
+      "candidate_id": "cand_0f6abb41f8dc30c068c36110",
+      "image_url": "https://sushi.zukan-bouz.com/img/Sushi/325/Thumb630/kinmedaikawasimonigiri.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOP_yWqUW10se0lBiJxgonlDyLrezeMDeWQOQ6cg76Zg&s=10",
+      "source_page_url": "https://sushi.zukan-bouz.com/detail.php?id=325",
+      "source_domain": "sushi.zukan-bouz.com"
+    },
+    {
+      "candidate_id": "cand_d5c377826a7fd0622b6cb146",
+      "image_url": "https://images.microcms-assets.io/assets/63c373f8ba254f27ab826dbde10189d6/68e816e94e5b4fe9b3cf96b088b3d24b/MIGRATEDIMAGE-topic-7066-%E9%87%91%E7%9B%AE%E9%AF%9B%E3%81%AE%E7%85%AE%E3%81%A4%E3%81%91.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlK_JYifDqZSxgljXMYJoo-k0zb5-CYP63rvf2jWJOhg&s=10",
+      "source_page_url": "https://uchi.tokyo-gas.co.jp/recipes/topics/7066",
+      "source_domain": "uchi.tokyo-gas.co.jp"
+    },
+    {
+      "candidate_id": "cand_f48075f002a582767a1a842c",
+      "image_url": "https://makeshop-multi-images.akamaized.net/seiga110/itemimages/000000001552_2zuvDiE.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQF-7Lk8vTCl3GkEX1TlfggTlMjdQ9rais7nE4UZ8DkA&s=10",
+      "source_page_url": "https://foodiesmarche.com/view/item/000000001552?srsltid=AfmBOoq-OA814oCqQVNJH08vLdILNkIYLMFruzC7FKbhIAmSgkr4b4DV",
+      "source_domain": "foodiesmarche.com"
+    },
+    {
+      "candidate_id": "cand_58be3a121ab25b00d0f932f9",
+      "image_url": "https://img07.shop-pro.jp/PA01460/104/product/174780802.jpg?cmsp_timestamp=20230520142847",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTJk6N59TGFX3scDl7vmeWkXNaajMMowuJfdbQXdq5_w&s=10",
+      "source_page_url": "https://tutanoya.shop-pro.jp/?pid=174780802",
+      "source_domain": "tutanoya.shop-pro.jp"
+    },
+    {
+      "candidate_id": "cand_9583453c24bca11881b9b732",
+      "image_url": "https://www.fmyokohama.jp/enosui/.assets/20150304225319.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkVAYCZlGAkpiZPHM-h_lj4VTazi9W8nvy1oGcfIkvUA&s=10",
+      "source_page_url": "https://www.fmyokohama.jp/enosui/2015/03/34-c52e.html",
+      "source_domain": "www.fmyokohama.jp"
+    },
+    {
+      "candidate_id": "cand_b780b0b21875db22f3762c1a",
+      "image_url": "https://img04.shop-pro.jp/PA01011/798/product/11106378.jpg?cmsp_timestamp=20260308135908",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzMvws_N-M4C8b7Rc8_fmsamnC2YGrzacynA0C3HhHbw&s",
+      "source_page_url": "https://himonoyasan.net/?pid=11106378",
+      "source_domain": "himonoyasan.net"
+    },
+    {
+      "candidate_id": "cand_ae155a2c59f998f9911ac8f7",
+      "image_url": "http://fukushima-ichiba.com/cdn/shop/files/product-341794.jpg?v=1715792543",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2GT0Bx_IV5MEj_5FA7SL3Ow6H8NpdtDUHUMJlR7YzIw&s=10",
+      "source_page_url": "https://fukushima-ichiba.com/products/n14415",
+      "source_domain": "fukushima-ichiba.com"
+    },
+    {
+      "candidate_id": "cand_bf1955a6ecbc83fda5b7bd30",
+      "image_url": "https://subcdn.en-jine.com/projects/images/000/000/946/10e69eafb73f22f7da9461d53b509ca56203b5f1.jpg?r=1514x792&c=1408x792",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqECmrrD31U9exMNTAJa5CGfnqfjYga_H_nGj-5sKXqQ&s=10",
+      "source_page_url": "https://ideamarket.yomiuri.co.jp/projects/simodazikinme",
+      "source_domain": "ideamarket.yomiuri.co.jp"
+    },
+    {
+      "candidate_id": "cand_ab7891badc482443d0cb4b00",
+      "image_url": "https://www.atembo.jp/wp-content/uploads/2024/06/DSC_0043.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6eyGWpIC0qnzqon_d0pyUO3zBlBHZVX3-VrFAQeSLng&s=10",
+      "source_page_url": "https://www.atembo.jp/product/%E9%87%91%E7%9B%AE%E9%AF%9B%E3%81%AE%E9%96%8B%E3%81%8D%EF%BC%88%E5%A4%A7%EF%BC%89",
+      "source_domain": "www.atembo.jp"
+    },
+    {
+      "candidate_id": "cand_68967dc7fa2fa19a8053b1bb",
+      "image_url": "https://img07.shop-pro.jp/PA01429/396/etc_base64/pa2l86Xhoaq80cnVpLGl4aWkpfM.jpg?cmsp_timestamp=20260107115225",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu_5WoG4G1m5SEmglR15rT5U2DfXaCB5Wh-ncQ1MH1nQ&s=10",
+      "source_page_url": "https://marunushi-shop.net/?pid=190026297",
+      "source_domain": "marunushi-shop.net"
+    },
+    {
+      "candidate_id": "cand_e79ac49d51781fafc03f1c3c",
+      "image_url": "https://earthaid.co.jp/wpea/wp-content/uploads/2018/08/%E5%8E%B3%E9%81%B8%E2%98%851_%E9%87%91%E7%9B%AE%E9%AF%9B%E3%82%AD%E3%83%B3%E3%83%A1%E3%83%80%E3%82%A4%E4%BD%BF%E7%94%A8%E4%BE%8B_%E9%85%A2%E5%91%B3%E5%99%8C%E3%81%95%E3%81%A3%E3%81%B1%E3%82%8A%E7%99%BD%E3%81%BF%E3%81%9D%E4%BD%BF%E7%94%A8%E4%BE%8B226kb_1280%C3%97853pxIMG_8997%E3%83%88%E3%83%AA%E3%83%9F%E3%83%B3%E3%82%B0-768x512.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzYg3yV0if_HVYenwOt5x1b74RmYP6thaegX-bfGwUhQ&s=10",
+      "source_page_url": "https://earthaid.co.jp/recipe/red_snapper-poare/",
+      "source_domain": "earthaid.co.jp"
+    },
+    {
+      "candidate_id": "cand_925a45fb8920c1596c19b79c",
+      "image_url": "https://img21.shop-pro.jp/PA01464/830/product/157551323.jpg?cmsp_timestamp=20230219160016",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2-eyOVjgFVy1ykYbVYOxqDk9EWZDkCyCbI-o0NsZbzA&s=10",
+      "source_page_url": "https://www.takehachi.co.jp/?pid=157551323",
+      "source_domain": "www.takehachi.co.jp"
+    },
+    {
+      "candidate_id": "cand_0025874a5450bbaf3f81f077",
+      "image_url": "https://uomitsu.jp/cdn/shop/files/AdobeStock_344345324.jpg?v=1738491693&width=5760",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR43cLA1cd_u1tJ4rF0XaB4NkB5MODlO3WIvFxVI3tZ7Q&s=10",
+      "source_page_url": "https://uomitsu.jp/products/kinmedai?srsltid=AfmBOoqvx3GcNKmEFIjmoI6hiWPJbol_L4aE5Iaso4tZx4sQ6yOGTGny",
+      "source_domain": "uomitsu.jp"
+    },
+    {
+      "candidate_id": "cand_a3e7d2f3122593c8bae9df98",
+      "image_url": "https://www.shuetsu.co.jp/wsept/wp-content/uploads/2026/01/kinme.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6oE3-EqztWF8VG1lgRqh6-bsjRk2B0BQif9EJYAC6xg&s=10",
+      "source_page_url": "https://www.shuetsu.co.jp/products/908406/",
+      "source_domain": "www.shuetsu.co.jp"
+    },
+    {
+      "candidate_id": "cand_5fd206255fafe5555739d1e4",
+      "image_url": "https://item-shopping.c.yimg.jp/i/n/seapa_000002_5_d_20250615165200",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9KjAVGZ9JxpEfPSsq8Wq8VtzQMfNCIzZ_VW_gxvg3GA&s",
+      "source_page_url": "https://aliviocare.com/?v=700212707805",
+      "source_domain": "aliviocare.com"
+    },
+    {
+      "candidate_id": "cand_5cb9c0272b260ae23717a36a",
+      "image_url": "https://s-shoyu.com/wp-content/uploads/2018/07/004.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSdBFx7eqMDwKF4cSwS6hohtFiyA5RN6ZeZg7SmROSBw&s=10",
+      "source_page_url": "https://s-shoyu.com/cook/004/",
+      "source_domain": "s-shoyu.com"
+    },
+    {
+      "candidate_id": "cand_37daa2b242ed5298b47bcc75",
+      "image_url": "https://yamani.blog/blog/wp-content/uploads/2025/10/11B_4581-scaled.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7uPAOp1fY4N_W2iTM_UMX_sQSUn8gJ-aupdnvWjqkuQ&s=10",
+      "source_page_url": "https://www.yamani-suisan.jp/blog/%E9%87%91%E7%9B%AE%E9%AF%9B%E3%81%AE%E9%AD%85%E5%8A%9B%EF%BC%81%E9%87%91%E7%9B%AE%E9%AF%9B%E3%81%AE%E7%85%AE%E3%81%A4%E3%81%91%E3%81%8C%E7%B0%A1%E5%8D%98%E3%81%AB%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%8F/?srsltid=AfmBOork9_abWC411dzjsnCs2pOVqgvvbbXI71nwVwcqNKwm_GVR2BFo",
+      "source_domain": "www.yamani-suisan.jp"
+    },
+    {
+      "candidate_id": "cand_1d7cf1ab188a720733b372a1",
+      "image_url": "https://www.maruichi.com/osakana/recipe/assets/recipeimg/e9da407c7a4e28d3de1a3374ae3ee61234a411fe.JPG",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIEkyDVfTSbLQobDeFaCcCmSik3aeiyiGPvKWGbxPiHw&s=10",
+      "source_page_url": "https://www.maruichi.com/osakana/recipe/post-154.php",
+      "source_domain": "www.maruichi.com"
+    },
+    {
+      "candidate_id": "cand_bfb78d567f1bda763374da3c",
+      "image_url": "https://www.hyponex.co.jp/yasai_daijiten/websys/wp-content/uploads/2021/01/%E3%82%AD%E3%83%B3%E3%83%A1%E3%83%80%E3%82%A4D-scaled.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8SngaOO3JBfnhSfmiY-2preRon3JiibP2iOzo4petNg&s=10",
+      "source_page_url": "https://www.hyponex.co.jp/yasai_daijiten/column/column-3619",
+      "source_domain": "www.hyponex.co.jp"
+    },
+    {
+      "candidate_id": "cand_02d443f8dc1603f4747f04ea",
+      "image_url": "https://makeshop.thomas-kobe.co.jp/wp-content/uploads/IMG_9078-scaled-e1677108533445-1024x1024.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM1GXI4FFeNqxwxPpcfvF702hIFssY9jzls07XIsfUHg&s=10",
+      "source_page_url": "https://www.kobe38.com/blog/recipe/15322/",
+      "source_domain": "www.kobe38.com"
+    },
+    {
+      "candidate_id": "cand_f68fd3bf209b6e0b5764f8e1",
+      "image_url": "https://shop.kazusaya-kanko.com/cdn/shop/files/2080_2_b.png?v=1743125773&width=1946",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2eXSje800BjvdzkPepA6RK13Mjzf1Y0AAw8J9O3I8dQ&s",
+      "source_page_url": "https://shop.kazusaya-kanko.com/products/kinme_hitotoki_b?srsltid=AfmBOopJAmSn36ly9meKk-nVQNH4M9EuxqNZVNIF2k3qlJbseQllvs2N",
+      "source_domain": "shop.kazusaya-kanko.com"
+    },
+    {
+      "candidate_id": "cand_789a5d410730cac042c4946b",
+      "image_url": "https://kochi-marugoto.com/images/megumi/marine/11-kinmedai/main.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuB4kkzk16YuflsfwC1MTdoOxwMMvMDtBqCwuOw7AZQ&s=10",
+      "source_page_url": "https://kochi-marugoto.com/megumi-marine-kinmedai.html",
+      "source_domain": "kochi-marugoto.com"
+    },
+    {
+      "candidate_id": "cand_ad4be43d2afc705e8708d105",
+      "image_url": "https://giftlist.ringbell.co.jp/img/goods/L/EGH01-378_L.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD4KKPPrNp0IswpQJN7H4KwPTFxfEui9dsBSKXrXcJNw&s=10",
+      "source_page_url": "https://giftlist.ringbell.co.jp/shop/g/gEGH01-378/",
+      "source_domain": "giftlist.ringbell.co.jp"
+    },
+    {
+      "candidate_id": "cand_e8020a45b9bce20a19c3a320",
+      "image_url": "https://item-shopping.c.yimg.jp/i/n/maguro-ousama_kinmedai-nitsuke-5p",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyWrvEJs0uLdv8q6eEpaqYEQBhYQMhTeuKglJaTDOZHQ&s=10",
+      "source_page_url": "https://store.shopping.yahoo.co.jp/maguro-ousama/kinmedai-nitsuke-5p.html",
+      "source_domain": "store.shopping.yahoo.co.jp"
+    },
+    {
+      "candidate_id": "cand_68ee2f5d93729ca3c71fd458",
+      "image_url": "https://images.mainichigrillbu.noritz.co.jp/recipe/c6678d675f0b1d90a033982faa6353b4.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVHv9cgP079H-9j2q9aoDr-eWAyx50Kgjfr_by7CvuVg&s=10",
+      "source_page_url": "https://www.mainichigrillbu.com/recipe/2384",
+      "source_domain": "www.mainichigrillbu.com"
+    },
+    {
+      "candidate_id": "cand_980330fca25fa57ed8be54da",
+      "image_url": "https://foodslink.jp/syokuzaihyakka/syun/sample/sakana4/kinme004(6720x4480).jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHLuNejJXAr1TO1bSlxYzQ-SHeaPLz0R7ZA9xcmNp9yQ&s=10",
+      "source_page_url": "https://foodslink.jp/syokuzaihyakka/syun/fish/kinme3.htm",
+      "source_domain": "foodslink.jp"
+    },
+    {
+      "candidate_id": "cand_a9a0430d3595d47e5116e8d2",
+      "image_url": "https://www.shinyei-shokuhin.jp/images/dic/seafood/item_kinmedai01.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAG1SoQ79w1UlCtWbCFOvoGXYXsVAQTq9eB0BcFaCPeQ&s=10",
+      "source_page_url": "https://www.shinyei-shokuhin.jp/dic/seafood/dic_kinmedai.html",
+      "source_domain": "www.shinyei-shokuhin.jp"
+    },
+    {
+      "candidate_id": "cand_0a808d700084b8e33cbaf0ee",
+      "image_url": "https://cdn.shopify.com/s/files/1/0816/1230/8761/t/21/assets/6ac332b681d1--033-3f515f.png?v=1751005799",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSENauikS23nzcsGjGu9q_D_ZxantP9PNkfg697zM7BaA&s=10",
+      "source_page_url": "https://yamaka-suisan.co.jp/blogs/cooking/kinmegrill?srsltid=AfmBOorLNa1CKS2cI3UCA-YIbK2lSVTWtBmQlDDLT896SrCEo1SHkxmm",
+      "source_domain": "yamaka-suisan.co.jp"
+    },
+    {
+      "candidate_id": "cand_6dd2e2b7bcbc4e690250762f",
+      "image_url": "https://dailyportalz.jp/b/2016/12/12/b/img/pc/0001.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKBklUEHyaJPihH3_cup4oeDAH5llhzn3rZa2fo1nlGQ&s=10",
+      "source_page_url": "https://dailyportalz.jp/kiji/161212198284",
+      "source_domain": "dailyportalz.jp"
+    },
+    {
+      "candidate_id": "cand_56a3c06945d13f7a2e31509d",
+      "image_url": "https://tshop.r10s.jp/selectfood/cabinet/himono_set/sgift005_001a.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7f7ecsuh-vzdjiJure7ApK6ybadxt3yCE4gFuS8IETQ&s=10",
+      "source_page_url": "https://item.rakuten.co.jp/selectfood/sgift005/",
+      "source_domain": "item.rakuten.co.jp"
+    },
+    {
+      "candidate_id": "cand_373b341ce1611afdfbdd83cb",
+      "image_url": "https://image.raku-uru.jp/01/21685/560/a15-03-list-01_1654933385374.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsMNlo_lMVtKAbZ7cAbLho6Zu3tezmzcmTKj2_5GU2PA&s=10",
+      "source_page_url": "https://hirataya-himono.jp/item-detail/1767797?srsltid=AfmBOorqY3m5yAefCehCTTF7gfMdZrw6Gk_69-v4g3gX0Htzfm4QCjz8",
+      "source_domain": "hirataya-himono.jp"
+    },
+    {
+      "candidate_id": "cand_ee3252eba1175f92b06a349b",
+      "image_url": "https://image.delishkitchen.tv/recipe/216317357709066523/1.jpg?version=1684976881",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfJuOctDphijPgaAY9jeEJu5ZUvT2QGjY2mdEb_DRMvA&s=10",
+      "source_page_url": "https://delishkitchen.tv/selections/610075917322083493",
+      "source_domain": "delishkitchen.tv"
+    },
+    {
+      "candidate_id": "cand_7f2c791223848039a205e481",
+      "image_url": "https://sakana.metro.tokyo.lg.jp/guide/img/guide01_01.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShBoe11K5cTYaLxkSt0RPv_onnq6tm5d6kgXKeHFxR9g&s=10",
+      "source_page_url": "https://sakana.metro.tokyo.lg.jp/guide/suisan01.html",
+      "source_domain": "sakana.metro.tokyo.lg.jp"
+    },
+    {
+      "candidate_id": "cand_1953f8c817fdaef8b6fb2b74",
+      "image_url": "https://hirome.online/cdn/shop/files/2_b36b1b57-eb57-4984-b60c-9411cf50023e.png?v=1771948969&width=2024",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZRmr5qlY9-1XgnHaJW2UCv06AygbdqT4ofbaG0fIl7g&s",
+      "source_page_url": "https://hirome.online/products/kinmedaihimono?srsltid=AfmBOoq5PLOmkSbb6ngUr0LRPImzhLZS3WubIoq6ynSlqXb3JpjJNsTs",
+      "source_domain": "hirome.online"
+    },
+    {
+      "candidate_id": "cand_3104e0c488a998c9a3de40a1",
+      "image_url": "https://atami-furuya.co.jp/wp-content/themes/furuya2019/lib/images/food/kinmedai/section2.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCq8RxCBL6UtIAjTDqPcypqVrm3dA73qlME4JRuIEBQ&s=10",
+      "source_page_url": "https://atami-furuya.co.jp/food/kinmedai",
+      "source_domain": "atami-furuya.co.jp"
+    },
+    {
+      "candidate_id": "cand_a0c7b75c7df41e6c5434b068",
+      "image_url": "https://www.at-s.com/life/images/n184/1836076/tokuzou_ogp.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSexOFYSN5j4R-mmNwObcFRBTh7JWnsbjvCnPGm2NJOxA&s=10",
+      "source_page_url": "https://www.at-s.com/life/article/ats/1836076.html",
+      "source_domain": "www.at-s.com"
+    },
+    {
+      "candidate_id": "cand_b73c18c290d2f910c6290903",
+      "image_url": "https://uomitsu.jp/cdn/shop/files/AdobeStock_761292393.jpg?v=1738491693&width=2000",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkMdN1u7Y7pPOJZEXiPmUYTw9LGjhVwpqmmvI8RDK3jQ&s",
+      "source_page_url": "https://uomitsu.jp/products/kinmedai?srsltid=AfmBOoqXuMsxkPwLtOPrEhVMdaQS4Yy66zR9bRD6sPjsRo_rWHVItYXd",
+      "source_domain": "uomitsu.jp"
+    },
+    {
+      "candidate_id": "cand_daa20a6621f60c1609653bdf",
+      "image_url": "https://static.wixstatic.com/media/e4a9d2_54d0baada2fd4681ad0d9b274becb049~mv2.jpg/v1/fill/w_280,h_372,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/e4a9d2_54d0baada2fd4681ad0d9b274becb049~mv2.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPzNgmFmEE8f1bP6k6uxGO7y-qyIp-QOJzN9Doc1zdVA&s=10",
+      "source_page_url": "https://www.shimoda-city.info/kinem",
+      "source_domain": "www.shimoda-city.info"
+    },
+    {
+      "candidate_id": "cand_1358f62992c8fd300bef0a32",
+      "image_url": "https://baseec-img-mng.akamaized.net/images/item/origin/80054b2fa7cc4da4f847f176abb7edbe.jpg?imformat=generic",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpisBTdIEa2fAMeyqOLEhsyjdhNR8-Vk-3vSe4DZUoog&s=10",
+      "source_page_url": "https://www.awawa-food.shop/items/77029294",
+      "source_domain": "www.awawa-food.shop"
+    },
+    {
+      "candidate_id": "cand_acfb3fd1c5efa092f066a388",
+      "image_url": "https://img.freshmackerel.com/NewsPic/169509584930529.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjkBgBDkw-RI9KDDukzgEm2cR1gB7utfUzicDVNiinOg&s=10",
+      "source_page_url": "https://www.freshmackerel.com/fishlife/2199",
+      "source_domain": "www.freshmackerel.com"
+    },
+    {
+      "candidate_id": "cand_d0c59438d04a0058a9c28e0f",
+      "image_url": "https://www.ocean-treasure.com.tw/product/image/pics/%E7%B4%85%E7%9A%AE%E5%88%80.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWkfE9UulfbjHWaRL3hdTMnd0C4Y_kGhvD72P4pb9pUw&s=10",
+      "source_page_url": "https://www.ocean-treasure.com.tw/product-info.asp?id=286",
+      "source_domain": "www.ocean-treasure.com.tw"
+    },
+    {
+      "candidate_id": "cand_0cc97d8acecb3902fb2c502b",
+      "image_url": "https://www.ocean-treasure.com.tw/product/image/pics/13B56A3D-2B0C-424F-8923-E19D914220A1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAo-5XM70oR8DrfXWER1RXJGOx2YyjUTVk2DEguYnrLg&s=10",
+      "source_page_url": "https://www.ocean-treasure.com.tw/product-info.asp?id=286",
+      "source_domain": "www.ocean-treasure.com.tw"
+    },
+    {
+      "candidate_id": "cand_15d9ad4e67b1396c85db7f38",
+      "image_url": "https://img.shoplineapp.com/media/image_clips/6a44e10335e12e22001e2482/original.jpg?1782898946=&owner_id=64aea28012ce11001539f304",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsv0-XVyUw0x5vHfws4OswXgO-NqyRdNIKuoXxYCN7Yw&s",
+      "source_page_url": "https://www.u-seefood.com/products/f0126-2?srsltid=AfmBOopM7FOw9Osw6wMXP41R1j22BCb1hpsTKE7zjcqnoa_83KtNEdwa",
+      "source_domain": "www.u-seefood.com"
+    },
+    {
+      "candidate_id": "cand_e414b738f8d764dd13c19b03",
+      "image_url": "https://www.7-11-seafood.com.tw/img/Product/old/C13.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHDsy9m0FQ8bBU-44DZrfswj3qtqGjc-CWoPmTKXG3Pg&s=10",
+      "source_page_url": "https://www.7-11-seafood.com.tw/product/132",
+      "source_domain": "www.7-11-seafood.com.tw"
+    }
+  ]
+}

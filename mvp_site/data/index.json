@@ -1,0 +1,1590 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-25T12:30:37.329376+00:00",
+  "dataset_id": "fish-mvp-f571bc4d3d20269b",
+  "source_manifest_generated_at": "2026-08-25T06:16:55.478684+00:00",
+  "task_count": 141,
+  "fish_pool_count": 104,
+  "candidate_count": 8315,
+  "tasks": [
+    {
+      "target_id": "target_9942eb379f9476d276b5",
+      "fish_id": "fish_003",
+      "canonical_name": "獅子魚",
+      "aliases": [],
+      "reference_image": "assets/reference/20260427_073306~2-0061828d.webp",
+      "reference_filename": "20260427_073306~2.jpg",
+      "candidate_file": "data/candidates/fish_003.json",
+      "candidate_count": 69
+    },
+    {
+      "target_id": "target_c96fd45debecad3e98cd",
+      "fish_id": "fish_001",
+      "canonical_name": "紅紋笛鯛",
+      "aliases": [
+        "赤筆"
+      ],
+      "reference_image": "assets/reference/20260427_073344~2-7be2fba5.webp",
+      "reference_filename": "20260427_073344~2.jpg",
+      "candidate_file": "data/candidates/fish_001.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_3a318ab261caed544916",
+      "fish_id": "fish_002",
+      "canonical_name": "寒鯛",
+      "aliases": [
+        "石佬"
+      ],
+      "reference_image": "assets/reference/20260427_073344~2-7be2fba5.webp",
+      "reference_filename": "20260427_073344~2.jpg",
+      "candidate_file": "data/candidates/fish_002.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_be8581d188705b8337b6",
+      "fish_id": "fish_005",
+      "canonical_name": "松鯛",
+      "aliases": [],
+      "reference_image": "assets/reference/20260427_073551~2-4357ab8c.webp",
+      "reference_filename": "20260427_073551~2.jpg",
+      "candidate_file": "data/candidates/fish_005.json",
+      "candidate_count": 81
+    },
+    {
+      "target_id": "target_0b6758862141429d0858",
+      "fish_id": "fish_004",
+      "canonical_name": "日本血鯛",
+      "aliases": [
+        "盤仔魚",
+        "紅盤"
+      ],
+      "reference_image": "assets/reference/20260428_071827~2-8eba76f6.webp",
+      "reference_filename": "20260428_071827~2.jpg",
+      "candidate_file": "data/candidates/fish_004.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_7950e28cb8bc1512ecef",
+      "fish_id": "fish_006",
+      "canonical_name": "長腰鮪魚",
+      "aliases": [],
+      "reference_image": "assets/reference/20260428_073447~2-5dae69c4.webp",
+      "reference_filename": "20260428_073447~2.jpg",
+      "candidate_file": "data/candidates/fish_006.json",
+      "candidate_count": 43
+    },
+    {
+      "target_id": "target_87e7661928bc93efe15d",
+      "fish_id": "fish_006",
+      "canonical_name": "長腰鮪魚",
+      "aliases": [],
+      "reference_image": "assets/reference/20260428_073501~2-9a74be42.webp",
+      "reference_filename": "20260428_073501~2.jpg",
+      "candidate_file": "data/candidates/fish_006.json",
+      "candidate_count": 43
+    },
+    {
+      "target_id": "target_9d0cb11e9599b6533294",
+      "fish_id": "fish_007",
+      "canonical_name": "紫金魚",
+      "aliases": [
+        "九牙"
+      ],
+      "reference_image": "assets/reference/20260428_074001~2-74056a14.webp",
+      "reference_filename": "20260428_074001~2.jpg",
+      "candidate_file": "data/candidates/fish_007.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_27f10c6089b4c3927791",
+      "fish_id": "fish_008",
+      "canonical_name": "繡色細齒笛鯛",
+      "aliases": [],
+      "reference_image": "assets/reference/20260428_075512~2-d7fccaa6.webp",
+      "reference_filename": "20260428_075512~2.jpg",
+      "candidate_file": "data/candidates/fish_008.json",
+      "candidate_count": 56
+    },
+    {
+      "target_id": "target_c3a2375b22749c276a39",
+      "fish_id": "fish_009",
+      "canonical_name": "闊嘴郎",
+      "aliases": [
+        "闊嘴",
+        "闊嘴攏"
+      ],
+      "reference_image": "assets/reference/20260428_075512~2-d7fccaa6.webp",
+      "reference_filename": "20260428_075512~2.jpg",
+      "candidate_file": "data/candidates/fish_009.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_e666045952df10e3d5a0",
+      "fish_id": "fish_010",
+      "canonical_name": "青若梅鯛",
+      "aliases": [
+        "青雞魚"
+      ],
+      "reference_image": "assets/reference/20260428_075536~2-9637a63d.webp",
+      "reference_filename": "20260428_075536~2.jpg",
+      "candidate_file": "data/candidates/fish_010.json",
+      "candidate_count": 91
+    },
+    {
+      "target_id": "target_5bded4be468317d84c7b",
+      "fish_id": "fish_010",
+      "canonical_name": "青若梅鯛",
+      "aliases": [
+        "青雞魚"
+      ],
+      "reference_image": "assets/reference/20260428_075544~2-b68ce045.webp",
+      "reference_filename": "20260428_075544~2.jpg",
+      "candidate_file": "data/candidates/fish_010.json",
+      "candidate_count": 91
+    },
+    {
+      "target_id": "target_498172080c17f3c55d4b",
+      "fish_id": "fish_011",
+      "canonical_name": "剝皮魚",
+      "aliases": [],
+      "reference_image": "assets/reference/20260428_080308~3-591c28c1.webp",
+      "reference_filename": "20260428_080308~3.jpg",
+      "candidate_file": "data/candidates/fish_011.json",
+      "candidate_count": 87
+    },
+    {
+      "target_id": "target_0f19ad8bb635f8b4b9d1",
+      "fish_id": "fish_012",
+      "canonical_name": "雲紋石斑",
+      "aliases": [],
+      "reference_image": "assets/reference/20260428_080313~2-61dc4545.webp",
+      "reference_filename": "20260428_080313~2.jpg",
+      "candidate_file": "data/candidates/fish_012.json",
+      "candidate_count": 45
+    },
+    {
+      "target_id": "target_1a64cc57f8f794dbae23",
+      "fish_id": "fish_013",
+      "canonical_name": "夢幻石鯛",
+      "aliases": [],
+      "reference_image": "assets/reference/20260428_091227~2-01ddfd5d.webp",
+      "reference_filename": "20260428_091227~2.jpg",
+      "candidate_file": "data/candidates/fish_013.json",
+      "candidate_count": 64
+    },
+    {
+      "target_id": "target_e53c5e744bebf22f4c49",
+      "fish_id": "fish_014",
+      "canonical_name": "堅鋸鱗魚",
+      "aliases": [
+        "紅鐵甲"
+      ],
+      "reference_image": "assets/reference/20260428_091235~2-3a15709a.webp",
+      "reference_filename": "20260428_091235~2.jpg",
+      "candidate_file": "data/candidates/fish_014.json",
+      "candidate_count": 81
+    },
+    {
+      "target_id": "target_66661a1b9174ae7e54bb",
+      "fish_id": "fish_015",
+      "canonical_name": "黃鰭鮪魚",
+      "aliases": [],
+      "reference_image": "assets/reference/20260429_073723~2-553df416.webp",
+      "reference_filename": "20260429_073723~2.jpg",
+      "candidate_file": "data/candidates/fish_015.json",
+      "candidate_count": 79
+    },
+    {
+      "target_id": "target_bb1fba1a2afb4e156ab7",
+      "fish_id": "fish_016",
+      "canonical_name": "鶴鱵",
+      "aliases": [
+        "水針"
+      ],
+      "reference_image": "assets/reference/20260429_074433~2-3d7185b7.webp",
+      "reference_filename": "20260429_074433~2.jpg",
+      "candidate_file": "data/candidates/fish_016.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_22c2f600fdfa3490b129",
+      "fish_id": "fish_017",
+      "canonical_name": "東方齒鰆",
+      "aliases": [
+        "煙仔虎"
+      ],
+      "reference_image": "assets/reference/20260429_075522~2-131f2484.webp",
+      "reference_filename": "20260429_075522~2.jpg",
+      "candidate_file": "data/candidates/fish_017.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_a07e37ae3774e843a517",
+      "fish_id": "fish_018",
+      "canonical_name": "長鰭鰤",
+      "aliases": [
+        "油甘"
+      ],
+      "reference_image": "assets/reference/20260429_082101~2-64dad772.webp",
+      "reference_filename": "20260429_082101~2.jpg",
+      "candidate_file": "data/candidates/fish_018.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_4d1391840c9495babf73",
+      "fish_id": "fish_019",
+      "canonical_name": "藍點石斑",
+      "aliases": [],
+      "reference_image": "assets/reference/20260429_082314~2-5e88f045.webp",
+      "reference_filename": "20260429_082314~2.jpg",
+      "candidate_file": "data/candidates/fish_019.json",
+      "candidate_count": 67
+    },
+    {
+      "target_id": "target_7929ff23ef670c18583f",
+      "fish_id": "fish_020",
+      "canonical_name": "芭蕉旗魚",
+      "aliases": [
+        "傘旗魚"
+      ],
+      "reference_image": "assets/reference/20260502_084547~2-aa14f61a.webp",
+      "reference_filename": "20260502_084547~2.jpg",
+      "candidate_file": "data/candidates/fish_020.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_ed20b5f91abb747af4dd",
+      "fish_id": "fish_021",
+      "canonical_name": "史氏紅諧魚",
+      "aliases": [
+        "紅嘴唇"
+      ],
+      "reference_image": "assets/reference/20260521_073957~2-f620add8.webp",
+      "reference_filename": "20260521_073957~2.jpg",
+      "candidate_file": "data/candidates/fish_021.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_b03f0386a09a40bb4fbe",
+      "fish_id": "fish_009",
+      "canonical_name": "闊嘴郎",
+      "aliases": [
+        "闊嘴",
+        "闊嘴攏"
+      ],
+      "reference_image": "assets/reference/20260521_074040~2-f4db8d3e.webp",
+      "reference_filename": "20260521_074040~2.jpg",
+      "candidate_file": "data/candidates/fish_009.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_a95b1d005784f27bcc88",
+      "fish_id": "fish_022",
+      "canonical_name": "七帶石斑",
+      "aliases": [],
+      "reference_image": "assets/reference/20260521_082902~2-0f1d27ce.webp",
+      "reference_filename": "20260521_082902~2.jpg",
+      "candidate_file": "data/candidates/fish_022.json",
+      "candidate_count": 65
+    },
+    {
+      "target_id": "target_c6b304d6b8a49b55ae02",
+      "fish_id": "fish_023",
+      "canonical_name": "阿氏龍占",
+      "aliases": [],
+      "reference_image": "assets/reference/20260523_080652~2-60e91360.webp",
+      "reference_filename": "20260523_080652~2.jpg",
+      "candidate_file": "data/candidates/fish_023.json",
+      "candidate_count": 79
+    },
+    {
+      "target_id": "target_467ea069881882234776",
+      "fish_id": "fish_024",
+      "canonical_name": "正龍占",
+      "aliases": [],
+      "reference_image": "assets/reference/20260523_080652~2-60e91360.webp",
+      "reference_filename": "20260523_080652~2.jpg",
+      "candidate_file": "data/candidates/fish_024.json",
+      "candidate_count": 74
+    },
+    {
+      "target_id": "target_839e6b4fc87e218322b2",
+      "fish_id": "fish_021",
+      "canonical_name": "史氏紅諧魚",
+      "aliases": [
+        "紅嘴唇"
+      ],
+      "reference_image": "assets/reference/20260525_074338~2-269fa7d1.webp",
+      "reference_filename": "20260525_074338~2.jpg",
+      "candidate_file": "data/candidates/fish_021.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_562683d74c6930e94469",
+      "fish_id": "fish_025",
+      "canonical_name": "赤羽太",
+      "aliases": [],
+      "reference_image": "assets/reference/20260527_074111~2-fe708a0c.webp",
+      "reference_filename": "20260527_074111~2.jpg",
+      "candidate_file": "data/candidates/fish_025.json",
+      "candidate_count": 85
+    },
+    {
+      "target_id": "target_d43a4f5639d4b9584b0a",
+      "fish_id": "fish_026",
+      "canonical_name": "黃斑狐鯛",
+      "aliases": [
+        "三齒"
+      ],
+      "reference_image": "assets/reference/20260527_080533~2-8dee0770.webp",
+      "reference_filename": "20260527_080533~2.jpg",
+      "candidate_file": "data/candidates/fish_026.json",
+      "candidate_count": 97
+    },
+    {
+      "target_id": "target_d5eb04883745f5e6bf19",
+      "fish_id": "fish_027",
+      "canonical_name": "雙帶狐鯛",
+      "aliases": [],
+      "reference_image": "assets/reference/20260527_080533~2-8dee0770.webp",
+      "reference_filename": "20260527_080533~2.jpg",
+      "candidate_file": "data/candidates/fish_027.json",
+      "candidate_count": 60
+    },
+    {
+      "target_id": "target_f83f14f0de532cbdb932",
+      "fish_id": "fish_028",
+      "canonical_name": "絲鰭姬鯛",
+      "aliases": [
+        "金算午"
+      ],
+      "reference_image": "assets/reference/20260528_073726~2-802b9007.webp",
+      "reference_filename": "20260528_073726~2.jpg",
+      "candidate_file": "data/candidates/fish_028.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_7b06e6cca09444a398d0",
+      "fish_id": "fish_029",
+      "canonical_name": "雙斑笛鯛",
+      "aliases": [
+        "紅槽"
+      ],
+      "reference_image": "assets/reference/20260528_073912~2-ecf19670.webp",
+      "reference_filename": "20260528_073912~2.jpg",
+      "candidate_file": "data/candidates/fish_029.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_75ec4e1285e8b963aea1",
+      "fish_id": "fish_021",
+      "canonical_name": "史氏紅諧魚",
+      "aliases": [
+        "紅嘴唇"
+      ],
+      "reference_image": "assets/reference/20260529_074135~2-93a9a284.webp",
+      "reference_filename": "20260529_074135~2.jpg",
+      "candidate_file": "data/candidates/fish_021.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_a19c6924cf66122467dc",
+      "fish_id": "fish_030",
+      "canonical_name": "雙帶鰺",
+      "aliases": [
+        "拉倫"
+      ],
+      "reference_image": "assets/reference/20260529_074135~2-93a9a284.webp",
+      "reference_filename": "20260529_074135~2.jpg",
+      "candidate_file": "data/candidates/fish_030.json",
+      "candidate_count": 56
+    },
+    {
+      "target_id": "target_31c5b4d899481c89f161",
+      "fish_id": "fish_031",
+      "canonical_name": "單帶眶棘鱸",
+      "aliases": [
+        "白孔仔"
+      ],
+      "reference_image": "assets/reference/20260529_080145~2-f1329963.webp",
+      "reference_filename": "20260529_080145~2.jpg",
+      "candidate_file": "data/candidates/fish_031.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_98a37375df5a1c0f545e",
+      "fish_id": "fish_032",
+      "canonical_name": "紅鰓龍占",
+      "aliases": [],
+      "reference_image": "assets/reference/20260529_080213~2-27af7490.webp",
+      "reference_filename": "20260529_080213~2.jpg",
+      "candidate_file": "data/candidates/fish_032.json",
+      "candidate_count": 72
+    },
+    {
+      "target_id": "target_14258c0c9f62479c4b06",
+      "fish_id": "fish_033",
+      "canonical_name": "大棘大眼鯛",
+      "aliases": [
+        "紅目鰱"
+      ],
+      "reference_image": "assets/reference/20260602_080048~2-6f9328f0.webp",
+      "reference_filename": "20260602_080048~2.jpg",
+      "candidate_file": "data/candidates/fish_033.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_0d88dbd55e3d22b1a668",
+      "fish_id": "fish_034",
+      "canonical_name": "白線鮨",
+      "aliases": [],
+      "reference_image": "assets/reference/20260603_073547~2-763546af.webp",
+      "reference_filename": "20260603_073547~2.jpg",
+      "candidate_file": "data/candidates/fish_034.json",
+      "candidate_count": 82
+    },
+    {
+      "target_id": "target_e83334873d93032977e2",
+      "fish_id": "fish_035",
+      "canonical_name": "橙點石斑",
+      "aliases": [],
+      "reference_image": "assets/reference/20260603_073547~2-763546af.webp",
+      "reference_filename": "20260603_073547~2.jpg",
+      "candidate_file": "data/candidates/fish_035.json",
+      "candidate_count": 72
+    },
+    {
+      "target_id": "target_5a480293f76f3330e437",
+      "fish_id": "fish_031",
+      "canonical_name": "單帶眶棘鱸",
+      "aliases": [
+        "白孔仔"
+      ],
+      "reference_image": "assets/reference/20260603_073612~2-9619457d.webp",
+      "reference_filename": "20260603_073612~2.jpg",
+      "candidate_file": "data/candidates/fish_031.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_b5900d28dd52c1048aae",
+      "fish_id": "fish_036",
+      "canonical_name": "宋氏九刺鮨",
+      "aliases": [
+        "紅瓜子斑",
+        "紅石斑"
+      ],
+      "reference_image": "assets/reference/20260604_073659~2-609a5d2d.webp",
+      "reference_filename": "20260604_073659~2.jpg",
+      "candidate_file": "data/candidates/fish_036.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_4a7d4d4b5c5099ff0dd9",
+      "fish_id": "fish_037",
+      "canonical_name": "圓眼燕魚",
+      "aliases": [
+        "富貴魚"
+      ],
+      "reference_image": "assets/reference/20260604_073713~2-0402684f.webp",
+      "reference_filename": "20260604_073713~2.jpg",
+      "candidate_file": "data/candidates/fish_037.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_44703ee0c6ed6641b939",
+      "fish_id": "fish_038",
+      "canonical_name": "細點石斑魚",
+      "aliases": [
+        "藍瓜子斑"
+      ],
+      "reference_image": "assets/reference/20260619_073555~2-31d1dee3.webp",
+      "reference_filename": "20260619_073555~2.jpg",
+      "candidate_file": "data/candidates/fish_038.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_ed1335fce39d21e4b77d",
+      "fish_id": "fish_039",
+      "canonical_name": "金目鯛",
+      "aliases": [
+        "紅皮刀"
+      ],
+      "reference_image": "assets/reference/20260619_074727~2-7d497bc7.webp",
+      "reference_filename": "20260619_074727~2.jpg",
+      "candidate_file": "data/candidates/fish_039.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_18881de9437e6cbe1cb6",
+      "fish_id": "fish_040",
+      "canonical_name": "逆鉤鰺",
+      "aliases": [
+        "刺蔥"
+      ],
+      "reference_image": "assets/reference/20260621_075600~2-58bc2948.webp",
+      "reference_filename": "20260621_075600~2.jpg",
+      "candidate_file": "data/candidates/fish_040.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_02b7ac6854e0967830d3",
+      "fish_id": "fish_041",
+      "canonical_name": "雪鯰",
+      "aliases": [],
+      "reference_image": "assets/reference/20260621_075848~2-6ea3ee83.webp",
+      "reference_filename": "20260621_075848~2.jpg",
+      "candidate_file": "data/candidates/fish_041.json",
+      "candidate_count": 64
+    },
+    {
+      "target_id": "target_79f2faf4169f890d51d9",
+      "fish_id": "fish_013",
+      "canonical_name": "夢幻石鯛",
+      "aliases": [],
+      "reference_image": "assets/reference/20260622_073634~2-fc021021.webp",
+      "reference_filename": "20260622_073634~2.jpg",
+      "candidate_file": "data/candidates/fish_013.json",
+      "candidate_count": 64
+    },
+    {
+      "target_id": "target_e18671f873152c244246",
+      "fish_id": "fish_042",
+      "canonical_name": "花鱸",
+      "aliases": [
+        "海新娘"
+      ],
+      "reference_image": "assets/reference/20260622_073655~2-e3af9d5f.webp",
+      "reference_filename": "20260622_073655~2.jpg",
+      "candidate_file": "data/candidates/fish_042.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_9152ae7939de80e00a39",
+      "fish_id": "fish_020",
+      "canonical_name": "芭蕉旗魚",
+      "aliases": [
+        "傘旗魚"
+      ],
+      "reference_image": "assets/reference/20260622_080719~2-b43dfdde.webp",
+      "reference_filename": "20260622_080719~2.jpg",
+      "candidate_file": "data/candidates/fish_020.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_87dbb1c673d39116e769",
+      "fish_id": "fish_043",
+      "canonical_name": "狗母魚",
+      "aliases": [],
+      "reference_image": "assets/reference/20260622_082445~2-21ec6dce.webp",
+      "reference_filename": "20260622_082445~2.jpg",
+      "candidate_file": "data/candidates/fish_043.json",
+      "candidate_count": 77
+    },
+    {
+      "target_id": "target_a7160d93c1ebf567336c",
+      "fish_id": "fish_044",
+      "canonical_name": "鑲點石斑",
+      "aliases": [],
+      "reference_image": "assets/reference/20260623_074502~2-0d76e428.webp",
+      "reference_filename": "20260623_074502~2.jpg",
+      "candidate_file": "data/candidates/fish_044.json",
+      "candidate_count": 64
+    },
+    {
+      "target_id": "target_8fdf20e71319304f08d6",
+      "fish_id": "fish_045",
+      "canonical_name": "弧紋石斑",
+      "aliases": [],
+      "reference_image": "assets/reference/20260623_074502~2-0d76e428.webp",
+      "reference_filename": "20260623_074502~2.jpg",
+      "candidate_file": "data/candidates/fish_045.json",
+      "candidate_count": 74
+    },
+    {
+      "target_id": "target_c24f7bb36dbb5f47dcf8",
+      "fish_id": "fish_046",
+      "canonical_name": "真烏魴",
+      "aliases": [
+        "黑嘉蠟"
+      ],
+      "reference_image": "assets/reference/20260623_074617~2-b981188b.webp",
+      "reference_filename": "20260623_074617~2.jpg",
+      "candidate_file": "data/candidates/fish_046.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_9c01ea34d94ed405198a",
+      "fish_id": "fish_047",
+      "canonical_name": "赤鰭笛鯛",
+      "aliases": [
+        "赤海"
+      ],
+      "reference_image": "assets/reference/20260623_074641~2-06b80d7a.webp",
+      "reference_filename": "20260623_074641~2.jpg",
+      "candidate_file": "data/candidates/fish_047.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_0d7a99045ea3d5ab802c",
+      "fish_id": "fish_048",
+      "canonical_name": "三線磯鱸",
+      "aliases": [
+        "黃雞魚"
+      ],
+      "reference_image": "assets/reference/20260623_074745~2-5178d471.webp",
+      "reference_filename": "20260623_074745~2.jpg",
+      "candidate_file": "data/candidates/fish_048.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_50a48e3535437810352e",
+      "fish_id": "fish_001",
+      "canonical_name": "紅紋笛鯛",
+      "aliases": [
+        "赤筆"
+      ],
+      "reference_image": "assets/reference/20260623_074756~2-ff963c3a.webp",
+      "reference_filename": "20260623_074756~2.jpg",
+      "candidate_file": "data/candidates/fish_001.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_39ac0c118a11591c430d",
+      "fish_id": "fish_049",
+      "canonical_name": "黃帶龍占",
+      "aliases": [],
+      "reference_image": "assets/reference/20260623_074954~2-3f665c5d.webp",
+      "reference_filename": "20260623_074954~2.jpg",
+      "candidate_file": "data/candidates/fish_049.json",
+      "candidate_count": 65
+    },
+    {
+      "target_id": "target_b175811310402ba5459e",
+      "fish_id": "fish_014",
+      "canonical_name": "堅鋸鱗魚",
+      "aliases": [
+        "紅鐵甲"
+      ],
+      "reference_image": "assets/reference/20260623_074954~2-3f665c5d.webp",
+      "reference_filename": "20260623_074954~2.jpg",
+      "candidate_file": "data/candidates/fish_014.json",
+      "candidate_count": 81
+    },
+    {
+      "target_id": "target_e1939ee10a7575a8c76a",
+      "fish_id": "fish_050",
+      "canonical_name": "條紋胡椒鯛",
+      "aliases": [
+        "花身"
+      ],
+      "reference_image": "assets/reference/20260623_075906~2-e892c02d.webp",
+      "reference_filename": "20260623_075906~2.jpg",
+      "candidate_file": "data/candidates/fish_050.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_84e8b71133c19b6f1f04",
+      "fish_id": "fish_051",
+      "canonical_name": "葉鯛",
+      "aliases": [
+        "黑大目"
+      ],
+      "reference_image": "assets/reference/20260623_080352~2-6060c6b6.webp",
+      "reference_filename": "20260623_080352~2.jpg",
+      "candidate_file": "data/candidates/fish_051.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_d8870eb8aa5871d5c85b",
+      "fish_id": "fish_052",
+      "canonical_name": "赤鯮",
+      "aliases": [
+        "赤鯨"
+      ],
+      "reference_image": "assets/reference/20260627_073733~2-0a2629fc.webp",
+      "reference_filename": "20260627_073733~2.jpg",
+      "candidate_file": "data/candidates/fish_052.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_452b2fea83816dba6007",
+      "fish_id": "fish_053",
+      "canonical_name": "黑鮪",
+      "aliases": [
+        "黑鮭"
+      ],
+      "reference_image": "assets/reference/20260627_073827~2-5023bc75.webp",
+      "reference_filename": "20260627_073827~2.jpg",
+      "candidate_file": "data/candidates/fish_053.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_974a816e60935b34a9de",
+      "fish_id": "fish_054",
+      "canonical_name": "青衣",
+      "aliases": [],
+      "reference_image": "assets/reference/20260627_075539~2-62388ad8.webp",
+      "reference_filename": "20260627_075539~2.jpg",
+      "candidate_file": "data/candidates/fish_054.json",
+      "candidate_count": 86
+    },
+    {
+      "target_id": "target_c4a6eacf8c100d586358",
+      "fish_id": "fish_055",
+      "canonical_name": "鸚哥",
+      "aliases": [],
+      "reference_image": "assets/reference/20260627_075539~2-62388ad8.webp",
+      "reference_filename": "20260627_075539~2.jpg",
+      "candidate_file": "data/candidates/fish_055.json",
+      "candidate_count": 82
+    },
+    {
+      "target_id": "target_0e9f6cf75d1d6c181286",
+      "fish_id": "fish_056",
+      "canonical_name": "吻斑石斑",
+      "aliases": [],
+      "reference_image": "assets/reference/20260629_074226~2-07c2b719.webp",
+      "reference_filename": "20260629_074226~2.jpg",
+      "candidate_file": "data/candidates/fish_056.json",
+      "candidate_count": 67
+    },
+    {
+      "target_id": "target_8665c6da16e6861b1c98",
+      "fish_id": "fish_057",
+      "canonical_name": "單斑笛鯛",
+      "aliases": [
+        "黑點赤筆"
+      ],
+      "reference_image": "assets/reference/20260629_074226~2-07c2b719.webp",
+      "reference_filename": "20260629_074226~2.jpg",
+      "candidate_file": "data/candidates/fish_057.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_b3b9467eb8b7316ff1ae",
+      "fish_id": "fish_058",
+      "canonical_name": "鋸尾鯛",
+      "aliases": [
+        "黑豬哥"
+      ],
+      "reference_image": "assets/reference/20260629_080007~3-537ee319.webp",
+      "reference_filename": "20260629_080007~3.jpg",
+      "candidate_file": "data/candidates/fish_058.json",
+      "candidate_count": 98
+    },
+    {
+      "target_id": "target_e12aab5fdfde435047ba",
+      "fish_id": "fish_044",
+      "canonical_name": "鑲點石斑",
+      "aliases": [],
+      "reference_image": "assets/reference/20260630_074655~2-179be5e7.webp",
+      "reference_filename": "20260630_074655~2.jpg",
+      "candidate_file": "data/candidates/fish_044.json",
+      "candidate_count": 64
+    },
+    {
+      "target_id": "target_107599e733c5716ad58c",
+      "fish_id": "fish_059",
+      "canonical_name": "花尾胡椒鯛",
+      "aliases": [
+        "加志"
+      ],
+      "reference_image": "assets/reference/20260630_080605~2-21b8bb40.webp",
+      "reference_filename": "20260630_080605~2.jpg",
+      "candidate_file": "data/candidates/fish_059.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_886bbbec250132ab4239",
+      "fish_id": "fish_060",
+      "canonical_name": "燕尾紅條",
+      "aliases": [],
+      "reference_image": "assets/reference/20260701_073907~2-91029859.webp",
+      "reference_filename": "20260701_073907~2.jpg",
+      "candidate_file": "data/candidates/fish_060.json",
+      "candidate_count": 67
+    },
+    {
+      "target_id": "target_0c615b7d7dd5f578baec",
+      "fish_id": "fish_061",
+      "canonical_name": "青星九刺鮨",
+      "aliases": [
+        "紅石斑"
+      ],
+      "reference_image": "assets/reference/20260701_073912~2-d37b8bec.webp",
+      "reference_filename": "20260701_073912~2.jpg",
+      "candidate_file": "data/candidates/fish_061.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_b3055c98510022711d68",
+      "fish_id": "fish_001",
+      "canonical_name": "紅紋笛鯛",
+      "aliases": [
+        "赤筆"
+      ],
+      "reference_image": "assets/reference/20260701_074228~2-b85e6c07.webp",
+      "reference_filename": "20260701_074228~2.jpg",
+      "candidate_file": "data/candidates/fish_001.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_487732baf58b808fbe28",
+      "fish_id": "fish_062",
+      "canonical_name": "橫帶龍占",
+      "aliases": [],
+      "reference_image": "assets/reference/20260701_074232~2-ed4cd100.webp",
+      "reference_filename": "20260701_074232~2.jpg",
+      "candidate_file": "data/candidates/fish_062.json",
+      "candidate_count": 69
+    },
+    {
+      "target_id": "target_a856c900d18a609e7a92",
+      "fish_id": "fish_023",
+      "canonical_name": "阿氏龍占",
+      "aliases": [],
+      "reference_image": "assets/reference/20260701_074232~2-ed4cd100.webp",
+      "reference_filename": "20260701_074232~2.jpg",
+      "candidate_file": "data/candidates/fish_023.json",
+      "candidate_count": 79
+    },
+    {
+      "target_id": "target_bd72429b94203767c7d7",
+      "fish_id": "fish_040",
+      "canonical_name": "逆鉤鰺",
+      "aliases": [
+        "刺蔥"
+      ],
+      "reference_image": "assets/reference/20260702_074410~2-397a1a6b.webp",
+      "reference_filename": "20260702_074410~2.jpg",
+      "candidate_file": "data/candidates/fish_040.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_0d198f30d13bb29ed939",
+      "fish_id": "fish_063",
+      "canonical_name": "巴鰹",
+      "aliases": [
+        "三點煙"
+      ],
+      "reference_image": "assets/reference/20260702_074424~2-926192f1.webp",
+      "reference_filename": "20260702_074424~2.jpg",
+      "candidate_file": "data/candidates/fish_063.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_ad64c45d13cf5b2f55e1",
+      "fish_id": "fish_042",
+      "canonical_name": "花鱸",
+      "aliases": [
+        "海新娘"
+      ],
+      "reference_image": "assets/reference/20260702_074448~2-3fea1b90.webp",
+      "reference_filename": "20260702_074448~2.jpg",
+      "candidate_file": "data/candidates/fish_042.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_bd288456d078836d11b0",
+      "fish_id": "fish_064",
+      "canonical_name": "海鯽魚",
+      "aliases": [],
+      "reference_image": "assets/reference/20260702_074454~3-40776782.webp",
+      "reference_filename": "20260702_074454~3.jpg",
+      "candidate_file": "data/candidates/fish_064.json",
+      "candidate_count": 58
+    },
+    {
+      "target_id": "target_78106f10e463727a54be",
+      "fish_id": "fish_048",
+      "canonical_name": "三線磯鱸",
+      "aliases": [
+        "黃雞魚"
+      ],
+      "reference_image": "assets/reference/20260702_074500~2-8d1cff12.webp",
+      "reference_filename": "20260702_074500~2.jpg",
+      "candidate_file": "data/candidates/fish_048.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_6e51e4baf9b6c4505b32",
+      "fish_id": "fish_065",
+      "canonical_name": "希氏姬鯛",
+      "aliases": [
+        "算午"
+      ],
+      "reference_image": "assets/reference/20260702_074550~2-f97ab67c.webp",
+      "reference_filename": "20260702_074550~2.jpg",
+      "candidate_file": "data/candidates/fish_065.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_ed193508dbe84224e7ca",
+      "fish_id": "fish_046",
+      "canonical_name": "真烏魴",
+      "aliases": [
+        "黑嘉蠟"
+      ],
+      "reference_image": "assets/reference/20260702_074604~2-393fbfe8.webp",
+      "reference_filename": "20260702_074604~2.jpg",
+      "candidate_file": "data/candidates/fish_046.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_568d0bf058058957a133",
+      "fish_id": "fish_066",
+      "canonical_name": "斑點雞籠鯧",
+      "aliases": [
+        "銅盤"
+      ],
+      "reference_image": "assets/reference/20260703_074452~2-a4f1f5be.webp",
+      "reference_filename": "20260703_074452~2.jpg",
+      "candidate_file": "data/candidates/fish_066.json",
+      "candidate_count": 64
+    },
+    {
+      "target_id": "target_223ba0fe9b24983f1c42",
+      "fish_id": "fish_067",
+      "canonical_name": "瑪拉巴石斑",
+      "aliases": [],
+      "reference_image": "assets/reference/20260704_075151~2-ca771951.webp",
+      "reference_filename": "20260704_075151~2.jpg",
+      "candidate_file": "data/candidates/fish_067.json",
+      "candidate_count": 71
+    },
+    {
+      "target_id": "target_c04e5af91c8f88d8b330",
+      "fish_id": "fish_068",
+      "canonical_name": "花尾鷹羽鯛",
+      "aliases": [
+        "金花"
+      ],
+      "reference_image": "assets/reference/20260704_075236~2-04c3acb2.webp",
+      "reference_filename": "20260704_075236~2.jpg",
+      "candidate_file": "data/candidates/fish_068.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_d024f9c500703f0def56",
+      "fish_id": "fish_069",
+      "canonical_name": "斜鱗笛鯛",
+      "aliases": [],
+      "reference_image": "assets/reference/20260704_075258~2-001f8a3e.webp",
+      "reference_filename": "20260704_075258~2.jpg",
+      "candidate_file": "data/candidates/fish_069.json",
+      "candidate_count": 58
+    },
+    {
+      "target_id": "target_ec7ba3bc05074ac0d644",
+      "fish_id": "fish_070",
+      "canonical_name": "濱鯛",
+      "aliases": [
+        "正金蘭"
+      ],
+      "reference_image": "assets/reference/20260704_082059~2-943effe1.webp",
+      "reference_filename": "20260704_082059~2.jpg",
+      "candidate_file": "data/candidates/fish_070.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_877ad1757130b26592e4",
+      "fish_id": "fish_071",
+      "canonical_name": "長尾濱鯛",
+      "aliases": [
+        "金蘭",
+        "長尾鳥"
+      ],
+      "reference_image": "assets/reference/20260704_082104~2-6b80a3ab.webp",
+      "reference_filename": "20260704_082104~2.jpg",
+      "candidate_file": "data/candidates/fish_071.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_cb8d0d1d348b9a6d266d",
+      "fish_id": "fish_042",
+      "canonical_name": "花鱸",
+      "aliases": [
+        "海新娘"
+      ],
+      "reference_image": "assets/reference/20260704_082114~2-b75ca196.webp",
+      "reference_filename": "20260704_082114~2.jpg",
+      "candidate_file": "data/candidates/fish_042.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_79110db390c47d9ebd19",
+      "fish_id": "fish_072",
+      "canonical_name": "藍紋姬鯛",
+      "aliases": [],
+      "reference_image": "assets/reference/20260704_082121~2-59715307.webp",
+      "reference_filename": "20260704_082121~2.jpg",
+      "candidate_file": "data/candidates/fish_072.json",
+      "candidate_count": 44
+    },
+    {
+      "target_id": "target_2b3ccf082d6a416beb8f",
+      "fish_id": "fish_073",
+      "canonical_name": "馬鞭魚",
+      "aliases": [],
+      "reference_image": "assets/reference/20260704_082127~2-47827d49.webp",
+      "reference_filename": "20260704_082127~2.jpg",
+      "candidate_file": "data/candidates/fish_073.json",
+      "candidate_count": 63
+    },
+    {
+      "target_id": "target_6238d70b43970af19c47",
+      "fish_id": "fish_074",
+      "canonical_name": "紅甘",
+      "aliases": [],
+      "reference_image": "assets/reference/20260706_074524~2-3fdb808b.webp",
+      "reference_filename": "20260706_074524~2.jpg",
+      "candidate_file": "data/candidates/fish_074.json",
+      "candidate_count": 78
+    },
+    {
+      "target_id": "target_35eeab40e94c6dfc236b",
+      "fish_id": "fish_026",
+      "canonical_name": "黃斑狐鯛",
+      "aliases": [
+        "三齒"
+      ],
+      "reference_image": "assets/reference/20260706_081014~2-30f45a91.webp",
+      "reference_filename": "20260706_081014~2.jpg",
+      "candidate_file": "data/candidates/fish_026.json",
+      "candidate_count": 97
+    },
+    {
+      "target_id": "target_7f90630896afe9600359",
+      "fish_id": "fish_075",
+      "canonical_name": "白星笛鯛",
+      "aliases": [],
+      "reference_image": "assets/reference/20260706_081100~2-8365a60e.webp",
+      "reference_filename": "20260706_081100~2.jpg",
+      "candidate_file": "data/candidates/fish_075.json",
+      "candidate_count": 61
+    },
+    {
+      "target_id": "target_6101016343a42d41aabb",
+      "fish_id": "fish_076",
+      "canonical_name": "裸頂鯛",
+      "aliases": [
+        "月白"
+      ],
+      "reference_image": "assets/reference/20260706_081112~2-8b2e0c35.webp",
+      "reference_filename": "20260706_081112~2.jpg",
+      "candidate_file": "data/candidates/fish_076.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_148aa15144dae413a03d",
+      "fish_id": "fish_077",
+      "canonical_name": "駝背胡椒鯛",
+      "aliases": [
+        "厚唇加志"
+      ],
+      "reference_image": "assets/reference/20260706_081119~2-275c76a9.webp",
+      "reference_filename": "20260706_081119~2.jpg",
+      "candidate_file": "data/candidates/fish_077.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_dc50a5dd74eac782f0bc",
+      "fish_id": "fish_078",
+      "canonical_name": "半環刺蓋魚",
+      "aliases": [
+        "藍紋神仙"
+      ],
+      "reference_image": "assets/reference/20260706_081138~2-655b7054.webp",
+      "reference_filename": "20260706_081138~2.jpg",
+      "candidate_file": "data/candidates/fish_078.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_a3266b015deea3747deb",
+      "fish_id": "fish_079",
+      "canonical_name": "石狗公",
+      "aliases": [],
+      "reference_image": "assets/reference/20260706_081144~2-50141426.webp",
+      "reference_filename": "20260706_081144~2.jpg",
+      "candidate_file": "data/candidates/fish_079.json",
+      "candidate_count": 74
+    },
+    {
+      "target_id": "target_ba71aed1894ac143083c",
+      "fish_id": "fish_003",
+      "canonical_name": "獅子魚",
+      "aliases": [],
+      "reference_image": "assets/reference/20260706_081144~2-50141426.webp",
+      "reference_filename": "20260706_081144~2.jpg",
+      "candidate_file": "data/candidates/fish_003.json",
+      "candidate_count": 69
+    },
+    {
+      "target_id": "target_61b219229a089b6463af",
+      "fish_id": "fish_080",
+      "canonical_name": "竹節鰆",
+      "aliases": [
+        "石喬"
+      ],
+      "reference_image": "assets/reference/20260707_075016~2-d12bf995.webp",
+      "reference_filename": "20260707_075016~2.jpg",
+      "candidate_file": "data/candidates/fish_080.json",
+      "candidate_count": 69
+    },
+    {
+      "target_id": "target_76d055c0103a7c81b631",
+      "fish_id": "fish_015",
+      "canonical_name": "黃鰭鮪魚",
+      "aliases": [],
+      "reference_image": "assets/reference/20260707_075016~2-d12bf995.webp",
+      "reference_filename": "20260707_075016~2.jpg",
+      "candidate_file": "data/candidates/fish_015.json",
+      "candidate_count": 79
+    },
+    {
+      "target_id": "target_ef1e7c1c4ef25303f775",
+      "fish_id": "fish_081",
+      "canonical_name": "大白帶",
+      "aliases": [],
+      "reference_image": "assets/reference/20260707_075134~2-2ab84192.webp",
+      "reference_filename": "20260707_075134~2.jpg",
+      "candidate_file": "data/candidates/fish_081.json",
+      "candidate_count": 68
+    },
+    {
+      "target_id": "target_89e5103e7d932abb8364",
+      "fish_id": "fish_047",
+      "canonical_name": "赤鰭笛鯛",
+      "aliases": [
+        "赤海"
+      ],
+      "reference_image": "assets/reference/20260707_075231~2-1e1edf9c.webp",
+      "reference_filename": "20260707_075231~2.jpg",
+      "candidate_file": "data/candidates/fish_047.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_2286bb8da08cc17d1452",
+      "fish_id": "fish_057",
+      "canonical_name": "單斑笛鯛",
+      "aliases": [
+        "黑點赤筆"
+      ],
+      "reference_image": "assets/reference/20260707_075312~2-73298dbc.webp",
+      "reference_filename": "20260707_075312~2.jpg",
+      "candidate_file": "data/candidates/fish_057.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_04b00cc004ac5247930a",
+      "fish_id": "fish_004",
+      "canonical_name": "日本血鯛",
+      "aliases": [
+        "盤仔魚",
+        "紅盤"
+      ],
+      "reference_image": "assets/reference/20260707_075332~2-9dce810e.webp",
+      "reference_filename": "20260707_075332~2.jpg",
+      "candidate_file": "data/candidates/fish_004.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_2896fdedab39bce35e78",
+      "fish_id": "fish_082",
+      "canonical_name": "翡翠龍占",
+      "aliases": [],
+      "reference_image": "assets/reference/20260707_075404~2-2c506591.webp",
+      "reference_filename": "20260707_075404~2.jpg",
+      "candidate_file": "data/candidates/fish_082.json",
+      "candidate_count": 58
+    },
+    {
+      "target_id": "target_3f30ef0ba11d3a674f39",
+      "fish_id": "fish_083",
+      "canonical_name": "黃若梅鯛",
+      "aliases": [
+        "包公雞"
+      ],
+      "reference_image": "assets/reference/20260707_075422~2-733a5f81.webp",
+      "reference_filename": "20260707_075422~2.jpg",
+      "candidate_file": "data/candidates/fish_083.json",
+      "candidate_count": 50
+    },
+    {
+      "target_id": "target_a5f6789abae6c6070ad2",
+      "fish_id": "fish_084",
+      "canonical_name": "尖吻棘鯛",
+      "aliases": [
+        "五棘鯛"
+      ],
+      "reference_image": "assets/reference/20260707_075445~2-ad8afb1d.webp",
+      "reference_filename": "20260707_075445~2.jpg",
+      "candidate_file": "data/candidates/fish_084.json",
+      "candidate_count": 51
+    },
+    {
+      "target_id": "target_19bae69478f6c02c0cd9",
+      "fish_id": "fish_014",
+      "canonical_name": "堅鋸鱗魚",
+      "aliases": [
+        "紅鐵甲"
+      ],
+      "reference_image": "assets/reference/20260707_075450~2-d4f9388f.webp",
+      "reference_filename": "20260707_075450~2.jpg",
+      "candidate_file": "data/candidates/fish_014.json",
+      "candidate_count": 81
+    },
+    {
+      "target_id": "target_686cbc1d1c712db10fee",
+      "fish_id": "fish_001",
+      "canonical_name": "紅紋笛鯛",
+      "aliases": [
+        "赤筆"
+      ],
+      "reference_image": "assets/reference/20260707_075450~2-d4f9388f.webp",
+      "reference_filename": "20260707_075450~2.jpg",
+      "candidate_file": "data/candidates/fish_001.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_3039ee9874455019b6f8",
+      "fish_id": "fish_036",
+      "canonical_name": "宋氏九刺鮨",
+      "aliases": [
+        "紅瓜子斑",
+        "紅石斑"
+      ],
+      "reference_image": "assets/reference/20260707_081753~2-2fe2800b.webp",
+      "reference_filename": "20260707_081753~2.jpg",
+      "candidate_file": "data/candidates/fish_036.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_bac7d19de664942c3660",
+      "fish_id": "fish_085",
+      "canonical_name": "銀紋笛鯛",
+      "aliases": [
+        "紅槽"
+      ],
+      "reference_image": "assets/reference/20260707_081758~2-09f287db.webp",
+      "reference_filename": "20260707_081758~2.jpg",
+      "candidate_file": "data/candidates/fish_085.json",
+      "candidate_count": 65
+    },
+    {
+      "target_id": "target_86a23525e8837f69b2e8",
+      "fish_id": "fish_049",
+      "canonical_name": "黃帶龍占",
+      "aliases": [],
+      "reference_image": "assets/reference/20260707_081844~2-e14bc380.webp",
+      "reference_filename": "20260707_081844~2.jpg",
+      "candidate_file": "data/candidates/fish_049.json",
+      "candidate_count": 65
+    },
+    {
+      "target_id": "target_7173305b24a0f14f5c12",
+      "fish_id": "fish_086",
+      "canonical_name": "黑喉",
+      "aliases": [],
+      "reference_image": "assets/reference/20260707_090152~2-a86d5630.webp",
+      "reference_filename": "20260707_090152~2.jpg",
+      "candidate_file": "data/candidates/fish_086.json",
+      "candidate_count": 80
+    },
+    {
+      "target_id": "target_95f885d7e79f0adc1aac",
+      "fish_id": "fish_087",
+      "canonical_name": "紅目大眼鯛",
+      "aliases": [],
+      "reference_image": "assets/reference/20260707_090546~2-15e1cdbe.webp",
+      "reference_filename": "20260707_090546~2.jpg",
+      "candidate_file": "data/candidates/fish_087.json",
+      "candidate_count": 62
+    },
+    {
+      "target_id": "target_5de9786aff6438c0cfef",
+      "fish_id": "fish_030",
+      "canonical_name": "雙帶鰺",
+      "aliases": [
+        "拉倫"
+      ],
+      "reference_image": "assets/reference/20260804_073719~2-47332b78.webp",
+      "reference_filename": "20260804_073719~2.jpg",
+      "candidate_file": "data/candidates/fish_030.json",
+      "candidate_count": 56
+    },
+    {
+      "target_id": "target_1a284a582f950b08b5e8",
+      "fish_id": "fish_071",
+      "canonical_name": "長尾濱鯛",
+      "aliases": [
+        "金蘭",
+        "長尾鳥"
+      ],
+      "reference_image": "assets/reference/20260804_073838~2-c1d9dd0a.webp",
+      "reference_filename": "20260804_073838~2.jpg",
+      "candidate_file": "data/candidates/fish_071.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_5b9d895cdbe400d91517",
+      "fish_id": "fish_024",
+      "canonical_name": "正龍占",
+      "aliases": [],
+      "reference_image": "assets/reference/20260804_074429~2-7d45f4a0.webp",
+      "reference_filename": "20260804_074429~2.jpg",
+      "candidate_file": "data/candidates/fish_024.json",
+      "candidate_count": 74
+    },
+    {
+      "target_id": "target_fb4d932b3e698b15425b",
+      "fish_id": "fish_088",
+      "canonical_name": "黃足笛鯛",
+      "aliases": [],
+      "reference_image": "assets/reference/20260804_074429~2-7d45f4a0.webp",
+      "reference_filename": "20260804_074429~2.jpg",
+      "candidate_file": "data/candidates/fish_088.json",
+      "candidate_count": 65
+    },
+    {
+      "target_id": "target_ee0aff484252a077f71c",
+      "fish_id": "fish_089",
+      "canonical_name": "白吻雙帶立鰭鯛",
+      "aliases": [
+        "黑白關刀"
+      ],
+      "reference_image": "assets/reference/20260804_081922~2-5d44346a.webp",
+      "reference_filename": "20260804_081922~2.jpg",
+      "candidate_file": "data/candidates/fish_089.json",
+      "candidate_count": 60
+    },
+    {
+      "target_id": "target_bd21572274f654969f4b",
+      "fish_id": "fish_090",
+      "canonical_name": "日本骨鱗魚",
+      "aliases": [
+        "鳳梨魚"
+      ],
+      "reference_image": "assets/reference/20260804_081930~2-fac4cda7.webp",
+      "reference_filename": "20260804_081930~2.jpg",
+      "candidate_file": "data/candidates/fish_090.json",
+      "candidate_count": 69
+    },
+    {
+      "target_id": "target_1ca2eed481682a905e7d",
+      "fish_id": "fish_091",
+      "canonical_name": "紅喉",
+      "aliases": [],
+      "reference_image": "assets/reference/20260804_081938~2-d021ae35.webp",
+      "reference_filename": "20260804_081938~2.jpg",
+      "candidate_file": "data/candidates/fish_091.json",
+      "candidate_count": 72
+    },
+    {
+      "target_id": "target_a91171012377dd38a266",
+      "fish_id": "fish_057",
+      "canonical_name": "單斑笛鯛",
+      "aliases": [
+        "黑點赤筆"
+      ],
+      "reference_image": "assets/reference/20260805_074153~2-281bf39d.webp",
+      "reference_filename": "20260805_074153~2.jpg",
+      "candidate_file": "data/candidates/fish_057.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_87c01462efcb24a54002",
+      "fish_id": "fish_092",
+      "canonical_name": "真鯛",
+      "aliases": [],
+      "reference_image": "assets/reference/20260805_074156~2-75b87493.webp",
+      "reference_filename": "20260805_074156~2.jpg",
+      "candidate_file": "data/candidates/fish_092.json",
+      "candidate_count": 95
+    },
+    {
+      "target_id": "target_47ea63135b646738ee06",
+      "fish_id": "fish_093",
+      "canonical_name": "正鰹",
+      "aliases": [],
+      "reference_image": "assets/reference/20260805_074528~2-66586fdf.webp",
+      "reference_filename": "20260805_074528~2.jpg",
+      "candidate_file": "data/candidates/fish_093.json",
+      "candidate_count": 72
+    },
+    {
+      "target_id": "target_9fc3793abc249534bbd8",
+      "fish_id": "fish_094",
+      "canonical_name": "鬼頭刀",
+      "aliases": [],
+      "reference_image": "assets/reference/20260805_074535~2-b78fc855.webp",
+      "reference_filename": "20260805_074535~2.jpg",
+      "candidate_file": "data/candidates/fish_094.json",
+      "candidate_count": 84
+    },
+    {
+      "target_id": "target_359acad52554e0e20ffe",
+      "fish_id": "fish_080",
+      "canonical_name": "竹節鰆",
+      "aliases": [
+        "石喬"
+      ],
+      "reference_image": "assets/reference/20260805_074542~2-b179f7ea.webp",
+      "reference_filename": "20260805_074542~2.jpg",
+      "candidate_file": "data/candidates/fish_080.json",
+      "candidate_count": 69
+    },
+    {
+      "target_id": "target_0e1de17f42821b280db3",
+      "fish_id": "fish_095",
+      "canonical_name": "長吻裸頰鯛",
+      "aliases": [
+        "尖嘴龍占"
+      ],
+      "reference_image": "assets/reference/20260806_073939~2-80e5996a.webp",
+      "reference_filename": "20260806_073939~2.jpg",
+      "candidate_file": "data/candidates/fish_095.json",
+      "candidate_count": 52
+    },
+    {
+      "target_id": "target_9ab20aae1b50ec0e9ce6",
+      "fish_id": "fish_096",
+      "canonical_name": "斑鰭金梭魚",
+      "aliases": [],
+      "reference_image": "assets/reference/20260806_073945~2-4bdfb37a.webp",
+      "reference_filename": "20260806_073945~2.jpg",
+      "candidate_file": "data/candidates/fish_096.json",
+      "candidate_count": 63
+    },
+    {
+      "target_id": "target_78c6c4f57a148b30bbd6",
+      "fish_id": "fish_097",
+      "canonical_name": "錢鰻",
+      "aliases": [],
+      "reference_image": "assets/reference/20260806_074012~2-ff8fb40c.webp",
+      "reference_filename": "20260806_074012~2.jpg",
+      "candidate_file": "data/candidates/fish_097.json",
+      "candidate_count": 75
+    },
+    {
+      "target_id": "target_e3f4a6963237b52ebb80",
+      "fish_id": "fish_098",
+      "canonical_name": "寶石石斑",
+      "aliases": [],
+      "reference_image": "assets/reference/20260806_074027~2-65700532.webp",
+      "reference_filename": "20260806_074027~2.jpg",
+      "candidate_file": "data/candidates/fish_098.json",
+      "candidate_count": 72
+    },
+    {
+      "target_id": "target_430a01925aca377547ff",
+      "fish_id": "fish_036",
+      "canonical_name": "宋氏九刺鮨",
+      "aliases": [
+        "紅瓜子斑",
+        "紅石斑"
+      ],
+      "reference_image": "assets/reference/20260806_074027~2-65700532.webp",
+      "reference_filename": "20260806_074027~2.jpg",
+      "candidate_file": "data/candidates/fish_036.json",
+      "candidate_count": 100
+    },
+    {
+      "target_id": "target_59bbbbf2105311f820fd",
+      "fish_id": "fish_099",
+      "canonical_name": "石磯",
+      "aliases": [],
+      "reference_image": "assets/reference/20260806_074036~2-95cc2c3d.webp",
+      "reference_filename": "20260806_074036~2.jpg",
+      "candidate_file": "data/candidates/fish_099.json",
+      "candidate_count": 54
+    },
+    {
+      "target_id": "target_25725437825f68cefbbc",
+      "fish_id": "fish_088",
+      "canonical_name": "黃足笛鯛",
+      "aliases": [],
+      "reference_image": "assets/reference/20260806_074036~2-95cc2c3d.webp",
+      "reference_filename": "20260806_074036~2.jpg",
+      "candidate_file": "data/candidates/fish_088.json",
+      "candidate_count": 65
+    },
+    {
+      "target_id": "target_80e37019442bd428ddb3",
+      "fish_id": "fish_100",
+      "canonical_name": "海雞母笛鯛",
+      "aliases": [
+        "花臉"
+      ],
+      "reference_image": "assets/reference/20260806_080753~2-18f16fe0.webp",
+      "reference_filename": "20260806_080753~2.jpg",
+      "candidate_file": "data/candidates/fish_100.json",
+      "candidate_count": 67
+    },
+    {
+      "target_id": "target_85eca687fa237d9a6c03",
+      "fish_id": "fish_101",
+      "canonical_name": "黑點石斑",
+      "aliases": [],
+      "reference_image": "assets/reference/20260806_080759~2-7dc2d50d.webp",
+      "reference_filename": "20260806_080759~2.jpg",
+      "candidate_file": "data/candidates/fish_101.json",
+      "candidate_count": 50
+    },
+    {
+      "target_id": "target_61fa57ea02dcfbdec411",
+      "fish_id": "fish_054",
+      "canonical_name": "青衣",
+      "aliases": [],
+      "reference_image": "assets/reference/20260806_080809~2-ae4d1932.webp",
+      "reference_filename": "20260806_080809~2.jpg",
+      "candidate_file": "data/candidates/fish_054.json",
+      "candidate_count": 86
+    },
+    {
+      "target_id": "target_dc58ed92d4d613bfdc75",
+      "fish_id": "fish_055",
+      "canonical_name": "鸚哥",
+      "aliases": [],
+      "reference_image": "assets/reference/20260806_080809~2-ae4d1932.webp",
+      "reference_filename": "20260806_080809~2.jpg",
+      "candidate_file": "data/candidates/fish_055.json",
+      "candidate_count": 82
+    },
+    {
+      "target_id": "target_67087450749328cb3371",
+      "fish_id": "fish_102",
+      "canonical_name": "黃點胡椒鯛",
+      "aliases": [
+        "細鱗加志"
+      ],
+      "reference_image": "assets/reference/20260806_080839~2-c0199145.webp",
+      "reference_filename": "20260806_080839~2.jpg",
+      "candidate_file": "data/candidates/fish_102.json",
+      "candidate_count": 48
+    },
+    {
+      "target_id": "target_dadaf6dd25ce0d549996",
+      "fish_id": "fish_103",
+      "canonical_name": "異黑鯛",
+      "aliases": [],
+      "reference_image": "assets/reference/20260806_080845~2-f715b28e.webp",
+      "reference_filename": "20260806_080845~2.jpg",
+      "candidate_file": "data/candidates/fish_103.json",
+      "candidate_count": 56
+    },
+    {
+      "target_id": "target_90d42fbefd69826c0021",
+      "fish_id": "fish_104",
+      "canonical_name": "泰利鰺",
+      "aliases": [
+        "牛港瓜"
+      ],
+      "reference_image": "assets/reference/20260806_080903~2-43ad76a9.webp",
+      "reference_filename": "20260806_080903~2.jpg",
+      "candidate_file": "data/candidates/fish_104.json",
+      "candidate_count": 69
+    }
+  ]
+}

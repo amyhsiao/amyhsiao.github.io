@@ -1,0 +1,514 @@
+{
+  "schema_version": 1,
+  "fish_id": "fish_093",
+  "canonical_name": "正鰹",
+  "aliases": [],
+  "pool_updated_at": "2026-08-25T04:18:51.369549+00:00",
+  "candidate_count": 72,
+  "candidates": [
+    {
+      "candidate_id": "cand_20e9c167c22b1a8c13cb321a",
+      "image_url": "https://kmweb.moa.gov.tw/files/production_map/235/A01_3_m.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPkLn3YE0f8LMACb97LJhzm3OXOSeExOCAcIt6DyjO5w&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/theme_data.php?theme=production_map&id=235",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_32ced917de9677440a9bf19b",
+      "image_url": "https://kmweb.moa.gov.tw/files/production_map/235/A01_4_m.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLkJA1W1EYP2QzEgSuyMkUk73WxJHPMdN8inPXfhKrbQ&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/theme_data.php?theme=production_map&id=235",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_f33c8c0e67d4f65c5d277c82",
+      "image_url": "http://ocean-treasure.com.tw/en/product/image/pics/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%20(6).png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9nPCL7yHhol66yj9i0ybKdj_Q_Sew9xm-UaVC5Xqd8Q&s=10",
+      "source_page_url": "https://ocean-treasure.com.tw/en/product-info.asp?id=278",
+      "source_domain": "ocean-treasure.com.tw"
+    },
+    {
+      "candidate_id": "cand_7a933d74858766def026e465",
+      "image_url": "https://churaumi.okinawa/userfiles/fish_images/kuroshio/katsuo-resize.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRacmGdu2UHtmkYkK8MAcm5g9Pi2adFc5_LUFPy-LeVgA&s=10",
+      "source_page_url": "https://churaumi.okinawa/tc/fishbook/00000564/",
+      "source_domain": "churaumi.okinawa"
+    },
+    {
+      "candidate_id": "cand_75909648569107b5d3cecf67",
+      "image_url": "https://fae.moa.gov.tw/upload/fae/images/food_subject_part/3737/3-%E9%B0%B9%E9%AD%9A-%E6%A7%8B%E9%80%A0%E5%9C%96.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZC-oxqBpaEYxb-XVELY6d0ubIr5DPRGdr4uzB7ZynWA&s=10",
+      "source_page_url": "https://fae.moa.gov.tw/map/food_item.php?type=AS01&id=216",
+      "source_domain": "fae.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_087bc08c7d1a702c8fa69ba7",
+      "image_url": "https://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a798-10.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx7Orc6QsnFzagnf5uV-FKOpfiCpKcApS0HUWCDEesDA&s=10",
+      "source_page_url": "https://fishdb.sinica.edu.tw/chi/species.php?id=382489",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_ebc4ab5ccedbc77d1b2c3c70",
+      "image_url": "http://cyberisland.teldap.tw/F/JeyozgtryMshzpwZwrcYyb",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHtQJwtUIvm_wt-K4GWYPVnQGi3O_ojhBM2LLjhDRGuQ&s=10",
+      "source_page_url": "https://cyberisland.teldap.tw/f/JeyozgtryMshzigTFXvImTSlLt",
+      "source_domain": "cyberisland.teldap.tw"
+    },
+    {
+      "candidate_id": "cand_31ff2293d19a147589f98884",
+      "image_url": "https://i.ytimg.com/vi/QWkB8Tr6EtM/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAgEEKMuyrk8u8RixF3NLoBJB3Ddszzx81Qwg15oFO0w&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=QWkB8Tr6EtM",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_cc3f2570bfda5e9642d39725",
+      "image_url": "https://ocean-treasure.com.tw/en/product/image/pics/%E9%AE%AA%E9%AD%9A%E9%A1%9E%E7%94%A2%E5%93%81%E5%88%97%E8%A1%A8-%E6%AD%A3%E9%B0%B9.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX6QMrOceN-hZRfjhH5VTGf-hQ_KO4DFXvKi0ezPBjRA&s=10",
+      "source_page_url": "https://ocean-treasure.com.tw/en/product-info.asp?id=278",
+      "source_domain": "ocean-treasure.com.tw"
+    },
+    {
+      "candidate_id": "cand_5ed2ba2fa74c3d1023c8f0aa",
+      "image_url": "https://www.fishbar.com.tw/files/archive/181_9c9ef6d5.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTLzHHECJH4ZRhJDhzE33TAI4PwyNgOkRGcJ7SPSw-gw&s=10",
+      "source_page_url": "https://www.fishbar.com.tw/news1/nc/102/26?srsltid=AfmBOopb1nrvum5jMbLW5G1CP-SMWWUCPYJ4zrfCyzBpLgrxkSwUE_Jn",
+      "source_domain": "www.fishbar.com.tw"
+    },
+    {
+      "candidate_id": "cand_cb7814b0386242b8a2bddaf4",
+      "image_url": "http://image.digitalarchives.tw/ImageCache/00/61/83/59.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCfG2UJ8IOouS-M7xpeSdkn4jcnDNZpDke2CQE9XOXkw&s=10",
+      "source_page_url": "https://catalog.digitalarchives.tw/item/00/40/00/33.html",
+      "source_domain": "catalog.digitalarchives.tw"
+    },
+    {
+      "candidate_id": "cand_b98214029a1ffff405ad7e32",
+      "image_url": "https://shopstore-image.pages.dev/upload/17244/product/17244_69db029e48ad3.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRralthMDnviSYYp7IJZSvuf892FdZ74iws31kXaa0urQ&s",
+      "source_page_url": "https://www.bootalksea.com/item/023",
+      "source_domain": "www.bootalksea.com"
+    },
+    {
+      "candidate_id": "cand_947830eb15c61d0aa08d61e8",
+      "image_url": "https://fae.moa.gov.tw/upload/fae/images/food_subject_part/3738/%E6%8A%95%E5%BD%B1%E7%89%873.JPG",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-HsYDCgp8O2Mo5KhDdBtqk3PMfl24oaYXNYF-vzzNog&s=10",
+      "source_page_url": "https://fae.moa.gov.tw/map/food_item.php?type=AS01&id=216",
+      "source_domain": "fae.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_fb2aa638b64a8963bd9ffa16",
+      "image_url": "https://www.fishbar.com.tw/files/archive/109_c420daf8.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCkFT1DxY5p9av2xDceWigoYEHaEL-mYyu-njwSHKwKA&s=10",
+      "source_page_url": "https://www.fishbar.com.tw/news1/nc/102/26?srsltid=AfmBOooblBtUPjcwRtlkbm4QVFYUzlfzbzLjbIvqe4pLrzmlQOrhDDEV",
+      "source_domain": "www.fishbar.com.tw"
+    },
+    {
+      "candidate_id": "cand_476a14a8e8a42ef061882697",
+      "image_url": "https://attach.mobile01.com/attach/201306/mobile01-ea1c52ec96d5da813efb6343c09dfdea.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbWdwoM9DXt6OIqwXSfUuuciRVKttoX77fqwiokdXOeg&s=10",
+      "source_page_url": "https://www.mobile01.com/topicdetail.php?f=579&t=3408188",
+      "source_domain": "www.mobile01.com"
+    },
+    {
+      "candidate_id": "cand_630c7388910bdaaa3654054e",
+      "image_url": "https://wenchiseafood.com.tw/httpdocs/images/products/C03_A_06_P.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCSVu_WZCeOzt2lLqxYc8zSkRKP7zG3hJb5HHLT6vsqA&s=10",
+      "source_page_url": "https://wenchiseafood.com.tw/httpdocs/C0300_A_06.html",
+      "source_domain": "wenchiseafood.com.tw"
+    },
+    {
+      "candidate_id": "cand_c60ad4d8a18c0d8ee97a7014",
+      "image_url": "https://cdn1-next.cybassets.com/media/W1siZiIsIjI2NTIxL3Byb2R1Y3RzLzQzOTAwNDU3LzE3MDI0Nzg4OTBfMTI0ZTZiZmU4MDY2MWU3ZmQwZDcuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=28fbbfde32888227",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMsbGm6iAsgpWAyTxyz6WOEl1aFEQlHmhTYOgs2_nVuw&s",
+      "source_page_url": "https://www.dachin1985.com.tw/products/bonito-flakes-20231213224808",
+      "source_domain": "www.dachin1985.com.tw"
+    },
+    {
+      "candidate_id": "cand_a48d91cb3f7691e823a90f9d",
+      "image_url": "https://picturefishai.com/wiki-image/1080/153923308578930709.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9p66A96qM4EXIC2YtbWw-vLqwVwXvGkXhJkwz-VCWqw&s=10",
+      "source_page_url": "https://picturefishai.com/zh-tw/wiki/Katsuwonus_pelamis.html",
+      "source_domain": "picturefishai.com"
+    },
+    {
+      "candidate_id": "cand_bd5ecad03c31cdb1dc9b4172",
+      "image_url": "https://fae.moa.gov.tw/upload/fae/images/food_subject_part/3753/%E4%B8%8A%E7%A8%BF1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSivfowH-Lo6ERKOpwXxGxmGS-7VAbpa7bdKz6Icwhm9A&s=10",
+      "source_page_url": "https://fae.moa.gov.tw/map/food_item.php?type=AS08&id=216",
+      "source_domain": "fae.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_71c1baf76465851f8ae16842",
+      "image_url": "https://im01.itaiwantrade.com/8be85fd6-87f7-4d0c-906e-7fddd3b4a395/Tuna_%E6%AD%A3%E9%B0%B9.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqXycAUEVMVsu03YD6WKokWRUJfee5QLRqEaaYaqje9g&s=10",
+      "source_page_url": "https://tw.taiwantrade.com/products/detail.html?productid=2552069",
+      "source_domain": "tw.taiwantrade.com"
+    },
+    {
+      "candidate_id": "cand_f61b877132f6f7aa48fa8a89",
+      "image_url": "https://shun-gate.com/wp-content/uploads/2019/05/a0eab2b90b98bf5d852a76411e721da1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCzbqAnPgy9s-jjJ8a9YXwwpMowD-rcIBNj5aISBYMg&s=10",
+      "source_page_url": "https://shun-gate.com/zh/power/power_70/",
+      "source_domain": "shun-gate.com"
+    },
+    {
+      "candidate_id": "cand_7316bfc5bb1cad37c1808edf",
+      "image_url": "https://img.itaiwantrade.com/360f5d5d-df8b-42be-acc2-eb9e83427a6b/%E6%9F%B4%E9%AD%9A-%E6%AD%A3%E9%B0%B9.webp?d=480x480",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSepSYP6BwL61uH-ZYGvoTXafVuaR4Ksu1HTSUYqZMmYA&s=10",
+      "source_page_url": "https://tw.taiwantrade.com/products/detail.html?productid=2552069",
+      "source_domain": "tw.taiwantrade.com"
+    },
+    {
+      "candidate_id": "cand_cacd5f82221b7c6818188619",
+      "image_url": "https://img.91app.com/webapi/imagesV3/Cropped/SalePage/7491621/0/639087988177770000",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0p2fibH42Z8Z89UzBAQxPs9iY30boUYKKf1bUKKXhhg&s",
+      "source_page_url": "https://www.findprice.com.tw/g/%E6%AD%A3%E9%B0%B9%E9%AD%9A",
+      "source_domain": "www.findprice.com.tw"
+    },
+    {
+      "candidate_id": "cand_d6623b0fbffd6e30a85feee6",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmfb0__7me9Hr_JQISv6zHmKLMy7GG-en68rw7_k5LxiT5NMP7lPTMWjS00kwu4xCrFO7oDiUIAx3LHbG_0IesN5jG5lItlOU42cfvz4EFXWU5S_hdKFto5HQx3CnkJQI_zvcj2Z5yfjcg/s1600/IMG_2380.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScf1KN3hlRmePQo5vohGzyCX2RjoPKr5iXOEBHr6uyHg&s=10",
+      "source_page_url": "https://dracula0911.blogspot.com/2014/03/blog-post_2611.html",
+      "source_domain": "dracula0911.blogspot.com"
+    },
+    {
+      "candidate_id": "cand_e2cb97f4eb6635f87d068b17",
+      "image_url": "https://cdn1-next.cybassets.com/media/W1siZiIsIjI2NTIxL3Byb2R1Y3RzLzQzNTQ0MTYxLzE3MDE4NzU0MDVfNmQ3Mzg2NDExYzg5M2Y0ODkyNDEuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=f56290be937c81f6",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkFHrWdso_W7U85yF7iXIE0iDa4saxLYh6Sp8NfdxHmQ&s=10",
+      "source_page_url": "https://www.dachin1985.com.tw/products/bonito-cubes",
+      "source_domain": "www.dachin1985.com.tw"
+    },
+    {
+      "candidate_id": "cand_55d70ff6d69a92bae0637dba",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=/upf/health/food/B/B353.jpg&sl=W&fw=300&exp=3600",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdZ4iOH0qe0fp3udKzIJzfds1lh6FDNjCmcjXo9SCu&s",
+      "source_page_url": "https://health.udn.com/health/food/4525",
+      "source_domain": "health.udn.com"
+    },
+    {
+      "candidate_id": "cand_9419b207f027e7687f325460",
+      "image_url": "https://cdn1-next.cybassets.com/media/W1siZiIsIjI2NTIxL3Byb2R1Y3RzLzQzOTAwNDA4LzE3MDI0Nzg0OTNfY2U2Y2IwYWY1MGY0MzVkNTk1ZDEuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=c58a98536671ac5a",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFzNxv7neMm-P1rl4cl1roiFXkkHHQQZ73sh30cbwzJg&s=10",
+      "source_page_url": "https://www.dachin1985.com.tw/products/bonito-chunk-20231213224131",
+      "source_domain": "www.dachin1985.com.tw"
+    },
+    {
+      "candidate_id": "cand_5235b0091914dcd9c7eb5fba",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN8x3ucZF79N4q5qOxN6bsjc4tzVqkVjncDyqsutoPI7bQEUiUbcqQMVkRmRJuKNiC-yDecL6lMH72NtSv_xR3Hrgmkf5SC0iFgBIl_MVFhtI5TI7JPSH6bOtcDcGvf6UjSPyH0qrxU9Px/s1600/IMG_2389.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN1xAeFk8ScKUk4Hxi5m7_JstrEVzXdzzUIJ8f7mJEVw&s=10",
+      "source_page_url": "https://dracula0911.blogspot.com/2014/03/blog-post_2611.html",
+      "source_domain": "dracula0911.blogspot.com"
+    },
+    {
+      "candidate_id": "cand_453d83c9b3fa11c6c3ed32a0",
+      "image_url": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/131943/shutterstock_1650440404.jpeg_1140x855.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFQfWRDWYREz8jfjTqv4Er6aG2uP_iVZgE-GDFxD_CIg&s=10",
+      "source_page_url": "https://www.businesstoday.com.tw/article/category/183025/post/202207160004/",
+      "source_domain": "www.businesstoday.com.tw"
+    },
+    {
+      "candidate_id": "cand_28b3a50ebf6c31dcab40e486",
+      "image_url": "https://fishdb.sinica.edu.tw/chi/xray/large/Xray_ASIZP0059628.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6tusKtDrM7tH-HvwjgRmp98SOUpsIwbj2KMrQT9mVjQ&s=10",
+      "source_page_url": "https://fishdb.sinica.edu.tw/chi/showpic.php?science=Katsuwonus%20pelamis&mediatype=5",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_2e337842e8cbc10b17e29741",
+      "image_url": "https://img.itaiwantrade.com/5e5dcc08-f32d-4b9d-8ab0-e787479cd3b5/Tuna_Fish.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs8lQ4LGRt3ys-KpTaByz5Mq78JML9a8fJbeASCUZb1w&s",
+      "source_page_url": "https://tw.taiwantrade.com/products/detail.html?productid=2912759",
+      "source_domain": "tw.taiwantrade.com"
+    },
+    {
+      "candidate_id": "cand_29ed35204711494ca35e2cd9",
+      "image_url": "http://www.ammon.com.tw/upload_file/undsweb00013/179/17046751791.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLZqs5JPvFUwIiy3-XLjL7WSIou5T1rpUgXfZ9sGn1SQ&s",
+      "source_page_url": "https://www.ammon.com.tw/portal_c1_cnt_page.php?owner_num=c1_75434&button_num=c1&folder_id=99686&cnt_id=514088&search_word=&up_page=",
+      "source_domain": "www.ammon.com.tw"
+    },
+    {
+      "candidate_id": "cand_7161fdc9b9a5c51e51dfe79d",
+      "image_url": "https://www.gilontas.com/upload/catalog_product_m/c7b9b210b44a0c8c02d2cbf7b5564a8c.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpEMnAac1m52yWfcjkl9gvQnjLD8mHdcxLxAdk-ugNnQ&s=10",
+      "source_page_url": "https://www.gilontas.com/product/ins.php?index_id=181",
+      "source_domain": "www.gilontas.com"
+    },
+    {
+      "candidate_id": "cand_95c7c856a6f07cafaa3b52a4",
+      "image_url": "https://cdn.store-assets.com/s/338774/i/66647255.jpg?width=1024",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Vw7Q8fmLUPM_NndAak1ijGkg0url4D-D1w75-CyK9A&s",
+      "source_page_url": "https://www.happyruff.com/products/skipjack-tuna-it",
+      "source_domain": "www.happyruff.com"
+    },
+    {
+      "candidate_id": "cand_162ba7bb6fa763a752ccbf4f",
+      "image_url": "https://www.fishbar.com.tw/img.php?img=1888_44f3aedd.jpg&dir=goods_pic&width=390&height=400",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUvmP5gQMAMTP_PyE86azeLZJSLKCuUYLdxzQaAeiM2w&s=10",
+      "source_page_url": "https://www.fishbar.com.tw/store/goods/103?srsltid=AfmBOoqCe5BmJ9SyzhmcIiaCFY7vs63IMBl3q1xkyPwXd2u-S8GFY4jJ",
+      "source_domain": "www.fishbar.com.tw"
+    },
+    {
+      "candidate_id": "cand_3f99a1dd8fc19db7ac5f8f3b",
+      "image_url": "http://nwzimg.wezhan.cn/contents/sitefiles2074/10372739/images/59833431.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmHJUgdIyDARjlwSRng4G9jCJjI1vn7xEmYMOdTelO6A&s",
+      "source_page_url": "http://www.fd-foods.com/productinfo/5998080.html",
+      "source_domain": "www.fd-foods.com"
+    },
+    {
+      "candidate_id": "cand_5a6ebbb5f94338c10b4ce1a5",
+      "image_url": "https://shun-gate.com/wp-content/uploads/2019/05/7d2c58a1b8b66dd4040f103eb61c69a2.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpVR6MCpNsNHgT17ga4BJLCRdaDXj69Kch6qcZQweNpg&s=10",
+      "source_page_url": "https://shun-gate.com/zh/power/power_70/",
+      "source_domain": "shun-gate.com"
+    },
+    {
+      "candidate_id": "cand_e45231319e931c0bd2d38069",
+      "image_url": "https://i.ytimg.com/vi/lUUjmdtP9kE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDHlb8XElMJBQpIcu6YFDLHFBZxxw",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTecCoZmNWMISrOHCovS34Dvophuk1u-YtyiCyzFBVUwg&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=lUUjmdtP9kE",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_5d86eb4f44eb746bce63896c",
+      "image_url": "http://nwzimg.wezhan.cn/contents/sitefiles2074/10372739/images/59833451.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQarPNy9_yR5VTvWgHn1RJF34BtH0x2v0-DCbJ5SQRX8Q&s",
+      "source_page_url": "http://www.fd-foods.com/productinfo/5998080.html",
+      "source_domain": "www.fd-foods.com"
+    },
+    {
+      "candidate_id": "cand_0bb6ab453307fc31dd8acec6",
+      "image_url": "https://s.eslite.com/b2b/newItem/2025/04/05/775_130832799_986_ed_image.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKusL3DFPDjxCY4LVVOMaRtEaC35fyC7Te34tY_FPgXw&s=10",
+      "source_page_url": "https://www.eslite.com/product/100F2237802682871606000?srsltid=AfmBOorA9DE7qbIzFzr9jTkrdd4FRAuw7n1PE6upWR6r0-mpimAKS0it",
+      "source_domain": "www.eslite.com"
+    },
+    {
+      "candidate_id": "cand_2c872030f4532de3fd2ff10c",
+      "image_url": "https://shun-gate.com/wp-content/uploads/2021/12/Shiokatsuo_TOP-1568x1045.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK-snnW1VPWIf-rUXV3KKvjnCffLcUjUBwAZ3-YwO5DA&s=10",
+      "source_page_url": "https://shun-gate.com/zh/okurimono/okurimono_62/",
+      "source_domain": "shun-gate.com"
+    },
+    {
+      "candidate_id": "cand_826892fafcd5ea7200bd824c",
+      "image_url": "https://imgproxy.icook.network/safe/rt:fit/w:1200/el:0/q:80/plain/http://tokyo-kitchen.icook.tw.s3.amazonaws.com/uploads/recipe/cover/77781/cabe7417f4943cde.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzAHLcYtfJb7_5SpIebVUVz7aBh_vMWBa1sCcmdIv3Gg&s=10",
+      "source_page_url": "https://icook.tw/recipes/77781",
+      "source_domain": "icook.tw"
+    },
+    {
+      "candidate_id": "cand_900b688d49f9a3132569f85f",
+      "image_url": "https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20171209/33d2396fbaf84455b2f328e8fb33728e.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWpsIsswvf8slYPvd3Rhgv9KPPRUsOlcSySC1oxR9Jyg&s=10",
+      "source_page_url": "https://www.sohu.com/a/209457618_751607",
+      "source_domain": "www.sohu.com"
+    },
+    {
+      "candidate_id": "cand_a00ba6a84d62174cbb3999d1",
+      "image_url": "https://dessertgirl.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2020/03/10110117/7-17.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTellBhGEiS3bSiO9-HIMjUXp98zZH3ESEZ3MxxAr6PFg&s=10",
+      "source_page_url": "https://www.taitung-dessertgirl-blog.tw/bonito-01/",
+      "source_domain": "www.taitung-dessertgirl-blog.tw"
+    },
+    {
+      "candidate_id": "cand_d6138b97e706d9a24ba5517e",
+      "image_url": "https://img.freshmackerel.com/NewsPic/15876092975480.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj_OHF-EQ00aLGwg0elQUkB0jlYO1acIaZ30qBs5rxHA&s=10",
+      "source_page_url": "https://www.freshmackerel.com/fishKnowledge/750",
+      "source_domain": "www.freshmackerel.com"
+    },
+    {
+      "candidate_id": "cand_d394695fff47b1137ae3c564",
+      "image_url": "https://www.kuroshio.org.tw/upload/info_photo2/4amu69bw20190719172455.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBKEcwTVk0EmFrd3np4SMP2ha4L-GHEMnHBcS37nagJQ&s=10",
+      "source_page_url": "https://www.kuroshio.org.tw/newsite/article02.php?info_id=203",
+      "source_domain": "www.kuroshio.org.tw"
+    },
+    {
+      "candidate_id": "cand_82658cc0ca349093aa91c1d5",
+      "image_url": "https://s.eslite.com/b2b/newItem/2025/04/05/775_130832726_170_ed_image.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMFKqpxMo-CiP6dYl-q_VO1rPY36r3w7_Xmj3HrbZ7NQ&s=10",
+      "source_page_url": "https://www.eslite.com/product/100F2237802682871606000?srsltid=AfmBOoqezoY_2Yt5ft3YtEGnqGkkncp6Ry1M-0wnCOb04A8qupuFDdwA",
+      "source_domain": "www.eslite.com"
+    },
+    {
+      "candidate_id": "cand_ea3c4f4c0af3043f6265d0ac",
+      "image_url": "http://nwzimg.wezhan.cn/contents/sitefiles2074/10372739/images/59833363.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XVqspmLkK93C8Cs2jwKm84EafjS82hEAFccHWRTtTQ&s",
+      "source_page_url": "http://www.fd-foods.com/productinfo/5998080.html",
+      "source_domain": "www.fd-foods.com"
+    },
+    {
+      "candidate_id": "cand_83b91aee1588adcc1156626b",
+      "image_url": "https://pimg.1px.tw/powertyui2001/1530000471-2676866573.jpg?v=1530000471",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjIbGCVcrKbvElRGQ6hOZfNXwuNkWrviIPMAodw0bMYw&s=10",
+      "source_page_url": "https://powertyui2001.pixnet.net/blog/posts/17187922999",
+      "source_domain": "powertyui2001.pixnet.net"
+    },
+    {
+      "candidate_id": "cand_16a98a266219bc068a7c5c07",
+      "image_url": "https://cf.shopee.tw/file/tw-11134207-7rbk2-m7kycrdlxgecdc_tn",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNethio4z2dZs29BoUXu3NwgT4cjCb_pAZjoYfFkiTbQ&s",
+      "source_page_url": "https://www.findprice.com.tw/b/%E6%AD%A3%E9%B0%B9%20%E9%AD%9A",
+      "source_domain": "www.findprice.com.tw"
+    },
+    {
+      "candidate_id": "cand_8a945418c1cb7735086bc666",
+      "image_url": "http://nwzimg.wezhan.cn/contents/sitefiles2074/10372739/images/59833372.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSPMSh5CoFnQdFKNlzllAacMQKeibU2-kYfysF-a390Q&s",
+      "source_page_url": "http://www.fd-foods.com/productinfo/5998080.html",
+      "source_domain": "www.fd-foods.com"
+    },
+    {
+      "candidate_id": "cand_42356beb1a8ff98dce0b9ae9",
+      "image_url": "https://fishdb.sinica.edu.tw/files/muse_fishdb/muse_styles/color_box_match/mcode/e1e00a2bb553ecb2ed1deae6de99b709.jpg?itok=DvC-isiW",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqGXI9MkEpHIvvlwSeEhViiUh_ZhpH7M406AtxsxPzRg&s=10",
+      "source_page_url": "https://fishdb.sinica.edu.tw/taxon/382489-fishdb/media",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_f750d7bd9ecd1caef43bcb86",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/e_rmIWHgS50dHDq.BymKaA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQ4MA--/https://media.zenfs.com/zh-Hant-TW/News/peoplenews.tw/1759c45f-8185-467d-b8e9-e1e4b3f0d16d.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmujfhOMRx0HoEMT7c9IOi6jBmeDDooB0JtOg2MvLLBQ&s=10",
+      "source_page_url": "https://tw.stock.yahoo.com/news/-022926391.html",
+      "source_domain": "tw.stock.yahoo.com"
+    },
+    {
+      "candidate_id": "cand_1841b72467e98c7d531e3ebc",
+      "image_url": "https://www.foodnext.net/dispPageBox/getFile/GetImg.aspx?FileLocation=%2FPJ-FOODNEXT%2FFiles%2F&FileName=photo-28260-i.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6o-3xH_ZBdJUgZI-DhTrrpSKjYNWyKvCvnqfsLZml-Q&s=10",
+      "source_page_url": "https://www.foodnext.net/science/technology/paper/5470467585",
+      "source_domain": "www.foodnext.net"
+    },
+    {
+      "candidate_id": "cand_f37f112531ad54d26ac483d1",
+      "image_url": "https://shun-gate.com/wp-content/uploads/2019/05/46ffad3552b9692d410916748454f794.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU-0ibThCVoZXbWowF6UD0lZDQwihpDOxeKL6A4zeTiQ&s=10",
+      "source_page_url": "https://shun-gate.com/zh/power/power_70/",
+      "source_domain": "shun-gate.com"
+    },
+    {
+      "candidate_id": "cand_fdf731076e577a5712ee2c5a",
+      "image_url": "https://www.fishbar.com.tw/img.php?img=103_bed75b94.jpg&dir=goods&width=390&height=400",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiZXSNr2__rtk9BIYpT2dOZPaXK__pZ7n5yOqTZU-Azg&s=10",
+      "source_page_url": "https://www.fishbar.com.tw/store/goods/103?srsltid=AfmBOoogEqWJE9huwCxsrUk9wAyLbnpSgzDNeL2B2bROi8So3BZDl7rH",
+      "source_domain": "www.fishbar.com.tw"
+    },
+    {
+      "candidate_id": "cand_5c41df655ebfb2e86b68c1e0",
+      "image_url": "https://im01.itaiwantrade.com/dd8900ea-5eb3-4534-b44c-b126b9b21097/%E6%AD%A3%E9%B0%B9%E6%9F%B4-%E4%B8%AD.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJfkjx4NXEkMGqdeHmti5LjdnitHWo4VULOzZjF77D2g&s",
+      "source_page_url": "https://tw.taiwantrade.com/products/detail.html?productid=2552069",
+      "source_domain": "tw.taiwantrade.com"
+    },
+    {
+      "candidate_id": "cand_2874b9d6132ada8d30bd71d1",
+      "image_url": "https://image.peoplemedia.tw/collection/1511402965.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFl1xcpEHOl6A3gmU6Nov_zQQAcoAffMV3g-PBzZGWCw&s=10",
+      "source_page_url": "https://www.peoplemedia.tw/news/1759c45f-8185-467d-b8e9-e1e4b3f0d16d",
+      "source_domain": "www.peoplemedia.tw"
+    },
+    {
+      "candidate_id": "cand_f97595b45541520203b796fe",
+      "image_url": "https://cdn2.ettoday.net/images/2956/d2956142.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf_3LUvS0ncmbzhMjueWZSQsTP9M4pc_ViVDu1kxzAig&s=10",
+      "source_page_url": "https://forum.ettoday.net/news/1061755",
+      "source_domain": "forum.ettoday.net"
+    },
+    {
+      "candidate_id": "cand_c2fcbd602e3a259b6d5fa1b6",
+      "image_url": "https://cdn.store-assets.com/s/338774/i/79116179.jpg?width=480",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSaYQCsNWxbHe8j7CUNEs3MTqj7aqyB-xh1Dh65Ftxw&s",
+      "source_page_url": "https://www.happyruff.com/products/skipjack-tuna-it",
+      "source_domain": "www.happyruff.com"
+    },
+    {
+      "candidate_id": "cand_6066d9c8a833b2d31e4218c9",
+      "image_url": "https://www.mustard.org.tw/UpLoad/%E5%91%A8%E5%9C%8B%E9%BE%8D1.%E6%AD%A3%E9%B0%B9_20230407172137.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyTjuv-U4qgRdjur8eFBfGbl8vUWA2Cm8JYOmB_uWATg&s=10",
+      "source_page_url": "https://www.mustard.org.tw/ArtworkDetail.aspx?id=34",
+      "source_domain": "www.mustard.org.tw"
+    },
+    {
+      "candidate_id": "cand_a1d06794eb50e5a0d3f632b0",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/07/35207927.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=1280&exp=3600",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv1W2O2wM3EaBtque5Vq1yReHZXOWNmMBsSR83aGTzyA&s",
+      "source_page_url": "https://money.udn.com/money/story/122328/9676287",
+      "source_domain": "money.udn.com"
+    },
+    {
+      "candidate_id": "cand_47f31e9f44962e0a12eff163",
+      "image_url": "http://www.grandoceanseafoods.com/customer/C000371/201812515480499888.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVNVo8O4BF4rCnDyjxH8X-Hc1ND8DLowzUEhShpQR3Yw&s=10",
+      "source_page_url": "http://www.grandoceanseafoods.com/products-3_76364-tchinese.html",
+      "source_domain": "www.grandoceanseafoods.com"
+    },
+    {
+      "candidate_id": "cand_d909c5d6161f19d5fed6dafd",
+      "image_url": "https://img.skmonline.com.tw/App_Images/727/ERPItem/2023/0704/67230ad2-c6e6-473c-a305-062ed279919d.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYdF407V7B18tgv3Ha3FC0ExW1888SrmjOg9Raqm1f5w&s=10",
+      "source_page_url": "https://online.skm.com.tw/product/2239180005873?srsltid=AfmBOorDUPbavqTUjgbzGddeROPjkV9br8XoFzLQitdqPBK-vE3PO856",
+      "source_domain": "online.skm.com.tw"
+    },
+    {
+      "candidate_id": "cand_e632895292f71b544208dbec",
+      "image_url": "https://images.storeberry.chat/shops/h030/products/L/210315072212b03e15.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnpEGeVAWO0DA0k9-r9VFBQxNOJwf8-YqMZxwFxdZ9HA&s=10",
+      "source_page_url": "https://petsmart.hk/product/4791/%E9%AD%9A%E6%AD%A3-%E9%B0%B9%E9%AD%9A-160gx3P-PLC-UM62",
+      "source_domain": "petsmart.hk"
+    },
+    {
+      "candidate_id": "cand_ea40c6ea8f6883b685126bf1",
+      "image_url": "https://www.foodno1.com/images/menu/food-tt-knowledge/image/food-tt-knowledge-20000211m01.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8rD_c3YV5-s_i8zUVpRmrWtamISHymX9knq3EeN0s0A&s=10",
+      "source_page_url": "https://www.foodno1.com/foodno1dailyrecipes/dir/food-and-health/cooking_tips/721-fna721.html",
+      "source_domain": "www.foodno1.com"
+    },
+    {
+      "candidate_id": "cand_d5e1ab88d56031b1c005d2ab",
+      "image_url": "http://12457330.s21i.faiusr.com/2/ABUIABACGAAg0ev1xAUo7-vQ-wMwlwM4kQI.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0bAZAnC_d7nZlF_GrPuz1Z20YE2IigDI3iPEqqmshGg&s",
+      "source_page_url": "http://www.haixingfood.com/pd.jsp?fromColId=2&id=36",
+      "source_domain": "www.haixingfood.com"
+    },
+    {
+      "candidate_id": "cand_fad6f97c5e30b692654327fa",
+      "image_url": "http://nwzimg.wezhan.cn/contents/sitefiles2074/10372739/images/59833427.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSTRrYvLUngRRmfyl5yfbvfy5qtzaZgUiOnxqURVqlYw&s",
+      "source_page_url": "http://www.fd-foods.com/productinfo/5998080.html",
+      "source_domain": "www.fd-foods.com"
+    },
+    {
+      "candidate_id": "cand_26a2377a0c43160d423d7bbc",
+      "image_url": "https://s.eslite.com/b2b/newItem/2025/04/05/775_130832842_32_ed_image.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJEa0-BXgitIoiVzInTuxeNdtvbg-gBM3SY3H57U20Ew&s=10",
+      "source_page_url": "https://www.eslite.com/product/100F2237802682871606000?srsltid=AfmBOoqSNYkuH5OqBoGI5Uq2aOKNLqlBTaBAkw_RA5ec3VJaxpA0I5bj",
+      "source_domain": "www.eslite.com"
+    },
+    {
+      "candidate_id": "cand_0e02490d5834e4d5061b3a6e",
+      "image_url": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/4ab608b4-953d-4569-bbf9-1c2148aacd09.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUpg7OlYR40NC2nHuDhBtY2CtudQyo0itsxyNVHTFAIA&s=10",
+      "source_page_url": "https://sport.ftvnews.com.tw/news/detail/2017B19L06M1",
+      "source_domain": "sport.ftvnews.com.tw"
+    },
+    {
+      "candidate_id": "cand_ec251b03c1b7fac4a508e158",
+      "image_url": "https://imgproxy.icook.network/safe/rt:fit/w:1200/el:0/q:80/plain/http://tokyo-kitchen.icook.tw.s3.amazonaws.com/uploads/step/cover/327064/7e994528e4406be1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKjnY9ckSxpWSgaS8vi_rmbORmwoGU56t3bnD3VM1P-g&s=10",
+      "source_page_url": "https://icook.tw/recipes/77781",
+      "source_domain": "icook.tw"
+    },
+    {
+      "candidate_id": "cand_114556929b27418189f267b7",
+      "image_url": "https://cdn1-next.cybassets.com/media/W1siZiIsIjE5NzE0L3Byb2R1Y3RzLzU2MzU2MzgyLzE3NDk3NDUyODNfNGMwZjBlMmVhYTZjODlmNzEyZWEucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=e0d486c87f596e7c",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdtejr3aqucpIrHm26b4pmVGP_ezQv6U8GgXu0Wzccrw&s=10",
+      "source_page_url": "https://www.yana.tw/products/koai-s3-002?srsltid=AfmBOopZs6HyCndGJTyPSn9N_fRkhvvq7QVIf5_4gfh362mud33QJNON",
+      "source_domain": "www.yana.tw"
+    }
+  ]
+}

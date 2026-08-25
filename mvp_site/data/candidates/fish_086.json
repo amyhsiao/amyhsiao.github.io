@@ -1,0 +1,570 @@
+{
+  "schema_version": 1,
+  "fish_id": "fish_086",
+  "canonical_name": "黑喉",
+  "aliases": [],
+  "pool_updated_at": "2026-08-25T03:58:26.261376+00:00",
+  "candidate_count": 80,
+  "candidates": [
+    {
+      "candidate_id": "cand_346b841d048f7877c73df8d5",
+      "image_url": "https://etaiwan.news/wp-content/uploads/2024/03/img_4865-1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfKji1gG0HfrFd_JhJwlCxA5hKPbizA2k-bgvSirv9OQ&s=10",
+      "source_page_url": "https://etaiwan.news/2024/03/12/%E9%BB%91%E5%96%89%EF%BD%9C%E9%96%8B%E5%A7%8B%E9%80%B2%E5%85%A5%E7%95%B6%E5%AD%A3%EF%BC%8C%E8%87%BA%E6%9D%B1%E5%AF%8C%E5%B2%A1%E6%BC%81%E6%B8%AF%E9%99%B8%E7%BA%8C%E6%8D%95%E7%8D%B2%EF%BC%8C%E7%94%9F/",
+      "source_domain": "etaiwan.news"
+    },
+    {
+      "candidate_id": "cand_472313ec3e0f671c10938c19",
+      "image_url": "https://i0.wp.com/etaiwan.news/wp-content/uploads/2025/05/img_2260-1.jpg?resize=1024%2C546&ssl=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlt6x-WC58Ib35pqCbmRv7fuxmxSjdM86lAf81dtA3Pw&s=10",
+      "source_page_url": "https://etaiwan.news/2025/05/09/%E9%BB%91%E5%96%89%EF%BD%9C%E8%87%BA%E7%81%A3%E5%8D%81%E5%A4%A7%E7%BE%8E%E5%91%B3%E9%AD%9A%E9%A1%9E%E4%B9%8B%E4%B8%80%EF%BC%8C%E6%AF%8F%E5%B9%B45%E8%87%B37%E6%9C%88%E7%82%BA%E7%B9%81%E6%AE%96%E6%9C%9F/",
+      "source_domain": "etaiwan.news"
+    },
+    {
+      "candidate_id": "cand_2af1e5bec9c4461f2c5f3c71",
+      "image_url": "https://pimg.1px.tw/ntouotmusr/1625457824-4219546946-g.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwbzm9zVJtdDKFKFXIiU_WvLKeCeW_kxiNzUSJfRuTA&s=10",
+      "source_page_url": "https://ntouotmusr.pixnet.net/blog/posts/15332561056",
+      "source_domain": "ntouotmusr.pixnet.net"
+    },
+    {
+      "candidate_id": "cand_3344bdea527aeaa3e897b89d",
+      "image_url": "https://img.freshmackerel.com/NewsPic/167601546621149.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGC7Zkow80IsKtYkFplYaoJRAg6KEYLjDZhNdmmaTkgw&s=10",
+      "source_page_url": "https://www.freshmackerel.com/fishKnowledge/1966",
+      "source_domain": "www.freshmackerel.com"
+    },
+    {
+      "candidate_id": "cand_f9d76d4617086ed55b18d577",
+      "image_url": "https://im-fish.com/wp-content/uploads/2022/05/215017%E9%BB%91%E5%8A%A0%E7%B6%B21-1-1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKKMNN--2Y69rPknnUHs7seqmB2LD5vkPl6mxE6-vdYw&s=10",
+      "source_page_url": "https://im-fish.com/shop/5017/",
+      "source_domain": "im-fish.com"
+    },
+    {
+      "candidate_id": "cand_f167c23dad7997cbca5473dc",
+      "image_url": "https://pica.zhimg.com/v2-5c4d01bd94b0f7785ed884c111176ebe_1440w.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeMpjcOvntJ9RPiBYf2PPtl04C9Q4oWwC9GRVANWD3dQ&s",
+      "source_page_url": "https://zhuanlan.zhihu.com/p/33362507",
+      "source_domain": "zhuanlan.zhihu.com"
+    },
+    {
+      "candidate_id": "cand_70dfc3ba342d9e89c50eaa07",
+      "image_url": "https://im-fish.com/wp-content/uploads/2022/05/215017%E9%BB%91%E5%8A%A0%E7%B6%B2-1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBjI2o3ZOIDzygrXI9y_bS5rbOPesX_JPHs0UaoSkcUA&s=10",
+      "source_page_url": "https://im-fish.com/shop/5017/",
+      "source_domain": "im-fish.com"
+    },
+    {
+      "candidate_id": "cand_154ac59fa309607384b37c66",
+      "image_url": "https://img.cloudimg.in/uploads/shops/21369/products/c4/c49eaa058127075a028c897d52754cc6.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx-Go2mLAkP-UFKrF05N67lwZoE_kC9eceNM_VV4JqAQ&s=10",
+      "source_page_url": "https://www.yudafa.com.tw/product/detail/851822/%E9%87%8E%E7%94%9F%E9%BB%91%E5%96%89",
+      "source_domain": "www.yudafa.com.tw"
+    },
+    {
+      "candidate_id": "cand_d4b9653b526f70a854923078",
+      "image_url": "https://www.bluebearhouse.com.tw/wp-content/uploads/2020/06/P_1101123-1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI9RFPNA3LVF-t0c4d4QZarxi99Lr6xLxT8ttcIMjpGg&s=10",
+      "source_page_url": "https://www.bluebearhouse.com.tw/product/1101123/",
+      "source_domain": "www.bluebearhouse.com.tw"
+    },
+    {
+      "candidate_id": "cand_9e593e5ae46b80a4040cec49",
+      "image_url": "https://i.ytimg.com/vi/q4eWugsBq70/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCLxXiEY-TttoBDHjaizgfTSEWAH56gBau060M22B9Qg&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=q4eWugsBq70",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_9a638d8f1681df5969e0c5be",
+      "image_url": "https://shoplineimg.com/608f9d027b095a0040afd77f/68314f76dd1fb7000fed51ed/800x.jpg?",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCcV0gz7kwvSxMW5Ry0TNSHSL-XG5uK7l1cKNaFO1c_w&s=10",
+      "source_page_url": "https://www.fuchun-seafood.com.tw/products/blackmouth-croaker?srsltid=AfmBOop_WezZD90e8qvvv4KfP1jhSVnB75NC5U9HjQwc1tjkFzHrP5az",
+      "source_domain": "www.fuchun-seafood.com.tw"
+    },
+    {
+      "candidate_id": "cand_1f99ea46d9a9bb14fe9e7a40",
+      "image_url": "https://chiufish.com.tw/wp-content/uploads/2022/01/2-e1643196248974.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVYkY_Pa1msBuOUX_gWZoxu4Po3TVHMy5fm9QYjv0SNA&s=10",
+      "source_page_url": "https://chiufish.com.tw/product/%E9%BB%91%E5%96%89%E9%AD%9A-1%E5%85%AC%E6%96%A4%C2%B110-%E5%8C%85/",
+      "source_domain": "chiufish.com.tw"
+    },
+    {
+      "candidate_id": "cand_55fa710aa75027a632e5c33a",
+      "image_url": "https://img.freshmackerel.com/NewsPic/166936640117223.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiPxL4VK-59aQFjpemxBdRoEOP8DJMoMmsaNKpuS-dlg&s=10",
+      "source_page_url": "https://www.freshmackerel.com/Recipes/1872",
+      "source_domain": "www.freshmackerel.com"
+    },
+    {
+      "candidate_id": "cand_0adb50d8cbd221df8a6e0e73",
+      "image_url": "https://chiufish.com.tw/wp-content/uploads/2022/01/pexels-pixabay-scaled.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUBI4Fc27_VTxDWlBleRNpCZwndoK9daYpHVGu0MbgGA&s=10",
+      "source_page_url": "https://chiufish.com.tw/product/%E9%BB%91%E5%96%89%E9%AD%9A-1%E5%85%AC%E6%96%A4%C2%B110-%E5%8C%85/",
+      "source_domain": "chiufish.com.tw"
+    },
+    {
+      "candidate_id": "cand_aee1a60044f9a6e815e393af",
+      "image_url": "https://i0.wp.com/etaiwan.news/wp-content/uploads/2025/05/img_2261-1.jpg?resize=1024%2C768&ssl=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxhG-fGSeBeFNtStNhoTSpgGOw77MiUbE7qs8gkoUdUg&s=10",
+      "source_page_url": "https://etaiwan.news/2025/05/09/%E9%BB%91%E5%96%89%EF%BD%9C%E8%87%BA%E7%81%A3%E5%8D%81%E5%A4%A7%E7%BE%8E%E5%91%B3%E9%AD%9A%E9%A1%9E%E4%B9%8B%E4%B8%80%EF%BC%8C%E6%AF%8F%E5%B9%B45%E8%87%B37%E6%9C%88%E7%82%BA%E7%B9%81%E6%AE%96%E6%9C%9F/",
+      "source_domain": "etaiwan.news"
+    },
+    {
+      "candidate_id": "cand_8bf82f45f5ecbd4defefa4c1",
+      "image_url": "https://img.meepshop.com/kPFbHJ4Ciq6cNjQZEnwibf8UId1llCq_lI28Ur5tWVY/w:1200/Z3M6Ly9pbWcubWVlcGNsb3VkLmNvbS9tZWVwc2hvcC9lMmNmZWNiOS0xMDQ0LTQxMzktODE4MC00YzhiNmMyNmIxNDkvZmlsZXMvODY5OGZhMjUtMWM5My00MmQ2LWFiZDctZTRiYjU2OTk2ODZhLnBuZw",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwmM_V1peU0GmChTkSYooxMJgMKGf4He4LMwgBCKO_Qw&s=10",
+      "source_page_url": "https://www.seafood.com.tw/products/a8861717-37f3-432a-b579-66d6a76c99c3",
+      "source_domain": "www.seafood.com.tw"
+    },
+    {
+      "candidate_id": "cand_52850be580ded7fc8ee902fa",
+      "image_url": "https://img.91app.com/webapi/imagesV3/Original/SalePage/8732881/2/639228237152130000?v=1&quality=30",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_zvCz0TNSPD56wkEZPGVSJOjq0aNqjC27hvAgG28jRQ&s=10",
+      "source_page_url": "https://www.jjfish.com.tw/SalePage/Index/8732881?srsltid=AfmBOoq65ZRqcpIgIrFTlsedpyCcLP5e95Zt62kmzhOTwkLo-RNguWF7",
+      "source_domain": "www.jjfish.com.tw"
+    },
+    {
+      "candidate_id": "cand_dfe56d16517402c3f220a14c",
+      "image_url": "https://shoplineimg.com/5af9b5a710abb9c4ba00117a/69365eb6d85ad6000af2223d/800x.jpg?",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjNPr_h8RADP8YOTDIHLe-ybBLLCHiG8CatetLz6Xs9Q&s=10",
+      "source_page_url": "https://www.foodsandsation.com.tw/products/taiwan-wild-blackmouth-croaker-300-350g?srsltid=AfmBOooDTfD0178MsesKhCe-Duv0vdtURKQjoCiN_1Z3vmeACejrMWv6",
+      "source_domain": "www.foodsandsation.com.tw"
+    },
+    {
+      "candidate_id": "cand_d47e88edfdc945e4e17d0ffe",
+      "image_url": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/347971271/1200",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXlY0BldzwVhdDfxRmdzrxeDHHEpTgEg7vEggOm_B2Mg&s=10",
+      "source_page_url": "https://ebird.org/species/stonec7?siteLanguage=zh",
+      "source_domain": "ebird.org"
+    },
+    {
+      "candidate_id": "cand_a2246f38e5bff560b2656eed",
+      "image_url": "https://www.green-n-safe.com/uploads/images/thumbs/0002742_S__65863694.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2DtPYfsRfYdzF4BF_2A3JCloRTmgyHQx92bryfXLeA&s=10",
+      "source_page_url": "https://www.green-n-safe.com/Products/Content?id=MNE0001TWAA&srsltid=AfmBOopNo-x3NalIkOENhCp6f874XJV0SEZ1D7PCWKq9Mji9M6ZYdSMV",
+      "source_domain": "www.green-n-safe.com"
+    },
+    {
+      "candidate_id": "cand_a81a23f01583a7944a84d13d",
+      "image_url": "https://pic2.zhimg.com/v2-094acbb9e577cb8e8451e192a627e223_1440w.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmI21b8omPBIrFv1qtYZpd_zAOIMCqiebb_XRSwPHesg&s",
+      "source_page_url": "https://zhuanlan.zhihu.com/p/33362507",
+      "source_domain": "zhuanlan.zhihu.com"
+    },
+    {
+      "candidate_id": "cand_5ecb8b3312621305e46e87f7",
+      "image_url": "https://www.workband.com.tw/store_image/dashu/P1176580674122.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7L76KNhnKuzce7vqPUkQ0rv0sdULDinh8T5EFFNNSGA&s",
+      "source_page_url": "https://www.dashu-fishery.com/products/info.php?id=69165",
+      "source_domain": "www.dashu-fishery.com"
+    },
+    {
+      "candidate_id": "cand_c176e245541d676657c98902",
+      "image_url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/49664/d2d8cd1efa146baf.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpkLFGv-Xz1_DqasUqK1YprBarmsDk4teZEe5m63DFpg&s=10",
+      "source_page_url": "https://icook.tw/recipes/49664",
+      "source_domain": "icook.tw"
+    },
+    {
+      "candidate_id": "cand_0a377a86d629f34dff5f2ccf",
+      "image_url": "https://img.cloudimg.in/uploads/shops/21369/products/54/548973976df9d3d854eb995e887e45f1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDkq35BxExO3O4AeAWtOeld8V-v5EY0_-qjrAh2RIYbw&s=10",
+      "source_page_url": "https://www.yudafa.com.tw/product/detail/851822/%E9%87%8E%E7%94%9F%E9%BB%91%E5%96%89",
+      "source_domain": "www.yudafa.com.tw"
+    },
+    {
+      "candidate_id": "cand_cbc8f1c09aa754300b86521f",
+      "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7qul9-lgtfnaq7c1t884",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE-q8OPPWp5AevlNpMoXqAT1Ov7k3aPpiX0MnI_bavlg&s=10",
+      "source_page_url": "https://shopee.tw/%E3%80%90%E6%B0%B4%E6%B1%95%E6%B5%B7%E7%89%A9%E3%80%91%E6%9D%B1%E6%B8%AF%E6%B5%B7%E9%87%A3-%E9%A0%82%E5%B0%96%E9%AB%98%E6%AA%94%E9%AD%9A%E7%A8%AE-%E9%BB%91%E5%8A%A0%E7%B6%B2%E3%80%81%E9%BB%91%E5%96%89%E9%AD%9A%E3%80%81%E9%BB%91%E7%8C%B4-%E5%AB%A9%E8%80%8C%E4%B8%8D%E6%9D%90%E3%80%8E%E5%AF%A6%E9%AB%94%E5%BA%97%E9%9D%A2%E3%80%81%E5%93%81%E8%B3%AA%E4%BF%9D%E8%AD%89%E3%80%8F-i.6754446.12720189522",
+      "source_domain": "shopee.tw"
+    },
+    {
+      "candidate_id": "cand_358a5b740c5966e3212b6d95",
+      "image_url": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/133938401/320",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT94K-eIBp0EXrq2DC59wFGATpjIAvrFkzayjcNR0vyuA&s=10",
+      "source_page_url": "https://ebird.org/species/stonec7?siteLanguage=zh",
+      "source_domain": "ebird.org"
+    },
+    {
+      "candidate_id": "cand_8296bcf308b0c1f15077a726",
+      "image_url": "https://i0.wp.com/etaiwan.news/wp-content/uploads/2024/03/img_4867-1.jpg?resize=768%2C1024&ssl=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx5Iif6XCbOcH_EHILAZAje6o8iuDT-oyitR7bNBWIwA&s=10",
+      "source_page_url": "https://etaiwan.news/2024/03/12/%E9%BB%91%E5%96%89%EF%BD%9C%E9%96%8B%E5%A7%8B%E9%80%B2%E5%85%A5%E7%95%B6%E5%AD%A3%EF%BC%8C%E8%87%BA%E6%9D%B1%E5%AF%8C%E5%B2%A1%E6%BC%81%E6%B8%AF%E9%99%B8%E7%BA%8C%E6%8D%95%E7%8D%B2%EF%BC%8C%E7%94%9F/",
+      "source_domain": "etaiwan.news"
+    },
+    {
+      "candidate_id": "cand_6c88bd89041086c91a1743d3",
+      "image_url": "https://www.bluebearhouse.com.tw/wp-content/uploads/2024/02/514e74d3-8a87-4966-bbdf-b5f9b4e98923.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC64jdC1d372R1V2sWcJfwvuWqXiSr2Ionil3jq3S-JQ&s=10",
+      "source_page_url": "https://www.bluebearhouse.com.tw/product/a1101012/",
+      "source_domain": "www.bluebearhouse.com.tw"
+    },
+    {
+      "candidate_id": "cand_b7859c077ebcbbba8bcf9186",
+      "image_url": "https://i.ytimg.com/vi/OQbtGtYWWEU/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG6PxUaUrg-CSNLF8dcMyUSwGKif0XU9aaym4-Sx8-7w&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=OQbtGtYWWEU",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_d1379450aae72d8f27a3bff7",
+      "image_url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/279852/08f2027ff8c5b5e5.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmM-OhHGPVG_0VBo1TV8bAukKeQw_TN1pg-Uy6BKwOXA&s=10",
+      "source_page_url": "https://icook.tw/recipes/279852",
+      "source_domain": "icook.tw"
+    },
+    {
+      "candidate_id": "cand_cbcc4905eb12a8744558bda1",
+      "image_url": "https://img.meepshop.com/S8cxHRYwlTfRoNOUiUtXfVS4D0C0L-NUL_pWkw1IP7E/w:720/Z3M6Ly9pbWcubWVlcGNsb3VkLmNvbS9tZWVwc2hvcC9lMmNmZWNiOS0xMDQ0LTQxMzktODE4MC00YzhiNmMyNmIxNDkvZmlsZXMvYTI4OTY3NjctMThmNy00MDM4LWExNWEtZTdiNTI0YzI4NzgyLmpwZw",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZf9PXv9bMi3JzxKMlaQZzs3MR93rvScyCVKOf-71WiA&s=10",
+      "source_page_url": "https://www.seafood.com.tw/products/a8861717-37f3-432a-b579-66d6a76c99c3",
+      "source_domain": "www.seafood.com.tw"
+    },
+    {
+      "candidate_id": "cand_aecd159dafc702e670d96ebf",
+      "image_url": "https://www.ihergo.com/photo/product/11/11_1597896990614.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRypRuDlEcNU25_TbXBhx69rRhg_NWFeTabQoxxz_rEUg&s=10",
+      "source_page_url": "https://www.ihergo.com/store/fast-36Life/product/no2272069/?srsltid=AfmBOorzSobfBjapN-si0b8uOGxgnb643n1c3WVNy9KGLD-tAOUNdIL3",
+      "source_domain": "www.ihergo.com"
+    },
+    {
+      "candidate_id": "cand_ac235e7e922538e18c1bcca5",
+      "image_url": "https://happyseafoods.wordpress.com/wp-content/uploads/2012/02/dsc04975-02.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX2gVPjNNve70gQFB2pBwkdztzkUUJuI0kg1neqKUq5g&s=10",
+      "source_page_url": "https://happyseafoods.wordpress.com/2012/02/04/%E7%8F%BE%E6%B5%81%E6%B5%B7%E9%87%A3-%E9%BB%91%E5%96%89/",
+      "source_domain": "happyseafoods.wordpress.com"
+    },
+    {
+      "candidate_id": "cand_0f272f80b968ed283616b3c2",
+      "image_url": "https://www.workband.com.tw/store_image/dashu/P2177605001698.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoTa64gLpnczBIk7HeOswO47t27yQNa5YZuDd58vc-MQ&s",
+      "source_page_url": "https://www.dashu-fishery.com/products/info.php?id=69165",
+      "source_domain": "www.dashu-fishery.com"
+    },
+    {
+      "candidate_id": "cand_5782618ed6157651b20a29ee",
+      "image_url": "https://i.ytimg.com/vi/JwSRkGeaxWI/sddefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWDOWSazOXlwqU0yTQHhWxPQUr4lcY-Rn1UTQ7fACSSA&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=JwSRkGeaxWI",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_c07dd86c8ebdea43314b477f",
+      "image_url": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/133938471/320",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsMNEPtVMnTpcnyjMcIALWpb0KCfzXJO-5fnUaIfLc1Q&s=10",
+      "source_page_url": "https://ebird.org/species/stonec7?siteLanguage=zh",
+      "source_domain": "ebird.org"
+    },
+    {
+      "candidate_id": "cand_a88bc1adb199d9c30f1a785b",
+      "image_url": "https://www.mit-machining.com/store_image/shangpinseafood/Q1751359449985.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_1Kk1PjxIGOh2-MJeTTM5kHEpLlejFtIt2364PLVoCQ&s=10",
+      "source_page_url": "https://www.shangpinseafood.com/products/info.php?id=245779&title_id=",
+      "source_domain": "www.shangpinseafood.com"
+    },
+    {
+      "candidate_id": "cand_a2eaa0aa2357a72b077332b8",
+      "image_url": "https://img.meepshop.com/Bflu_dZ0VzSTRw0gBrxJvnpvVk1Og0HwTxeMfBCFFdo/w:960/Z3M6Ly9pbWcubWVlcGNsb3VkLmNvbS9tZWVwc2hvcC9lMmNmZWNiOS0xMDQ0LTQxMzktODE4MC00YzhiNmMyNmIxNDkvZmlsZXMvYWIwYzA4OTQtZWU5Ni00OWIwLWIzZjEtZDg0MDY5YzhhMTAxLnBuZw",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKTgjno9hg5AU89YrgGiM2QF-6VqXWQFZs96GileQVKw&s",
+      "source_page_url": "https://www.seafood.com.tw/products/a8861717-37f3-432a-b579-66d6a76c99c3",
+      "source_domain": "www.seafood.com.tw"
+    },
+    {
+      "candidate_id": "cand_95e2de3cb1946663b0bdd6c1",
+      "image_url": "https://picx.zhimg.com/v2-15d26f8328c47135adb09f41684cd2dd_1440w.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDqxZD8j0CLU8wDgajXrCyylFz8jDk8uWXZhwYd4h4pg&s",
+      "source_page_url": "https://zhuanlan.zhihu.com/p/33362507",
+      "source_domain": "zhuanlan.zhihu.com"
+    },
+    {
+      "candidate_id": "cand_3cf0a9a603d846ada64d5bf7",
+      "image_url": "https://www.bluebearhouse.com.tw/wp-content/uploads/2019/04/P_1101111-2.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREPsok7V3q4Ex3geKHJ5Xprzj97nHiqb3RCJPN_BJ5Jw&s=10",
+      "source_page_url": "https://www.bluebearhouse.com.tw/product/a1101012/",
+      "source_domain": "www.bluebearhouse.com.tw"
+    },
+    {
+      "candidate_id": "cand_17f3dd3fffb708aa00c850c1",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRv3z2n8FbquZnLkcdYKWGKWv1zHLL_2G_BbZJ2JzX4mdjsNMuVHcuZ88JJ5eDg6bidOz7v6UXrYDPY6NkWbKere9zjOcYAyRnfIYygn3rlbeoZ4qe7qtHUJ3z4uawBuUDO3cE9JiVzgQ/s1600/CAS%25E9%25BB%2591%25E5%2596%2589.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSL0OFIBBcV6LTggsRk52cRegIL7HuLfGO480ICQ-kLg&s=10",
+      "source_page_url": "http://anyongfresh.blogspot.com/2015/07/blog-post_30.html",
+      "source_domain": "anyongfresh.blogspot.com"
+    },
+    {
+      "candidate_id": "cand_4a2f5039223d6b410b963cf6",
+      "image_url": "https://fukuya.ca/cdn/shop/files/20230930_183153.jpg?v=1711004334&width=1946",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt6ASKhm_A3NP3XE0nx984c7D1a1RL1Tf_3baACAZ-Eg&s",
+      "source_page_url": "https://fukuya.ca/products/fresh-blackthroat-seaperch-nodoguro?srsltid=AfmBOooYBbmetPcQiwkJR9QiEY-tJ7ls-RCAFTAOXB19nSs3rrRzZoVF",
+      "source_domain": "fukuya.ca"
+    },
+    {
+      "candidate_id": "cand_1f8775d05d3146d3138ecc68",
+      "image_url": "https://tokyo-kitchen.icook.network/uploads/step/cover/1031128/0a1cda3e4acaecbb.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbU8k_mH_xNvhcg3E3V6BX-fBksP_v_ZRTGZhwwua-ww&s=10",
+      "source_page_url": "https://icook.tw/recipes/210937",
+      "source_domain": "icook.tw"
+    },
+    {
+      "candidate_id": "cand_c131c5223aff5657ed518c98",
+      "image_url": "https://irenelife.com/wp-content/uploads/2023/12/DSC03028.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTio_l-697naYHV9ozcMs1jd2sJaIlo5nppjagf2Y0qdg&s=10",
+      "source_page_url": "https://irenelife.com/blog/post/itaru",
+      "source_domain": "irenelife.com"
+    },
+    {
+      "candidate_id": "cand_99473b3691b911dbb88b3ed2",
+      "image_url": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/133938491/320",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNMfFtY14iu8BEnkw4cWxpZ5wmYg404JU1A3VBG3rd8Q&s=10",
+      "source_page_url": "https://ebird.org/species/stonec7?siteLanguage=zh",
+      "source_domain": "ebird.org"
+    },
+    {
+      "candidate_id": "cand_e3a968752ee937ea166a8cfc",
+      "image_url": "https://shoplineimg.com/58f8b730d4e395da300058e9/5a50913d080f06e34700413f/800x.jpg?",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYmxB4KwnJlD3m35WxBDIkDNbu9Ks3Am4cthxbvELBWw&s=10",
+      "source_page_url": "https://www.yourfreshseafood.com/products/%E3%8A%A3%E5%9F%BA%E9%9A%86%E9%87%8E%E7%94%9F%E7%8F%BE%E6%B5%81%E5%A4%A7%E9%BB%91%E5%96%89%E9%AD%9A",
+      "source_domain": "www.yourfreshseafood.com"
+    },
+    {
+      "candidate_id": "cand_3cbc2f94bdda04ce400bc843",
+      "image_url": "https://img.freshmackerel.com/NewsPic/158328239612229.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREGmW41neL_xx3lJg2JdRFM6Lo5YDm6R4SuNQsEGjerQ&s=10",
+      "source_page_url": "https://www.freshmackerel.com/newnews/698",
+      "source_domain": "www.freshmackerel.com"
+    },
+    {
+      "candidate_id": "cand_2072185babb95f2e835e7b38",
+      "image_url": "https://www.borganic.com.tw/storage/2022/05/jrhr.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP1G1jR8CmzQMmVpOSHMnL6H6AS3LIREDb5SALUsex2Q&s=10",
+      "source_page_url": "https://www.borganic.com.tw/portfolio/%E5%8D%9A%E8%83%BD%E7%94%9F%E6%A9%9F%E8%A4%87%E6%96%B9%E8%8D%89%E6%9C%AC%E9%BB%91%E5%96%89%E7%B3%96/",
+      "source_domain": "www.borganic.com.tw"
+    },
+    {
+      "candidate_id": "cand_303634e1a8801657ecc2f552",
+      "image_url": "https://cdn.store-assets.com/s/1436694/i/104491323.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzMI2cdCNT1XbZjIxWs9UV7Qe5HCeeJ3VVzr1JiYcLeQ&s",
+      "source_page_url": "https://www.038561313.com.tw/products/%E9%A6%AC%E9%A0%AD%E9%AD%9A-700800%E5%85%8B-%E9%9A%BB-1?srsltid=AfmBOopQZGi7HJH0QaIFVSQkYULK5cgNpneo9-8q6v298GK1tXR71WEA",
+      "source_domain": "www.038561313.com.tw"
+    },
+    {
+      "candidate_id": "cand_74baae09357ec4c7a8bd2290",
+      "image_url": "https://img.cloudimg.in/uploads/shops/10056/products/d4/d455e34e76a2036f13648846993c429e.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_mmiVjISjob7_RBcWUQjUbjHc648aIy3ThXn7WGKXCQ&s=10",
+      "source_page_url": "https://www.naturepower.life/product/detail/2303541",
+      "source_domain": "www.naturepower.life"
+    },
+    {
+      "candidate_id": "cand_792082c7bb6690b6ad56cd6d",
+      "image_url": "https://pimg.1px.tw/yulu668168/1592379098-1947648116.jpg?v=1592379099",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXwEiA2d_wiOAEywYudRMkZMBUdNyFtXlHEpnX0Og61w&s=10",
+      "source_page_url": "https://yulu668168.pixnet.net/blog/posts/16013881752",
+      "source_domain": "yulu668168.pixnet.net"
+    },
+    {
+      "candidate_id": "cand_190de125a9de23a8e9b6208a",
+      "image_url": "https://img.cloudimg.in/uploads/shops/21369/products/0b/0b00d681e08068dc12ccd5f1bc70089d.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXx8CEy17rNtIXS3YGgW-Fr1O9lzLS3fr0ZYvGOtIXEA&s=10",
+      "source_page_url": "https://www.yudafa.com.tw/product/detail/851822/%E9%87%8E%E7%94%9F%E9%BB%91%E5%96%89",
+      "source_domain": "www.yudafa.com.tw"
+    },
+    {
+      "candidate_id": "cand_00c19450435ef5b826a11256",
+      "image_url": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/133938481/320",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU-FWZb31_O56M-A8HqyF_YrmS8wmNg6eAqdIUWBFzNQ&s=10",
+      "source_page_url": "https://ebird.org/species/stonec7?siteLanguage=zh",
+      "source_domain": "ebird.org"
+    },
+    {
+      "candidate_id": "cand_fe427b95df8756da58ce1197",
+      "image_url": "https://chiufish.com.tw/wp-content/uploads/2022/01/S__1843418-e1643196406786.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpJQWDcnCU_AGXJBpj6vb0XcX_tvZS1NJS5pNKHnVlMg&s=10",
+      "source_page_url": "https://chiufish.com.tw/product/%E9%BB%91%E5%96%89%E9%AD%9A-1%E5%85%AC%E6%96%A4%C2%B110-%E5%8C%85/",
+      "source_domain": "chiufish.com.tw"
+    },
+    {
+      "candidate_id": "cand_ef00a28748c323391b2c0888",
+      "image_url": "https://fukushima-oiseafood.jp/cmscontrol/wp-content/uploads/2023/01/e7188d0bf44adf95f83dda3bb7a7c754-1024x768.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmXWlNGEBaggF-ChUFUPAaT11Y-vdKUKmZLxVFJsXWXQ&s=10",
+      "source_page_url": "https://fukushima-oiseafood.jp/cn/column/1653/",
+      "source_domain": "fukushima-oiseafood.jp"
+    },
+    {
+      "candidate_id": "cand_05a151506ea46f3fd5ef9492",
+      "image_url": "https://cdn.store-assets.com/s/1436694/i/104491324.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWObeedhVP8dKlWMz0ZXZyHJlSxKwuT8i9eoAvhh1cNA&s",
+      "source_page_url": "https://www.038561313.com.tw/products/%E9%A6%AC%E9%A0%AD%E9%AD%9A-700800%E5%85%8B-%E9%9A%BB-1?srsltid=AfmBOorzgxnxgSmgGr1VhTyWeVUZ7Ty9BKkJeM2MOJM-ZuJ8HNJ5vhc1",
+      "source_domain": "www.038561313.com.tw"
+    },
+    {
+      "candidate_id": "cand_1c2c48ababdd5acb3bd103e1",
+      "image_url": "https://pimg.1px.tw/sugiusami/1383674338-2555543856.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWIkD9jIrd3-C2N2WK36sb5miu0kweXslVkKF8e581Bw&s=10",
+      "source_page_url": "https://sugiusami.pixnet.net/blog/posts/10015946399",
+      "source_domain": "sugiusami.pixnet.net"
+    },
+    {
+      "candidate_id": "cand_902335e1412708fa595cdd4e",
+      "image_url": "https://img.br-choku.com/encyclopedia-ai/reptile/black-throat-monitor-ae370d4e.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuKr3bTZtSAckrJ8Bidym6tGZzVR67hvLtX_mEKw9hvA&s",
+      "source_page_url": "https://br-choku.com/zh-CN/encyclopedia/reptile/black-throat-monitor",
+      "source_domain": "br-choku.com"
+    },
+    {
+      "candidate_id": "cand_cc649634050079c19793eddc",
+      "image_url": "https://www.mit-machining.com/store_image/shangpinseafood/Q1751359449743.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYxivSj4KU4Rx3xsHFstcVdk46wqy-ZRagAydSs_yfgg&s=10",
+      "source_page_url": "https://www.shangpinseafood.com/products/info.php?id=245779&title_id=",
+      "source_domain": "www.shangpinseafood.com"
+    },
+    {
+      "candidate_id": "cand_26aa424050876cb67e2f47e3",
+      "image_url": "https://fukuya.ca/cdn/shop/files/20230922_194502.jpg?v=1711004334&width=1946",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhvD1YNOQUagd8mecamgYFZR4fYJ53mmh6TGlEM1Vpg&s",
+      "source_page_url": "https://fukuya.ca/products/fresh-blackthroat-seaperch-nodoguro?srsltid=AfmBOoqqu2Y_cf0Hsbn0DaF_MihUuwhuAtvL6CdQG-i4-5UNJ_vz36iQ",
+      "source_domain": "fukuya.ca"
+    },
+    {
+      "candidate_id": "cand_1e6593026ababb10a363c6d5",
+      "image_url": "https://www.workband.com.tw/store_image/dashu/P2176580674212.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFBiPux4hB-ckuPx20hjBqVYHriBPs0vTFwAF9MY0nIw&s",
+      "source_page_url": "https://www.dashu-fishery.com/products/info.php?id=69165",
+      "source_domain": "www.dashu-fishery.com"
+    },
+    {
+      "candidate_id": "cand_cfde44a232d466b0d0b92a1d",
+      "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7rbkc-m8d0h7qosy5jf1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3wcdLCxFR9-_kxUjPR5vP-5EWcpe_bCAzQODWXtdbng&s=10",
+      "source_page_url": "https://shopee.tw/%E7%8F%BE%E8%B2%A8%E3%80%90%E6%BE%8E%E6%B9%96%E7%8F%BE%E6%8D%95%E3%80%91%E6%BE%8E%E6%B9%96%E6%AD%A3%E5%AE%97%E9%87%8E%E7%94%9F%E5%B0%8F%E9%BB%91%E5%96%89-%E9%BB%91%E5%96%89%E9%AD%9A-%E9%BB%91%E5%96%89(4%E5%B0%BE%E8%A3%9D)-i.162345431.26932674187",
+      "source_domain": "shopee.tw"
+    },
+    {
+      "candidate_id": "cand_63fcdb914ba78a241877c3eb",
+      "image_url": "https://im-fish.com/wp-content/uploads/2022/05/215004%E7%9F%B3%E7%8B%97%E5%85%AC2-1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQm7D31XuM8IMLmaE3tmY8Rbu-shaPSYgZJkB5lcxfBQ&s=10",
+      "source_page_url": "https://im-fish.com/shop/5004/",
+      "source_domain": "im-fish.com"
+    },
+    {
+      "candidate_id": "cand_7e4d360447cf9e0b8b2db0d0",
+      "image_url": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/133938431/320",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrh2A9P9XvDF2mnMGlsd89opwJV3NDy-LZXkK38GSp6A&s=10",
+      "source_page_url": "https://ebird.org/species/stonec7?siteLanguage=zh",
+      "source_domain": "ebird.org"
+    },
+    {
+      "candidate_id": "cand_c307a97ee9c3f36bd297793c",
+      "image_url": "https://static.wixstatic.com/media/7ef395_6ee738d13de84bc1a0bedd4a6d3c82c1~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfCj17RgwLF43VkrnsgPQICFGkd1KSfWnuplA6bhzjuQ&s=10",
+      "source_page_url": "https://www.hoiluenhardware.com/product-page/%E9%BB%91%E9%90%B5-%E9%89%9B%E6%B0%B4-bs-en-10255%E5%96%89%E7%AE%A1?srsltid=AfmBOoolYPw-quUsun8v5GrJ42k_2RBtsOryS5mYT38_dQZCCLYXkbTF",
+      "source_domain": "www.hoiluenhardware.com"
+    },
+    {
+      "candidate_id": "cand_111ab52493e656327dfdeca1",
+      "image_url": "https://image-cdn-flare.qdm.cloud/q6312ddcb816e5/image/data/2025/08/18/d8c1700e5c3a00967ff24aa758140440.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvO1jiUw05pENqV9vjV48aXjZtlJ82xuzqsVvwQUcrA&s=10",
+      "source_page_url": "https://www.blakatmama.com/Penghu-Atrobucca-nibe",
+      "source_domain": "www.blakatmama.com"
+    },
+    {
+      "candidate_id": "cand_f04fca74a8f5b0fd00f08ac8",
+      "image_url": "https://img.freshmackerel.com/NewsPic/158389325221533.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZA0GxTUQt7gE3mhY5nlnJhJ-mkhD7CSgm50fDw3Uhhg&s=10",
+      "source_page_url": "https://www.freshmackerel.com/cook/708",
+      "source_domain": "www.freshmackerel.com"
+    },
+    {
+      "candidate_id": "cand_fd9a23034cbb9b05f977470a",
+      "image_url": "https://img.meepshop.com/KbAnZ9cvyoteFkxu1g58EpjyWeIh-zXLjJkaDhSk_-U/w:720/Z3M6Ly9pbWcubWVlcGNsb3VkLmNvbS9tZWVwc2hvcC9lMmNmZWNiOS0xMDQ0LTQxMzktODE4MC00YzhiNmMyNmIxNDkvZmlsZXMvY2QxZmNhNTEtMGUxYS00MWVjLTliNDgtYTRkZDg0ZTllY2M4LmpwZw",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa2gRHABouuqRQWgkwyCB-ozQjoHMPIIeXp5TbdvAX8A&s=10",
+      "source_page_url": "https://www.seafood.com.tw/products/a8861717-37f3-432a-b579-66d6a76c99c3",
+      "source_domain": "www.seafood.com.tw"
+    },
+    {
+      "candidate_id": "cand_5bd03071f6be72c3629ac00a",
+      "image_url": "https://i.ytimg.com/vi/F2SaJZzY8UQ/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ266T5wcw08jxE1RA5RA8sktXIAafL9VBowN831Qrnw&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=F2SaJZzY8UQ",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_925463ec739e983edbc097b0",
+      "image_url": "http://fukuya.ca/cdn/shop/files/20224414265.jpg?v=1711004334",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQarjuN7cHBe3RT5EMekq_q68Ghasds2nZYHU3XwnHCIg&s",
+      "source_page_url": "https://fukuya.ca/products/fresh-blackthroat-seaperch-nodoguro?srsltid=AfmBOor80VzIrR3cZpjLLgmqu-aPlrnK8DhGEGUpC07PI_nqPKILY99H",
+      "source_domain": "fukuya.ca"
+    },
+    {
+      "candidate_id": "cand_890f454844c7e765de6d9f55",
+      "image_url": "https://img.cloudimg.in/uploads/shops/21369/products/27/27bcf4334ede8a50d4fad38f6fb0ac29.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbaycnj8ebo2auquEoPb1QLTPT1hTsRWSZvyePDl-yCg&s=10",
+      "source_page_url": "https://www.yudafa.com.tw/product/detail/851822/%E9%87%8E%E7%94%9F%E9%BB%91%E5%96%89",
+      "source_domain": "www.yudafa.com.tw"
+    },
+    {
+      "candidate_id": "cand_b1a7b285aade627c639ca37f",
+      "image_url": "https://img.cloudimg.in/uploads/shops/33365/products/a0/a0365b45fe6b4804bf6564d0b25fad30.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U7-CLbd62Ebabka-qKxjH5L3T7VIxMtnbhL6psV47Q&s=10",
+      "source_page_url": "https://www.94seafood.com.tw/product/detail/2447132",
+      "source_domain": "www.94seafood.com.tw"
+    },
+    {
+      "candidate_id": "cand_69bfe0fbf864995e00b56db0",
+      "image_url": "https://chiufish.com.tw/wp-content/uploads/2022/01/-scaled-e1643196122962.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIe8r8ozcSF-UbUReNGsGHo7h4lt7dE-1NYd7TSn43fw&s=10",
+      "source_page_url": "https://chiufish.com.tw/product/%E9%BB%91%E5%96%89%E9%AD%9A-1%E5%85%AC%E6%96%A4%C2%B110-%E5%8C%85/",
+      "source_domain": "chiufish.com.tw"
+    },
+    {
+      "candidate_id": "cand_dbc611b35efad48224e8610b",
+      "image_url": "https://image-cdn-flare.qdm.cloud/q6312ddcb816e5/image/data/2026/04/19/071cd3638cc75977cabf4f29d41e4c71.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9EwuBS7bm46RoILiRrB_tvHQD3OO13iOTziKcwFtEEg&s",
+      "source_page_url": "https://www.blakatmama.com/Penghu-Atrobucca-nibe",
+      "source_domain": "www.blakatmama.com"
+    },
+    {
+      "candidate_id": "cand_5aa4c0ee7c5e3fac22b73e88",
+      "image_url": "https://www.workband.com.tw/store_image/dashu/P4176580674380.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdB756wyNtyM9RY4EMwIx7f9dOfWdRiMREtshBndRroA&s",
+      "source_page_url": "https://www.dashu-fishery.com/products/info.php?id=69165",
+      "source_domain": "www.dashu-fishery.com"
+    },
+    {
+      "candidate_id": "cand_a02c6b8aa35ffdf54e4b583d",
+      "image_url": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i1/2218647700039/O1CN01tSHr8E1C9uUHutMwU_!!4611686018427380295-2-item_pic.png_360x360q90.jpg_.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWRWkZFpvnlVNOZXsvkDbM78j_GSmDB5zbQGjpJ_VGaA&s=10",
+      "source_page_url": "https://mobile-phone.taobao.com/chanpin/1bedee807aac3aed003ce920d94efd86.html",
+      "source_domain": "mobile-phone.taobao.com"
+    },
+    {
+      "candidate_id": "cand_42ea54ee9b9941fa4545d077",
+      "image_url": "https://img.cloudimg.in/uploads/shops/10056/products/dc/dc9bc1c22bc54095e3193514a903504d.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEhqx-e2-JqUMwljA8lQS9-OwfYDh6zdtuSPRTJ2iIMw&s=10",
+      "source_page_url": "https://www.naturepower.life/product/detail/2303541",
+      "source_domain": "www.naturepower.life"
+    },
+    {
+      "candidate_id": "cand_1a912df2915a3cfaec0d1e0b",
+      "image_url": "https://www.mit-machining.com/store_image/shangpinseafood/Q1751359449984.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbVBNycCBwbOrlzIoKMPUogjYw1WJEv4iOhRp65fUUFg&s=10",
+      "source_page_url": "https://www.shangpinseafood.com/products/info.php?id=245779&title_id=",
+      "source_domain": "www.shangpinseafood.com"
+    },
+    {
+      "candidate_id": "cand_5b20759f1b967584c85b012c",
+      "image_url": "https://i0.wp.com/etaiwan.news/wp-content/uploads/2024/03/img_4866-1.jpg?resize=768%2C1024&ssl=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRzRxtzj2iw6P6RCxdpsqgT8ZdOudeBbrWXzMO9nE0FA&s=10",
+      "source_page_url": "https://etaiwan.news/2024/03/12/%E9%BB%91%E5%96%89%EF%BD%9C%E9%96%8B%E5%A7%8B%E9%80%B2%E5%85%A5%E7%95%B6%E5%AD%A3%EF%BC%8C%E8%87%BA%E6%9D%B1%E5%AF%8C%E5%B2%A1%E6%BC%81%E6%B8%AF%E9%99%B8%E7%BA%8C%E6%8D%95%E7%8D%B2%EF%BC%8C%E7%94%9F/",
+      "source_domain": "etaiwan.news"
+    },
+    {
+      "candidate_id": "cand_5efba6d04802c6d2daca488f",
+      "image_url": "https://img.freshmackerel.com/NewsPic/163849212523131.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl1jXciSG5XZGYvgZ_tTeXms1NtfjVaVUDreQJ2h3ipQ&s=10",
+      "source_page_url": "https://www.freshmackerel.com/cook/1459",
+      "source_domain": "www.freshmackerel.com"
+    }
+  ]
+}

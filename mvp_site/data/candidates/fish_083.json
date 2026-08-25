@@ -1,0 +1,362 @@
+{
+  "schema_version": 1,
+  "fish_id": "fish_083",
+  "canonical_name": "黃若梅鯛",
+  "aliases": [
+    "包公雞"
+  ],
+  "pool_updated_at": "2026-08-25T03:50:28.284069+00:00",
+  "candidate_count": 50,
+  "candidates": [
+    {
+      "candidate_id": "cand_f6820e7dd1992150febd7dc3",
+      "image_url": "https://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a707-04.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlmQkXwJt5xROuya6B-ywpVIzH2xkeWR_Xzn3jMwMzqw&s=10",
+      "source_page_url": "https://fishdb.sinica.edu.tw/chi/species.php?id=382128",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_03c45635d323e711a9d6dfd4",
+      "image_url": "https://static.inaturalist.org/photos/5784273/medium.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl_euQHt1gglNp4VnC84cBppvlvQgefliHiYI_kL7tJg&s",
+      "source_page_url": "https://www.inaturalist.org/zh-CN/taxa/208070-Paracaesio-xanthurus",
+      "source_domain": "www.inaturalist.org"
+    },
+    {
+      "candidate_id": "cand_e3a2837b7acb54f27d81ce7c",
+      "image_url": "https://fishdb.sinica.edu.tw/files/muse_fishdb/muse_styles/w1024/mcode/7d0126549145e5e49ac8a24eb5d35fd3.jpg?itok=y270je_X",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjy3Lt-2TZK2Vpdu5hkU4IbdRVnIA7AwAEx_CYVUTX5w&s=10",
+      "source_page_url": "https://fishdb.sinica.edu.tw/taxon/382125-fishdb",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_216ac3b659344fbe19b4f93d",
+      "image_url": "https://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a707-02.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QnpZgi0tXL2R3RbdF0vP_eB1L6OfPQHaQW16-nO6dA&s=10",
+      "source_page_url": "https://fishdb.sinica.edu.tw/chi/species.php?id=382124",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_a96fa64fa6dd7ee907df75b2",
+      "image_url": "https://syimg.3dmgame.com/uploadimg/xiaz/2023/0712/1689132132683.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx_zDsklh0DU8zm4tRdIACyo4znkF6Vv7HtVS6t4TSyA&s=10",
+      "source_page_url": "https://shouyou.3dmgame.com/gl/456668.html",
+      "source_domain": "shouyou.3dmgame.com"
+    },
+    {
+      "candidate_id": "cand_d616dde6745936b45766fdcd",
+      "image_url": "https://huiji-public.huijistatic.com/ff14/uploads/1/1c/59ffdf4c7f46a970dea46f52958a44e9a12e4c31.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3RIUMZ0racOqx6PKhw6BhXkM02oGulUAaFWqm1D6GZw&s=10",
+      "source_page_url": "https://ff14.huijiwiki.com/wiki/%E7%89%A9%E5%93%81:%E9%BB%84%E8%83%8C%E8%8B%A5%E6%A2%85%E9%B2%B7",
+      "source_domain": "ff14.huijiwiki.com"
+    },
+    {
+      "candidate_id": "cand_73b30eb9abbb690b0a85e6a6",
+      "image_url": "https://huiji-public.huijistatic.com/ff14/uploads/4/41/078075.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeZ52sMrOi6ZRpbzEbt8tLeUknj0M600oJHU3k-86OSw&s",
+      "source_page_url": "https://ff14.huijiwiki.com/wiki/%E7%89%A9%E5%93%81:%E9%BB%84%E8%83%8C%E8%8B%A5%E6%A2%85%E9%B2%B7",
+      "source_domain": "ff14.huijiwiki.com"
+    },
+    {
+      "candidate_id": "cand_0676c06b95c52775f995287e",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5803356/medium.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2F_32mS7dRUN426IMEKVtLzVR3MRHqr140Iknp5tb3w&s",
+      "source_page_url": "https://www.inaturalist.org/zh-CN/taxa/208070-Paracaesio-xanthurus",
+      "source_domain": "www.inaturalist.org"
+    },
+    {
+      "candidate_id": "cand_120de80cc88843c67f2b5f7f",
+      "image_url": "https://syimg.3dmgame.com/uploadimg/xiaz/2023/0712/1689132132473.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuzPv8JhJWCHRuQhGZUkVmOe624wx7mEAqER6dpzsRJw&s=10",
+      "source_page_url": "https://shouyou.3dmgame.com/gl/456668.html",
+      "source_domain": "shouyou.3dmgame.com"
+    },
+    {
+      "candidate_id": "cand_a2e5c2ad3ccddbb5a6b0ed6b",
+      "image_url": "http://image.digitalarchives.tw/ImageCache/00/0f/93/38.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZcY-wenXjys68EjPLGU2DfZKB2dSFa9hVJoDEN-yK0g&s=10",
+      "source_page_url": "https://catalog.digitalarchives.tw/item/00/00/3b/e3.html",
+      "source_domain": "catalog.digitalarchives.tw"
+    },
+    {
+      "candidate_id": "cand_6c16fca5c587aaa39cdde83b",
+      "image_url": "https://i.ytimg.com/vi/RTGnMvg7kOE/hqdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGN3aXXiYBJTbHVhsSqA6_bd8RJe4gs0SSftQIUJVZWg&s",
+      "source_page_url": "https://www.youtube.com/watch?v=RTGnMvg7kOE",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_8c0c36b33552535f3e8f8cc2",
+      "image_url": "https://kmweb.moa.gov.tw/files/fisheasy/469/A01_1_m.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKiIVdMg19phBPmJ9Few-ZyLQ_dgloUq2_o90sQnzWsQ&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/theme_data.php?theme=fisheasy&id=469",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_0a255183d4a24f892fa2587d",
+      "image_url": "http://wx2.sinaimg.cn/middle/007emh3Xgy1idsj10b5bxj335s2dcnpe.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbbX18D4W-Ux_eUK2m9yJ1C5FXay-QFEAtaVln2412QQ&s",
+      "source_page_url": "https://www.sina.cn/news/detail/5305863264536498.html",
+      "source_domain": "www.sina.cn"
+    },
+    {
+      "candidate_id": "cand_b095d5a56921139cc9dfc562",
+      "image_url": "https://simg314.magcasa.com/content_images/2010/12/24/58924/1407744123_798.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb88Od3eYKlaIXpscmM70zVgnffwUVIGavraWRz11YNA&s=10",
+      "source_page_url": "https://www.hkfishbook.com/articles/58924",
+      "source_domain": "www.hkfishbook.com"
+    },
+    {
+      "candidate_id": "cand_1d303b605dae2ec45b4ca687",
+      "image_url": "https://i.ytimg.com/vi/vFhwFIYGfEk/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq9Fz1GB9SBGE3ZrbNmg2A1-dyralNuGKoSozJGgOqkg&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=vFhwFIYGfEk",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_a4b2bd3a3b4b4d79066d20df",
+      "image_url": "https://i0.wp.com/etaiwan.news/wp-content/uploads/2023/08/img_2600.jpg?resize=576%2C1024&ssl=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMORF6KlpHvO6VALZw6_oTNYBnMOW2WfwTqX8fQVxXcA&s=10",
+      "source_page_url": "https://etaiwan.news/2023/08/14/%E9%BB%83%E8%B6%B3%E7%AC%9B%E9%AF%9B%EF%BD%9C%E6%88%90%E5%8A%9F%E6%BC%81%E6%B8%AF%E5%A4%A7%E8%B1%90%E6%94%B6%EF%BC%8C%E6%B8%85%E8%92%B8%E6%9C%80%E9%AE%AE%E5%AB%A9%EF%BC%8C%E6%AD%A1%E8%BF%8E%E5%A4%A7/",
+      "source_domain": "etaiwan.news"
+    },
+    {
+      "candidate_id": "cand_a02237997184a0e2112cba4a",
+      "image_url": "https://pimg.1px.tw/naihaolee/1590956536-2374777267.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf8hzKWpHsyItSKVKJblsxaqQt77Ml5yIVbxheSweJVw&s=10",
+      "source_page_url": "https://naihaolee.pixnet.net/blog/posts/13359440674",
+      "source_domain": "naihaolee.pixnet.net"
+    },
+    {
+      "candidate_id": "cand_14eb07b3b8c59dd98ece8a47",
+      "image_url": "https://www.zukan-bouz.com/img/Fish/33/Thumb300/20121112361.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8rg67bHW88BgKBwxmSoijYYmHyIS8Y5EmDS-VMKThKA&s",
+      "source_page_url": "https://www.zukan-bouz.com/syu/%E3%82%A6%E3%83%A1%E3%82%A4%E3%83%AD",
+      "source_domain": "www.zukan-bouz.com"
+    },
+    {
+      "candidate_id": "cand_baa240afd831bb845f6c7c56",
+      "image_url": "https://i.ytimg.com/vi/vFhwFIYGfEk/hqdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvBOQXpBEDt5S19SPCybiGCXFmo8cRUPXZtRwugfDx5Q&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=vFhwFIYGfEk",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_4196c70d3eb2260616ae6657",
+      "image_url": "http://digiarch.sinica.edu.tw/digiarch3/ImageCache/ImageCache/00/0f/93/5b.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKuBvhKFSRlBmD-NE1EunIkZXPJlFtHtiOjapxnK8auA&s=10",
+      "source_page_url": "https://digiarch.sinica.edu.tw/content/repository/resource_content.jsp?oid=15333&queryString=%E5%8C%85%E5%85%AC",
+      "source_domain": "digiarch.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_33f7684d743d705ee970d02b",
+      "image_url": "https://i0.wp.com/etaiwan.news/wp-content/uploads/2023/08/img_2597.jpg?resize=576%2C1024&ssl=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpeC7z6zm_B0n05fpYiDRgIC5bPQ0SAg1wfqgByPBIXg&s=10",
+      "source_page_url": "https://etaiwan.news/2023/08/14/%E9%BB%83%E8%B6%B3%E7%AC%9B%E9%AF%9B%EF%BD%9C%E6%88%90%E5%8A%9F%E6%BC%81%E6%B8%AF%E5%A4%A7%E8%B1%90%E6%94%B6%EF%BC%8C%E6%B8%85%E8%92%B8%E6%9C%80%E9%AE%AE%E5%AB%A9%EF%BC%8C%E6%AD%A1%E8%BF%8E%E5%A4%A7/",
+      "source_domain": "etaiwan.news"
+    },
+    {
+      "candidate_id": "cand_11e4bd501a8a6a706ebc823d",
+      "image_url": "http://wx1.sinaimg.cn/middle/005UlZ3zgy1i7wdbpjyitj30my0h8gq8.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwMJghhA7C0J8uA4z-VlSmNZRTDZ2ZF_Koax7P4etGjA&s",
+      "source_page_url": "https://www.sina.cn/news/detail/5239363480323670.html",
+      "source_domain": "www.sina.cn"
+    },
+    {
+      "candidate_id": "cand_f8ef1d4434428a409baf7b69",
+      "image_url": "https://am.zdmimg.com/202504/30/681178592fd5f3380.jpg_e1080.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR--xFWpMqxD1fMrkf-DHdsTFoI42dBunzc-DKmrid_wg&s=10",
+      "source_page_url": "https://post.m.smzdm.com/p/agw5lm5d/",
+      "source_domain": "post.m.smzdm.com"
+    },
+    {
+      "candidate_id": "cand_91ba5acc4471e75b6b3439a4",
+      "image_url": "https://i.ytimg.com/vi/j2IorxcjdSg/sddefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ61aVhEUl-Gg7EjSuwk3HyLnrkYG3Sk4GlhSaQZU_01g&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=j2IorxcjdSg",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_4539378235e1dc4ef35cfe75",
+      "image_url": "https://churaumi.okinawa/userfiles/images/topics/200825kimadarahimedai2.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZxvhVRbkrNGOySa1uvWWstPh83Jlm8PX_f5hdEi_r1w&s=10",
+      "source_page_url": "https://churaumi.okinawa/sp/tc/topics/1598336674/",
+      "source_domain": "churaumi.okinawa"
+    },
+    {
+      "candidate_id": "cand_8b4a4f07aeaf23203ccdcd4f",
+      "image_url": "http://pimg.1px.tw/asirfish/1382410685-2378623628.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXLvg9WKBR7Q-PnBosGCs9KspU647lueYfpQ30LNL0RQ&s=10",
+      "source_page_url": "https://asirfish.pixnet.net/blog/posts/38469935",
+      "source_domain": "asirfish.pixnet.net"
+    },
+    {
+      "candidate_id": "cand_ace815c7fa9125258448d4bf",
+      "image_url": "https://imgnews.gmw.cn/attachement/jpg/site2/20230326/f44d305ea0c82589b0a93a.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJqdDMbp-OR7pQ4UPGKVYcySQYyDpXLQ85oyLNm1ddyw&s=10",
+      "source_page_url": "https://news.gmw.cn/2023-03/26/content_36455152.htm",
+      "source_domain": "news.gmw.cn"
+    },
+    {
+      "candidate_id": "cand_a8d8b67a4d5b628ecaac774e",
+      "image_url": "https://sushiuniversity.jp/basicknowledge/wp-content/uploads/sites/18/2023/06/Yellowtail-blue-snapper-Umeiro.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQWOk7MlsM6cj8FMe00eVzSXG61NxVs3s-Lz9KhYtpPQ&s=10",
+      "source_page_url": "https://sushiuniversity.jp/basicknowledge/yellowtail-blue-snapper-umeiro/",
+      "source_domain": "sushiuniversity.jp"
+    },
+    {
+      "candidate_id": "cand_ffd21eb156dfbe676c2ff636",
+      "image_url": "https://i.ytimg.com/vi/4-UK9P529yk/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpXP-gzEgfvn8Ikhj1UxUqgSzV_behd9bCr4AuQsydow&s=10",
+      "source_page_url": "https://www.thenewslens.com/article/157644",
+      "source_domain": "www.thenewslens.com"
+    },
+    {
+      "candidate_id": "cand_5545fccb97e683e54c7622ae",
+      "image_url": "https://i.ytimg.com/vi/oEF4o37kt_U/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLW3hnj3qXo-msDNWFLMCWOn29KZBatdlmNS_rbFmXmw&s=10",
+      "source_page_url": "https://www.thenewslens.com/article/157644",
+      "source_domain": "www.thenewslens.com"
+    },
+    {
+      "candidate_id": "cand_c1722936998058f89723de4f",
+      "image_url": "https://imgnews.gmw.cn/attachement/jpg/site2/20230326/f44d305ea0c82589b0b23d.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHpRHPApJngZNNy0iqJC0aIlPgi93IC-U_gOgusocwuw&s",
+      "source_page_url": "https://news.gmw.cn/2023-03/26/content_36455152.htm",
+      "source_domain": "news.gmw.cn"
+    },
+    {
+      "candidate_id": "cand_6af25916a2465948d9f9cb7b",
+      "image_url": "https://simg314.magcasa.com/content_images/2010/12/26/58986/1407751750_976.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWL1xfb8eQv6L0xQIgLDlJi6ZTyKuozOwC9r8B01GGw&s=10",
+      "source_page_url": "https://www.hkfishbook.com/articles/58986",
+      "source_domain": "www.hkfishbook.com"
+    },
+    {
+      "candidate_id": "cand_f4fa53513fd9e39e23547519",
+      "image_url": "https://www.steamxo.com/wp-content/uploads/2023/07/TKcsFz143340_2932294.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQ5Lts2OP9KoGMj5kvfWy0soTmep0j_qA_-lt2pPWtw&s=10",
+      "source_page_url": "https://www.steamxo.com/2023/07/19/2932294",
+      "source_domain": "www.steamxo.com"
+    },
+    {
+      "candidate_id": "cand_f3dd869b6910ea6d51f7a046",
+      "image_url": "https://img-cdn.polarstatic.com/f92b50b1e0b67ddf373ebab4/Hlcpi7rAsiJty4CsNYrRP7QK/Hlcpi7rAsiJty4CsNYrRP7QK-700x700.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYd-Z7StLmDtv8QTM4e7YmpaDaDXic7Cz2aBHEkOc-pg&s=10",
+      "source_page_url": "https://www.qtaquahk.com/zh-hant/products/%E9%BB%83%E9%87%91%E5%8F%AE%E5%99%B9-%E5%9D%A6%E6%B9%96%E6%85%88%E9%AF%9Boszb4or8qe?srsltid=AfmBOooaVjJqBKXnzIzhlkcD3amsgYMU6L_YI8EoowWY751dhWB-wO7p",
+      "source_domain": "www.qtaquahk.com"
+    },
+    {
+      "candidate_id": "cand_da001c9d308bb934a0d6bc55",
+      "image_url": "https://bucket-image.inkmaginecms.com/version/desktop/1/image/2024/06/dda6f440-00bc-4f72-a0a6-bdf1cf35c41d.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeHtPVVCoo3mjCJYYnqD-JCrx3ZJhfE_OozY3uh8-VCQ&s=10",
+      "source_page_url": "https://www.thenewslens.com/article/157644",
+      "source_domain": "www.thenewslens.com"
+    },
+    {
+      "candidate_id": "cand_8fb5213ac747570aba5be638",
+      "image_url": "https://av.huijiwiki.com/site_avatar_ff14_l.png?1786466417",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShzJ1M4FXJlEmxispDl6YzfUNSkP9NNPzN71blQimCIg&s=10",
+      "source_page_url": "https://ff14.huijiwiki.com/wiki/%E7%89%A9%E5%93%81:%E9%BB%84%E8%83%8C%E8%8B%A5%E6%A2%85%E9%B2%B7",
+      "source_domain": "ff14.huijiwiki.com"
+    },
+    {
+      "candidate_id": "cand_cd726d1575105b534921a35f",
+      "image_url": "https://51redaiyu.hyz.im/images/species/45304e35-e059-4ca9-96d4-66f26cb141a9_chic1.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcmTArmiEhoeY0KI3C8obTeTEhoFwQaoB1OF72sVHEXA&s=10",
+      "source_page_url": "https://www.51redaiyu.com/species/Aequidens%20metae",
+      "source_domain": "www.51redaiyu.com"
+    },
+    {
+      "candidate_id": "cand_04d384f3ddc1af1b01db64e0",
+      "image_url": "https://i0.wp.com/etaiwan.news/wp-content/uploads/2023/07/img_6277.jpg?resize=350%2C200&ssl=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA5Hzm6SeGryZjx6Jvm4OfYTmfHrQHqlXPC8IZ8IG-Ww&s=10",
+      "source_page_url": "https://etaiwan.news/2023/08/14/%E9%BB%83%E8%B6%B3%E7%AC%9B%E9%AF%9B%EF%BD%9C%E6%88%90%E5%8A%9F%E6%BC%81%E6%B8%AF%E5%A4%A7%E8%B1%90%E6%94%B6%EF%BC%8C%E6%B8%85%E8%92%B8%E6%9C%80%E9%AE%AE%E5%AB%A9%EF%BC%8C%E6%AD%A1%E8%BF%8E%E5%A4%A7/",
+      "source_domain": "etaiwan.news"
+    },
+    {
+      "candidate_id": "cand_4b02023eaa98ad63c794d237",
+      "image_url": "http://pimg.1px.tw/asirfish/1382410686-145995616.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp54GVsEtqhkqXgdXfUpHN_S1EBg3Vb7duhFnDNiuByQ&s=10",
+      "source_page_url": "https://asirfish.pixnet.net/blog/posts/38469935",
+      "source_domain": "asirfish.pixnet.net"
+    },
+    {
+      "candidate_id": "cand_7717d2033818d046a41b1767",
+      "image_url": "https://i0.wp.com/etaiwan.news/wp-content/uploads/2025/12/img_4734.jpg?resize=350%2C200&ssl=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT__B_cY2swLlwVRHOK45A_DYmKysZw1PsZ4sCZPxVJWA&s=10",
+      "source_page_url": "https://etaiwan.news/2023/08/14/%E9%BB%83%E8%B6%B3%E7%AC%9B%E9%AF%9B%EF%BD%9C%E6%88%90%E5%8A%9F%E6%BC%81%E6%B8%AF%E5%A4%A7%E8%B1%90%E6%94%B6%EF%BC%8C%E6%B8%85%E8%92%B8%E6%9C%80%E9%AE%AE%E5%AB%A9%EF%BC%8C%E6%AD%A1%E8%BF%8E%E5%A4%A7/",
+      "source_domain": "etaiwan.news"
+    },
+    {
+      "candidate_id": "cand_42e1233bbfa153c39c874c45",
+      "image_url": "http://pimg.1px.tw/asirfish/1382410686-3922498612.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPu8Pzl8iNm9nDKIyFWQAqn_MnN2tYaUYkzAOhBPXRCA&s=10",
+      "source_page_url": "https://asirfish.pixnet.net/blog/posts/38469935",
+      "source_domain": "asirfish.pixnet.net"
+    },
+    {
+      "candidate_id": "cand_ccc8fd5a153df340b9f2d707",
+      "image_url": "https://churaumi.okinawa/userfiles/fish_images/sanngogyo/kinnsennadult-resize-resize.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsJzpEHz9y6RhV50At3t0ksosBuMKyj1pPc4GBFx5WYA&s=10",
+      "source_page_url": "https://churaumi.okinawa/tc/fishbook/00000023/",
+      "source_domain": "churaumi.okinawa"
+    },
+    {
+      "candidate_id": "cand_061ed40563f3def52693e2ba",
+      "image_url": "https://simg314.magcasa.com/content_images/2010/12/26/58979/1407751751_328.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBISZxxQxi_tptW4NJQHxo-OP1IlNZWQ7K-uCITkDBNg&s=10",
+      "source_page_url": "https://www.hkfishbook.com/articles/58979",
+      "source_domain": "www.hkfishbook.com"
+    },
+    {
+      "candidate_id": "cand_26c49eea0fa4952ecfe88f6a",
+      "image_url": "https://tca.smzdm.com/live/pic/202504/30/6811782d4f0895731.jpg_e1080.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1GN3p_R2OcRFp3I4tYzxejHw3XRG1WxYvjxASj2vk2Q&s",
+      "source_page_url": "https://post.m.smzdm.com/p/agw5lm5d/",
+      "source_domain": "post.m.smzdm.com"
+    },
+    {
+      "candidate_id": "cand_f738935ba9527f6b5cec9c42",
+      "image_url": "https://www.steamxo.com/wp-content/uploads/2023/07/PTttPr171148_2913694-696x391.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt9n2OZdZs26mptOBdOl-GtjC8OwcLBwHb0NhmQ_W8Vw&s=10",
+      "source_page_url": "https://www.steamxo.com/2023/07/03/2913694",
+      "source_domain": "www.steamxo.com"
+    },
+    {
+      "candidate_id": "cand_68057a7fc6a942bf2b273b7c",
+      "image_url": "https://i.ytimg.com/vi/KV955q4-c1U/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD0aNkF2A_NcDGbJZP9_9O7l1YsyQ",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1nqchSZtd6vyPOqMv6i85SmZZfvTSYEt78AOWT-c-Mg&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=RTGnMvg7kOE",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_be8e2607632acb5eb305197c",
+      "image_url": "http://pimg.1px.tw/asirfish/1382410685-221214122.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4ALSKRx15FB0_z3lztpg55EiDKi34Kk79PjTLtA1-hQ&s=10",
+      "source_page_url": "https://asirfish.pixnet.net/blog/posts/38469935",
+      "source_domain": "asirfish.pixnet.net"
+    },
+    {
+      "candidate_id": "cand_8ec0d0011dd50c77e4a73d9d",
+      "image_url": "https://epaper.gmw.cn/gmrb/images/2023-03/26/11/res1131_attpic_brief.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROfbAU9vOB356wSs0eZvrrrxt_AFDDGOyWhxvSQMU-Cg&s=10",
+      "source_page_url": "https://epaper.gmw.cn/gmrb/html/2023-03/26/nw.D110000gmrb_20230326_2-11.htm",
+      "source_domain": "epaper.gmw.cn"
+    },
+    {
+      "candidate_id": "cand_3dd3160f35f804a3e425547c",
+      "image_url": "https://churaumi.okinawa/userfiles/fish_images/sanngogyo/kinsenyaoung-resize-resize.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-VHUVlAlYDQBcZjvczYCSKYIyx9gRSm98h3FZu3jsSQ&s=10",
+      "source_page_url": "https://churaumi.okinawa/tc/fishbook/00000023/",
+      "source_domain": "churaumi.okinawa"
+    },
+    {
+      "candidate_id": "cand_c07338080c3f8470603b34f6",
+      "image_url": "https://i0.wp.com/fishbook.com.tw/wp-content/uploads/2019/03/IMG_8813.jpg?fit=1600%2C1067&ssl=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmAEDu655mG6WgfeMC7VBvDmcrD_9J_hljBZbIo0k5pg&s=10",
+      "source_page_url": "https://fishbook.com.tw/%E6%9C%80%E5%80%BC%E5%BE%97%E6%8E%A8%E8%96%A6%E7%B5%A6%E5%88%9D%E5%AD%B8%E8%80%85%E9%A3%BC%E9%A4%8A%E7%9A%84%E5%9D%A6%E6%B9%96%E6%85%88%E9%AF%9B%EF%BC%88%E4%B8%AD%EF%BC%89%EF%BC%8D%E7%87%95%E5%B0%BE/",
+      "source_domain": "fishbook.com.tw"
+    }
+  ]
+}

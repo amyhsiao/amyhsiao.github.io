@@ -1,0 +1,712 @@
+{
+  "schema_version": 1,
+  "fish_id": "fish_078",
+  "canonical_name": "半環刺蓋魚",
+  "aliases": [
+    "藍紋神仙"
+  ],
+  "pool_updated_at": "2026-08-25T06:16:54.665989+00:00",
+  "candidate_count": 100,
+  "candidates": [
+    {
+      "candidate_id": "cand_8ed3d963193a28a2c7e3fdf2",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Pomacanthus_semicirculatus_1.jpg?utm_source=zh.wikipedia.org&utm_campaign=index&utm_content=original",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY8rCEiBUow0T1MRva5eFAx1tEAKExwL2cqrJ9dYYn4A&s=10",
+      "source_page_url": "https://zh.wikipedia.org/zh-tw/%E5%8D%8A%E7%92%B0%E5%88%BA%E8%93%8B%E9%AD%9A",
+      "source_domain": "zh.wikipedia.org"
+    },
+    {
+      "candidate_id": "cand_85b68aab2daa3b76c8332042",
+      "image_url": "https://www.114ehkreeffish.org/wp-content/uploads/2018/03/ChaetodontoplusSeptentrionalis_CaltonLaw_01.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9XLtMU_aV1U0te5S3Wp4_-WyMSM8KlsmyJkpre8xlgw&s=10",
+      "source_page_url": "https://www.114ehkreeffish.org/reef-fish/%E5%8D%8A%E7%92%B0%E5%88%BA%E8%93%8B%E9%AD%9A/",
+      "source_domain": "www.114ehkreeffish.org"
+    },
+    {
+      "candidate_id": "cand_b97413d5862f8e392754caaf",
+      "image_url": "https://fishdb.sinica.edu.tw/files/muse_fishdb/muse_styles/term_thumbs_silder/mcode/d78aa1f2efcba218d018b30dd601fe63.jpg?itok=GZ7S1qnJ",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkd0uReqPB5EjOgDvf6iSJCdlg7JR9wyBBaX8FNj2HEA&s=10",
+      "source_page_url": "https://fishdb.sinica.edu.tw/taxon/382303-fishdb",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_fe504d89786dfe90ae16ac70",
+      "image_url": "https://i0.wp.com/www.soundscape.org.tw/wp-content/uploads/2022/07/%E5%8D%8A%E7%92%B0%E5%88%BA%E8%93%8B%E9%AD%9A.jpg?ssl=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBjfxsIFa6ozZ6OJusAkzPtw7TsSDdkDLDNNbEovfoXw&s=10",
+      "source_page_url": "https://www.soundscape.org.tw/taiwan-natural-sound-map-info-17/%E5%8D%8A%E7%92%B0%E5%88%BA%E8%93%8B%E9%AD%9A/",
+      "source_domain": "www.soundscape.org.tw"
+    },
+    {
+      "candidate_id": "cand_2f2cd950c107e5eba45b1d65",
+      "image_url": "https://www.114ehkreeffish.org/wp-content/uploads/angelfish_centropype_vrolikii_RC_03.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBRuFYNYlyGti9i4qOmke9ohK79a2pJkeeJ0MpHhVXwA&s=10",
+      "source_page_url": "https://www.114ehkreeffish.org/reef-fish/%E5%8D%8A%E7%92%B0%E5%88%BA%E8%93%8B%E9%AD%9A/",
+      "source_domain": "www.114ehkreeffish.org"
+    },
+    {
+      "candidate_id": "cand_4e22d68e5ab7baece000a138",
+      "image_url": "https://fishdb.sinica.edu.tw/files/muse_fishdb/muse_styles/w1024/mcode/b24239c5a869d3a686b2d5ae6aef9e58.jpg?itok=ieFlkye-",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ4ehrUcaGLwRUIIuraAQvBc2y0B9sITAAyjV0XFqXFQ&s",
+      "source_page_url": "https://fishdb.sinica.edu.tw/taxon/382303-fishdb",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_f86e50093629dd13a6258115",
+      "image_url": "http://pimg.1px.tw/leechitse/1379008716-4082816817.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdWLL5G3H-FT8XUTTsDwhv13WuXrQ4Iq2-SLkNocMcdw&s=10",
+      "source_page_url": "https://leechitse.pixnet.net/blog/posts/9234685616",
+      "source_domain": "leechitse.pixnet.net"
+    },
+    {
+      "candidate_id": "cand_c6ab5ef007914f7cd93d02dc",
+      "image_url": "https://kmweb.moa.gov.tw/files/subject_WS/33562/29714443971.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-KdC5G8ipeI3uKLxOKm3nW50XpVTG-ZNVHVOMLOS5Q&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/subject/subject.php?id=4285",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_850d1b5a7288aeb57a42d105",
+      "image_url": "https://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a736-06.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlZdL67-cPp0rIjfHSA827ufsSEhsLDvW61VtHQ7SJJQ&s=10",
+      "source_page_url": "https://fishdb.sinica.edu.tw/chi/species.php?gen=Pomacanthus&spe=semicirculatus",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_212247124c1a528599d0c4f9",
+      "image_url": "https://kmweb.moa.gov.tw/files/subject_WS/33562/29714425171.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjoQxa4S3Egi8omg2uJmhpKl4TtwyIqUkT8uEzBcbQcg&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/subject/subject.php?id=4285",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_90cb58aead50ba6012cf0dd0",
+      "image_url": "https://aborgpedia.alcd.center/?option=com_fileman&view=file&routed=1&name=283.%E7%96%8A%E6%B3%A2%E8%93%8B%E5%88%BA%E9%AD%9A.jpg&folder=%E6%B0%91%E6%97%8F%E5%8B%95%E6%A4%8D%E7%89%A9%2F%E5%8B%95%E7%89%A9&container=fileman-files",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9UY5AocjDGk3QsdpBV7zPSDPsXDDacXtup467mM5iGg&s",
+      "source_page_url": "https://aborgpedia.alcd.center/detail?id=5550&search=&cat=0&race=19&writer=",
+      "source_domain": "aborgpedia.alcd.center"
+    },
+    {
+      "candidate_id": "cand_c82c892f2252a7ae6e502892",
+      "image_url": "https://kmweb.moa.gov.tw/files/subject_WS/33562/29714431371.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Y4_mY4IiXmMz33eg_AwUkvd_QJT18oPvRTWrHo7POg&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/subject/subject.php?id=4285",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_e0bcde7535609c646ce302a4",
+      "image_url": "https://picturefishai.com/wiki-image/1080/153419955591708692.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlr5LnaIEY6AJfYz9AkI2pFZ4-l3cd8LYgYj5JCd6p-w&s=10",
+      "source_page_url": "https://picturefishai.com/zh-tw/wiki/Pomacanthus_semicirculatus.html",
+      "source_domain": "picturefishai.com"
+    },
+    {
+      "candidate_id": "cand_4c9e90f31abaec73a0381464",
+      "image_url": "https://i.ytimg.com/vi/MiYBzZDhUkw/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGEQgRihyMA8=&rs=AOn4CLBbrbszvDFgPcpjqtLHR1FRQ2RpOg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTC2xUGBBxW4vmah7v5dDv9URb7t9khrTLQw7yoorCaA&s",
+      "source_page_url": "https://www.youtube.com/watch?v=MiYBzZDhUkw",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_a21413d6bda2b4e46b06fb53",
+      "image_url": "https://www.114ehkreeffish.org/wp-content/uploads/2017/10/PomacanthusMaculosus_StanShea_01.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa3vJqJ3oFUbPw8e3aMPFOn7MoR-RCa8Y6D5t6QCUqjg&s=10",
+      "source_page_url": "https://www.114ehkreeffish.org/reef-fish/%E6%96%91%E7%B4%8B%E8%93%8B%E5%88%BA%E9%AD%9A/",
+      "source_domain": "www.114ehkreeffish.org"
+    },
+    {
+      "candidate_id": "cand_437479056ac1a9c22339286e",
+      "image_url": "https://kmweb.moa.gov.tw/files/subject_WS/33562/29714444971.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWWFBhwBImDRnvnN0QJ__lYz_RS1oyxqNK6I81nz-wqw&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/subject/subject.php?id=4285",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_5cd3b3b7393b263cfa5c4147",
+      "image_url": "https://kmweb.moa.gov.tw/files/subject_WS/33562/29714404971.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS74vAQVUww5t_ukHJS7Un0ypc0xjM3iHrXrNP9b4E0bQ&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/subject/subject.php?id=4285",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_694637454a247d600e1af581",
+      "image_url": "https://www.114ehkreeffish.org/wp-content/uploads/2017/10/PomacanthusImperator_AllenTo_01.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaMOE60W4NLAZ77UyvPwEd36ILZqTOfl511-WGSNXvoA&s=10",
+      "source_page_url": "https://www.114ehkreeffish.org/reef-fish/%E7%9A%87%E5%B8%9D/",
+      "source_domain": "www.114ehkreeffish.org"
+    },
+    {
+      "candidate_id": "cand_c68906298fe9c3b08d1bf845",
+      "image_url": "https://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a735-10.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT3FeirDCFeW8CeSBVCD2-UadMS1izf_IuScNhqBZFFQ&s=10",
+      "source_page_url": "https://fishdb.sinica.edu.tw/chi/species.php?id=382301",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_69fb074c6ab6474a8530ac3f",
+      "image_url": "https://kmweb.moa.gov.tw/files/subject_WS/33562/2971444371.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDpr8-BBvgX94b-VJBHZNTlNqm3Wx1H5JwdAqs3u2nWw&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/subject/subject.php?id=4285",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_cd579a6f0503e058ce1b35a1",
+      "image_url": "https://kmweb.moa.gov.tw/files/subject_WS/33562/29714421771.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_JMo8UkFgawqRZ_iHo-DF5WD4LIl6bfcTsAVHZ0mWaQ&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/subject/subject.php?id=4285",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_2c14ec622e68bd5ba9de7141",
+      "image_url": "https://www.114ehkreeffish.org/wp-content/uploads/angelfish_pomacanthus_annularis_SS_02.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg214oYlhOadJuoTKbLmc0ptxFg92BscxcNfab_kd1Dw&s=10",
+      "source_page_url": "https://www.114ehkreeffish.org/reef-fish/%E7%99%BD%E5%B0%BE%E8%97%8D%E7%B4%8B/",
+      "source_domain": "www.114ehkreeffish.org"
+    },
+    {
+      "candidate_id": "cand_3b3bc2d3382703c23eaf9cc8",
+      "image_url": "http://pimg.1px.tw/leechitse/1379002362-1769904178.jpg?v=1379002363",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlsUCi9n4KIm700UGX1t-Z0grM5IVcTRBuyYxqk3srGA&s=10",
+      "source_page_url": "https://leechitse.pixnet.net/blog/posts/9234683156",
+      "source_domain": "leechitse.pixnet.net"
+    },
+    {
+      "candidate_id": "cand_6991ec16519f6bc5d46f8bcc",
+      "image_url": "https://taieol.tw/files/muse_taieol/muse_styles/color_box_match/mcode/d7424af2423bda68cf49ac9eadd5de3c.jpg?itok=RcExPTEs",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY0AFNDPR_LLijEUJdq4si627gvOrmrzAXwD1LQuafSg&s",
+      "source_page_url": "https://taieol.tw/muse/digi_object/9b9552b47b00d73e1f0b160f886f1943",
+      "source_domain": "taieol.tw"
+    },
+    {
+      "candidate_id": "cand_c184c457d6a6ce18fc75e5ec",
+      "image_url": "https://kmweb.moa.gov.tw/files/subject_WS/33562/29714423471.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwg5BQFYUWNFvqNK-R2ZV0cPbq94Q2m3mf67P6Vu-RJA&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/subject/subject.php?id=4285",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_73e394c1d13f326b9b950720",
+      "image_url": "https://img.magnific.com/premium-photo/imperial-angel-fish-swims-against-background-pink-corals_420001-8824.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIUM80xt7t1paq_flbeW8SLuPH6F4V-29NRyQ_O6HeTQ&s=10",
+      "source_page_url": "https://www.magnific.com/cn/%E7%B2%BE%E9%80%89%E7%85%A7%E7%89%87/pomacanthus-semicirculatus-semicircled-angelfish-underwater_28896863.htm",
+      "source_domain": "www.magnific.com"
+    },
+    {
+      "candidate_id": "cand_f5540f9475d05bd74821a886",
+      "image_url": "https://picx.zhimg.com/v2-dfd9af334db4abe8d6364a23bf9386b7_1440w.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs4w7fZ2pSK_iKFAMsVDdqfoVqyWtT6HHp2TEr1xe0LQ&s",
+      "source_page_url": "https://zhuanlan.zhihu.com/p/68149614",
+      "source_domain": "zhuanlan.zhihu.com"
+    },
+    {
+      "candidate_id": "cand_ec25a608aaee9c597e03baaf",
+      "image_url": "https://taieol.tw/files/muse_taieol/muse_styles/color_box_match/mcode/eb973f313c804d94a402674c8d670b91.jpg?itok=pUJjMmQ7",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3tAFOgFxkCNizWvbayNj-3NOfghk62hH1mUFRNHKryg&s=10",
+      "source_page_url": "https://taieol.tw/muse/digi_object/9b9552b47b00d73e1f0b160f886f1943",
+      "source_domain": "taieol.tw"
+    },
+    {
+      "candidate_id": "cand_f77ec19f371d14d806333f26",
+      "image_url": "https://churaumi.okinawa/userfiles/fish_images/sanngogyo/sazanamiyakko-henka.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFDNA6kmyAzKTOAafaMzauYLTw-tNbAEhkmTrcsOjSwg&s=10",
+      "source_page_url": "https://churaumi.okinawa/tc/fishbook/00000109/",
+      "source_domain": "churaumi.okinawa"
+    },
+    {
+      "candidate_id": "cand_9a38aa2abc413d4485fe2bd2",
+      "image_url": "https://img.magnific.com/premium-photo/angel-fish-red-sea-eilat-israel_455610-2872.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD3E8KkhEfF7lYl7quCRGmcZANhFw45-fOiWzgLsBb2w&s=10",
+      "source_page_url": "https://www.magnific.com/cn/%E7%B2%BE%E9%80%89%E7%85%A7%E7%89%87/pomacanthus-semicirculatus-semicircled-angelfish-underwater_28896863.htm",
+      "source_domain": "www.magnific.com"
+    },
+    {
+      "candidate_id": "cand_59d2c9f3887114ebd4f3bec8",
+      "image_url": "https://pic4.zhimg.com/v2-4810fcf716d600a4da2a0720ac7cbfa9_1440w.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg3h0J552InNMYcT1KFC-lfecskaet1wpxAYibKCUUyg&s",
+      "source_page_url": "https://zhuanlan.zhihu.com/p/68149614",
+      "source_domain": "zhuanlan.zhihu.com"
+    },
+    {
+      "candidate_id": "cand_00cdf991733d09724aead94a",
+      "image_url": "https://pimg.1px.tw/a780615/1641637194-1894766144-g.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIdKBbWmFSL3WQP0-F2YP21_GvNYY5FysiwqRG057WLQ&s=10",
+      "source_page_url": "https://a780615.pixnet.net/blog/posts/9561738146",
+      "source_domain": "a780615.pixnet.net"
+    },
+    {
+      "candidate_id": "cand_cde3c32c25e3f62460652d54",
+      "image_url": "https://churaumi.okinawa/userfiles/fish_images/sanngogyo/adeyakanayakko.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWI1nuxyM0nkgY_4tM3P1eaIYtFq0qU4Rw9r65oTPs8A&s=10",
+      "source_page_url": "https://churaumi.okinawa/sp/tc/fishbook/00000051/",
+      "source_domain": "churaumi.okinawa"
+    },
+    {
+      "candidate_id": "cand_8c10ff828e7c84769e26d404",
+      "image_url": "http://pic.pimg.tw/leechitse/1379008718-4202121423.jpg?v=1379008719",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBMo-tyy04p_8MEAsjECnrXbAcUQT4wP-8cGubyEHVxw&s=10",
+      "source_page_url": "http://leechitse66.blogspot.com/2011/01/pomacanthus-semicirculatus.html",
+      "source_domain": "leechitse66.blogspot.com"
+    },
+    {
+      "candidate_id": "cand_533cf0cb6715f67c1472dc16",
+      "image_url": "https://taieol.tw/files/muse_taieol/muse_styles/color_box_match/mcode/15c4694eca0b36fead9ff1a80adc380c.jpg?itok=1Prj0Pmd",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnX48DeKB5so-gVZvA4vkD9sHvVflG37JO-4e5v11eZg&s",
+      "source_page_url": "https://taieol.tw/muse/digi_object/9b9552b47b00d73e1f0b160f886f1943",
+      "source_domain": "taieol.tw"
+    },
+    {
+      "candidate_id": "cand_f69c2cba0bc54e5f66f5fab7",
+      "image_url": "https://www.114ehkreeffish.org/wp-content/uploads/angelfish_pomacanthus_asfur_SS_03.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYTJ3eqwdygDH9ZDOk-DEph-wNA5dcTRW41C6sr7Qy5A&s=10",
+      "source_page_url": "https://www.114ehkreeffish.org/reef-fish/%E9%98%BF%E6%8B%89%E4%BC%AF%E5%88%BA%E8%93%8B%E9%AD%9A/",
+      "source_domain": "www.114ehkreeffish.org"
+    },
+    {
+      "candidate_id": "cand_b5b1721e1dee3a060f2e42db",
+      "image_url": "http://pimg.1px.tw/leechitse/1379002367-1557373375.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU9nKoVglMV62UPJWYR0T3Z-QmtRyQWxKVjzi_YQxq3g&s=10",
+      "source_page_url": "https://leechitse.pixnet.net/blog/posts/9234683156",
+      "source_domain": "leechitse.pixnet.net"
+    },
+    {
+      "candidate_id": "cand_fc3a9e5fe10a31c7972b74fa",
+      "image_url": "https://cdn.shopify.com/s/files/1/0504/0619/5394/files/104857106_10223451258888189_3612973854255776285_n_480x480.jpg?v=1634882598",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyzlSDupDkXj0ZK_w6lXmsz4nNIG99CC2RpvxNM5meYg&s=10",
+      "source_page_url": "https://sexyfishwear.com/blogs/%E6%B5%B7%E6%B4%8B%E7%94%9F%E7%89%A9%E5%8D%B0%E8%8A%B1%E6%95%85%E4%BA%8B/%E4%B8%80%E7%A4%81%E4%B8%8D%E5%AE%B9%E4%BA%8C%E9%AD%9A-%E6%A2%9D%E7%B4%8B%E8%93%8B%E5%88%BA%E9%AD%9A-%E7%9A%87%E5%90%8E%E7%A5%9E%E4%BB%99%E7%9A%84%E5%B9%BC%E9%AD%9A%E7%9A%84%E7%99%BD%E8%97%8D%E5%9C%88%E5%9C%88-one-nation-can-t-have-two-queens-since-the-potential-one-is-still-young-doesnt-matter-juvenile-adult-colour-patterns-coexistence-in-the-territorial-emperor-angelfish",
+      "source_domain": "sexyfishwear.com"
+    },
+    {
+      "candidate_id": "cand_1dc7855c19400617b3105018",
+      "image_url": "https://i2.hdslb.com/bfs/archive/6faa807de952d1d6e903dc41be2d60b399525172.jpg@384w_216h_1c.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpobuucMxjrKh4WnITjAEFXuwnm0HHvYNvIz9_8CzjeA&s",
+      "source_page_url": "https://search.bilibili.com/all?keyword=%E9%B1%BC%E8%AE%BE/",
+      "source_domain": "search.bilibili.com"
+    },
+    {
+      "candidate_id": "cand_27d425242b7ae5e9aad15793",
+      "image_url": "https://kmweb.moa.gov.tw/files/subject_WS/33564/2971614771.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkvGFpgpKIXpEK7OCC8hGzAOXAaugbfJ8pTTcQUFdc6w&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/subject/subject.php?id=4287",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_9033676f8c280ada478f7e0e",
+      "image_url": "https://churaumi.okinawa/userfiles/fish_images/sanngogyo/adeyakkoresize.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSww9M5synnH8XWZ7NWV6nHA2OV-o4LZ6lp56LCP3mgwg&s=10",
+      "source_page_url": "https://churaumi.okinawa/sp/tc/fishbook/00000051/",
+      "source_domain": "churaumi.okinawa"
+    },
+    {
+      "candidate_id": "cand_4911cccd31af0b43c7775b66",
+      "image_url": "http://pic.pimg.tw/leechitse/1379008721-500371585.jpg?v=1379008722",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWK8TGLJzbFQmV_P-VuDJpED92QnHMXjzQvv9Zi3g8Hg&s=10",
+      "source_page_url": "http://leechitse66.blogspot.com/2011/01/pomacanthus-semicirculatus.html",
+      "source_domain": "leechitse66.blogspot.com"
+    },
+    {
+      "candidate_id": "cand_4132f03c5b3f537a4bad818b",
+      "image_url": "https://pansci.asia/wp-content/uploads/2012/02/PICT2717-%E7%B8%B1%E5%B8%B6-%E6%A2%9D%E7%B4%8B%E8%93%8B%E5%88%BA%E9%AD%9A-560.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTglOd7I9icVsWC0ScfrhTHrk_ZRWbff4BdJAJKy9rM3Q&s=10",
+      "source_page_url": "https://pansci.asia/archives/12905/dcf-1-0-5",
+      "source_domain": "pansci.asia"
+    },
+    {
+      "candidate_id": "cand_23acc841ce4d388f2270285e",
+      "image_url": "https://fishdb.sinica.edu.tw/files/muse_fishdb/muse_styles/term_thumbs_silder/mcode/382252afbbfb3d241d957bb00947bd86.jpg?itok=YrjLyysk",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRy6dXbueh8qbqLP2Uq2cVP3Yg_jlCqOUiNWrbfXQnPQ&s",
+      "source_page_url": "https://fishdb.sinica.edu.tw/taxon/382303-fishdb",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_86f2e5823bc43ad3e7996275",
+      "image_url": "https://img.magnific.com/premium-photo/red-sea-sailfin-tangfish-underwater-sea_163782-18569.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6sJiJfMYRai-ZfLdb3wMP746q-vopmH4seMqEZ3aDmg&s=10",
+      "source_page_url": "https://www.magnific.com/cn/%E7%B2%BE%E9%80%89%E7%85%A7%E7%89%87/pomacanthus-semicirculatus-semicircled-angelfish-underwater_28896863.htm",
+      "source_domain": "www.magnific.com"
+    },
+    {
+      "candidate_id": "cand_c73e0aa0936fb2d893ebbcdf",
+      "image_url": "https://i.ytimg.com/vi/ZEN_NZ8LcjE/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTujPkWO4OQmK4vtp4673Po9ydfiUB5US76UUtLbPdvxA&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=ZEN_NZ8LcjE",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_d080631373aef0975edfe0c2",
+      "image_url": "https://i2.kknews.cc/6LpkcIY4vvvHdcGSiEhHiQtvzf03wbc7xFtKjno/0.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfvpU7QKC4cz1feOG9t9B3O1eZEKrDGSbcueiM_oIDWQ&s=10",
+      "source_page_url": "https://kknews.cc/travel/46yo3n3.html",
+      "source_domain": "kknews.cc"
+    },
+    {
+      "candidate_id": "cand_8f9a21a0ca0bd5817f794728",
+      "image_url": "https://taieol.tw/files/muse_taieol/muse_styles/waterfall_col_3/mcode/a84dd417a984a60473ad85e53a64524a.jpg?itok=_2Zcohsy",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdds84ioQN0q8Qr1QB9hyuTpJa520MFvugamaIGHaHQg&s",
+      "source_page_url": "https://taieol.tw/muse/digi_object/929c78550167f4ec911bc91ab8e5e60a",
+      "source_domain": "taieol.tw"
+    },
+    {
+      "candidate_id": "cand_02c6d9aff13b56bb01a9e34d",
+      "image_url": "http://pic.pimg.tw/leechitse/1379008724-861180714.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpN9LEPpSvOKd6VhBnEYZlQW6bWFERXvHLEvLOKuz7nQ&s=10",
+      "source_page_url": "http://leechitse66.blogspot.com/2011/01/pomacanthus-semicirculatus.html",
+      "source_domain": "leechitse66.blogspot.com"
+    },
+    {
+      "candidate_id": "cand_a2ad03cb7522e8f912b90b77",
+      "image_url": "https://thumbs.dreamstime.com/b/bluering-49641830.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ44R5GIR9WkCK6f-T5DdV1Ub4jWGYcU1VnXodJj4gLDw&s=10",
+      "source_page_url": "https://cn.dreamstime.com/photos-images/%E7%A5%9E%E4%BB%99%E9%B1%BC.html",
+      "source_domain": "cn.dreamstime.com"
+    },
+    {
+      "candidate_id": "cand_575bc666841cf415b0206f34",
+      "image_url": "http://pimg.1px.tw/leechitse/1379002363-3265810045.jpg?v=1379002364",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDSCOh_0cQGHXM6QgcTGsIPOHcyr7sAKUawAPQ98f63Q&s=10",
+      "source_page_url": "https://leechitse.pixnet.net/blog/posts/9234683156",
+      "source_domain": "leechitse.pixnet.net"
+    },
+    {
+      "candidate_id": "cand_6ae04bff1b8208ad55dbf5ed",
+      "image_url": "https://churaumi.okinawa/userfiles/fish_images/sanngogyo/sazanamiyakkoyoung-resize(1).jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUTMf2p4vndbqlgTkOiI_GyTykxCeQlJKBNbniHphQJA&s=10",
+      "source_page_url": "https://churaumi.okinawa/tc/fishbook/00000109/",
+      "source_domain": "churaumi.okinawa"
+    },
+    {
+      "candidate_id": "cand_4161134585202ff161491f14",
+      "image_url": "https://kariyushi-aquarium.com/uploads/%E3%82%B2%E3%82%AA%E3%83%95%E3%82%A1%E3%83%BC%E3%82%AC%E3%82%B9-%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%B3%E3%83%80%E3%83%83%E3%82%AF%E3%83%8D%E3%83%AA%E3%82%A3.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsgb7RC0hG3D2t8YZlpvCL7Rw8L05vuMPHgrRE_YrLqQ&s",
+      "source_page_url": "https://tc.kariyushi-aquarium.com/animals/lists/?animals_category=types&id=12",
+      "source_domain": "tc.kariyushi-aquarium.com"
+    },
+    {
+      "candidate_id": "cand_3444609dcfeee082a45dff6d",
+      "image_url": "https://thumbs.dreamstime.com/b/passer-angelfish-holacanthus-swimming-against-white-background-beautiful-displaying-vibrant-colors-unique-patterns-446555405.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShEdVmPA1DsHw15AxrNNd3DRv4WdZ0k2JHCb6JHOoGEw&s=10",
+      "source_page_url": "https://cn.dreamstime.com/photos-images/%E7%A5%9E%E4%BB%99%E9%B1%BC.html",
+      "source_domain": "cn.dreamstime.com"
+    },
+    {
+      "candidate_id": "cand_c1f715827b8f11ce5d72aff9",
+      "image_url": "https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20180206/ea35658b0849457fb54ccc83d465b434.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVDdGMvHD6xVQUzoPr0bN5akKt3WcvQvubS5e_aLP8cg&s=10",
+      "source_page_url": "https://www.sohu.com/a/221340180_99946238",
+      "source_domain": "www.sohu.com"
+    },
+    {
+      "candidate_id": "cand_e02c700dc76c5e51c9a1d807",
+      "image_url": "https://taieol.tw/files/muse_taieol/muse_styles/color_box_match/mcode/a152b06b619cb277620782bd3a365bfd.jpg?itok=mGOyv-kG",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnrJKFMJ9_pogzAu_Z2WjuSgLSQLnzzERfb4HCBRcKqQ&s",
+      "source_page_url": "https://taieol.tw/muse/digi_object/9b9552b47b00d73e1f0b160f886f1943",
+      "source_domain": "taieol.tw"
+    },
+    {
+      "candidate_id": "cand_debb0ffa877ff9df4b237a0b",
+      "image_url": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/2209662473245/O1CN01RXAhyX1ZqGBpx9dBh_!!2209662473245.jpg_360x360q90.jpg_.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb9-Sb0WuXdJQfEeTvztuD2tsVa75TGvFHi9Q4BSYXFg&s",
+      "source_page_url": "https://guangtao.taobao.com/product-2288ca2663cc41e572c84442c990840acd58b7f6afbf24ddf3bed27de7110736.html",
+      "source_domain": "guangtao.taobao.com"
+    },
+    {
+      "candidate_id": "cand_53fd29d29838a58e099310ce",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQSY9a6EPWLdzjOC0GiAAYL8i2v_L1HlHVDNEGdn1s96FrWgbJq92JWHHWOlZklIL_oKcDA645cVi0SaHXjUQf_SUb_5Dx5bebywhSxfH2ZrHWgLmu8LPjG2cvetI38uWgVj2xqPQwCao/s1600/DSC05847-02.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9MPQdiRlHWxkVNEYdO_xfFICDvv5ELvj3h_gaSQe7vA&s=10",
+      "source_page_url": "http://happyseafood.blogspot.com/2012/05/blog-post_15.html",
+      "source_domain": "happyseafood.blogspot.com"
+    },
+    {
+      "candidate_id": "cand_9a7d3d2e46eca924cae1717a",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGSRzVn7owadia5AMbXlkRnOX9kyuBJovczPuasaD9dYPpXzjiuwfqdgtjAt0aoVLGCeMoZN7dtIVbQTktCRS6L5A4ULszuf2Z6B1rYzNkRi4ZoxvSa1m0KYYx1EyZwvh3JOQItErmYL0/s1600/DSC05848-02.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Ph-1E9QPcL9IUGaaJxlv6kBcrzXkuGyNjPqSBKlU7g&s=10",
+      "source_page_url": "http://happyseafood.blogspot.com/2012/05/blog-post_15.html",
+      "source_domain": "happyseafood.blogspot.com"
+    },
+    {
+      "candidate_id": "cand_0357759f731500d1fde4afaa",
+      "image_url": "https://p36.fish.to/upload/JPG36/15_2621_1.JPG",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKzqhdwEO1smbGZ8kB0RJSPolS-VDaCyAlMizlpVMZcQ&s=10",
+      "source_page_url": "https://www.ph84.idv.tw/forum/threads/132440/",
+      "source_domain": "www.ph84.idv.tw"
+    },
+    {
+      "candidate_id": "cand_c51c68666401403607918485",
+      "image_url": "https://photox.pchome.com.tw/s11/atsai0619/3/138070444197/",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY5CL5qamzeVKzcZpa0QuSlJ1_p9U0pQzQZoGVo34ubQ&s=10",
+      "source_page_url": "https://mypaper.pchome.com.tw/atsai0619/post/1325647656",
+      "source_domain": "mypaper.pchome.com.tw"
+    },
+    {
+      "candidate_id": "cand_ed0c931f21fbb0e5869ac4da",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPQv-iT_1I_hgqQ_dqzmWBc00UVPUCA7jjDmKmKZ26Yb5oHntUxnr975sPawisLLk2EKTx6yo01kxo1Cq7ricHY2e71TzLRatCBWZ56CyWIdLllKOO1Swy_s8Zydqa5vijnYlBW02XveI/s1600/7.%25E7%2596%258A%25E6%25B3%25A2%25E8%2593%258B%25E5%2588%25BA%25E9%25AD%259A%2528%25E4%25BF%2597%25E7%25A8%25B1%25E8%2597%258D%25E7%25B4%258B%25E7%25A5%259E%25E4%25BB%2599%25E9%25AD%259A%2529%25EF%25BC%258C%25E4%25B8%25BB%25E8%25A6%2581%25E6%25A3%25B2%25E6%2581%25AF%25E6%2596%25BC%25E6%25BA%25AB%25E6%259A%2596%25E8%2580%258C%25E4%25B9%25BE%25E6%25B7%25A8%25E7%259A%2584%25E7%258F%258A%25E7%2591%259A%25E7%25A4%2581%25E6%25B7%25BA%25E6%25B5%25B7%25E5%259F%259F.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-YkE_fRAoaaz9HGp7Xuj-7BBBbjOLQ8x8F3zj_ExQ&s=10",
+      "source_page_url": "http://badouzi.blogspot.com/2015/06/blog-post_29.html",
+      "source_domain": "badouzi.blogspot.com"
+    },
+    {
+      "candidate_id": "cand_b49637362e3414d91f734112",
+      "image_url": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i2/3215498750/O1CN01FQXgVt2EVYfMKQjdt_!!3215498750.png_360x360q90.jpg_.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIyc9NGT2Mst3o90UepTFkCdIOpPa7AL6fwyQgqNw9mQ&s",
+      "source_page_url": "https://guangtao.taobao.com/product-2288ca2663cc41e572c84442c990840acd58b7f6afbf24ddf3bed27de7110736.html",
+      "source_domain": "guangtao.taobao.com"
+    },
+    {
+      "candidate_id": "cand_3578aa3a0a343c5b3a891ce6",
+      "image_url": "https://www.9900news.com/images/vimg/2133/302304161307263.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEbkXxA9VYzIaLdvO4-antK-4H8kXqEpZPnUsGB0EQGg&s=10",
+      "source_page_url": "https://www.9900.com.tw/talk/SMobile.aspx?jid=37c40a7a7dc1edbca8001",
+      "source_domain": "www.9900.com.tw"
+    },
+    {
+      "candidate_id": "cand_eabaad6fc6e66255627871ff",
+      "image_url": "https://www.114ehkreeffish.org/wp-content/uploads/angelfish_pomacanthus_annularis_KH_01.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn5yVjwZVzB9mdEA8k0NYCncdH4ZTexSeLGVwhVnZ8ZA&s=10",
+      "source_page_url": "https://www.114ehkreeffish.org/reef-fish/%E7%99%BD%E5%B0%BE%E8%97%8D%E7%B4%8B/",
+      "source_domain": "www.114ehkreeffish.org"
+    },
+    {
+      "candidate_id": "cand_491e8d44d88a5701f4d8684a",
+      "image_url": "https://preview.redd.it/blue-zebra-angelfish-juvenile-v0-5702pimches61.jpg?width=640&crop=smart&auto=webp&s=a920967fb28e8e2b98130f9406f45034df7d6438",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs7-N1jIAGKN25h4XBAJC4LhXB_T8S1k8WwiIsg3bXZw&s=10",
+      "source_page_url": "https://www.reddit.com/r/Aquariums/comments/mobq39/blue_zebra_angelfish_juvenile/?tl=zh-hant",
+      "source_domain": "www.reddit.com"
+    },
+    {
+      "candidate_id": "cand_1a7a35dfb0b40790e7293237",
+      "image_url": "https://p94.fish.to/upload/JPG94/PH84_F_571_180202165507.JPG",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR28pJ_BrS3JbWwVY6cyJw1KBoCEEzW6eI8vJJ-SEXOg&s=10",
+      "source_page_url": "https://www.ph84.idv.tw/forum/threads/337002/",
+      "source_domain": "www.ph84.idv.tw"
+    },
+    {
+      "candidate_id": "cand_a2027461f471cc042f7d0171",
+      "image_url": "https://www.mw-fish.com.tw/upload/product/p1-2018371613.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNLoVY4bJhJDU3Hp1HLJFsWwc7HNqAZukKYsjq5Hd_iA&s=10",
+      "source_page_url": "https://www.mw-fish.com.tw/product_more.php?id=8161",
+      "source_domain": "www.mw-fish.com.tw"
+    },
+    {
+      "candidate_id": "cand_7d9bbcc3bf2dfa3656940b79",
+      "image_url": "https://i2.kknews.cc/B5YVeqpaCPWV4eWOaEz8kSWkbFU8DcQ/0.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyyZJ0u-gZyIAW9OY5fCwiEDaBweIYdLG9jjN58YLMFg&s=10",
+      "source_page_url": "https://kknews.cc/news/ekleqv4.html",
+      "source_domain": "kknews.cc"
+    },
+    {
+      "candidate_id": "cand_11e87c946348bb5336c1515a",
+      "image_url": "https://i.ytimg.com/vi/H-TVCjbhxRs/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGFQgZShVMA8=&rs=AOn4CLCUrCtDJO5Aml3zD2SfnZAeEfdKuw",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxLFhceDyjVzNPxeE2Y-cXe9ueSrt5AmEGstXcigqdPQ&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=H-TVCjbhxRs",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_3a6a807145ba68413e1327fe",
+      "image_url": "https://www.mw-fish.com.tw/upload/product/p3-2018371614.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoOIQICLBxRdAhBqfjnaPi8O_LHDhRHtDLHfG7wKVJtg&s=10",
+      "source_page_url": "https://www.mw-fish.com.tw/product_more.php?id=8161",
+      "source_domain": "www.mw-fish.com.tw"
+    },
+    {
+      "candidate_id": "cand_1659c9b3b6c5b2efdb280715",
+      "image_url": "https://tw.ezmarines.com/user/cimage/koran-angelfish.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Qrk0dWx1PzxXMmxtFdK75hFNo1tG65xxWAndfGlU-g&s=10",
+      "source_page_url": "https://tw.ezmarines.com/angelfish-2.htm",
+      "source_domain": "tw.ezmarines.com"
+    },
+    {
+      "candidate_id": "cand_63d7f6f27b8844876bf68fcd",
+      "image_url": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/2530981565/O1CN01cvgsDe1NQow2uVk3r_!!2530981565.jpg_360x360q90.jpg_.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz0IB34tgHNc2iMmLbtwKtd0TFQtzZBhX_CNDNHBOukQ&s",
+      "source_page_url": "https://guangtao.taobao.com/product-2288ca2663cc41e572c84442c990840acd58b7f6afbf24ddf3bed27de7110736.html",
+      "source_domain": "guangtao.taobao.com"
+    },
+    {
+      "candidate_id": "cand_81636d133371ae4d2586b039",
+      "image_url": "https://i.ytimg.com/vi/me7XuO8G0M0/oar2.jpg?sqp=-oaymwEYCJUDENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLDVqQBVs7cWmeTqllwM8xNefYDOKQ&usqp=CCk",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO7oEk8deWvBYYdPgCUHR9uAzJGR-IdSUw5jnZsLHKSA&s=10",
+      "source_page_url": "https://www.youtube.com/shorts/me7XuO8G0M0",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_617b3a2b8a5ea2b98175404e",
+      "image_url": "https://i.ytimg.com/vi/N3vSRVaUxcY/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyGTvrSGq7VFrJIs7hpqQcDvXN2ImT0UKjhQHSb67TqQ&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=N3vSRVaUxcY",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_2fdbe873496f3fd89b322630",
+      "image_url": "https://www.mw-fish.com.tw/upload/product/p2-2018371613.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC-5UXuVU2p1giFEJLaUfDIClFNCIGbuS4hOU7AcK6Zg&s=10",
+      "source_page_url": "https://www.mw-fish.com.tw/product_more.php?id=8161",
+      "source_domain": "www.mw-fish.com.tw"
+    },
+    {
+      "candidate_id": "cand_86aec42c16cb6c31762cd7f0",
+      "image_url": "https://preview.redd.it/just-saw-a-marine-betta-at-my-lfs-for-the-first-time-ever-v0-pxnislrxl8ha1.jpg?width=640&crop=smart&auto=webp&s=8a3b637bbbbf99a7d5b35ed539075571f840bd5e",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIrZrPbgUE7K_qPPoC0w94EwuI6-3li-ZgKWcMKXSw-g&s=10",
+      "source_page_url": "https://www.reddit.com/r/ReefTank/comments/10y7wur/just_saw_a_marine_betta_at_my_lfs_for_the_first/?tl=zh-hans",
+      "source_domain": "www.reddit.com"
+    },
+    {
+      "candidate_id": "cand_2109dac31c1940d6eb967660",
+      "image_url": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i1/126587575/O1CN01Hps5Fe25pPChwR9z1_!!126587575.png_360x360q90.jpg_.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBNAbjxOk2zxPK3ON-NXGtOdOCAi10Vj9i5adlx3DXfA&s",
+      "source_page_url": "https://guangtao.taobao.com/product-2288ca2663cc41e572c84442c990840acd58b7f6afbf24ddf3bed27de7110736.html",
+      "source_domain": "guangtao.taobao.com"
+    },
+    {
+      "candidate_id": "cand_1d7a7f41b901e5c39b6979f3",
+      "image_url": "https://www.apatw.org/sites/default/files/imce/user/user2111/img_6037_0.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGmVRWwTnFUs2ilddir8AgWm99T4JTD8dzEZaVUSx-KQ&s=10",
+      "source_page_url": "https://www.apatw.org/project-article/1981",
+      "source_domain": "www.apatw.org"
+    },
+    {
+      "candidate_id": "cand_ea0e7847a70bccfc0a1e4fa1",
+      "image_url": "https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20180625/2beb0ebf74004046b8477f95d821a648.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv-fbNjafImD0OxEzSaWgw-3BWkU97YhFAP_bi6sVgzQ&s=10",
+      "source_page_url": "https://www.sohu.com/a/237628793_100010754",
+      "source_domain": "www.sohu.com"
+    },
+    {
+      "candidate_id": "cand_1a492a21edb88ee52b9d887d",
+      "image_url": "https://perak.org/uploads/default/original/3X/d/a/daf76f6ab7bceb00772c6e79d5020a5ac1e95a2e.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqm5_i2MExAuFc9mnV-JAb8aNzb7qDj_LHqqzk3VHwEg&s=10",
+      "source_page_url": "https://perak.org/t/%E8%97%8D%E7%B4%8B%E7%A5%9E%E4%BB%99%E9%AD%9A%E9%A6%96%E5%AD%B5/65675",
+      "source_domain": "perak.org"
+    },
+    {
+      "candidate_id": "cand_3a76cc1cb8cef2dc8553482c",
+      "image_url": "https://www.114ehkreeffish.org/wp-content/uploads/angelfish_pomacanthus_annularis_RC_02.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJOJDC5Fn4wf436e1nZGJT-279g1iG87CwDsPRh1g-lA&s=10",
+      "source_page_url": "https://www.114ehkreeffish.org/reef-fish/%E7%99%BD%E5%B0%BE%E8%97%8D%E7%B4%8B/",
+      "source_domain": "www.114ehkreeffish.org"
+    },
+    {
+      "candidate_id": "cand_6ed39f820d6b117ce762f426",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLmad2P-PbCD0lAfiD8XYAoMQBtwlujVUKRn_CUTZcOFG9OQT2SJZ3T_wLatyEMOdEnjiQWTxC2lxHnQYf5ir38NWlxRZ-LJHaDB8nH-uaiQ9vluenwrWBSjd9bmbGWeQVJJVBqEqpjwUtDYReUmtgu36iYiBKWElLKV2nc85OiGYbUYW3-d1BKvCIAIyj/s700/P9270012%20(1).jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6xXd8jXet-Gtfjo-oS8SW16GX4NrqoVA6pcWkGgalVw&s=10",
+      "source_page_url": "https://goldfishmessage.blogspot.com/2024/10/pomacanthus-semicirculatus.html",
+      "source_domain": "goldfishmessage.blogspot.com"
+    },
+    {
+      "candidate_id": "cand_b6159bd9f7b75109ff3fd978",
+      "image_url": "https://amazonfishway.com/cdn/shop/files/IMG_1657.jpg?v=1774597552&width=1920",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDikroIOD0AjLLKcg9iWr7rLJ-MVpEDuc_mQGc1sh8CQ&s",
+      "source_page_url": "https://amazonfishway.com/products/symphysodon-discus-blue-moon?srsltid=AfmBOorwAPeN2Kc1khwVUTvTmt6QRTMMn0acJK9lBKbgT7QhgEsszkpe",
+      "source_domain": "amazonfishway.com"
+    },
+    {
+      "candidate_id": "cand_9761eacb2f0d6b99a1f1957f",
+      "image_url": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i3/2217174949456/O1CN015sV0DK2JiuEXF4ycP_!!2217174949456.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ZhtjMhyju2_dFTtyqJrjQwnDyHqvc6clQPZGJdaOKQ&s=10",
+      "source_page_url": "https://mgoods.taobao.com/t/chongwu_1899/ce9bc8b1d781ce0eb1dae960319efa4d.html",
+      "source_domain": "mgoods.taobao.com"
+    },
+    {
+      "candidate_id": "cand_b6359a55714e498516ac6867",
+      "image_url": "https://i.ytimg.com/vi/8aZsMQLOsns/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCxAEEoBt2ibC6SdU3h98Om6iCfyQ",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9FIkq5Czr3ReWSnHzj2l1lYQSiOJbTov5aevTWFb_Jg&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=8aZsMQLOsns",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_1095b02122c2af37d1c9ad86",
+      "image_url": "https://tw.ezmarines.com/user/cimage/bluefaceangelfish2.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbOfEVdkjY-1yATaKeT57WCOBzkq2AeUMiR6U2ZlT_0g&s=10",
+      "source_page_url": "https://tw.ezmarines.com/angelfish-2.htm",
+      "source_domain": "tw.ezmarines.com"
+    },
+    {
+      "candidate_id": "cand_d9655b1f71f3cc792fa997ef",
+      "image_url": "https://i2.kknews.cc/k1P44na5nQpQvs-11ajzZiYV9OxBMIE/0.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaWeDLMPJ1oD2CMzDjoAoAQmghWpy7U3OOA9HijyAMRw&s=10",
+      "source_page_url": "https://kknews.cc/news/ekleqv4.html",
+      "source_domain": "kknews.cc"
+    },
+    {
+      "candidate_id": "cand_b5a82259efd330277ddd7cfc",
+      "image_url": "https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20181217/ec063564f1914c1a9ec876f0a029b984.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsH80ahEmew05ZoGmko628xZYZOn42safvwqBKLQJVVQ&s=10",
+      "source_page_url": "https://www.sohu.com/a/282304434_680672",
+      "source_domain": "www.sohu.com"
+    },
+    {
+      "candidate_id": "cand_6cda5dc1910bfbf420336a42",
+      "image_url": "https://www.9900news.com/images/vimg/2133/302304161307268.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB8SB2-3QC879lAVP2wd3ISfHMuJSHvJ-eijr5sqcpRQ&s=10",
+      "source_page_url": "https://www.9900.com.tw/talk/SMobile.aspx?jid=37c40a7a7dc1edbca8001",
+      "source_domain": "www.9900.com.tw"
+    },
+    {
+      "candidate_id": "cand_9733a81cdc51bd9bf762ddb4",
+      "image_url": "https://p19.fish.to/upload/jpg19/1_3197_1.JPG",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMmC9tSmZ1FfOxeopB8Kel_YahOVAAtvPV1I_Cwap53Q&s=10",
+      "source_page_url": "https://www.ph84.idv.tw/forum/threads/6350/",
+      "source_domain": "www.ph84.idv.tw"
+    },
+    {
+      "candidate_id": "cand_8da3576464438bb2f96deea9",
+      "image_url": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/716693386/O1CN01MGngnO1asqBu0KaSE_!!4611686018427387786-0-item_pic.jpg_360x360q90.jpg_.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFgv6-PQ3_evewJHRTvn_KavdPLELvZI9BapP3tpgK3A&s",
+      "source_page_url": "https://mobile-phone.taobao.com/chanpin/b409de7e42d4849399fb25d0be67fcba.html",
+      "source_domain": "mobile-phone.taobao.com"
+    },
+    {
+      "candidate_id": "cand_1bd46931f3fa37cdc16df891",
+      "image_url": "https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20181217/c47d6270d4eb433fbcf0e33cf7ce9a7a.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqRubp37ga8cyZ4sSvgU6b1Yz_A5PtfFAYmmqat7hblg&s=10",
+      "source_page_url": "https://www.sohu.com/a/282304434_680672",
+      "source_domain": "www.sohu.com"
+    },
+    {
+      "candidate_id": "cand_95de8cd6f5a7569c072d8dae",
+      "image_url": "https://live.staticflickr.com/2400/5710172146_d34d2be3e5_z.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZHg-joEy8dbYmag8rAyAlFdCs-OrgOP8DqUzDy89raw&s=10",
+      "source_page_url": "https://www.flickr.com/photos/45298202@N06/5710172146",
+      "source_domain": "www.flickr.com"
+    },
+    {
+      "candidate_id": "cand_719f611b507f8ba9249a444d",
+      "image_url": "https://www.9900news.com/images/vimg/2133/302304161307266.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS81K9EvcXCVDWk-p71x0BawL3kfnzcbyue1fWYSffwbQ&s=10",
+      "source_page_url": "https://www.9900.com.tw/talk/SMobile.aspx?jid=37c40a7a7dc1edbca8001",
+      "source_domain": "www.9900.com.tw"
+    },
+    {
+      "candidate_id": "cand_bb400341e839fd20a3d58d40",
+      "image_url": "https://i.ytimg.com/vi/XVwzb8e2n8U/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvQfdqoSj9TenXofqR0hWb9J8vJRskSHnfgF0zu1s6eA&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=XVwzb8e2n8U",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_aa71a2058f322354a0bf1f5d",
+      "image_url": "https://tw.ezmarines.com/user/cimage/Blue-ring.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_RLHbR55tkbJ--P2UlWfJb8DLMIe8gc-KpPduG1LW6Q&s=10",
+      "source_page_url": "https://tw.ezmarines.com/angelfish-2.htm",
+      "source_domain": "tw.ezmarines.com"
+    },
+    {
+      "candidate_id": "cand_d391a4d4938f1cc598be09c3",
+      "image_url": "https://shopstore-image.pages.dev/upload/1947/product/1947_5f6810344c4ee.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToQo23GDpPdTCNCyF_1WSG1bA1udXq8NrJKkzKlDhonQ&s=10",
+      "source_page_url": "https://wenyensu.shopstore.tw/item/19475f6810226560d",
+      "source_domain": "wenyensu.shopstore.tw"
+    },
+    {
+      "candidate_id": "cand_e49306840b218480d45e332e",
+      "image_url": "https://attach.setn.com/newsimages/2017/09/18/1060260-PH.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSegbiP5AOkXELUWlKbLRZKE1dXRlLAzkB9xJWZhMTbBg&s=10",
+      "source_page_url": "https://www.setn.com/klist/223619",
+      "source_domain": "www.setn.com"
+    },
+    {
+      "candidate_id": "cand_34ac5dec9e274044d87c07c3",
+      "image_url": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/653151085/O1CN01a76aQs1JsyrtqiWIt_!!4611686018427382637-0-item_pic.jpg_360x360q90.jpg_.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKUmfJDsU-6E6gEnrwHN7qAk_fC6gm2-F7_r2_gv3PsA&s",
+      "source_page_url": "https://mobile-phone.taobao.com/chanpin/b409de7e42d4849399fb25d0be67fcba.html",
+      "source_domain": "mobile-phone.taobao.com"
+    }
+  ]
+}

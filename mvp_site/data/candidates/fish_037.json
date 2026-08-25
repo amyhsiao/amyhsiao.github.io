@@ -1,0 +1,712 @@
+{
+  "schema_version": 1,
+  "fish_id": "fish_037",
+  "canonical_name": "圓眼燕魚",
+  "aliases": [
+    "富貴魚"
+  ],
+  "pool_updated_at": "2026-08-25T05:41:13.514927+00:00",
+  "candidate_count": 100,
+  "candidates": [
+    {
+      "candidate_id": "cand_55113a9431a8851b3a8206b3",
+      "image_url": "https://kmweb.moa.gov.tw/files/fisheasy/680/A01_1_m.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoFjAeYMYYrTJCRkI4y4oIq-fVMQ5mcK_VGxruMX8Nog&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/theme_data.php?theme=fisheasy&id=680",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_6be970f83fd55c55c763653e",
+      "image_url": "https://churaumi.okinawa/userfiles/fish_images/sanngogyo/nanyou-resize.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjhMapBMZ6408EkLUJZDjyobyvalRsupVEVZYFWzYEiw&s=10",
+      "source_page_url": "https://churaumi.okinawa/sp/tc/fishbook/00000133/",
+      "source_domain": "churaumi.okinawa"
+    },
+    {
+      "candidate_id": "cand_5e0646483fd1b84ba30de77f",
+      "image_url": "https://churaumi.okinawa/userfiles/fish_images/sanngogyo/nannyoutubameyougyo-resize.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjLzFoUTcIT6BItzsRfvbNYiXnZASbwvO3xVviNiV49g&s=10",
+      "source_page_url": "https://churaumi.okinawa/sp/tc/fishbook/00000133/",
+      "source_domain": "churaumi.okinawa"
+    },
+    {
+      "candidate_id": "cand_f5892b396fd22367dee6df27",
+      "image_url": "https://churaumi.okinawa/userfiles/fish_images/sanngogyo/nannyoutubameuo-resize.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScuWIXOOhFFEgDxB6YUIajFul1SRsGUqBz6lDyRjSWIg&s=10",
+      "source_page_url": "https://churaumi.okinawa/sp/tc/fishbook/00000133/",
+      "source_domain": "churaumi.okinawa"
+    },
+    {
+      "candidate_id": "cand_034ff3f77b735cc37babf15b",
+      "image_url": "https://pub-7117f6d00fe54a2fb80f641ab6cb850d.r2.dev/posts/2021-07-20-plataxorbicularis-plataxboersii-plataxteira-plataxpinnatus/images/216196384_4105065342874977_2449265796608541870_n.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-UzEjhG3an2Nx0BcLD3MDGrPP-baKNtQ1SktgSroexA&s=10",
+      "source_page_url": "https://bluetrend.media/plataxorbicularis-plataxboersii-plataxteira-plataxpinnatus/",
+      "source_domain": "bluetrend.media"
+    },
+    {
+      "candidate_id": "cand_27254ad8aaefb96a679f0094",
+      "image_url": "https://static.inaturalist.org/photos/346702538/medium.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPmB0UFkNvIptp9dwUCRXmxnKXkCFlvDM3zZKMvVnChw&s=10",
+      "source_page_url": "https://www.inaturalist.org/zh-CN/taxa/69858-Platax-orbicularis",
+      "source_domain": "www.inaturalist.org"
+    },
+    {
+      "candidate_id": "cand_8b5d2f17d9633448fc9ebc0e",
+      "image_url": "https://www.114ehkreeffish.org/wp-content/uploads/batfish_platax_orbicularis_PC_02.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKjKq5mdU2ntpdarVafSqxPTg2SHSybbxtUI0coLhILw&s=10",
+      "source_page_url": "https://www.114ehkreeffish.org/reef-fish/%E5%9C%93%E7%87%95%E9%AD%9A/",
+      "source_domain": "www.114ehkreeffish.org"
+    },
+    {
+      "candidate_id": "cand_6b8d4d7b368ffe706e98c1b0",
+      "image_url": "https://churaumi.okinawa/userfiles/images/topics/20251212_nanyotubameuo_seigyo_1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNid5m1cX90f9gX4lzmnJFzTHNEPbgDcBEMM_lDWkZ7w&s=10",
+      "source_page_url": "https://churaumi.okinawa/sp/tc/topics/1765161961/",
+      "source_domain": "churaumi.okinawa"
+    },
+    {
+      "candidate_id": "cand_96f111d1a82a1e74d3cc4fcf",
+      "image_url": "http://digiarch.sinica.edu.tw/digiarch3/ImageCache/ImageCache/00/0f/96/cd.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDzn119DUE-iyAS8w7O7tB4hbgFbxsvyBOqyMt3_7eIA&s=10",
+      "source_page_url": "https://digiarch.sinica.edu.tw/content/repository/resource_content.jsp?oid=4352643&queryString=%E5%B0%96%E7%BF%85%E7%87%95%E9%AD%9A%20%E7%87%95%E9%AD%9A",
+      "source_domain": "digiarch.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_56fc9e477e0ee95577c5422a",
+      "image_url": "https://images.vocus.cc/dde22d75-4cd5-4b6b-a522-bf5c8166498e.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVlw2XDBPtMmovfPXPqku14eK_JWWyg70XQ7787gL_w&s",
+      "source_page_url": "https://vocus.cc/article/6239ce96fd8978000129709e",
+      "source_domain": "vocus.cc"
+    },
+    {
+      "candidate_id": "cand_0c0377a5d513ae6a0b54ce38",
+      "image_url": "https://liferelease.gys.org.tw/wp-content/uploads/2022/06/Orbicular-batfish.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKSI-c-o0bjHTcDyW4g_dtufMaLkjeH1GJgQAYJdd5AQ&s=10",
+      "source_page_url": "https://liferelease.gys.org.tw/orbicular-batfish/",
+      "source_domain": "liferelease.gys.org.tw"
+    },
+    {
+      "candidate_id": "cand_d1794ae3674e9119a7afb1cf",
+      "image_url": "http://5b0988e595225.cdn.sohucs.com/images/20190422/4b37b92ed46743fe901a5c6c872d400b.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyaogaqhyV0xMclE4IzNSme4KUEf5qBo5h_FWn8sqHaQ&s=10",
+      "source_page_url": "https://www.sohu.com/a/309597382_262564",
+      "source_domain": "www.sohu.com"
+    },
+    {
+      "candidate_id": "cand_0315ad0e31f0308a542d0424",
+      "image_url": "https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20190422/a562890fd2ed4f459683480f93f2aaee.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaK34a6QMT53-m224VGOzuebgDRZKeiXlvFaS7Yr5omQ&s=10",
+      "source_page_url": "https://www.sohu.com/a/309597382_262564",
+      "source_domain": "www.sohu.com"
+    },
+    {
+      "candidate_id": "cand_c2dbf16e01e929e1270b09e4",
+      "image_url": "https://www.kingspread.com.tw/XinwuStoneWeirs_MarineLife/Upload/202208251645060a91551_medium.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfYoXAcBbC8q_HoB3pZ0wo8a7m93uO-FEJ78pAMdK5RA&s=10",
+      "source_page_url": "https://www.kingspread.com.tw/XinwuStoneWeirs_MarineLife/observeDetail/9292ce5ff7944b3ebb5fc1ee9cf04683",
+      "source_domain": "www.kingspread.com.tw"
+    },
+    {
+      "candidate_id": "cand_62c882fd1b5c532fe9058051",
+      "image_url": "https://img.vocus.cc/pezD3ODFFQQwZMP-qkhCV00MUqJY1bg_l-j_H8Nj8u8/w:740/f:webp/plain/https://images.vocus.cc/983c3a7e-6ba2-4380-a29c-6adc2ed9c3ea.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROmelmBPW_22t8pUS_QYAaPgt5tkAN0PWJbASqqdIBkw&s",
+      "source_page_url": "https://vocus.cc/article/6239ce96fd8978000129709e",
+      "source_domain": "vocus.cc"
+    },
+    {
+      "candidate_id": "cand_08afe6040efb78f11b631dab",
+      "image_url": "https://bluetrend.media/_images/a87d612a2499-960w.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRExyNF5ouKSxiH6XXHCIXK3kfoZ5s0Khpu5Lf8MzzGwA&s",
+      "source_page_url": "https://bluetrend.media/plataxorbicularis-plataxboersii-plataxteira-plataxpinnatus/",
+      "source_domain": "bluetrend.media"
+    },
+    {
+      "candidate_id": "cand_6766de5003ad17e657946e6f",
+      "image_url": "https://bluetrend.media/_images/63e45e9b25e7-960w.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyANZPG8qL6yk--gM8fmDncwXjgW_mWYwfgYG3TDGmOw&s",
+      "source_page_url": "https://bluetrend.media/plataxorbicularis-plataxboersii-plataxteira-plataxpinnatus/",
+      "source_domain": "bluetrend.media"
+    },
+    {
+      "candidate_id": "cand_0e9e65a702841e1af3ab17c7",
+      "image_url": "https://fishdb.sinica.edu.tw/files/muse_fishdb/muse_styles/term_thumbs_silder/mcode/314474d1633d69d720dfa27b64f97716.jpg?itok=YVdbUfzv",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBjWqTH8bM69N3LT6drl-mMmZywSvBE9R7R-L44ahVLA&s",
+      "source_page_url": "https://fishdb.sinica.edu.tw/taxon/381668-fishdb/specimen",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_690c87321466e470a7bb6390",
+      "image_url": "http://pic.pimg.tw/leechitse/1379003590-1068970067.jpg?v=1379003591",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUGqSyCiOyQeW9c_JVLLZWH9F11Zt1SEFQ2fN2TLChjg&s=10",
+      "source_page_url": "http://leechitse66.blogspot.com/2011/07/platax-orbicularies.html",
+      "source_domain": "leechitse66.blogspot.com"
+    },
+    {
+      "candidate_id": "cand_c576f038b88d957cb18614b6",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRHJqgP9RFdL2m3yu6TCuixoIa016xoWAGQA1k_07fH2YjkxUumkZKIu4Xos3_eMoOPbRg7Gw-EEkgTYK4mBM8tmn-I4lZI3xZMCsUGY_o_a4A-a1sQaOIwDdJWA7fXnFHVhbYWMPqWXYqOKZljFSeOu4CfFu9owG_VXHXdk3dLnDWqyZEGidiqhH9WR1N/s808/IMG_7867.JPG",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL7X57aWvb4F2DNJxT9qsPA59XUDDr1-V2KeRCnZwzYQ&s=10",
+      "source_page_url": "https://goldfishmessage.blogspot.com/2024/04/platax-orbicularis.html",
+      "source_domain": "goldfishmessage.blogspot.com"
+    },
+    {
+      "candidate_id": "cand_9d9da9ce18b7d6fac3a2dad9",
+      "image_url": "https://bluetrend.media/_images/f4083c307faa-960w.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlZCvsDebjFn4CTHApjgLB3NyNoHGsCrTtPPBL3abwrA&s=10",
+      "source_page_url": "https://bluetrend.media/plataxorbicularis-plataxboersii-plataxteira-plataxpinnatus/",
+      "source_domain": "bluetrend.media"
+    },
+    {
+      "candidate_id": "cand_a9d80168eaf68251fda4c1fc",
+      "image_url": "https://bkimg.cdn.bcebos.com/pic/b64543a98226cffc68d40030b9014a90f703eab2?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReRBjvWEziXjDwIavTmi3S-S_qMTG-OhHFoQ58aS6Oew&s",
+      "source_page_url": "https://baike.baidu.com/item/%E5%9C%86%E7%9C%BC%E7%87%95%E9%B1%BC/2008394",
+      "source_domain": "baike.baidu.com"
+    },
+    {
+      "candidate_id": "cand_73a7407ae8d8309ab0048e7a",
+      "image_url": "https://tcaqua.com.tw/wp-content/uploads/2026/05/%E5%9C%93%E7%9C%BC%E7%87%95%E9%AD%9A1.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv-PUtsP4DnwxJqQvN9XTTgQLHR_txnFQeKtTFlalVBw&s=10",
+      "source_page_url": "https://tcaqua.com.tw/bio/biological-data/wetland/yuanyanyanyu/",
+      "source_domain": "tcaqua.com.tw"
+    },
+    {
+      "candidate_id": "cand_ac83d388c6a2db49d72ac7cd",
+      "image_url": "https://tcaqua.com.tw/wp-content/uploads/2025/07/DSC00935.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY90ot22gYIob4afOzUu6iK1EzDQbDTp7XAJQx5oSwFw&s=10",
+      "source_page_url": "https://tcaqua.com.tw/bio/biological-data/wetland/yuanyanyanyu/",
+      "source_domain": "tcaqua.com.tw"
+    },
+    {
+      "candidate_id": "cand_9d532f09db1e52829eb35fcb",
+      "image_url": "https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20171012/81e7578d02084bc5b27fbfc80d04d046.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRZW4pBHGQq7yp_xleSXwluZkRVwPeYGcssuMe9P0oSA&s=10",
+      "source_page_url": "https://www.sohu.com/a/197559577_208817",
+      "source_domain": "www.sohu.com"
+    },
+    {
+      "candidate_id": "cand_3979344b2f22f387396f3645",
+      "image_url": "https://bkimg.cdn.bcebos.com/pic/c83d70cf3bc79f3dcfb1566cb9a1cd11728b291d?x-bce-process=image/format,f_auto/resize,m_lfit,limit_1,w_600",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6v5VW6pFBqNNZiim8LWBW5i688dYR2kIkXe8dbV28fw&s",
+      "source_page_url": "https://baike.baidu.com/item/%E5%9C%86%E7%9C%BC%E7%87%95%E9%B1%BC/2008394",
+      "source_domain": "baike.baidu.com"
+    },
+    {
+      "candidate_id": "cand_bef2ffc0e745b9a85ba690bd",
+      "image_url": "https://bluetrend.media/_images/c0f0f4da4e24-960w.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2MzCQCNYrgnYVAEu7k1Z3Ym87mQOuHf8gku4S1Uq1g&s",
+      "source_page_url": "https://bluetrend.media/plataxorbicularis-plataxboersii-plataxteira-plataxpinnatus/",
+      "source_domain": "bluetrend.media"
+    },
+    {
+      "candidate_id": "cand_2dd1784d9e30bd85122f139d",
+      "image_url": "https://tcaqua.com.tw/wp-content/uploads/2025/08/P1010014.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYxge_OIM9SZBtG9TN6xRxRuH7WwQ_UYtogLN7Aq4yww&s=10",
+      "source_page_url": "https://tcaqua.com.tw/bio/biological-data/wetland/yuanyanyanyu/",
+      "source_domain": "tcaqua.com.tw"
+    },
+    {
+      "candidate_id": "cand_a27afaa273dff73a5fa2343b",
+      "image_url": "https://images.vocus.cc/b4f78ca1-6d88-4cd4-bad9-898aa91bd7ff.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5IHEYIXfTP6xbfRgR2s0gWWVLY84hwy1DMEM3twGagQ&s",
+      "source_page_url": "https://vocus.cc/article/6239ce96fd8978000129709e",
+      "source_domain": "vocus.cc"
+    },
+    {
+      "candidate_id": "cand_12f2e35bca3154beef7ced45",
+      "image_url": "https://picn.huitu.com/pic/20230714/20230714084156222901_0.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_o6mROENspsQ-vm5rpIUamQssUSxYXYlec8AqnB5OMg&s",
+      "source_page_url": "https://www.huitu.com/newmedia/detail/20230714/084156222902.html",
+      "source_domain": "www.huitu.com"
+    },
+    {
+      "candidate_id": "cand_af89a235be662c1884840c9d",
+      "image_url": "https://pimg.1px.tw/neish/1508789278-2832372089.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZQGZ7unYbQnvWcvHtmZNHdA5L16ye0oBGuasHKRwpFg&s=10",
+      "source_page_url": "https://neish.pixnet.net/blog/posts/10344306452",
+      "source_domain": "neish.pixnet.net"
+    },
+    {
+      "candidate_id": "cand_1ca268a812dbf4d5483467fa",
+      "image_url": "https://i.ytimg.com/vi/rNH6Zn3CxaQ/hqdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw22L8GqDcgmhHVYYEc9gBNDjBvBIJqXmMgjvWbQBkaw&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=rNH6Zn3CxaQ",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_1b3512413fdbc3607fe021ad",
+      "image_url": "https://pic.huitu.com/res/20241112/3420073_20241112202520840200_1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrdfl3CbHjlKiE6E6O4ka50yR_L4rAKkBKc5pSydSyKw&s",
+      "source_page_url": "https://www.huitu.com/photo/show/20241112/202520840200.html",
+      "source_domain": "www.huitu.com"
+    },
+    {
+      "candidate_id": "cand_80e900233a2a28918151617d",
+      "image_url": "https://tcaqua.com.tw/wp-content/uploads/2025/08/%E5%A4%9A%E5%88%BA%E8%9D%9F%E8%9D%A61.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxaJrQtrASTfxl140_G2OLWK1j8U_L6eKptNoxcIfzrg&s=10",
+      "source_page_url": "https://tcaqua.com.tw/bio/biological-data/wetland/yuanyanyanyu/",
+      "source_domain": "tcaqua.com.tw"
+    },
+    {
+      "candidate_id": "cand_6a9e0ad4ea6ce094db8c35a4",
+      "image_url": "https://openmuseum.tw/files/muse_portal/muse_styles/w740/mcode/60705e117a2818622de29fbfc081f0e0.jpg?itok=ng530eGh",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSV-Zhu68JcIkAg8TRtXtODxBr8_PhszbAxmMC-co4Fw&s",
+      "source_page_url": "https://openmuseum.tw/muse/digi_object/be0c4649dc08836c368cae9a9750df89",
+      "source_domain": "openmuseum.tw"
+    },
+    {
+      "candidate_id": "cand_a8d57b3f501a8228a1a65ef2",
+      "image_url": "https://picn.huitu.com/pic/20230714/20230714084156222900_0.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNfEXBzR7xUE-JT031QOlpATtGSpBXeSj-Jiy4mJwyqA&s",
+      "source_page_url": "https://www.huitu.com/newmedia/detail/20230714/084156222902.html",
+      "source_domain": "www.huitu.com"
+    },
+    {
+      "candidate_id": "cand_492a41298ae4e9d5df4b8ac0",
+      "image_url": "https://i.ytimg.com/vi/uqQwWEhHbeU/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAbccWv__7FKA4VIv2uFTbOuOG3UmEcw5fLUWhN7budQ&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=uqQwWEhHbeU",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_b9772253da299d52134e65b9",
+      "image_url": "https://www.fishbkw.com/uploads/allimg/20221227/1-22122G00033456.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs6Q2zw1b9iWZtTY6X0G70yKSIb7sVp3BnzBmKDMQxhg&s=10",
+      "source_page_url": "https://www.fishbkw.com/c/3020.html",
+      "source_domain": "www.fishbkw.com"
+    },
+    {
+      "candidate_id": "cand_7425dbeb24c10d468fca2512",
+      "image_url": "https://fishdb.sinica.edu.tw/files/muse_fishdb/muse_styles/term_thumbs_silder/mcode/fc2a89a655f1a3a3a33196713eadee94.jpg?itok=lb4X7YQ9",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGjWJO7cmMynATTtHjwlGIzd0ital_9OxVjL3Ldk0Rmw&s",
+      "source_page_url": "https://fishdb.sinica.edu.tw/taxon/381668-fishdb/specimen",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_405609390a21e875289fdee3",
+      "image_url": "https://img.vocus.cc/1w9kJB4JWqoKsslKAw3jgMfIUsgk6PgO8M_Ssj3Zy-E/w:400/f:webp/plain/https://images.vocus.cc/cf7cadd4-c510-4b07-a86f-0910fe687e33.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSxwcrD-doUmuAps0eATUm3NOX_qRMRv5dxhdDSKqtJA&s",
+      "source_page_url": "https://vocus.cc/article/6239ce96fd8978000129709e",
+      "source_domain": "vocus.cc"
+    },
+    {
+      "candidate_id": "cand_0e650d3514de142a8f5598a1",
+      "image_url": "https://image.cnhnb.com/image/jpg/head/2022/09/12/037509481e384d47b22407a55ffe0e76.jpg?x-tos-process=image/resize,h_299,image/crop,h_299,w_299,g_center,image/watermark,image_d20ucG5nP3gtdG9zLXByb2Nlc3M9aW1hZ2UvcmVzaXplLFBfMjA=,g_se,x_10,y_10",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWY_6fn9-4gw90aPzFjTAqQ0p-cqCHF1cayfvmxcnmcQ&s",
+      "source_page_url": "https://www.cnhnb.com/gongying/7342272/",
+      "source_domain": "www.cnhnb.com"
+    },
+    {
+      "candidate_id": "cand_dfb2314bc184616a2e3835b2",
+      "image_url": "https://kmweb.moa.gov.tw/files/fisheasy/681/A01_1_m.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu0W2gWlveTyjM2wQwuc-fN5I65r46ojVrgcdOKUMSHw&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/theme_data.php?theme=fisheasy&id=681",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_0369784bffa8b112a857ffe1",
+      "image_url": "https://image.cnhnb.com/image/webp/head/2022/09/12/b6c983d922de4bf085532f3f6ee4c83b.webp?x-tos-process=image/resize,h_500,image/crop,h_500,w_500,g_center,image/watermark,image_d20ucG5nP3gtdG9zLXByb2Nlc3M9aW1hZ2UvcmVzaXplLFBfMjA=,g_se,x_10,y_10",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaAAcwDsQQ3lFuHT-4sGuQtlTZTf0Z5yUOFxHFhaW_Tg&s",
+      "source_page_url": "https://www.cnhnb.com/gongying/7342272/",
+      "source_domain": "www.cnhnb.com"
+    },
+    {
+      "candidate_id": "cand_774b8737275b1661dc322aa2",
+      "image_url": "https://openmuseum.tw/files/muse_portal/muse_styles/waterfall_col_4/mcode/c3fb26d6a8bf5914eb38769bd06f8028.jpg?itok=szhnAxjh",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2aSJ-Iw2fmD6Vtxu4HyRVOiyDdeDLBaXCpFHIjP7vcA&s",
+      "source_page_url": "https://openmuseum.tw/muse/digi_object/be0c4649dc08836c368cae9a9750df89",
+      "source_domain": "openmuseum.tw"
+    },
+    {
+      "candidate_id": "cand_5e5a6a6886d8aa32384cd53a",
+      "image_url": "https://churaumi.okinawa/userfiles/images/topics/20251211_nanyoutubameuo15_2.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbeRR64IEWL76EDx0HMcIfUY6t914KLT9eoCIeoUsQXg&s",
+      "source_page_url": "https://churaumi.okinawa/sp/tc/topics/1765161961/",
+      "source_domain": "churaumi.okinawa"
+    },
+    {
+      "candidate_id": "cand_8dc368d9f5951cfe09ec8032",
+      "image_url": "https://openmuseum.tw/files/muse_portal/muse_styles/waterfall_col_4/mcode/ff605c1996c5359f585bd84402d4eff3.jpg?itok=RBhWmYcH",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf8CzhQ0cn2Ew10qpUo8BLBB66vI4dcPyS6y-oWOXnNA&s",
+      "source_page_url": "https://openmuseum.tw/muse/digi_object/be0c4649dc08836c368cae9a9750df89",
+      "source_domain": "openmuseum.tw"
+    },
+    {
+      "candidate_id": "cand_074662d2760b8f73c418e690",
+      "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7qul8-lgjf1g7wa1a9b4",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgmhuw5JV4DTKBVd8az1Vwr0DqsWLbiowny2su6LGp1w&s=10",
+      "source_page_url": "https://shopee.tw/%E3%80%8C%E9%A0%90%E8%B3%BC%E3%80%8D%E5%AF%8C%E8%B2%B4%E9%AD%9A-%E7%87%95%E9%AF%A7-%E7%87%95%E9%AD%9A-%E8%9D%B4%E8%9D%B6%E9%AD%9A-%E5%9C%93%E7%9C%BC%E7%87%95%E9%AD%9A-%E7%9C%9F%E7%A9%BA%E5%8C%85%E8%A3%9D-%E6%AD%A1%E8%BF%8E%E7%A7%81%E8%A8%8A-i.27765397.23814368060",
+      "source_domain": "shopee.tw"
+    },
+    {
+      "candidate_id": "cand_00b96936b493ddcbdac4336c",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/100d15bb770768d5a0bd677986dd6475c5bb764fa0b12468b5ac5d5d74e55827/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/http%3A%2F%2Fmedia.zenfs.com%2Fzh_hant_tw%2FNews%2Fftv%2F2011922N07M1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRHaAsFu3GX5vImyXkJablJGuuWvDBpVfSB5HIbOO4hg&s=10",
+      "source_page_url": "https://tw.news.yahoo.com/%E7%B6%A0%E5%B3%B6%E5%9C%93%E7%9C%BC%E7%87%95%E9%AD%9A-%E8%BA%AB%E4%B8%8A%E8%A2%AB%E5%B0%84%E5%A4%A7%E6%B4%9E-120407083.html",
+      "source_domain": "tw.news.yahoo.com"
+    },
+    {
+      "candidate_id": "cand_841b05eb27c10240699561d7",
+      "image_url": "http://image.digitalarchives.tw/Thumbnail/00/61/8d/61.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREtTMiV7s3iLvmI0uS7A0Q4KTf2hORbqHK-svqt71XfA&s=10",
+      "source_page_url": "https://catalog.digitalarchives.tw/item/00/00/3f/86.html",
+      "source_domain": "catalog.digitalarchives.tw"
+    },
+    {
+      "candidate_id": "cand_84893d6deb0568fe37e9c909",
+      "image_url": "https://openmuseum.tw/files/muse_portal/muse_styles/waterfall_col_4/mcode/f57be0bd02147ab95c37bc39b3e28025.jpg?itok=KwiTjjLq",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW1fsJoGW3hCbjs2B_fdHsi2lJXD2A6HFPbyx_61inmw&s",
+      "source_page_url": "https://openmuseum.tw/muse/digi_object/be0c4649dc08836c368cae9a9750df89",
+      "source_domain": "openmuseum.tw"
+    },
+    {
+      "candidate_id": "cand_aa8e5eb0d62dea938dd38e78",
+      "image_url": "https://tcaqua.com.tw/wp-content/uploads/2025/07/DSC01331-1-2.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeyjl0plRTcYBsH39asPpG40Ixl_ehuMH6Q1NnPbhd2g&s=10",
+      "source_page_url": "https://tcaqua.com.tw/bio/biological-data/wetland/yuanyanyanyu/",
+      "source_domain": "tcaqua.com.tw"
+    },
+    {
+      "candidate_id": "cand_383051fd26d9a2cdd615aae7",
+      "image_url": "https://i.ytimg.com/vi/cfIAQMzxPcU/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGAgZShQMA8=&rs=AOn4CLDWB4hfNoVNJffDDzpS0Mh-0hTKiA",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNdMkAqYnS8kmvwqEGDBMYAJTG1WLP2eGrMBJv2RYk-A&s",
+      "source_page_url": "https://www.youtube.com/watch?v=cfIAQMzxPcU",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_7deb004e692fd5975c1dc725",
+      "image_url": "https://bluetrend.media/_images/fe737e6afab0-960w.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-_dwKim97G5FMvJ5wOQA4CjXW0qqHh7eHBwwJTlb2IQ&s",
+      "source_page_url": "https://bluetrend.media/plataxorbicularis-plataxboersii-plataxteira-plataxpinnatus/",
+      "source_domain": "bluetrend.media"
+    },
+    {
+      "candidate_id": "cand_4221e4fe90244b00e7ea95a6",
+      "image_url": "http://digiarch.sinica.edu.tw/digiarch3/ImageCache/ImageCache/00/0f/96/cf.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsv51zSHJcfmDc7w_vqW-LodbnTU9JSnBZTN9b_of-yA&s=10",
+      "source_page_url": "https://digiarch.sinica.edu.tw/digiarch3/content/repository/resource_content.jsp?oid=16262&queryType=qs&queryString=%E9%AD%9A%E5%BD%A2",
+      "source_domain": "digiarch.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_6902c8dc0713d46fee391c25",
+      "image_url": "http://pic.pimg.tw/neish/1382111503-1828584896.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU16MLgC5PzpukyDOS3emR6w_gLnguMM8-5thl6cum3Q&s=10",
+      "source_page_url": "https://neish.pixnet.net/blog/posts/10007513675",
+      "source_domain": "neish.pixnet.net"
+    },
+    {
+      "candidate_id": "cand_0145edc01935713c8f632050",
+      "image_url": "http://digiarch.sinica.edu.tw/digiarch3/ImageCache/ImageCache/00/0f/96/cc.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXbDn9--qAgamw0ZZNw_OBbYUVM29k11qcYXGNHIIRrw&s",
+      "source_page_url": "https://digiarch.sinica.edu.tw/digiarch3/content/repository/resource_content.jsp?oid=16262&queryType=qs&queryString=%E9%AD%9A%E5%BD%A2",
+      "source_domain": "digiarch.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_4cb3e48a3eca951a9a437e3e",
+      "image_url": "http://fishdb.sinica.edu.tw/images/FRIP/150dpi/FRIP22318.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6KNWUmSw7M83Cingm0Aksx-f41P1ikK7pPSMr-eGd9g&s",
+      "source_page_url": "https://fishdb.sinica.edu.tw/mobi/showpic.php?science=Platax%20orbicularis&mediatype=1",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_5779901997fca698c7cce055",
+      "image_url": "http://fishdb.sinica.edu.tw/images/FRIP/150dpi/FRIP22382.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY5z-XXPqX0bcgSPOeex69pgSmE0icwv_45ldd0z_JVQ&s=10",
+      "source_page_url": "https://fishdb.sinica.edu.tw/chi/fisheconomic.php?page=13&R1=season&key=&pz=20&dere=",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_7d48e84aefb9f312980ac5c8",
+      "image_url": "https://i1.read01.com/eMZf64YG3_WbodaCRCNEIwE/0.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Oy6fwJGtD5ZTEu9u4E3ptVkrXJuIFu8D095DzZy1fA&s=10",
+      "source_page_url": "https://read01.com/7D8aAJa.html",
+      "source_domain": "read01.com"
+    },
+    {
+      "candidate_id": "cand_e1ea04127dc466ca092da0c8",
+      "image_url": "https://www.114ehkreeffish.org/wp-content/uploads/batfish_platax_orbicularis_AL_01.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWovNDyQ68d-3rAQe_QCO386AbtZUSV6wHRkL9zUzPeg&s=10",
+      "source_page_url": "https://www.114ehkreeffish.org/reef-fish/%E5%9C%93%E7%87%95%E9%AD%9A/",
+      "source_domain": "www.114ehkreeffish.org"
+    },
+    {
+      "candidate_id": "cand_ea8cf9178fd5b71c6dcf5a19",
+      "image_url": "https://churaumi.okinawa/userfiles/images/topics/20251211_nanyoutubameuo13_2.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6r-s6av1MOZ7KePAi6TFbIwdowensJuJXJio9YAkjWw&s",
+      "source_page_url": "https://churaumi.okinawa/sp/tc/topics/1765161961/",
+      "source_domain": "churaumi.okinawa"
+    },
+    {
+      "candidate_id": "cand_73870038d6cabe3604cd5109",
+      "image_url": "https://fishdb.sinica.edu.tw/files/muse_fishdb/muse_styles/w1024/mcode/82d22e6a56d9b9157c2f84254d98ace2.jpg?itok=DqJoMXnE",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxrEyFqHXZD06juC6zROuVW09lB73jyaAZACwDbv6SaA&s",
+      "source_page_url": "https://fishdb.sinica.edu.tw/taxon/381668-fishdb/specimen",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_0f71ae3c0373dbde145ccdab",
+      "image_url": "https://bluetrend.media/_astro/DSC5609_Z13XkPL.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_2mRAGnOifsb9AlET1gP7SPn54dAm5dG08bIuMliVNg&s",
+      "source_page_url": "https://bluetrend.media/plataxorbicularis-plataxboersii-plataxteira-plataxpinnatus/",
+      "source_domain": "bluetrend.media"
+    },
+    {
+      "candidate_id": "cand_30b755dcf69151a8ea534fb7",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhALeWiTkDS8lCXItE4gCIF4v9jZdOEePs0l9xidwGvQpQ_9BtYhPg8TYTuz71gH43l1gWtfpfeEnRXg_ZZB7EWwFcYMKNVbUDxwA9XjgFEmlbZ1rcG6lLjxsvRFiCXnVYyVV0Ehib6w/s400/T90024002009062317361118.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp10LGBQ1cqLcsgt0r--2bnhhAKwuvfaunOmdAAV30NA&s",
+      "source_page_url": "http://cch1940planet.blogspot.com/2009/06/blog-post_25.html",
+      "source_domain": "cch1940planet.blogspot.com"
+    },
+    {
+      "candidate_id": "cand_a88666825ddd8fec0d22c06e",
+      "image_url": "https://churaumi.okinawa/userfiles/fish_images/14/akakukuriadult.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdVBKUZoupKh6xMOubZTFqQZxL3J-osIJz2p2pn2kHLA&s=10",
+      "source_page_url": "https://churaumi.okinawa/tc/fishbook/1459335763/",
+      "source_domain": "churaumi.okinawa"
+    },
+    {
+      "candidate_id": "cand_211dde856bf3436dfb350f68",
+      "image_url": "https://i3.read01.com/oKOcysagHSHRcgEyzfciuuw/0.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyDfmsHhRWNkldwqHUgbVN3qHcmYLVUoUT4QW7OYNGRA&s=10",
+      "source_page_url": "https://read01.com/7D8aAJa.html",
+      "source_domain": "read01.com"
+    },
+    {
+      "candidate_id": "cand_210cda9d3415a68a57b37ab7",
+      "image_url": "http://digiarch.sinica.edu.tw/digiarch3/ImageCache/ImageCache/00/0f/96/ce.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_VGYquk2VnZksDR2Ckqwk6C-09aH0M9Z32QbfZ8OcQw&s=10",
+      "source_page_url": "https://digiarch.sinica.edu.tw/digiarch3/content/repository/resource_content.jsp?oid=16262&queryType=qs&queryString=%E9%AD%9A%E5%BD%A2",
+      "source_domain": "digiarch.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_4c85c61bdd8772ed5a35c2ac",
+      "image_url": "https://news-images.tvbs.com.tw/legacy/img/upload/2019/08/21/20190821113150-a2c1f815.jpg?w=400&h=225",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQspGqOjRlIjnxLQksqHuX9AExKrvP1d-9ZI5cp_pjogg&s=10",
+      "source_page_url": "https://news.tvbs.com.tw/life/1188018",
+      "source_domain": "news.tvbs.com.tw"
+    },
+    {
+      "candidate_id": "cand_e296d3138945fb4b42ad14b9",
+      "image_url": "https://i.ytimg.com/vi/N-R5SzVFSqI/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYEyBJKH8wDw==&rs=AOn4CLA9xzyUdftHzpDJYVFgTyaIQ692jg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFlFIWoYJiKf-VYNtHO2dWDQyaJskqavLrgKvwkVvxSQ&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=N-R5SzVFSqI",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_885fc6eafa0d2a43a2c713b7",
+      "image_url": "https://i.ytimg.com/vi/aC1UkjFdwHQ/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGFggZShHMA8=&rs=AOn4CLBq-SBRe53yv-FsR9BLNhtB36YG0g",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWLKYg80IvaY2-GTspITNRG5EB0FOfo8RW0Wd3jnVUaA&s",
+      "source_page_url": "https://www.youtube.com/watch?v=aC1UkjFdwHQ",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_46f9baf810200c6546672cf0",
+      "image_url": "https://i2.read01.com/qUc3cu2sSxbEmkOBubgncG4/0.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP57NdpiiOkUYi1abmyPZGidWD1WtMbc-D2lReghgoNQ&s=10",
+      "source_page_url": "https://read01.com/7D8aAJa.html",
+      "source_domain": "read01.com"
+    },
+    {
+      "candidate_id": "cand_4fccd8824ba4300e010608e3",
+      "image_url": "https://pimg.1px.tw/ojo24/1378166300-2289073988.jpg?v=1378166301",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxDB92HWr2UWkRbSG6sUw33TaOi_MJ0zRKPMuO_mO3Eg&s=10",
+      "source_page_url": "https://ojo24.pixnet.net/blog/posts/35167929",
+      "source_domain": "ojo24.pixnet.net"
+    },
+    {
+      "candidate_id": "cand_f03b11bc930fd80b31f6734b",
+      "image_url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/52660/d89fa3fe0e029337.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLPN07OOPhM1aop3OH7PDp6RjksXPs5rk3wKMBPTC4ag&s=10",
+      "source_page_url": "https://icook.tw/recipes/52660",
+      "source_domain": "icook.tw"
+    },
+    {
+      "candidate_id": "cand_63f8bd921c7074586a92a9c8",
+      "image_url": "https://amanda.tw/wp-content/uploads/2024/05/2024-5-%E7%B4%85%E7%87%92%E5%AF%8C%E8%B2%B4%E9%AD%9A%E3%80%81%E6%A8%B9%E8%91%89%E9%AD%9A-3.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbZGc_oOge8CVA2OuIiQKjoCEpEdnCWbkPSDKc29e3NQ&s",
+      "source_page_url": "https://amanda.tw/archives/62209",
+      "source_domain": "amanda.tw"
+    },
+    {
+      "candidate_id": "cand_8b382f45e99d842d66c0249b",
+      "image_url": "https://pimg.1px.tw/ojo24/1378166302-3886547827.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_-rPgD88fD9cxgzWbWcnGmmNcS9XFwhMj3x-AttDYZw&s=10",
+      "source_page_url": "https://ojo24.pixnet.net/blog/posts/35167929",
+      "source_domain": "ojo24.pixnet.net"
+    },
+    {
+      "candidate_id": "cand_f3035be93daf0e24bb872f74",
+      "image_url": "https://jamesdiscover.tw/wp-content/uploads/2025/10/93ddb1f0cd8c76fb787e48737f83046b.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThJ4TYZ0aM4L2F2Mrw18ZB5zMxCnP-nDCW1qtNI6kHeA&s=10",
+      "source_page_url": "https://jamesdiscover.tw/blog/14059",
+      "source_domain": "jamesdiscover.tw"
+    },
+    {
+      "candidate_id": "cand_d996032fe3293ab5941e9768",
+      "image_url": "https://kahguan.com.my/wp-content/uploads/tilapia_2021.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNmhs3pbRNI_8zcWUD5jll5TdkC-Hhixix_Zr0sPSWWw&s=10",
+      "source_page_url": "https://kahguan.com.my/zh/%E5%AF%8C%E8%B4%B5%E9%B1%BC/",
+      "source_domain": "kahguan.com.my"
+    },
+    {
+      "candidate_id": "cand_8518c5540ac980d9d499dbea",
+      "image_url": "https://amanda.tw/wp-content/uploads/2024/05/2024-5-%E7%B4%85%E7%87%92%E5%AF%8C%E8%B2%B4%E9%AD%9A%E3%80%81%E6%A8%B9%E8%91%89%E9%AD%9A-9.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAsZXGSg_UsvwjiuhsSGBwfdCZ5-Ux4dXp6GwtOv5pRQ&s",
+      "source_page_url": "https://amanda.tw/archives/62209",
+      "source_domain": "amanda.tw"
+    },
+    {
+      "candidate_id": "cand_8c80902a2d83198fcdd7a263",
+      "image_url": "https://amanda.tw/wp-content/uploads/2024/05/2024-5-%E7%B4%85%E7%87%92%E5%AF%8C%E8%B2%B4%E9%AD%9A%E3%80%81%E6%A8%B9%E8%91%89%E9%AD%9A-14.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6b99N-LeuQgX9Nf0pcJWFcelYwyPTzuCHA7f4k9LklQ&s",
+      "source_page_url": "https://amanda.tw/archives/62209",
+      "source_domain": "amanda.tw"
+    },
+    {
+      "candidate_id": "cand_137ea02f11afabe8b48b7782",
+      "image_url": "https://www.ros-marry.com/images/fish/richfish.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw6LV6TP6wI43A6ysDkHVkcywpoQNontUj0UA9n2IuPA&s",
+      "source_page_url": "https://www.ros-marry.com/fish/%E5%AF%8C%E8%B2%B4%E9%AD%9A%E3%80%81%E7%87%95%E9%AF%A7/",
+      "source_domain": "www.ros-marry.com"
+    },
+    {
+      "candidate_id": "cand_a33d4bb0c60af818b4ba434a",
+      "image_url": "https://fae.moa.gov.tw/files/topics/2954/A01_1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDPJM3fGRzLXNHNQDIixGVL2a7WJ9VeJGD3MfYEShfPA&s=10",
+      "source_page_url": "https://fae.moa.gov.tw/theme_data.php?theme=topics&sub_theme=recipe&id=2954",
+      "source_domain": "fae.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_b8cc84aa940c0601599c622f",
+      "image_url": "http://farm4.staticflickr.com/3676/9644927109_73921fd4fb_o.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOOjQvP7bfFj9K2dR6Ot3UrnIsbsHxu7n4VviaP4MXOw&s=10",
+      "source_page_url": "https://cook.dtmsimon.com/2009/09/blog-post.html",
+      "source_domain": "cook.dtmsimon.com"
+    },
+    {
+      "candidate_id": "cand_a02d0e1cfed4fcbce044190c",
+      "image_url": "https://kahguan.com.my/wp-content/uploads/P1180619.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCrBGG2B6_ZmWgWWxsadxyBzGGa80yRy-BFAm0PETh1Q&s=10",
+      "source_page_url": "https://kahguan.com.my/zh/%E5%AF%8C%E8%B4%B5%E9%B1%BC/",
+      "source_domain": "kahguan.com.my"
+    },
+    {
+      "candidate_id": "cand_37a566c75c2f3fab77410bad",
+      "image_url": "https://i.ytimg.com/vi/U6CS2pnlSdk/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRimN9LhPHrt5HIQk7hyqX0mHtsLyY-XXHyCG3v7cBM5A&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=U6CS2pnlSdk",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_edbebab0e3719fc4f71c6e46",
+      "image_url": "https://orientalcuisine.my/wp-content/uploads/2021/08/141-celebrities-rcp-16m.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR-SRl8y64ahdFrdMc34k3AHBu-qXAUmEL26JlYM9spw&s=10",
+      "source_page_url": "https://www.orientalcuisine.my/recipe/%E6%BD%AE%E5%BC%8F%E8%92%B8%E5%AF%8C%E8%B4%B5%E9%B1%BC-teochew-steam-fish/",
+      "source_domain": "www.orientalcuisine.my"
+    },
+    {
+      "candidate_id": "cand_b6a924d3533bba733f59a413",
+      "image_url": "https://i.ytimg.com/vi/HgiINcbyZOU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCbCPadM78-Zo9a6jEhtfTk-ooRFg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIHKA59uOnLU87D8byCBXSjX4nMvvAYFVpBeVcFe1hHQ&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=HgiINcbyZOU",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_a0f15341ca6b8afd83273b87",
+      "image_url": "https://i.ytimg.com/vi/3K9feHZk_2Y/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGGUgYChJMA8=&rs=AOn4CLAGTDcZJHbVhi-QhIFmLwh06Qixtw",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-kXsyCGojmW0eGy6D0Rtk_biilFZzX4df1HKBfXPwGg&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=3K9feHZk_2Y",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_4e221f542d5c555abd11acc2",
+      "image_url": "https://amanda.tw/wp-content/uploads/2024/05/braised-fish-2024-5.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQmGt_UiWNJcc1f1nQv4WmBa9FMtm2uWC51-EQ_oSBoQ&s",
+      "source_page_url": "https://amanda.tw/archives/62209",
+      "source_domain": "amanda.tw"
+    },
+    {
+      "candidate_id": "cand_b59d66f62d53a8b1925ea91f",
+      "image_url": "https://kahguan.com.my/wp-content/uploads/DSC00735.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe7vSaLd1pD74S8GtnW7LU15ywwYlu-8w6cKzPU_yZaQ&s=10",
+      "source_page_url": "https://kahguan.com.my/zh/%E5%AF%8C%E8%B4%B5%E9%B1%BC/",
+      "source_domain": "kahguan.com.my"
+    },
+    {
+      "candidate_id": "cand_4a3eb69714e301c7d631ea58",
+      "image_url": "https://jamesdiscover.tw/wp-content/uploads/2025/10/a45f84f2ed038f0cf22bcf547fbe6c95.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRgSecDHSq5iN14B-gcomFxinjkIm8XVXam32cmvcKnw&s",
+      "source_page_url": "https://jamesdiscover.tw/blog/14059",
+      "source_domain": "jamesdiscover.tw"
+    },
+    {
+      "candidate_id": "cand_52ce371095930fc87599ce23",
+      "image_url": "https://yeongfa.com/wp-content/uploads/2020/03/300g-49.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY3lS1n0G-jhhBFpIyFM15T66lXY2XHZfuKZjBPJ3qSw&s=10",
+      "source_page_url": "https://yeongfa.com/product/%E6%98%86%E7%AB%8B%E5%AF%8C%E8%B2%B4%E9%AD%9A300g/",
+      "source_domain": "yeongfa.com"
+    },
+    {
+      "candidate_id": "cand_07c54b21bb89a4ae2adf687f",
+      "image_url": "https://i.ytimg.com/vi/acjBChdNp00/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDeZ1gAOaY1mTdJqgGA5bjvq5QtlQ",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWFwv1whlH9OTcBprHdYQTWP_gay5UH3KTil2hU84neA&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=acjBChdNp00",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_9a905499b7bc8d1cec8fe021",
+      "image_url": "https://mall.iopenmall.tw/website/uploads_product/website_77998/P7799811317810_3_104816075.jpeg?hash=58634",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjntZ2umLM8j0y_OYCPr1rDbmZNYmy-zhK7WxZQcaddA&s",
+      "source_page_url": "https://mall.iopenmall.tw/077998/index.php?action=product_detail&prod_no=P7799811317810",
+      "source_domain": "mall.iopenmall.tw"
+    },
+    {
+      "candidate_id": "cand_7f642857d38fd6148ecc8140",
+      "image_url": "https://shoplineimg.com/642e2c11a519e900b3d77a18/66dd3cd488a3440019ab7483/800x.jpg?",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr1sUqZlnkrUWh886NKm5_JDdj7C2Il_GtfKNjq2JUTg&s",
+      "source_page_url": "https://www.bejnee.com/products/fish?srsltid=AfmBOorEXPsJEK7ovxYNRsvWwI9U3KwUaFHs6QexLoJtdKrDFue77CH7",
+      "source_domain": "www.bejnee.com"
+    },
+    {
+      "candidate_id": "cand_b9bb55aa98ccd9c91e8af9ac",
+      "image_url": "https://stephaniepig.com/wp-content/uploads/61f7e31ae2bc03eb5a37d917a50d0dce.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJCeZL6o2t35DMj3eBKxwqznMvfK_URMNkw__8zfWodQ&s=10",
+      "source_page_url": "https://www.stephaniepig.com/2014-03-28-2824/",
+      "source_domain": "www.stephaniepig.com"
+    },
+    {
+      "candidate_id": "cand_d8b4e162f63f62c341774b5e",
+      "image_url": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i4/3914058093/O1CN01doqgCs29eeU2Uh8I1_!!4611686018427382125-0-item_pic.jpg_480x0.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDD5_IBT4xZdh8XmIr-xBrPX1p50MlrdE7sSXSZyPeXA&s",
+      "source_page_url": "https://pcdetail.taobao.com/p/23a6d16609382f92cbe1fc35f8cd4e16",
+      "source_domain": "pcdetail.taobao.com"
+    },
+    {
+      "candidate_id": "cand_8676291bfa45d04420aa2c45",
+      "image_url": "https://p9.itc.cn/images01/20230414/4a48bf93ed08439d8d53be4b9bd92f7d.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdbA7I5xs38t6IGkxs7mzvl_nhsnP2IJlgPfhh-DaFeg&s=10",
+      "source_page_url": "https://www.sohu.com/a/666514757_120966265",
+      "source_domain": "www.sohu.com"
+    },
+    {
+      "candidate_id": "cand_9aaa003cd3681f68074c2255",
+      "image_url": "https://p4.itc.cn/images01/20211214/e2c97ea7fcd34f4fa2893f1b8d5db204.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5tJrcpEwuYXorp32rmu_Km8xoI7VsuAwNFScy_rUZmA&s=10",
+      "source_page_url": "https://www.sohu.com/a/508002685_120109808",
+      "source_domain": "www.sohu.com"
+    },
+    {
+      "candidate_id": "cand_500173bf905cc503cf0fa4c3",
+      "image_url": "https://jamesdiscover.tw/wp-content/uploads/2025/10/aede4def0bc7376f97163dec82b45d15.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4A1FRZs9U6-d_PoEthF97uyzFou-6H9fh0bEEZ-1PcA&s",
+      "source_page_url": "https://jamesdiscover.tw/blog/14059",
+      "source_domain": "jamesdiscover.tw"
+    },
+    {
+      "candidate_id": "cand_b896258f420be6ad0161003c",
+      "image_url": "https://mall.iopenmall.tw/website/uploads/website_77998/zh-tw/logo_m.jpg?hash=0612214241",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwcDmr_H2pXlcoOJ7VWEXdt93Cin8rXjjPczNdcFRamA&s=10",
+      "source_page_url": "https://mall.iopenmall.tw/077998/index.php?action=product_detail&prod_no=P7799811317810",
+      "source_domain": "mall.iopenmall.tw"
+    }
+  ]
+}

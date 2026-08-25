@@ -1,0 +1,712 @@
+{
+  "schema_version": 1,
+  "fish_id": "fish_038",
+  "canonical_name": "細點石斑魚",
+  "aliases": [
+    "藍瓜子斑"
+  ],
+  "pool_updated_at": "2026-08-25T05:46:23.188907+00:00",
+  "candidate_count": 100,
+  "candidates": [
+    {
+      "candidate_id": "cand_04c9e5920841706055486179",
+      "image_url": "https://churaumi.okinawa/userfiles/fish_images/sanngogyo/tutihozeri-resize.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN_SCQD-eT0jpQAQEFkPPg6tIgW2VwVNJudGqKt_NErA&s=10",
+      "source_page_url": "https://churaumi.okinawa/tc/fishbook/00000090/",
+      "source_domain": "churaumi.okinawa"
+    },
+    {
+      "candidate_id": "cand_e12bf6aed45822d790dfde19",
+      "image_url": "https://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/Epinephelus_cyanopodus.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTw3Qa0DRfwRdIaZeXIikPJyU3XP3noc4igXQsK0XMKg&s=10",
+      "source_page_url": "https://fishdb.sinica.edu.tw/chi/species.php?id=382537",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_f1724b704bdf1c57729d0c5e",
+      "image_url": "https://fishdb.sinica.edu.tw/chi/ecopic/large/fp02053.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCEdUwxZaf6q96gDCWayCm2K0s7c8NDYvrLv95heIrbg&s=10",
+      "source_page_url": "https://fishdb.sinica.edu.tw/mobi/showpic.php?filename=fp02053&science=Epinephelus%20cyanopodus",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_2c55145bc9d6750350a129bf",
+      "image_url": "https://news.sciencenet.cn/myeditor/net/upload/image/20220118/6377812155425324385643567.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6AVnl8KxCj6ury3t82r6ectt6te61MRzLtDPNN9VKNg&s=10",
+      "source_page_url": "https://news.sciencenet.cn/htmlnews/2022/1/472825.shtm",
+      "source_domain": "news.sciencenet.cn"
+    },
+    {
+      "candidate_id": "cand_299205cca398435ef3d67f75",
+      "image_url": "https://bkimg.cdn.bcebos.com/pic/472309f790529822720e2f1fd5986ccb0a46f31f7e97?x-bce-process=image/format,f_auto/quality,Q_80/resize,m_lfit,limit_1,h_700",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFqhR-xz0KRBUWgFNLu0Su97OWhk4CxSg4mpcEmPtR1A&s",
+      "source_page_url": "https://baike.baidu.com/item/%E7%BB%86%E7%82%B9%E7%9F%B3%E6%96%91%E9%B1%BC/8422158",
+      "source_domain": "baike.baidu.com"
+    },
+    {
+      "candidate_id": "cand_03a26b755b58dd912f9570bb",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/43087212/medium.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH2VnZayNxU7ibzDps3S010swEn0xWpURrwjMga9xz1A&s",
+      "source_page_url": "https://www.inaturalist.org/zh-CN/taxa/100092-Epinephelus-cyanopodus",
+      "source_domain": "www.inaturalist.org"
+    },
+    {
+      "candidate_id": "cand_841fe0771e5d601d1306c0a9",
+      "image_url": "https://i.ytimg.com/vi/KF-n55yco-Q/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzfHQkb2PQqsOXpnzzBsFqd7IS3nFXmZVp7KE9De03WQ&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=KF-n55yco-Q",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_a3bef8967e7aa574bb3483ae",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5950556/medium.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK17beSkgR2_xhxOiB8NhDTgDoJ_b2GokbfWXDAcH4GA&s=10",
+      "source_page_url": "https://www.inaturalist.org/zh-CN/taxa/100092-Epinephelus-cyanopodus",
+      "source_domain": "www.inaturalist.org"
+    },
+    {
+      "candidate_id": "cand_915415606c6a4f342e5e1a95",
+      "image_url": "https://content.teldap.tw/upload/dc/plan142/FRIP30268.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC3tV3b5hdDar6XXMT1izhIQetgyx_svRnSaPeEXoybg&s",
+      "source_page_url": "https://content.teldap.tw/main/dc_detail.php?dc_id=2441494",
+      "source_domain": "content.teldap.tw"
+    },
+    {
+      "candidate_id": "cand_0bd28cccce5727bcd53f9562",
+      "image_url": "https://bkimg.cdn.bcebos.com/pic/6d81800a19d8bc3eb135fd2544d8b11ea8d3fc1fef9a?x-bce-process=image/format,f_auto/quality,Q_80/resize,m_lfit,limit_1,h_700",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2AKF1mnxWq6TG0Nk7u2K2gNtu9LN-yv_Z6I_JKF-XFQ&s",
+      "source_page_url": "https://baike.baidu.com/item/%E7%BB%86%E6%96%91%E7%9F%B3%E6%96%91%E9%B1%BC/8645253",
+      "source_domain": "baike.baidu.com"
+    },
+    {
+      "candidate_id": "cand_0771b32e4a049d5d5d8ee0e4",
+      "image_url": "http://study.phc.edu.tw/studyalbums/albums/userpics/10001/normal_1-1-32.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7bqIm8cIO6U3_6TwimNBbSm2tu8CHn9IWXJnO2qKDbA&s=10",
+      "source_page_url": "http://study.phc.edu.tw/studyalbums/displayimage.php?album=3&pos=31",
+      "source_domain": "study.phc.edu.tw"
+    },
+    {
+      "candidate_id": "cand_511ca433f05c376ab2282f9d",
+      "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7rbkd-m7pym7t0rdd6d2",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYWZM1BHr_rD-Auk9Eh7ogJt5fqUtT4WNt9johO9c5Wg&s=10",
+      "source_page_url": "https://shopee.tw/%E3%80%90%E6%BC%81%E8%AE%9A%E3%80%91%E6%BE%8E%E6%B9%96%E8%97%8D%E7%93%9C%E7%9F%B3%E6%96%91-%E8%97%8D%E7%93%9C%E7%9F%B3%E6%96%91-%E8%83%A1%E6%A4%92%E7%9F%B3%E6%96%91-%E8%97%8D%E5%AF%B6%E7%9F%B3%E7%9F%B3%E6%96%91-%E9%BB%83%E7%93%9C%E7%9F%B3%E6%96%91-%E7%B4%B0%E9%BB%9E%E7%9F%B3%E6%96%91-%E9%9D%92%E6%96%91-%E9%BE%8D%E8%86%BD%E7%9F%B3%E6%96%91-%E9%BE%8D%E8%99%8E%E7%9F%B3%E6%96%91-%E7%9F%B3%E6%96%91%E9%AD%9A-%E6%BE%8E%E6%B9%96%E6%B5%B7%E9%AE%AE-i.4101038.24043033417",
+      "source_domain": "shopee.tw"
+    },
+    {
+      "candidate_id": "cand_44aae16ef085c37ae2423fa8",
+      "image_url": "https://blog.thofood.com/wp-content/uploads/2022/04/%E8%97%8D%E7%93%9C%E7%9F%B3%E6%96%91%E9%AD%9A-1024x459.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrEgTVz-2uoWYraAv3aG05xn5WZEGq3bhKsnntk83OhQ&s=10",
+      "source_page_url": "https://blog.thofood.com/grouper/",
+      "source_domain": "blog.thofood.com"
+    },
+    {
+      "candidate_id": "cand_466bc45bcc106eaccc448699",
+      "image_url": "https://image.cnhnb.com/change/image/tos/pro/jpg/details/2026/01/06/b0eda7dfe12f43a5aaadfcacff9d368b.jpg?x-tos-process=image/resize,h_600,image/crop,h_600,w_600,g_center,image/watermark,image_d20ucG5nP3gtdG9zLXByb2Nlc3M9aW1hZ2UvcmVzaXplLFBfMjA=,g_se,x_10,y_10",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx5HqdldQhd5zObtxN2NGmpu5BsxNeQ0mv0muWklrDzA&s",
+      "source_page_url": "https://www.cnhnb.com/gongying/8426852/",
+      "source_domain": "www.cnhnb.com"
+    },
+    {
+      "candidate_id": "cand_d9088106456ad2fa59efe5e2",
+      "image_url": "https://blog.thofood.com/wp-content/uploads/2022/04/blog%E8%97%8D%E9%BB%83%E7%93%9C01-1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfMeM5pr0PllHRaf_oMsmU2VcL49iP_NU2g0bN5dP6MA&s=10",
+      "source_page_url": "https://blog.thofood.com/grouper/",
+      "source_domain": "blog.thofood.com"
+    },
+    {
+      "candidate_id": "cand_9aede88fd499a9aefe1d9864",
+      "image_url": "https://pica.zhimg.com/v2-73d4c3288883cbe4f79a62208a000c2e_1440w.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhQUJuuzoqUwr7kbkNTtevrqdzTyYQw2oJk7O6X9_VAA&s",
+      "source_page_url": "https://zhuanlan.zhihu.com/p/514644404",
+      "source_domain": "zhuanlan.zhihu.com"
+    },
+    {
+      "candidate_id": "cand_068e240dc66466065db2adba",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/32874114/medium.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvimcQ2WSQpm3fW_ZY1amRiAKB_83lYunHENETjTatlA&s",
+      "source_page_url": "https://www.inaturalist.org/zh-CN/taxa/100092-Epinephelus-cyanopodus",
+      "source_domain": "www.inaturalist.org"
+    },
+    {
+      "candidate_id": "cand_602d0a38309bee6340d32a29",
+      "image_url": "https://image.16pic.com/00/69/81/16pic_6981709_s.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVUtYk0tsQQUJ5qqcOOmqUhIgYjL3vNgnbviPB7Ta7yA&s=10",
+      "source_page_url": "https://www.16pic.com/sucai/8717772.html",
+      "source_domain": "www.16pic.com"
+    },
+    {
+      "candidate_id": "cand_d4e0e4d55b9efb959c4b28dd",
+      "image_url": "https://cdn.10100.com/content/20251114/6c227355-a502-4fa4-9db9-7dc214468e88_900x_wm.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd8zSIHQ5GNmT-rS_sy5AImsZgd-otmGTNcJ71meDcpQ&s",
+      "source_page_url": "https://m.10100.com/article/31341719",
+      "source_domain": "m.10100.com"
+    },
+    {
+      "candidate_id": "cand_533f200fd7f66ab828c792fe",
+      "image_url": "http://www.hkcd.com.hk/userfiles/1679824712544178.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXf4wycIboVOxRhsOffbdh5nj7-RKBBNhIdKN0_5RFsQ&s",
+      "source_page_url": "https://www.hkcd.com.hk/newsTopic_content.php?id=1392678",
+      "source_domain": "www.hkcd.com.hk"
+    },
+    {
+      "candidate_id": "cand_947414dbb2c3f5bf5ab87173",
+      "image_url": "https://fishdb.sinica.edu.tw/chi/xray/large/Xray_ASIZP0062958.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOnt6WkusK_7yqwWhgDwnAKE5FGfNU5XGHrKyMPKT1KQ&s",
+      "source_page_url": "https://fishdb.sinica.edu.tw/chi/showpic.php?science=Epinephelus%20cyanopodus&mediatype=5",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_c72e3d9e7df914cc2ee4349e",
+      "image_url": "https://so1.360tres.com/t013f09b6a416772fc4.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRNtZYHJkb_K0ODEQndga1tHn_HkyW4Nhm8GCZyEtEew&s=10",
+      "source_page_url": "https://baike.so.com/gallery/list?ghid=first&pic_idx=1&eid=5999143&sid=6212118",
+      "source_domain": "baike.so.com"
+    },
+    {
+      "candidate_id": "cand_5f5ac99d674bdfc68b9ae186",
+      "image_url": "https://kmweb.moa.gov.tw/files/IMITA_Gallery/71/d7ceb0ddc1_m.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV7kaFyMlFV_DrM2xCP8kuGMT8jLqzqk__zoG9BO_T_w&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/subject/subject.php?id=21793",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_c7d67d41349586f2550a3aa3",
+      "image_url": "https://p0.ssl.img.360kuai.com/bdr/640__60/t01f8abcb542a7297f9.jpg?size=500x255",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4AAEf-YOo8X2sjQz-JIupfs9tBt3yiX76hHb3t7c6A&s",
+      "source_page_url": "https://www.360kuai.com/pc/9e5bf4ca2e7c990de?cota=3&kuai_so=1&sign=360_e39369d1",
+      "source_domain": "www.360kuai.com"
+    },
+    {
+      "candidate_id": "cand_ef2f63542cf36afd2ab78bb6",
+      "image_url": "https://image.cnhnb.com/change/image/tos/pro/jpg/details/2026/01/21/3db4fd5a0a964af8972aef0be60dae86.jpg?x-tos-process=image/resize,m_lfit,w_600/format,jpg,image/auto-orient,1,image/watermark,image_d20ucG5nP3gtdG9zLXByb2Nlc3M9aW1hZ2UvcmVzaXplLFBfMjA=,g_se,x_10,y_10",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN-eAM6XJ2iQhG8u1zyJ7CvZ1S8d_ukp5iKGlwIy-svg&s",
+      "source_page_url": "https://www.cnhnb.com/gongying/8426852/",
+      "source_domain": "www.cnhnb.com"
+    },
+    {
+      "candidate_id": "cand_a62a360cbc36d552d6f25e20",
+      "image_url": "https://im-fish.com/wp-content/uploads/2022/05/215029%E6%A3%95%E9%BB%9E1-1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFmZsk1lDlEwTAnuXFUk3Tbmep0KXpfDrxDa8IeTHfpw&s=10",
+      "source_page_url": "https://im-fish.com/shop/5029/",
+      "source_domain": "im-fish.com"
+    },
+    {
+      "candidate_id": "cand_4b4b371e99c5ebefe7e4015f",
+      "image_url": "https://i2.kknews.cc/9ButkP8JLF2wDZExdPw3b7wzbhg7CQw/0.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXvaV1hLvCuwFiSK6gXEm0yxqlFfV7-FChLcjNUxY39A&s=10",
+      "source_page_url": "https://kknews.cc/zh-cn/food/q65z9jy.html",
+      "source_domain": "kknews.cc"
+    },
+    {
+      "candidate_id": "cand_8baa2f27cd70d2644692b499",
+      "image_url": "https://news.sciencenet.cn/myeditor/net/upload/image/20220118/6377812157364389798786974.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Amw5qykW4wLl6kuG0GyZcDQMP2J6Hd19-wxKyTZYlg&s=10",
+      "source_page_url": "https://news.sciencenet.cn/htmlnews/2022/1/472825.shtm",
+      "source_domain": "news.sciencenet.cn"
+    },
+    {
+      "candidate_id": "cand_30ce50e0cc60ae0d0d7b63fc",
+      "image_url": "https://churaumi.okinawa/userfiles/fish_images/sanngogyo/kannmonnhata2-resize.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRspQkbeZWrzNlw5bzPAp7NiLtj_2D9wUxIkee1MJIg9w&s=10",
+      "source_page_url": "https://churaumi.okinawa/sp/tc/fishbook/00000234/",
+      "source_domain": "churaumi.okinawa"
+    },
+    {
+      "candidate_id": "cand_2c085063ee8866ba9c82f5ac",
+      "image_url": "https://cdn.10100.com/content/20251114/cc2fe87f-7863-4bb5-96c8-64b0c63f5f3e_900x_wm.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2woC88rmAbFLB30mhXZ6goYAuAj3PSOP20mdhP2fkfw&s",
+      "source_page_url": "https://m.10100.com/article/31341719",
+      "source_domain": "m.10100.com"
+    },
+    {
+      "candidate_id": "cand_a1def9df21cfc079597dcb2d",
+      "image_url": "https://www.114ehkreeffish.org/wp-content/uploads/groupers_plectropomus_leopardus_SS_04.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc_c9XRjwhQ21NJZKFDZfQ39WFmKmcfTU6jjgWb4o4iA&s=10",
+      "source_page_url": "https://www.114ehkreeffish.org/reef-fish/%E8%97%8D%E9%B0%AD%E7%9F%B3%E6%96%91%E9%AD%9A/",
+      "source_domain": "www.114ehkreeffish.org"
+    },
+    {
+      "candidate_id": "cand_fe6a7687c1964933e53e0baf",
+      "image_url": "https://image.16pic.com/00/47/49/16pic_4749903_s.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvV_MFVmJ3zu8QSH2MpahwmJIu3Whol-bmQ9G2OVm7Mg&s=10",
+      "source_page_url": "https://www.16pic.com/sucai/8717772.html",
+      "source_domain": "www.16pic.com"
+    },
+    {
+      "candidate_id": "cand_1f21cf7837299ee70961c066",
+      "image_url": "https://cdn.agroworld.my/368-article-22-KuxlZ22260.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3hCp0LWlNFlTYsEdx5uTz7nFSrl4W_SwFaaoyCoARHA&s=10",
+      "source_page_url": "https://agroworld.my/cn/article-details/368-article-22",
+      "source_domain": "agroworld.my"
+    },
+    {
+      "candidate_id": "cand_305f8db32ad07a88a8293e44",
+      "image_url": "https://picturefishai.com/wiki-image/1080/153870128293871620.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrf7iH60LEy_SNdlHCxs82BJ7CeNjOx9c23RnspRj4aA&s=10",
+      "source_page_url": "https://picturefishai.com/zh-tw/wiki/Epinephelus_coioides.html",
+      "source_domain": "picturefishai.com"
+    },
+    {
+      "candidate_id": "cand_6b4edf82ec700d0845cb4fd5",
+      "image_url": "https://blog.thofood.com/wp-content/uploads/2022/04/%E9%BB%83%E7%93%9C%E7%9F%B3%E6%96%91%E9%AD%9A01-1024x503.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbrheUu7xeMixPnzdwkpbmik71pOtuc_7t45p-WAjzaw&s=10",
+      "source_page_url": "https://blog.thofood.com/grouper/",
+      "source_domain": "blog.thofood.com"
+    },
+    {
+      "candidate_id": "cand_3fb5a23d169dd1fde6d5ae28",
+      "image_url": "https://so1.360tres.com/t017a2d490273eab5ca.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmeW6yJp1E3HCpGdS0bnFhhE8bHR4C6FlTyvmSUIfu_A&s",
+      "source_page_url": "https://baike.so.com/gallery/list?ghid=first&pic_idx=1&eid=5999143&sid=6212118",
+      "source_domain": "baike.so.com"
+    },
+    {
+      "candidate_id": "cand_9de1b3db6da8401522c63c74",
+      "image_url": "https://pic.huitu.com/pic/20240926/3162313_20240926113735175233_0.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9UnZIPB-f4MeN8A-5hLdd2_9UGAjcINRKMtoeTCzApA&s",
+      "source_page_url": "https://www.huitu.com/photo/show/20160302/221015670500.html",
+      "source_domain": "www.huitu.com"
+    },
+    {
+      "candidate_id": "cand_e3657c644c79f8452a9a85f0",
+      "image_url": "https://pic2.zhimg.com/v2-4321be69bc66d839e4290604a7963b0b_1440w.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_ELKAOCYbn7XD9TfAXRr_KTgwafeLYawBkMemx-Ho6w&s",
+      "source_page_url": "https://zhuanlan.zhihu.com/p/514644404",
+      "source_domain": "zhuanlan.zhihu.com"
+    },
+    {
+      "candidate_id": "cand_0dad8769fb21cd3b3475a61a",
+      "image_url": "https://p0.ssl.img.360kuai.com/bdr/640__60/t0117dc693926db62be.jpg?size=500x255",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUnbhZQ8cclPfb7MXrXw_p_7ssEcCx6HllFZDuDWMIMQ&s=10",
+      "source_page_url": "https://www.360kuai.com/pc/9e5bf4ca2e7c990de?cota=3&kuai_so=1&sign=360_e39369d1",
+      "source_domain": "www.360kuai.com"
+    },
+    {
+      "candidate_id": "cand_84623ae8eafd598a8b071162",
+      "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7rbkc-m7pym7sgtl6251",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc_Qn2ivFFWpoa5izrdnuydQfyPCSZkv0flehoWEt5UA&s=10",
+      "source_page_url": "https://shopee.tw/%E3%80%90%E6%BC%81%E8%AE%9A%E3%80%91%E6%BE%8E%E6%B9%96%E8%97%8D%E7%93%9C%E7%9F%B3%E6%96%91-%E8%97%8D%E7%93%9C%E7%9F%B3%E6%96%91-%E8%83%A1%E6%A4%92%E7%9F%B3%E6%96%91-%E8%97%8D%E5%AF%B6%E7%9F%B3%E7%9F%B3%E6%96%91-%E9%BB%83%E7%93%9C%E7%9F%B3%E6%96%91-%E7%B4%B0%E9%BB%9E%E7%9F%B3%E6%96%91-%E9%9D%92%E6%96%91-%E9%BE%8D%E8%86%BD%E7%9F%B3%E6%96%91-%E9%BE%8D%E8%99%8E%E7%9F%B3%E6%96%91-%E7%9F%B3%E6%96%91%E9%AD%9A-%E6%BE%8E%E6%B9%96%E6%B5%B7%E9%AE%AE-i.4101038.24043033417",
+      "source_domain": "shopee.tw"
+    },
+    {
+      "candidate_id": "cand_79734014e5af15e1198c67d5",
+      "image_url": "https://penghu-shrimp.com/wp-content/uploads/2019/02/IMG_0463.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRFr5olhuCyxDK3Bfj8IRROgk2IlupIBNng5sNcSZ0Lg&s=10",
+      "source_page_url": "https://penghu-shrimp.com/product/1243/",
+      "source_domain": "penghu-shrimp.com"
+    },
+    {
+      "candidate_id": "cand_486cc873f4c306b20a97c90a",
+      "image_url": "https://www.114ehkreeffish.org/wp-content/uploads/2017/10/CephalopholisArgus_AndyCornish_01.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIOltJOuehREiKPliTwY4qh4QJqrpWu8HsOZLaewFhAg&s=10",
+      "source_page_url": "https://www.114ehkreeffish.org/reef-fish/%E8%97%8D%E9%BB%9E%E6%98%9F%E7%8F%AD/",
+      "source_domain": "www.114ehkreeffish.org"
+    },
+    {
+      "candidate_id": "cand_8f42e824414652373e218174",
+      "image_url": "https://www.kepu365.com/animal/UploadFiles_4763/200904/2009042023125396.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2KRN6n2kCyegITLSi1Q1bxn7gCB-9Vk6pL2uin-Bm1Q&s=10",
+      "source_page_url": "https://www.kepu365.com/animal/HYSW/200904/193520.html",
+      "source_domain": "www.kepu365.com"
+    },
+    {
+      "candidate_id": "cand_c1c201720501d96a4c24247d",
+      "image_url": "https://kmweb.moa.gov.tw/files/IMITA_Gallery/71/11f17a4140_m.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWy403QBz8ts0RrkMXVohb5VASvSfFit-4t17wQYjQAw&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/subject/subject.php?id=21774",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_88a5eb199830cca6147d3f2d",
+      "image_url": "https://churaumi.okinawa/userfiles/fish_images/sanngogyo/shirobuchihata2023-resize.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOlA8ipTe16SasdNJemV-uhuQejxwX0PJGpxq-OQXsFQ&s=10",
+      "source_page_url": "https://churaumi.okinawa/sp/tc/fishbook/00000234/",
+      "source_domain": "churaumi.okinawa"
+    },
+    {
+      "candidate_id": "cand_f1be7c932c4a1e915bc65cad",
+      "image_url": "https://cdn.10100.com/content/20251114/495e2474-bfdc-4c8e-bac5-b4183c51e75f_900x_wm.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYrKGA6jQmqQNa6Y4wa7vSep9uQHk7L7r1Vt5qfnam9Q&s=10",
+      "source_page_url": "https://m.10100.com/article/31341719",
+      "source_domain": "m.10100.com"
+    },
+    {
+      "candidate_id": "cand_63231e0a026008088e4c6fab",
+      "image_url": "http://img.yimutian.com/sells/658b18542d211f7102ec7b4304380421-346-346C.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8FljgvvvjnumvK04pe4Tnarkbn3pnw7x6dTnTi08lrA&s",
+      "source_page_url": "https://m.ymt.com/shop/296133416307173?force=true",
+      "source_domain": "m.ymt.com"
+    },
+    {
+      "candidate_id": "cand_4ba86c39c11b55a8701b6881",
+      "image_url": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480/img/recipe/ras/Assets/98ee540f584793aa867126f621ec9b26/Derivates/fd6eb292f8528d8f531f28cd65ccad545a4bc4d8.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlO9ZgNJO__puV2pJiVoh3T4d1cUqmDfqEWBsbIwe2nQ&s=10",
+      "source_page_url": "https://cookidoo.ca/recipes/recipe/en-CA/r140906",
+      "source_domain": "cookidoo.ca"
+    },
+    {
+      "candidate_id": "cand_7c162042534942033cc4a5a3",
+      "image_url": "https://igs-cms.ztore.com/attachments/20250410/40085c73-4a04-4312-8f6e-eaa57becc2ec.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbdSQPZTBd3Louh3Xz_TwSEOdLOz6JOyHdERQxVFhoxQ&s=10",
+      "source_page_url": "https://www.neigbuy.com/product/G1099634?srsltid=AfmBOor-rIC-Ua1p522RNRfQ4mN8NM92mtxEseilmIKim9zIRZBwzBK9",
+      "source_domain": "www.neigbuy.com"
+    },
+    {
+      "candidate_id": "cand_a255469e9cdf6f42ec7ac768",
+      "image_url": "https://i.ytimg.com/vi/weWvUSAvWhg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAQemYSQQq-VyixPIOXsMmw7-oTQQ",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgubf8yhWaezibXarW-YEsZyX8FaX3tJdrbVc7btDysQ&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=KF-n55yco-Q",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_98df5d3fa607d4ff3ec514c1",
+      "image_url": "https://www.kepu365.com/animal/UploadFiles_4763/200904/2009042023125439.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtiVNxIgL0ctxG6wlJdGMD1V0q1J4JwL4leRVZPcg12A&s=10",
+      "source_page_url": "https://www.kepu365.com/animal/HYSW/200904/193521.html",
+      "source_domain": "www.kepu365.com"
+    },
+    {
+      "candidate_id": "cand_0b6db4472fcbec65230d0073",
+      "image_url": "https://image.16pic.com/00/47/49/16pic_4749918_s.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqwWEX2iBf5or6zmbon2VIYnfZQ2umtOpamtXoJwqpaQ&s=10",
+      "source_page_url": "https://www.16pic.com/sucai/8717772.html",
+      "source_domain": "www.16pic.com"
+    },
+    {
+      "candidate_id": "cand_10896b2458480cf03d07c4c9",
+      "image_url": "https://rs.joo.com.tw/website/uploads_product/website_1048/P0104800210036_1_1111426.png?_41925",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8YlDdznPKkaB4lF6vV4BinMq7IIq5KOh8QG2P-KpRdQ&s=10",
+      "source_page_url": "https://www.freshocean.com.tw/freshocean/index.php?action=product_detail&prod_no=P0104800210036",
+      "source_domain": "www.freshocean.com.tw"
+    },
+    {
+      "candidate_id": "cand_d0cbd37e17f3554d6909ac4c",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/613727e5b2425603e7bbac4b/1635157583737-Y6NFCS963Z76BIPIGQ8E/%E7%B4%85%E9%BB%9E%E7%9F%B3%E6%96%91PP.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKjwPhLLuUQXv53Feo5Qvnb3NMubQUNRW3cs9IoJ5h1A&s=10",
+      "source_page_url": "https://www.tgtfresh.com/fresh/p/redhind",
+      "source_domain": "www.tgtfresh.com"
+    },
+    {
+      "candidate_id": "cand_7c92bf6884009fd258c6723e",
+      "image_url": "https://kariyushi-aquarium.com/uploads/1638511980_%E3%82%A2%E3%83%97%E3%83%AA2_DSC_1447.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Yq4y5tco9Hb0K3AKCyox9X_x3bLwMWDCTrWFWtdpPA&s=10",
+      "source_page_url": "https://tc.kariyushi-aquarium.com/animals/lists/?animals_category=areas&id=29",
+      "source_domain": "tc.kariyushi-aquarium.com"
+    },
+    {
+      "candidate_id": "cand_cea7fef349991486273a6c4b",
+      "image_url": "https://img.ltn.com.tw/Upload/news/600/2023/04/06/4262167_1_1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx-2Zpvqv3UgLy_Dy6qk6BjQCUhkKhJ2tsd7nLIQ_CaA&s=10",
+      "source_page_url": "https://news.ltn.com.tw/news/Penghu/breakingnews/4262167",
+      "source_domain": "news.ltn.com.tw"
+    },
+    {
+      "candidate_id": "cand_f1d7b9808d42b61d95964c3c",
+      "image_url": "https://shoplineimg.com/63fe08b58b6a170030fc0a92/688b189317ad380010e66a81/800x.png?",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXTA3MZp82YT76lT9NZvVXNoxNla_qlJSaNYVELQGEww&s",
+      "source_page_url": "https://www.lithamarket.com/products/productgrouper-fillet?srsltid=AfmBOorzVKmh6_TyMQNhVDSFv6Jiwn21_oWnJJrwhOuW4STip0tTpn8K",
+      "source_domain": "www.lithamarket.com"
+    },
+    {
+      "candidate_id": "cand_5c964d1f3aab236e56ca48c2",
+      "image_url": "https://imgcache.dealmoon.com/thumbimg.dealmoon.com/us2510/dealmoon/4e2/e5b/591/67fe82fab4cba9f67c7eeebx734x1152x192.jpeg_1280_1280_3_4bab.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCklUjkzBoSCyat9qRJ9Qvr3yiECutIj4UFuvr2yIkAw&s=10",
+      "source_page_url": "https://www.dealmoon.com/post/2573214",
+      "source_domain": "www.dealmoon.com"
+    },
+    {
+      "candidate_id": "cand_7bf4a66706f42f03c4ccd3b9",
+      "image_url": "https://pic2.zhimg.com/v2-9f642618c809ca11ef5adc72c2872bcb_1440w.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_gOIa8G0EN00zZGzvCfz_O_9qgtW0C2ohuydVaNciTg&s",
+      "source_page_url": "https://zhuanlan.zhihu.com/p/514644404",
+      "source_domain": "zhuanlan.zhihu.com"
+    },
+    {
+      "candidate_id": "cand_2f56d8166bff52941fe2aa98",
+      "image_url": "https://happyseafoods.wordpress.com/wp-content/uploads/2012/09/dsc07089-02.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQznRp-0gk68YKwm4zuKXZRCY5lFkjd-u0Ly-aJCHv_Sg&s=10",
+      "source_page_url": "https://happyseafoods.wordpress.com/category/%E9%AE%A8%E7%A7%91/page/2/",
+      "source_domain": "happyseafoods.wordpress.com"
+    },
+    {
+      "candidate_id": "cand_7ef0fecb7578a821fa294b8e",
+      "image_url": "https://rs.joo.com.tw/website/uploads_product/website_1048/P0104800210031_4_1111410.png?_68877",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeVRFJdEQgUrW-UlTiVJIYnrhFLwoAmuRA5kW2pTcncA&s=10",
+      "source_page_url": "https://www.freshocean.com.tw/freshocean/index.php?action=product_detail&prod_no=P0104800210036",
+      "source_domain": "www.freshocean.com.tw"
+    },
+    {
+      "candidate_id": "cand_3ede27ee762ccf3f5db5ec52",
+      "image_url": "https://img.pchome.com.tw/cs/items/DBCY4AB900B6XOS/000001_1615851833.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC8zFGmyWWDDHZ1S5kTH5ZoGt-dJv_jIliMVlGdWjuqw&s=10",
+      "source_page_url": "https://biggo.com.tw/s/%E7%9F%B3%E6%96%91%E9%AD%9A%EF%BC%88%E9%9D%92%E6%96%91%EF%BC%89",
+      "source_domain": "biggo.com.tw"
+    },
+    {
+      "candidate_id": "cand_17ec5e9604524bfb49cb6bbd",
+      "image_url": "https://i2.read01.com/avOU6-QbiW7uoYTxGqeyth4/0.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5w5PePGWPpOYbx6hoxMAQ-ynfVd9JmuRe1pmI59yBw&s=10",
+      "source_page_url": "https://read01.com/NyADxMQ.html",
+      "source_domain": "read01.com"
+    },
+    {
+      "candidate_id": "cand_4d6e159c6faf1b006c96c3ab",
+      "image_url": "https://i.epochtimes.com/assets/uploads/2022/06/id13757812-559616-600x400.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5kbev07aZwN4WzW87WHxXgaFZenOawD0o05thQz-eTA&s=10",
+      "source_page_url": "https://www.epochtimes.com/b5/22/6/12/n13757811.htm",
+      "source_domain": "www.epochtimes.com"
+    },
+    {
+      "candidate_id": "cand_60a4af4deb056ae527457d6d",
+      "image_url": "https://www.taiwanagriweek.com/upload/media_list_pic/T-70228455__23G21csyYo.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqgcRTGlTEro_pilURpSBlBwxIegJQFTRm54_7w-XI9Q&s=10",
+      "source_page_url": "https://www.taiwanagriweek.com/media-detail/longdiann/",
+      "source_domain": "www.taiwanagriweek.com"
+    },
+    {
+      "candidate_id": "cand_190d3b1a464fbaa71d692a00",
+      "image_url": "https://www.bluebearhouse.com.tw/wp-content/uploads/2023/02/WDTB8614.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYAk9c4mhK1hOlm2hAJq__XjnRL0dGnQZYXX4eg7C4rQ&s=10",
+      "source_page_url": "https://www.bluebearhouse.com.tw/product/a1101029/",
+      "source_domain": "www.bluebearhouse.com.tw"
+    },
+    {
+      "candidate_id": "cand_635c9cb7ccd66332fb197630",
+      "image_url": "https://fishdb.sinica.edu.tw/files/muse_fishdb/muse_styles/color_box_match/mcode/e6ab9938045204c1037579efd2e407bb.jpg?itok=MTHpqHVF",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD66_pGkic4T-NnWoQluTsiTQ5DpmCmlBrPDkMyTZgWg&s",
+      "source_page_url": "https://fishdb.sinica.edu.tw/taxon/16340-fishdb/media",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_1b13c9ee21114c9b03df152c",
+      "image_url": "https://bucket-image.inkmaginecms.com/version/hd/1/image/2024/07/f2e59c83-d92d-41fc-ba72-9a8241cd2ab1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEoOKBRDeO8GssvJVfWCHMGn-J5gQ-5S27SLhX-azfQw&s=10",
+      "source_page_url": "https://www.thenewslens.com/article/157168",
+      "source_domain": "www.thenewslens.com"
+    },
+    {
+      "candidate_id": "cand_ae6572affc0208d326ca31b4",
+      "image_url": "https://pic.huitu.com/pic/20220809/1322251_20220809110508895060_0.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvfOxp4tAH3al3PAjUXHJBCO2LXlCNgGkyocMIT3p-iw&s",
+      "source_page_url": "https://www.huitu.com/photo/show/20160302/221015670500.html",
+      "source_domain": "www.huitu.com"
+    },
+    {
+      "candidate_id": "cand_6471a53984dd2c3a8864d326",
+      "image_url": "https://www.114ehkreeffish.org/wp-content/uploads/2018/03/EpinephelusQuoyanus_FelixChan_01.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8naXi3GG01xnHEJ_2rJ4GgJYmW8lVQiGHGMhYpoKJAw&s=10",
+      "source_page_url": "https://www.114ehkreeffish.org/reef-fish/%E8%97%8D%E9%B0%AD%E7%9F%B3%E6%96%91%E9%AD%9A/",
+      "source_domain": "www.114ehkreeffish.org"
+    },
+    {
+      "candidate_id": "cand_68ecec838cf91a75b00e8429",
+      "image_url": "https://pic5.iqiyipic.com/image/20220227/17/eb/v_166198670_m_601_480_270.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtteT9Y13UoKEhxPSAltBTY8PC1C-6I7A7OzL8fb8r4w&s=10",
+      "source_page_url": "https://www.iqiyi.com/v_1f3j6z6j0j8.html",
+      "source_domain": "www.iqiyi.com"
+    },
+    {
+      "candidate_id": "cand_64b63ba3acd816e0aba56e59",
+      "image_url": "https://kmweb.moa.gov.tw/files/IMITA_Gallery/71/37df30f0c9_m.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlcAoKFGzyiO4Agv8PSZHtirtcoES7D4xJN2EWiM1IJA&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/subject/subject.php?id=2598",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_e9bf8925bcd0d6839cda9df6",
+      "image_url": "http://img.yimutian.com/sells/65f694ea2d211f71023d8d8c04380438-334-334C.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbgNRhxMWA-VtO0MkS6wAyvn1yWC1tMWDMh5LCLZtUFQ&s=10",
+      "source_page_url": "https://m.ymt.com/supply/65124247?force=true",
+      "source_domain": "m.ymt.com"
+    },
+    {
+      "candidate_id": "cand_0657509e93efe5c2e2c785da",
+      "image_url": "https://cdn.10100.com/content/20251114/2a8faf0c-04ac-43c5-b5c0-c777be200d6b_900x_wm.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW6AfbL4lEVt_cEUubwJx2BFEFIaG14fl4MQtwBhxACA&s",
+      "source_page_url": "https://m.10100.com/article/31341719",
+      "source_domain": "m.10100.com"
+    },
+    {
+      "candidate_id": "cand_541f27a1510848af23017ebd",
+      "image_url": "https://i.ytimg.com/vi/ob-uGJYxxzg/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR727iHd_OYynxRD5wJer6GIxFgLiJtExaHwdlSbu_eXg&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=ob-uGJYxxzg",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_307876a471367d94abb4ec97",
+      "image_url": "https://p8.itc.cn/q_70/images03/20230420/6aaf253469684705bb291cff2eb3dd18.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQJHSsFANUK6j9vbqbqey8oJdywjKBCCLpahKRDYhI4Q&s=10",
+      "source_page_url": "https://www.sohu.com/a/668615809_121124571",
+      "source_domain": "www.sohu.com"
+    },
+    {
+      "candidate_id": "cand_1a5b190c68f4f0a8a09f3884",
+      "image_url": "https://image.hkhl.hk/f/1024p0/0x0/100/none/a06321e9aeabf1f043582bb009877f60/2022-06/wttp020p10a_2.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNLkpzYdgryc8PRPl2kS1oidf99Z1pZwFyDflMUFt5Lw&s=10",
+      "source_page_url": "https://www.stheadline.com/opinion/3094721/%E6%9F%A5%E5%B0%8F%E6%AC%A3-%E8%97%8D%E7%93%9C%E5%AD%90%E6%96%91%E6%9F%A5%E4%B9%9C%E6%96%99",
+      "source_domain": "www.stheadline.com"
+    },
+    {
+      "candidate_id": "cand_4454668309a449e32b81e642",
+      "image_url": "https://media.shopages3.com/media/f857/410315363811_ctxplez5rgsr85saifd6tgip.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfgc5FMaDOkH7Qej6weVg735bCn-e-pXWBjdVO8ionJA&s=10",
+      "source_page_url": "https://www.unclekamseafood.com/products/%E6%B8%B8%E6%B0%B4%E9%A4%8A%E6%AE%96%E8%97%8D%E7%93%9C%E5%AD%90%E6%96%91",
+      "source_domain": "www.unclekamseafood.com"
+    },
+    {
+      "candidate_id": "cand_53d4f53d235c2a25c8c1814c",
+      "image_url": "http://hkaifish.com/cdn/shop/files/2026529.jpg?v=1780155327",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTebQysIDoKSie_OUXCfjzD-P38UeMCHyAuAAcgSJKyxw&s",
+      "source_page_url": "https://hkaifish.com/products/%E8%97%8D%E7%93%9C%E5%AD%90%E6%96%91",
+      "source_domain": "hkaifish.com"
+    },
+    {
+      "candidate_id": "cand_227754310d00f011d146f5cb",
+      "image_url": "https://i.ytimg.com/vi/JIE0jXvZxwo/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVC1K4hpVPCkrMLWvhTmDI3Gr5LNWae5oOEuFXiygNGw&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=JIE0jXvZxwo",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_5964fa423696d790722e242e",
+      "image_url": "https://img.ltn.com.tw/Upload/news/600/2024/10/12/4828481_1_1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr2m6yHEZsEkUo_XSh76KLV-aZv5j3ydYhChELcSVefQ&s=10",
+      "source_page_url": "https://news.ltn.com.tw/news/life/breakingnews/4828481",
+      "source_domain": "news.ltn.com.tw"
+    },
+    {
+      "candidate_id": "cand_822c3e8874dea06af22f5c31",
+      "image_url": "https://img.ltn.com.tw/Upload/news/600/2024/10/12/4828481_2_1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSWQwU3frG5uuwMCpdtgGo0rc3TjqZbKjjNfCZZaYHpA&s=10",
+      "source_page_url": "https://news.ltn.com.tw/news/life/breakingnews/4828481",
+      "source_domain": "news.ltn.com.tw"
+    },
+    {
+      "candidate_id": "cand_5c2d4ec72f442b52ed0a6609",
+      "image_url": "https://hkaifish.com/cdn/shop/files/20260529_09e13242-1c38-45c1-8de9-b11340f929eb.jpg?v=1780155225&width=1200",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpuNciBk-4YV-NnYJx37B70q-0zKgbD2omiI-qdijZ4Q&s",
+      "source_page_url": "https://hkaifish.com/products/%E8%97%8D%E7%93%9C%E5%AD%90%E6%96%91",
+      "source_domain": "hkaifish.com"
+    },
+    {
+      "candidate_id": "cand_b84e281a3d6e96e7cd65c04d",
+      "image_url": "https://i0.wp.com/etaiwan.news/wp-content/uploads/2025/05/img_2603-1.jpg?resize=576%2C1024&ssl=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGnR2HhefoNVptvxlEu1dRgrmo7eWe17ST_-LI_QNoQ&s=10",
+      "source_page_url": "https://etaiwan.news/2025/05/10/%E9%9B%A3%E5%BE%97%E4%B8%80%E8%A6%8B%EF%BD%9C11%E5%85%AC%E6%96%A4%E9%87%8E%E7%94%9F%E8%97%8D%E7%93%9C%E7%9F%B3%E6%96%91%EF%BC%8C%E6%88%90%E5%8A%9F%E6%BC%81%E6%B8%AF%E6%8D%95%E7%8D%B2%EF%BC%81/",
+      "source_domain": "etaiwan.news"
+    },
+    {
+      "candidate_id": "cand_ff24c8b9a06514013000a1b8",
+      "image_url": "https://i.ytimg.com/vi/OXe_4bMaoRU/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjXaG5aAWW4PAfT4K5I8r2DojXyjDTizQrVNREz7iwsA&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=OXe_4bMaoRU",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_3b8549491b6c1a7b06f62b9e",
+      "image_url": "https://shoplineimg.com/5f327a399420db0014fe8377/6a8883909a13f6e887fa3a6e/800x.png?",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsxw5PrO2LAAwCglf77jXDmxlw0oH3I-jFB-Wp4OLwjg&s",
+      "source_page_url": "https://www.healthyexpress.hk/products/blue-spotted-grouper-hong-kong-harvest",
+      "source_domain": "www.healthyexpress.hk"
+    },
+    {
+      "candidate_id": "cand_e82ed2cb3c5fc85c245cba82",
+      "image_url": "http://5b0988e595225.cdn.sohucs.com/images/20180214/3f687231961e4c5489e2409b4dce9b6f.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd4Bg6pDYmmQ2UXtf6_X9B6fRX68TubLvHqM4ks_YtUQ&s",
+      "source_page_url": "https://www.sohu.com/a/222743432_308996",
+      "source_domain": "www.sohu.com"
+    },
+    {
+      "candidate_id": "cand_f910bbbceb7ce2dd9f4f321b",
+      "image_url": "https://img.shoplineapp.com/media/image_clips/6a71bc20b5010faf51c266c4/original.jpg?1785838624=&owner_id=635263f9bbafcd00087af698",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdlBXIzqtkqgY-CH18E2p1mFg6CvgUpqHW5uYdJG0xZA&s",
+      "source_page_url": "https://www.localfreshhk.com/products/local-iqf-spotfin-coris-600g",
+      "source_domain": "www.localfreshhk.com"
+    },
+    {
+      "candidate_id": "cand_bd4380b65a764c0f1782c4e9",
+      "image_url": "https://orientaldaily.on.cc/cnt/news/20100123/photo/0123-00176-026p2g3.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAGvZN-1b860endj4qXFpzSB5yrCnG_Kp1WgFN5yeC-Q&s=10",
+      "source_page_url": "https://orientaldaily.on.cc/cnt/news/20100123/00176_026.html",
+      "source_domain": "orientaldaily.on.cc"
+    },
+    {
+      "candidate_id": "cand_c0e4666df3d4b123425d2e62",
+      "image_url": "https://static.owlting.com/market/public/items/thumbs/640x480/item_21508_CFIJnwGeBZzq3uZ7JUGI7CwlBjUhV4lqUSgrbegJ",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2wkPDKwduRiaMBjfpzgeiceW7l8dLQkpxUUvkljbUfA&s=10",
+      "source_page_url": "https://market.owlting.com/items/21508",
+      "source_domain": "market.owlting.com"
+    },
+    {
+      "candidate_id": "cand_a0cb817d8f43fbc3a757deda",
+      "image_url": "https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20180214/358a8862ed8c48eea4e19ddcb89244a9.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZok8oHGw84JlD9Dj8vyzEZSjmy30rBcH0zcRLjMftVQ&s",
+      "source_page_url": "https://www.sohu.com/a/222743432_308996",
+      "source_domain": "www.sohu.com"
+    },
+    {
+      "candidate_id": "cand_07ee39b5ed44adc36c6ad072",
+      "image_url": "https://foodpanda.dhmedia.io/image/darkstores/nv-global-catalog/hk/d965bf49-4004-4514-939a-1b5522b53b27.jpg?height=480",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBOaPiwVE6Djy2j-VLskKb63gsUq1JmUW9s8bPkqwhNQ&s",
+      "source_page_url": "https://www.foodpanda.hk/zh/darkstore/y5f3/pandamart-24-7-supermarket-sai-ying-pun/product/355226097",
+      "source_domain": "www.foodpanda.hk"
+    },
+    {
+      "candidate_id": "cand_79e8583111466e839911d02c",
+      "image_url": "https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20180214/fde22d24376c452495142844a89b72ad.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ0-KAQ-QHC06iMauXcpoPrqN3mWhE9Lkr20uARzrCfA&s",
+      "source_page_url": "https://www.sohu.com/a/222743432_308996",
+      "source_domain": "www.sohu.com"
+    },
+    {
+      "candidate_id": "cand_9f3952a763b90be34b756f0c",
+      "image_url": "https://i.ytimg.com/vi/4zivcY4iyoA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDtmM50QPBdu-HOtBKumVyl60i81Q",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRmOIQU2kP2B7EVtLvZPs4cOlWS9Mr2X3H9ikkXx9Daw&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=ob-uGJYxxzg",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_2e675a97e6c33953f13caab7",
+      "image_url": "https://blog.thofood.com/wp-content/uploads/2023/07/%E8%97%8D%E9%BB%83%E7%93%9C%E7%9F%B3%E6%96%91%E7%94%9F%E9%AD%9A%E7%89%87-1024x768.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc-ZBXzeIHK-i4OxaiBudmOSrsZFddehGOoJDuSVytlQ&s=10",
+      "source_page_url": "https://blog.thofood.com/grouper/",
+      "source_domain": "blog.thofood.com"
+    },
+    {
+      "candidate_id": "cand_2b9e614799545af3351a094e",
+      "image_url": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/2213331932759/O1CN01RQZ9z41WFfrdtQ6lC_!!2213331932759.jpg_360x360q90.jpg_.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw3Yf23X0L0h4NmP8tjbe6bOdxiH7SEUinwNRBZaAXGA&s",
+      "source_page_url": "https://guangtao.taobao.com/product-862f0228c3ecde3d39a8d0cd7650787e4f8fd2dd000e5a014cf73825da3cd8b6.html",
+      "source_domain": "guangtao.taobao.com"
+    },
+    {
+      "candidate_id": "cand_ed9844cc4ddc40c452472d41",
+      "image_url": "https://b2b-chatbot-assist-digital-human.bj.bcebos.com/v1/memb-ai-agent/digital-human-video/d9dea894-adfd-4ec4-a1a2-83c81b9858bc/frame_000000.png?authorization=bce-auth-v1%2F9aea1667690e46f6badb951b1f74ed77%2F2026-03-05T21%3A53%3A41Z%2F-1%2Fhost%2F8b7624ba91df7a671700253afe156a209e21ac5fe0d7e8c900c22cfd58f539f9",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROBBEyZ8WuuIpwlTooWJBHDbi9d7AjYjSVFLRqptvw0A&s",
+      "source_page_url": "https://b2bwiki.baidu.com/article/706805858958917639",
+      "source_domain": "b2bwiki.baidu.com"
+    },
+    {
+      "candidate_id": "cand_6ebf0e0019a3ff277124f5d6",
+      "image_url": "https://cdn.agroworld.my/4zLfy26986.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi7xXo1EXKgh-UApS_QytLz6_8PIDkJ7Y9qo0qhqRhsg&s=10",
+      "source_page_url": "https://agroworld.my/en/article-details/378-article-19",
+      "source_domain": "agroworld.my"
+    },
+    {
+      "candidate_id": "cand_4cb476f5ae6f1353f69a50fd",
+      "image_url": "http://5b0988e595225.cdn.sohucs.com/images/20180214/3fe0a723bb784af88e6c546654ad11fe.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtseMZfoK47HOjvHRkV_pyN5ifWvSD2KwFZL5aIMmJvg&s",
+      "source_page_url": "https://www.sohu.com/a/222743432_308996",
+      "source_domain": "www.sohu.com"
+    },
+    {
+      "candidate_id": "cand_227ae311d1c9e79f25c6d9dd",
+      "image_url": "https://img.alicdn.com/imgextra/i1/404683125/O1CN01hHg3G91YxIk0Yn2Xz_!!404683125.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQruEmL3a6t8LAoLdpdNddbHpYScHvWwPSVykgN_HTEhA&s",
+      "source_page_url": "https://world.taobao.com/lang/zh-tw/goods/6580292.htm",
+      "source_domain": "world.taobao.com"
+    }
+  ]
+}

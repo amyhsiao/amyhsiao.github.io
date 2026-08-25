@@ -1,0 +1,495 @@
+{
+  "schema_version": 1,
+  "fish_id": "fish_104",
+  "canonical_name": "泰利鰺",
+  "aliases": [
+    "牛港瓜"
+  ],
+  "pool_updated_at": "2026-08-25T05:07:35.966572+00:00",
+  "candidate_count": 69,
+  "candidates": [
+    {
+      "candidate_id": "cand_1be3f9d3bca47aa40256d2b8",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Tille_trevally_Honiara.jpeg?utm_source=zh.wikipedia.org&utm_campaign=index&utm_content=original",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5nAaSrfv46rOoAV7j_e9HHdb5FKPg0to6OKXn9evceQ&s=10",
+      "source_page_url": "https://zh.wikipedia.org/zh-tw/%E6%B3%B0%E5%88%A9%E9%B0%BA",
+      "source_domain": "zh.wikipedia.org"
+    },
+    {
+      "candidate_id": "cand_24c508f5caf7c09f087844e7",
+      "image_url": "https://kmweb.moa.gov.tw/files/IMITA_Gallery/186/19d4b854b1_m.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGJMSAhY9qGLc4Yge90cY99P5JNfmLrgej8BlLHEHyuA&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/subject/subject.php?id=45640",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_62e56ae7f8842de54b5a9ceb",
+      "image_url": "https://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/af344-10.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWoBf6EaRQVtk9Rl5UtIdvp6E5iRlC3r2SzMRKbevNUA&s=10",
+      "source_page_url": "https://fishdb.sinica.edu.tw/chi/species.php?id=381531",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_a98db57a95312cb6edcb8a74",
+      "image_url": "https://i.ytimg.com/vi/eIfAYWDam8k/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnCV1ALU8lOdKpeR__OwCydXjIfUeWRHA1dUqQdMp4fg&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=eIfAYWDam8k",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_dc90f1eea7c01ed2a831f55b",
+      "image_url": "http://image.digitalarchives.tw/ImageCache/00/61/b7/74.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBItRWCGMtEHKDcNhlkDJ6_n3s3ZNsfvoUeLj2XiCFvA&s=10",
+      "source_page_url": "https://catalog.digitalarchives.tw/item/00/00/48/03.html",
+      "source_domain": "catalog.digitalarchives.tw"
+    },
+    {
+      "candidate_id": "cand_29a3042384230604476114ff",
+      "image_url": "https://fishdb.sinica.edu.tw/chi/xray/large/Xray_ASIZP0056870.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCI3qdve-aB2N7VLPgErKsqEERPURg6SKwniU2mwxisA&s=10",
+      "source_page_url": "https://fishdb.sinica.edu.tw/chi/showpic.php?filename=Xray_ASIZP0056870",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_1ed58ad310bb1153f69fb02d",
+      "image_url": "https://www.fishbase.se/images/species/Catil_u3.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxINm6fFpQ9Q_nbJOsgZtW7El3ullZs7cLBa3oTCGcig&s=10",
+      "source_page_url": "https://www.fishbase.se/Fieldguide/FieldGuideSummary.php?genusname=Caranx&speciesname=tille&c_code=156A",
+      "source_domain": "www.fishbase.se"
+    },
+    {
+      "candidate_id": "cand_54d1dbbe38f54cbda4693255",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/400119558/medium.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_BuL6bSKb4NyT_ZIkmvZvBlHwzlk1wI-PmL4x0dzgVw&s",
+      "source_page_url": "https://www.inaturalist.org/zh-CN/taxa/194880-Caranx-tille",
+      "source_domain": "www.inaturalist.org"
+    },
+    {
+      "candidate_id": "cand_5c2cfbccd8f8ce7bcabea0b2",
+      "image_url": "https://i.ytimg.com/vi/1X7P1o3hQ6k/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA15TnkEzO5btjUvzKOr2DVgk4TRQ",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs0V4kqBRVYBkukFtp4E4hT8s-Ew6AipFHpk6wuiih_g&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=eIfAYWDam8k",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_f75f849d95630f6efb0f1f57",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/226873260/medium.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0mC4r434FXQ81gBxHeIVS7931yKJFD5NGQeivIlSdA&s",
+      "source_page_url": "https://www.inaturalist.org/zh-CN/taxa/194880-Caranx-tille",
+      "source_domain": "www.inaturalist.org"
+    },
+    {
+      "candidate_id": "cand_6f713e5bbcc3e8435e23a6ba",
+      "image_url": "https://i.ytimg.com/vi/H9NHC_yh5K8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCVfc2i0GYXdy4aNHOd2REA1fw2jg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV5_vzn0hYPi8kDL60cgU4twEZvW9qfSk2rcAUkgGv0A&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=H9NHC_yh5K8",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_926dd44723839d937c57b559",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465064669/medium.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvb9ZW8Ec3gIlixF1NKEsefC4JP1Ce8QvxiodZtct7Ag&s",
+      "source_page_url": "https://www.inaturalist.org/zh-CN/taxa/194880-Caranx-tille",
+      "source_domain": "www.inaturalist.org"
+    },
+    {
+      "candidate_id": "cand_d2c8d7b48b2827de6f312ce9",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/240696371/medium.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4zsF05YkDoAQmp41nJwHZjKGYaVIe6HEPucmnzxKvVw&s=10",
+      "source_page_url": "https://www.inaturalist.org/zh-CN/taxa/194880-Caranx-tille",
+      "source_domain": "www.inaturalist.org"
+    },
+    {
+      "candidate_id": "cand_67e30c899acdb542c7b8d1af",
+      "image_url": "https://kmweb.moa.gov.tw/files/IMITA_Gallery/186/7113994c48_m.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZUEg-whZdjsyx85wrhpPK5amPmQd640g5wds38Sdmaw&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/subject/subject.php?id=45637",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_4fdd15bed0c0b44528b6eb79",
+      "image_url": "https://i.ytimg.com/vi/mxgXg3o7oSY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCgjD8hq43Kgaxl1gBDfxm33ZJt0Q",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiZuG6B6U3TZuUmvs2qYtreGTzqYez0riGd5w7td3wMA&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=H9NHC_yh5K8",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_d0175f86bd03fb12a754b225",
+      "image_url": "https://fishdb.sinica.edu.tw/files/muse_fishdb/muse_styles/term_thumbs_silder/mcode/7955a9e794aa226730208f820b98871c.jpg?itok=XuQ_wmx_",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGsjPWubOCS9w0cPzW-gBA1vLEZRzxCCCzsCiOXSzDaw&s=10",
+      "source_page_url": "https://fishdb.sinica.edu.tw/taxon/15934-fishdb/media",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_c9565d8989ed560c2cb84518",
+      "image_url": "https://kmweb.moa.gov.tw/files/IMITA_Gallery/186/4e5c33f6ef_m.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAKMpfrhydHAs3pnac5M5SYh5MQvQwKDOQrYJiXWRMkg&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/subject/subject.php?id=45637",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_c031a42aa6aeac07ad20b9e3",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Caranx_tille_distribution.png/250px-Caranx_tille_distribution.png?utm_source=zh.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyZuq6FjilQbf5rtm_ZqvhKq62nvRIviU7BpaqqHNpcw&s",
+      "source_page_url": "https://zh.wikipedia.org/zh-tw/%E6%B3%B0%E5%88%A9%E9%B0%BA",
+      "source_domain": "zh.wikipedia.org"
+    },
+    {
+      "candidate_id": "cand_8a31b0b30bdb295dcc7e2ddf",
+      "image_url": "https://philomedium.com/sites/default/files/styles/mg_user_picture/public/media/image/394px-Illustrerad_Verldshistoria_band_I_Ill_107.jpg.webp?h=6af85f22&itok=XMj62err",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNILBXk2B1XXPH304SC8TYqfwf_tVF3U4KTMDyWEWuJg&s",
+      "source_page_url": "https://philomedium.com/philosopher/thales",
+      "source_domain": "philomedium.com"
+    },
+    {
+      "candidate_id": "cand_743d6ff9dd6ece2965ff0d91",
+      "image_url": "https://naturestore.com.tw/wp-content/uploads/BC1-E102.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC4M8AGNy48Q8-BuG53ZcR7sN_yU04tJI9TBf8wVuAOw&s=10",
+      "source_page_url": "https://naturestore.com.tw/product/BC1-E101/",
+      "source_domain": "naturestore.com.tw"
+    },
+    {
+      "candidate_id": "cand_89f0390420dd4bf8164fb137",
+      "image_url": "https://kmweb.moa.gov.tw/files/IMITA_Gallery/186/b18a66526d_m.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOw8Y6LJEmjQ1TojuXv298-h9PXf-ORGPHYp5CXZLMlA&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/subject/subject.php?id=45637",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_ac4bb53603cb87e29a0a5365",
+      "image_url": "https://fishdb.sinica.edu.tw/files/muse_fishdb/muse_styles/term_thumbs_silder/mcode/b3e26f0bb3d0397e5bac7bc0beb221c2.jpg?itok=eyAv9G6V",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIOlRqS3_ckj8x5eGNCgdbLPpy411q_3N1YxWR7uZAOw&s",
+      "source_page_url": "https://fishdb.sinica.edu.tw/taxon/6364-fishdb/media",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_fb68a295486a96fe7953d1eb",
+      "image_url": "https://i.ytimg.com/vi/UnC4pbvnj9Y/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGE0gXShlMA8=&rs=AOn4CLDEOWfUqbYEJkX9y8eLIRDEiZVjAA",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDtvoVw2nKaqJVIC_h3k5E60Z_3-QEe-_SRoH_5jaBkQ&s",
+      "source_page_url": "https://www.youtube.com/watch?v=UnC4pbvnj9Y",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_a79aa42bd59aa5f13de4eec8",
+      "image_url": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/ff921ab5-f1b5-413a-bbd4-30975c8d7f6c.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZCBsLwaBJTr3yFy-zBW1ciHnKe7XN6_MGFgO34ZUqDg&s=10",
+      "source_page_url": "https://www.ftvnews.com.tw/news/detail/2018A03C11M1",
+      "source_domain": "www.ftvnews.com.tw"
+    },
+    {
+      "candidate_id": "cand_bbb7c1f75934bb46351b27dc",
+      "image_url": "https://images-sports.now.com/sport/news/3/623/39765043623/39766079099_600x400.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEqcN41MGYswOKV-NS29SThZuTxe0ve8yj5VesWocPBg&s=10",
+      "source_page_url": "https://news.now.com/home/sports/player?newsId=sp29540531190",
+      "source_domain": "news.now.com"
+    },
+    {
+      "candidate_id": "cand_fada58847e37134937a84bf0",
+      "image_url": "https://imgv2-1-f.scribdassets.com/img/document/633407724/original/96f2d22e3c/1?v=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeZnaLO1uYpljyxbU_fPQ-f_r2BbKb20aiSVoWI-AjRw&s=10",
+      "source_page_url": "https://www.scribd.com/document/633407724/%E8%87%BA%E7%81%A3%E6%9D%B1%E9%83%A8%E6%B5%B7%E6%B4%8B%E9%AD%9A%E9%A1%9E-pdf",
+      "source_domain": "www.scribd.com"
+    },
+    {
+      "candidate_id": "cand_0da59c461151940d5f982da7",
+      "image_url": "https://philomedium.com/sites/default/files/styles/mg_user_picture/public/media/image/Aristotle.png.webp?h=9889ac7e&itok=40kIUNhv",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRexUUb9HDo8FgcmPIXFb3hwwdA_7n5yMR9_SGU_fsKUw&s",
+      "source_page_url": "https://philomedium.com/philosopher/thales",
+      "source_domain": "philomedium.com"
+    },
+    {
+      "candidate_id": "cand_2aa4c48c5e52f92c08513622",
+      "image_url": "https://www.newton.com.tw/img/6/46b/nBnauUWYwIWYyQzMwUTOldDOzMDO0YWYlFWYwkzM1Q2MkZzMlNWNxEWZ4M2LtVGdp9yYpB3LltWahJ2Lt92YuUHZpFmYuMmczdWbp9yL6MHc0RHa.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX2AK_jRjliF_PQYTml11pJ_MWdE1cwl3BuiaH9KrwWQ&s=10",
+      "source_page_url": "https://www.newton.com.tw/wiki/%E5%85%AD%E5%B8%B6%E9%B0%BA",
+      "source_domain": "www.newton.com.tw"
+    },
+    {
+      "candidate_id": "cand_328f95c6dd44a252f8c67f4e",
+      "image_url": "http://www.hi-on.org/ckeditor/plugins/upload/385393454_1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmIx5RTFoDxBbmwCOSTFMUV-6xiUqJMIoTybKSub6aPg&s=10",
+      "source_page_url": "https://www.hi-on.org/article-single.php?At=58&An=207446",
+      "source_domain": "www.hi-on.org"
+    },
+    {
+      "candidate_id": "cand_47e55f133932a8cb62542894",
+      "image_url": "https://images-sports.now.com/sport/news/1/361/39763756361/39765038863_560x420.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9hFmo_-WA8gIEa1WvP5mw4Y8sMorYYc8f5tMeOt8mZA&s=10",
+      "source_page_url": "https://news.now.com/home/sports/player?newsId=sp29540531190",
+      "source_domain": "news.now.com"
+    },
+    {
+      "candidate_id": "cand_61f6bf2a16644d5027113798",
+      "image_url": "https://static5.orstatic.com/userphoto2/photo/1O/1BRD/09FMQW6CB6CB9C38623850mx.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2x6pgzElIeUukyKM3ckRfgV76yilQhDTen8jpV4MThg&s",
+      "source_page_url": "https://www.openrice.com/zh/hongkong/review/%E6%A8%93%E4%B8%8A%E7%A9%A9%E4%B8%96%E3%81%8A%E4%BB%BB%E3%81%9B-e4748809",
+      "source_domain": "www.openrice.com"
+    },
+    {
+      "candidate_id": "cand_b33631c260d367ed193b4926",
+      "image_url": "https://www.porticomedia.com/sites/default/files/news/robin-williams-photography-portfolio.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_DzzKzh6oFjdxI-7cycbVc3Bt6CxQvcUoGjTTt1ttoA&s=10",
+      "source_page_url": "https://www.porticomedia.com/entNewsC/showCP/906651",
+      "source_domain": "www.porticomedia.com"
+    },
+    {
+      "candidate_id": "cand_1522f9063ac674d662c7d7f3",
+      "image_url": "https://atmangu.com/cn/uploads/article/OvebH4OyXFh9dBiwolO1hTquSGdzT6AV.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR97coglNdz1WxfL5RGkL2YVY18YsVyDcBX5d3_FaWxcg&s=10",
+      "source_page_url": "https://atmangu.com/cn/article/1336",
+      "source_domain": "atmangu.com"
+    },
+    {
+      "candidate_id": "cand_dc5833aa111e097e547fccc0",
+      "image_url": "https://www.newton.com.tw/img/2/bdb/nBnauMTO2AjZwUTYmFWY1IDMygTN0gzNxIGMzIGNkF2M0EDZ1kDOjNzM4Q2LtVGdp9yYpB3LltWahJ2Lt92YuUHZpFmYuMmczdWbp9yL6MHc0RHa.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcPZBupuloSKwD5MODHSM4FIpgKVycatwaD66DEb2IIQ&s=10",
+      "source_page_url": "https://www.newton.com.tw/wiki/%E5%85%AD%E5%B8%B6%E9%B0%BA",
+      "source_domain": "www.newton.com.tw"
+    },
+    {
+      "candidate_id": "cand_04734b40f254f49720c8df1e",
+      "image_url": "https://philomedium.com/sites/default/files/styles/mg_user_picture/public/portrait/image/Socrates_2.png.webp?h=12f35dd0&itok=oU8oJBE4",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNipK6wgBaBiqAovAqr4Kehpdyc9SbewYsot3auIEUXw&s",
+      "source_page_url": "https://philomedium.com/philosopher/thales",
+      "source_domain": "philomedium.com"
+    },
+    {
+      "candidate_id": "cand_42a6621df134ee4e470b106b",
+      "image_url": "https://cdn.hk01.com/di/media/images/dw/20200528/342705819546161152.png/YiaV4jyjo6B4Qw4K9JcDL3wEJgOnqsCH0eLPutHiz7o?v=w1280r16_9",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS1zY_jcYIvD0ME2kLsYHaSvaaDPQa7wYkxEvRkFXSBQ&s=10",
+      "source_page_url": "https://www.hk01.com/article/478863/%E6%B3%B0%E5%88%A9%E6%96%AF-%E6%B0%B4%E6%98%AF%E8%90%AC%E7%89%A9%E4%B9%8B%E5%A7%8B%E5%9F%BA-%E8%90%AC%E7%89%A9%E4%B9%8B%E4%B8%AD%E5%85%85%E6%BB%BF%E8%91%97%E7%A5%9E",
+      "source_domain": "www.hk01.com"
+    },
+    {
+      "candidate_id": "cand_fa138bf788320f1e06f7cf6f",
+      "image_url": "https://preview.redd.it/did-you-guys-know-that-the-nickname-italian-stallion-is-v0-f9pnx34z5b4g1.jpeg?width=640&crop=smart&auto=webp&s=525874c9deef87f54aa1a052607b2c582c936aa4",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOfErBPKePnAU6kh6xVWEhFaVgDwsVX6Q-DXCSvXN_dg&s=10",
+      "source_page_url": "https://www.reddit.com/r/rockybalboa/comments/1pa77w3/did_you_guys_know_that_the_nickname_italian/?tl=zh-hans",
+      "source_domain": "www.reddit.com"
+    },
+    {
+      "candidate_id": "cand_67dba21e592eb62763064cae",
+      "image_url": "https://gdb.voanews.com/302ca718-ca61-437d-adf7-77c1d9e28920_cx0_cy7_cw0_w1080_h608_s.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaM20yMiFCEa9RrLjNaQK-oXXRVLPTm81pJ7OYV6ffVg&s=10",
+      "source_page_url": "https://www.voachinese.com/a/thai-alliance-backs-pita-20230717/7184546.html",
+      "source_domain": "www.voachinese.com"
+    },
+    {
+      "candidate_id": "cand_8569946c87bc16e406bfabc5",
+      "image_url": "https://www.chinawriter.com.cn/mediafile/pic/20201227/38/6948668311590397278.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjLK_rKKNI95kFN4jpfXIRyCTbaFShkvbyym3Hiwpmug&s=10",
+      "source_page_url": "https://www.chinawriter.com.cn/n1/2020/1227/c404090-31980122.html",
+      "source_domain": "www.chinawriter.com.cn"
+    },
+    {
+      "candidate_id": "cand_6ecb25ebb449c40e35183857",
+      "image_url": "http://c.files.bbci.co.uk/15A43/production/_133534688_5ac9fc663cdf9c9449d4c72e42618d8b07d636e4.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5zKqaru6W9ABbGwUUwXxnILndYrF_eR4zYeVKlNWoWw&s=10",
+      "source_page_url": "https://www.bbc.com/zhongwen/trad/world-69270719",
+      "source_domain": "www.bbc.com"
+    },
+    {
+      "candidate_id": "cand_0378d6ead14bcde671b374a0",
+      "image_url": "https://static06.hket.com/res/v3/image/content/3845000/3846690/RonEly4_600.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNf2Ej1RVG37j5u8tpcRdBIuIfj725DPpF2zYtZvHC2Q&s=10",
+      "source_page_url": "https://news.hket.com/article/3846690/%E3%80%8A%E6%B3%B0%E5%B1%B1%E3%80%8B%E6%9C%97%E8%89%BE%E5%88%A9%E9%80%9D%E4%B8%96%E7%B5%82%E5%B9%B486%E6%AD%B2%E3%80%805%E5%B9%B4%E5%89%8D%E5%85%92%E5%AD%90%E7%99%BC%E7%8B%82%E5%BC%92%E6%AF%8D%E8%A2%AB%E8%AD%A6%E5%93%A1%E6%93%8A%E6%96%83",
+      "source_domain": "news.hket.com"
+    },
+    {
+      "candidate_id": "cand_cec16bdf6bc6a4b14fb99bdb",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/532027ce699560de172e1be2afa27ea54f72f0cae0319540222d4da3d01724ec/lightyear_networkapi/resizefill_w640%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fca%2Fsetn.com.tw%2Fa86fe3b9c47b735fd5a20d38d58f8c12",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9klRSFPRqLEz8sj1YPXNUt_cyLSgdEEf39bLt0b8OVg&s=10",
+      "source_page_url": "https://tw.news.yahoo.com/%E6%B3%B0%E5%9C%8B%E6%94%BF%E5%A3%87%E9%87%91%E7%AB%A5%E9%AB%98%E8%AA%BF%E8%AA%8D%E6%84%9B-%E6%83%85%E4%BA%BA%E7%AF%80%E7%AA%81%E6%9B%AC%E5%A5%B3%E6%98%9F%E8%A6%AA%E5%AF%86%E5%90%88%E5%BD%B1-%E7%92%B0%E6%8A%B1%E6%B3%B0%E7%89%88%E7%8E%8B%E6%B7%A8-%E8%B6%85%E7%94%9C-043400810.html",
+      "source_domain": "tw.news.yahoo.com"
+    },
+    {
+      "candidate_id": "cand_083592a33f715f8c46b9dbd0",
+      "image_url": "https://imgv2-1-f.scribdassets.com/img/document/980901173/149x198/35c4167fda/1768369583?v=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfJNWCQenu7ws1Cb85Q-buuMqOmM3ORtsuSSvlWv6j2Q&s",
+      "source_page_url": "https://www.scribd.com/document/742219583/%E9%AD%9A%E9%A1%9E%E5%9C%96%E9%91%91",
+      "source_domain": "www.scribd.com"
+    },
+    {
+      "candidate_id": "cand_371f7ff69de0fa158e051334",
+      "image_url": "https://i2.wp.com/sushigraffiti.com/wp-content/uploads/2025/03/20250322023435_0_1347bf.png?quality=90&ssl=1&w=750",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUQQ6KFQcQ7j49aHzdJEolgYO8zuUgoNmoPYuWfnEy7A&s=10",
+      "source_page_url": "https://sushigraffiti.com/tag/%E9%AB%98%E9%9B%84%E6%B6%88%E5%A4%9C/page/3/",
+      "source_domain": "sushigraffiti.com"
+    },
+    {
+      "candidate_id": "cand_6cf196b0df9319a0cc1bb182",
+      "image_url": "https://cdn.tatlerasia.com/tatlerasia/i/2022/03/11183711-ladwth-unit-02320_cover_1000x1500.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQApSut_VFm5hwjeYGKuVwqqEX0aCDTMfXMQ8InHmuxSQ&s=10",
+      "source_page_url": "https://www.tatlerasia.com/lifestyle/entertainment/medium-life-after-death-tyler-henry-netflix",
+      "source_domain": "www.tatlerasia.com"
+    },
+    {
+      "candidate_id": "cand_e9642cfc75dffc03204ed845",
+      "image_url": "https://img.shoplineapp.com/media/image_clips/665ae827d88efb001c94635d/original.JPG?1717233702",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKVzzuNsr-YvocIiEZZLNUdz0yXoUpdkDvRUeQUGwonA&s=10",
+      "source_page_url": "https://www.kumiho.com.tw/blog/posts/sivali?srsltid=AfmBOooBZGSvN4o4Yl9bdjBcKZMr83WSEd7V6cf-GSIFptfwUZbRJ8Fa",
+      "source_domain": "www.kumiho.com.tw"
+    },
+    {
+      "candidate_id": "cand_739980476c299fb36832d7a5",
+      "image_url": "https://i.autoreserve.com/thumb/1200x1200/restaurant_image/image/068/133/524/68133524/5b1e7929-6668-40c2-bd6f-1cf878f2a89f.jpg?format=webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr6AQhP_-4BXMHFtY_UK3I-49VPJoiRI37Kv6dgOwA0w&s",
+      "source_page_url": "https://autoreserve.com/zh-hk/restaurants/7SkctDes7VQMqJL5gDrN?party_size=2",
+      "source_domain": "autoreserve.com"
+    },
+    {
+      "candidate_id": "cand_29d37991d457dd9cce5eef5d",
+      "image_url": "http://www.femalefirst.co.uk/image-library/port/1000/t/tyler-henry-hollywood-medium-portrait-2.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLl8kHGgdwuo9axvpLjD1Np5nF10J7WB_Meg--e8lgbA&s=10",
+      "source_page_url": "https://www.dramaqueen.com.tw/features/20170627/002.html",
+      "source_domain": "www.dramaqueen.com.tw"
+    },
+    {
+      "candidate_id": "cand_127bc878a5072fbd108d99f9",
+      "image_url": "https://i.ytimg.com/vi/Trtm2APT9MI/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkdqrSyf2L4LjZK4BN4_J8vqM1G4omrZ6SJ-WVaP9Zdg&s=10",
+      "source_page_url": "https://www.ftvnews.com.tw/news/detail/2018A03C11M1",
+      "source_domain": "www.ftvnews.com.tw"
+    },
+    {
+      "candidate_id": "cand_8cb1f72d4b630d5a214e8f9e",
+      "image_url": "https://ni.yam.com/20260525/256bc780090ef7f85f2789f8230aefa2-18f5133c6a97666b.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAp59Q4toeI8L27pAO_PFxXkXWzALYgOTDz2xvMRRVGw&s=10",
+      "source_page_url": "https://n.yam.com/Article/20240524650442",
+      "source_domain": "n.yam.com"
+    },
+    {
+      "candidate_id": "cand_358818c12c3c55a3cd043e2c",
+      "image_url": "https://naturestore.com.tw/wp-content/uploads/BC1-A119.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_b_KaJ5TEK8nKnlG7YVTHPLecVLrKvcknVW9Wdwh23g&s=10",
+      "source_page_url": "https://naturestore.com.tw/product/BC1-E101/",
+      "source_domain": "naturestore.com.tw"
+    },
+    {
+      "candidate_id": "cand_d1c4422986514d704a0fe113",
+      "image_url": "https://www.porticomedia.com/sites/default/files/photo_06221.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvxlKiBGAzQFBXEUjfW9aZ1VPn3Kah8oWNF10X7jh3og&s=10",
+      "source_page_url": "https://www.porticomedia.com/entNewsC/showCP/906651",
+      "source_domain": "www.porticomedia.com"
+    },
+    {
+      "candidate_id": "cand_fa47f159d0d7a397b5fe22df",
+      "image_url": "https://www.tokyo-zoo.net/image/DDGallery/272/01_amur-tiger.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeVdxECY_egBIG8FUY_BU50_rPIbcdSSH6SD-V7orLqQ&s=10",
+      "source_page_url": "https://www.tokyo-zoo.net/zh-CHT/movie/",
+      "source_domain": "www.tokyo-zoo.net"
+    },
+    {
+      "candidate_id": "cand_b1f2563677dcdb633f83ad13",
+      "image_url": "https://i3.hoopchina.com.cn/news-editor/8646e948f0653e52a8ef5359f05f56e7_w_1080_h_1351_.jpeg?x-oss-process=image/resize,w_720/format,jpg/quality,Q_80",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Dv2NpnWz8VP4GNjnwAKDFG31p7CL-HRZnsGQY0_XqQ&s",
+      "source_page_url": "https://voice.hupu.com/bbs/641895157",
+      "source_domain": "voice.hupu.com"
+    },
+    {
+      "candidate_id": "cand_46cdb7e2e8d0beb9da04bfd9",
+      "image_url": "https://p0.itc.cn/q_70/images03/20230822/d4af0debffd64c34aa833fc120e163d1.jpeg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsOdLTFfkZmhpBWaVzsaNwT_xSl3LfDTsnegI4wwsPyg&s",
+      "source_page_url": "https://www.sohu.com/a/713960606_121123899",
+      "source_domain": "www.sohu.com"
+    },
+    {
+      "candidate_id": "cand_0a157c9617cc8f085690a624",
+      "image_url": "https://static06.hket.com/res/v3/image/content/3845000/3846690/RonEly_thumb_20241024_C_1024.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2RcVDJRdByLgJlNFwVwIft4UrasOF2-2hRVSc39YHOA&s=10",
+      "source_page_url": "https://news.hket.com/article/3846690/%E3%80%8A%E6%B3%B0%E5%B1%B1%E3%80%8B%E6%9C%97%E8%89%BE%E5%88%A9%E9%80%9D%E4%B8%96%E7%B5%82%E5%B9%B486%E6%AD%B2%E3%80%805%E5%B9%B4%E5%89%8D%E5%85%92%E5%AD%90%E7%99%BC%E7%8B%82%E5%BC%92%E6%AF%8D%E8%A2%AB%E8%AD%A6%E5%93%A1%E6%93%8A%E6%96%83",
+      "source_domain": "news.hket.com"
+    },
+    {
+      "candidate_id": "cand_643ac0ec53eacd304598b353",
+      "image_url": "https://www.echiy.com/upload-files/TL-000/2022/A9-01/.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfjsmC3fF8uAmGnz_1M-WzKGzjUjRhcYzrymm4O5tm6w&s=10",
+      "source_page_url": "https://www.echiy.com/%E8%82%A5%E6%96%99-%E5%8E%9F%E6%96%99/%E6%B3%B0%E9%9C%96%E9%89%80%E9%9C%B8%E7%A3%B7%E9%89%80%E8%82%A5",
+      "source_domain": "www.echiy.com"
+    },
+    {
+      "candidate_id": "cand_49fa15b135eea39f6d7ee31b",
+      "image_url": "https://images-sports.now.com/sport/news/0/190/29540531190/29550192403_600x355.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO7Ihk091-49IvuykBvqafX5oWDHhZ3oZRuQlT89UqBw&s=10",
+      "source_page_url": "https://news.now.com/home/sports/player?newsId=sp29540531190",
+      "source_domain": "news.now.com"
+    },
+    {
+      "candidate_id": "cand_8533f9d0963c81e78bdfc1b5",
+      "image_url": "https://cdn.tatlerasia.com/tatlerasia/i/2022/03/11183712-ladwth-unit-03054_cover_1500x1000.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnPnD-usBCtnG8KnhWmvaEq6gGIU_ZqNEQQK_YUFJFZA&s=10",
+      "source_page_url": "https://www.tatlerasia.com/lifestyle/entertainment/medium-life-after-death-tyler-henry-netflix",
+      "source_domain": "www.tatlerasia.com"
+    },
+    {
+      "candidate_id": "cand_39de8c3a4f5bb9325966691f",
+      "image_url": "https://i0.wp.com/www.luxtourism.info/wp-content/uploads/2020/01/download.jpeg?fit=840%2C560&ssl=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ4kQ9axfG8rlGoFks6bouiJhk7qbQRvU0RJ0eM9UfEA&s=10",
+      "source_page_url": "https://www.luxtourism.info/matera-sassi/",
+      "source_domain": "www.luxtourism.info"
+    },
+    {
+      "candidate_id": "cand_27eb07d0388ef7793b724b16",
+      "image_url": "https://media.newyorker.com/photos/69e7b823a94e26a02740c236/master/pass/r48841.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd_8T2MCvKH7eU5oE55cqLCCRre8ncpk4h2giPhxI3lg&s=10",
+      "source_page_url": "https://www.gazerdaily.com/articles/the-sqirl-redemption-arc",
+      "source_domain": "www.gazerdaily.com"
+    },
+    {
+      "candidate_id": "cand_a61a8bff634fc8da3d9d3072",
+      "image_url": "https://hk.on.cc/cnt/sport/20220917/photo/bkn-20220917200510222-0917_00882_001_01b.jpg?20220917200510",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Ke0L3P5cgweZCSY1icD3H5gFoQWEp-21jVbltQT53w&s=10",
+      "source_page_url": "https://hk.on.cc/hk/bkn/cnt/sport/20220917/bkn-20220917200510222-0917_00882_001.html",
+      "source_domain": "hk.on.cc"
+    },
+    {
+      "candidate_id": "cand_c52e8cb7d70f36a3922a862a",
+      "image_url": "https://i3.hoopchina.com.cn/news-editor/345b42cc1f5a55ccb62e6937d51e009f_w_1080_h_1351_.jpeg?x-oss-process=image/resize,w_720/format,jpg/quality,Q_80",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrm_7mVg_uQIsBy08ghWYMCFcWKjMMW_QsJkQGH7VloA&s",
+      "source_page_url": "https://bbs.hupu.com/641895157.html",
+      "source_domain": "bbs.hupu.com"
+    },
+    {
+      "candidate_id": "cand_2059b13524364007b4681cfa",
+      "image_url": "https://cimg.cnyes.cool/prod/news/6508539/xxl/bbf421667ed81f2e17fb600c2aa62b0f.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhfVNCDCERcMm4wJJOEeqv0qbrnNMYYq-H3Im_dLBoPA&s",
+      "source_page_url": "https://news.cnyes.com/news/id/6508539",
+      "source_domain": "news.cnyes.com"
+    },
+    {
+      "candidate_id": "cand_d96bc360f5a566550c9fc71b",
+      "image_url": "https://image.tmdb.org/t/p/w500/gn3pDWthJqR0VDYGViGD3048og7.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNC8LQu7CKXB9-U3uBSAzcRfw44nr8zu5GOU3Iv24jww&s=10",
+      "source_page_url": "https://www.themoviedb.org/person/16483-sylvester-stallone?language=zh-HK",
+      "source_domain": "www.themoviedb.org"
+    },
+    {
+      "candidate_id": "cand_c7ac32533753d374ce686208",
+      "image_url": "https://img.alicdn.com/imgextra/i3/1902516070/O1CN01hVKKWu1ui7CkipbCo_!!1902516070.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJFBukVqI6OD-dFG87IXTPxc5SdoizZOV1X7-qjkkiBw&s",
+      "source_page_url": "https://www.taobao.com/list/item/K0NZclB4OWREdXE5elNWdnF1bWwzZz09.htm",
+      "source_domain": "www.taobao.com"
+    },
+    {
+      "candidate_id": "cand_fdff35130baa73211abce0c3",
+      "image_url": "https://focusnews.com.tw/wp-content/uploads/2024/05/846574-800x600.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpMh1HGs52CQcMDnv2ZF2tW6rjIv0Myc_LK_qwtgeoWg&s=10",
+      "source_page_url": "https://n.yam.com/Article/20240524650442",
+      "source_domain": "n.yam.com"
+    },
+    {
+      "candidate_id": "cand_85282233e161f692e94b53b8",
+      "image_url": "https://www.newton.com.tw/img/9/0db/nBnaucTZyMjNxEDZ2YjM1QmZmJ2YzczM3YGM0EGZxUDNjRGZlZDZhVDZhFzLtVGdp9yYpB3LltWahJ2Lt92YuUHZpFmYuMmczdWbp9yL6MHc0RHa.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ5V1I1A8G0Y7kvoNz4AWU1hIncXClhuzXsXdBFktvIw&s=10",
+      "source_page_url": "https://www.newton.com.tw/wiki/%E5%85%AD%E5%B8%B6%E9%B0%BA",
+      "source_domain": "www.newton.com.tw"
+    },
+    {
+      "candidate_id": "cand_526346fbfac999ab8cf30837",
+      "image_url": "https://cassette.sphdigital.com.sg/image/redants/59ee34df2c48b912b37c2a83ab5406c350741f4af2093a830fccf99a2ab00989?w=960&q=80&dpr=2&f=webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpp4gwS5znhZkPJwENo0dOhJlzPaneb4ECb8F_oWzvXw&s=10",
+      "source_page_url": "https://www.redants.sg/good-reads/story20221209-6778",
+      "source_domain": "www.redants.sg"
+    }
+  ]
+}

@@ -1,0 +1,712 @@
+{
+  "schema_version": 1,
+  "fish_id": "fish_063",
+  "canonical_name": "巴鰹",
+  "aliases": [
+    "三點煙"
+  ],
+  "pool_updated_at": "2026-08-25T05:58:26.146224+00:00",
+  "candidate_count": 100,
+  "candidates": [
+    {
+      "candidate_id": "cand_da5724d1462be25433c6e7cf",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Euaff_u0.gif?utm_source=zh.wikipedia.org&utm_campaign=index&utm_content=original",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-hSadoA0dBUBm3dF7Ph8Q8nvIwFE-DfxSZk0c1JnOGA&s=10",
+      "source_page_url": "https://zh.wikipedia.org/zh-cn/%E5%B7%B4%E9%B0%B9",
+      "source_domain": "zh.wikipedia.org"
+    },
+    {
+      "candidate_id": "cand_a3cf4c5d740a42164dc6e987",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Euthyn_affin_101018-8107_tdp.jpg/250px-Euthyn_affin_101018-8107_tdp.jpg?utm_source=zh.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2SsOHQkmY71kHxZaE26CqH7kaxNc_ygvwWM0hZCWLug&s=10",
+      "source_page_url": "https://zh.wikipedia.org/zh-cn/%E5%B7%B4%E9%B0%B9",
+      "source_domain": "zh.wikipedia.org"
+    },
+    {
+      "candidate_id": "cand_97f6e712e36e8f0d322ac111",
+      "image_url": "http://fishdb.sinica.edu.tw/images/ASIZP/150dpi/ASIZP0802775.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiy792sMNW3kBwfBOtrFGJmbMhHw2M-usPmvFlmge1Rw&s=10",
+      "source_page_url": "https://fishdb.sinica.edu.tw/eng/species.php?id=382487",
+      "source_domain": "fishdb.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_a242828062b8af9b25559410",
+      "image_url": "https://kmweb.moa.gov.tw/files/fisheasy/643/A01_1_m.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB_zou7cHZ0XK9PtXuRKB4acXQGeE5krH46KMltbDMqA&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/theme_data.php?theme=fisheasy&id=643",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_4c152de5bc6adfcb2fe9a3d3",
+      "image_url": "https://fae.moa.gov.tw/upload/fae/images/food_subject_part/3738/%E6%8A%95%E5%BD%B1%E7%89%872.JPG",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_-2ewcbMsQRaVfkxWmGaISoFj2E-KcXHFEY_RajNDLQ&s=10",
+      "source_page_url": "https://fae.moa.gov.tw/map/food_item.php?type=AS01&id=216",
+      "source_domain": "fae.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_d4ee12407216467254e7dbfd",
+      "image_url": "https://i0.wp.com/etaiwan.news/wp-content/uploads/2026/02/img_4376-1.jpg?resize=768%2C1024&ssl=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpPt3szYwdRYJpv94eQl1WboMC4kwMs3ZLDyq2SRo--Q&s=10",
+      "source_page_url": "https://etaiwan.news/2026/02/05/%E4%B8%89%E9%BB%9E%E4%BB%94%E9%AD%9A%EF%BC%88%E5%AD%B8%E5%90%8D%EF%BC%9A%E5%B7%B4%E9%B0%B9%EF%BC%89%EF%BD%9C%E4%B8%A6%E9%9D%9E%E5%8F%AA%E6%9C%89%E4%B8%89%E5%80%8B%E9%BB%9E%EF%BC%8C%E9%80%9A%E5%B8%B8/",
+      "source_domain": "etaiwan.news"
+    },
+    {
+      "candidate_id": "cand_71e98e38fd0f45dc80470acb",
+      "image_url": "https://i0.wp.com/etaiwan.news/wp-content/uploads/2024/01/img_4593.jpg?resize=768%2C1024&ssl=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5C4Pj9afvu2N97TIwjwaYkhN7syzZw_LfXdgDVha3Sg&s=10",
+      "source_page_url": "https://etaiwan.news/2024/01/13/%E5%B7%B4%E9%B0%B9%EF%BD%9C%E4%B9%9F%E5%8F%AB%E3%80%8C%E4%B8%89%E9%BB%9E%E4%BB%94%E3%80%8D%EF%BC%8C%E8%BA%AB%E4%B8%8A%E7%9C%9F%E7%9A%84%E6%9C%89%E5%A5%BD%E5%B9%BE%E5%80%8B%E9%BB%9E%EF%BC%8C%E6%B6%88/",
+      "source_domain": "etaiwan.news"
+    },
+    {
+      "candidate_id": "cand_bb9122cdaf91953069940a97",
+      "image_url": "https://fae.moa.gov.tw/upload/fae/images/food_subject_part/3737/3-%E9%B0%B9%E9%AD%9A-%E6%A7%8B%E9%80%A0%E5%9C%96.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZC-oxqBpaEYxb-XVELY6d0ubIr5DPRGdr4uzB7ZynWA&s=10",
+      "source_page_url": "https://fae.moa.gov.tw/map/food_item.php?type=AS01&id=216",
+      "source_domain": "fae.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_aba0e2d2fbb9ddea094f116d",
+      "image_url": "https://foodslink.jp/syokuzaihyakka/syun/sample/sakana/Hagatuo004(6720x4480).jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPzIP0i3LXs_GDcAuCrYBcIxGOP-4RADsM27Zfb2KhzA&s=10",
+      "source_page_url": "https://foodslink.jp/syokuzaihyakka/syun/fish/hagatuo.htm",
+      "source_domain": "foodslink.jp"
+    },
+    {
+      "candidate_id": "cand_1c4e94aaea38bfc192a5d5bf",
+      "image_url": "https://bkimg.cdn.bcebos.com/pic/9e3df8dcd100baa1cd113c6d1a4cae12c8fcc2ce80eb?x-bce-process=image/format,f_auto/quality,Q_80/resize,m_lfit,limit_1,h_700",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFs5CveEjc4bbVo0utj9Xyevoi1sLbBKphllm39EZzSg&s",
+      "source_page_url": "https://baike.baidu.com/item/%E5%B7%B4%E9%B0%B9/1624002",
+      "source_domain": "baike.baidu.com"
+    },
+    {
+      "candidate_id": "cand_04eb8944fd41e5d901c41832",
+      "image_url": "https://attach.mobile01.com/attach/201306/mobile01-ea1c52ec96d5da813efb6343c09dfdea.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbWdwoM9DXt6OIqwXSfUuuciRVKttoX77fqwiokdXOeg&s=10",
+      "source_page_url": "https://www.mobile01.com/topicdetail.php?f=579&t=3408188",
+      "source_domain": "www.mobile01.com"
+    },
+    {
+      "candidate_id": "cand_48e5f67df75f54f888b1189e",
+      "image_url": "https://www.fishbar.com.tw/files/archive/181_9c9ef6d5.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTLzHHECJH4ZRhJDhzE33TAI4PwyNgOkRGcJ7SPSw-gw&s=10",
+      "source_page_url": "https://www.fishbar.com.tw/news1/nc/102/26?srsltid=AfmBOoqEejXMLDhb3pcOL7i4ZwrfqCInoxp7K36vQutobvkUaxyJxEDm",
+      "source_domain": "www.fishbar.com.tw"
+    },
+    {
+      "candidate_id": "cand_5911596e3a7e10fa97bd41fd",
+      "image_url": "https://aborgpedia.alcd.center/?option=com_fileman&view=file&routed=1&name=301.%E5%B7%B4%E9%B0%B9.jpeg&folder=%E6%B0%91%E6%97%8F%E5%8B%95%E6%A4%8D%E7%89%A9%2F%E5%8B%95%E7%89%A9&container=fileman-files",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU7jHoddGZsWDbvGN1Zo1ckQtglRA28qwqdjFYTiQ0dw&s",
+      "source_page_url": "https://aborgpedia.alcd.center/detail?id=5568&search=&cat=0&race=19&writer=",
+      "source_domain": "aborgpedia.alcd.center"
+    },
+    {
+      "candidate_id": "cand_4812d3cf9d4e807923574ae0",
+      "image_url": "https://fae.moa.gov.tw/upload/fae/images/food_subject_part/3753/%E4%B8%8A%E7%A8%BF1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSivfowH-Lo6ERKOpwXxGxmGS-7VAbpa7bdKz6Icwhm9A&s=10",
+      "source_page_url": "https://fae.moa.gov.tw/map/food_item.php?type=AS08&id=216",
+      "source_domain": "fae.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_90c5f78d27baca36f9ce8a8b",
+      "image_url": "https://funq.jp/wp-content/uploads/2020/11/6677a7073715bc77373b0f0b9592c1b4.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUXkCtUPZNxK9b_AKWSFZCueNiidGuzUc-nmibjFqmDw&s=10",
+      "source_page_url": "https://www.funq.jp/buono/article/646439/",
+      "source_domain": "www.funq.jp"
+    },
+    {
+      "candidate_id": "cand_586a6ba510c48c03c5221e28",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKBJA9dZbXv9rwc0xI0QPio51NznVe2ifDWrfWwufk7jskUteR61MTAukErrMMbHtq2q9BZme8G53-cCDnve-Z2MxtLbrYl1gmzn3iObvAvvTCd_SQF90FWPTam631vKBfAxBulqwmslLs/s1600/IMG_2544.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmx2tMc7vhfQscXnXNMHFKzAXpVPkEyZlEMVcTKDceOw&s=10",
+      "source_page_url": "https://dracula0911.blogspot.com/2014/04/blog-post_9370.html",
+      "source_domain": "dracula0911.blogspot.com"
+    },
+    {
+      "candidate_id": "cand_bab5e5db5d502530a0e20b99",
+      "image_url": "https://ryoritaiwan.fcdc.org.tw/images/old/image/NNN4.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn67m-LyRHn3PWbKNO77gK06YrltQLh7W9iW2-6ffdTA&s=10",
+      "source_page_url": "https://ryoritaiwan.fcdc.org.tw/columns/2126",
+      "source_domain": "ryoritaiwan.fcdc.org.tw"
+    },
+    {
+      "candidate_id": "cand_4fbeb6ef597b6a6e1e528fcd",
+      "image_url": "https://bdocodex.com/items/ui_artwork/encyclopedia/ic_08644.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSNbnGqc6xfL5ypn-u3OIrwBD5HIYQWzqc4CnLx1CEGg&s=10",
+      "source_page_url": "https://bdocodex.com/tw/theme/8644/",
+      "source_domain": "bdocodex.com"
+    },
+    {
+      "candidate_id": "cand_98a5794b1728c3bdbaa6a02b",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmjkrp-ZXii5xOgk8kRCD2m3O91MSt2b1DD3Bt6hGylbGRRhLxDFrLX-OKfGp0rDH9ICUQDZaJYIdNOnOtiuT4wDa3oy9SYshgo2DM5LKVozQ1dlvR375mW2DEGfFlCCyzElXpbUZPCRI6/s1600/DSC00650.JPG",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy_MlixVnX9tXKOQat3uOczI6ajmJc9ixq5aVGwoBcow&s",
+      "source_page_url": "http://endofthelineda.blogspot.com/2010/09/2010.html",
+      "source_domain": "endofthelineda.blogspot.com"
+    },
+    {
+      "candidate_id": "cand_371be6aaaebb4fa85c5e9d45",
+      "image_url": "https://chefgohan.gnavi.co.jp/static/food/img/sp_img_food_detail_bonito.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQju0-5i1lanu1Y4QfAm3Sxb6dz9-7t1sKOwrOp7nTaYQ&s=10",
+      "source_page_url": "https://chefgohan.gnavi.co.jp/food/bonito/",
+      "source_domain": "chefgohan.gnavi.co.jp"
+    },
+    {
+      "candidate_id": "cand_4a059a614aa44af52b736579",
+      "image_url": "https://www.tokyo-zoo.net/image/kasai/encyclopedia/topic-striped-bonito-1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlN6_lk7Q_xoGyBI8WfH33EqftFSdbzSeEIFF5cCT_CQ&s",
+      "source_page_url": "https://www.tokyo-zoo.net/kasai/encyclopedia/striped-bonito/index.html",
+      "source_domain": "www.tokyo-zoo.net"
+    },
+    {
+      "candidate_id": "cand_fa8069c0088af5c7572df0ca",
+      "image_url": "https://taieol.tw/files/muse_taieol/muse_styles/color_box_match/mcode/789389485bcf9c0cc66e7189b1a1cb3f.jpg?itok=9fS1A-1Y",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNrP7deys6Z3lI479Zx85IWkIv0YM62nUw-kZHNMH77A&s",
+      "source_page_url": "https://taieol.tw/muse/digi_object/71f71445fa019d18fdd744f3c7ee1e6d",
+      "source_domain": "taieol.tw"
+    },
+    {
+      "candidate_id": "cand_a99cdc9ca1b9e56fe2367455",
+      "image_url": "https://katuo-tataki.com/wp-content/uploads/2025/01/ha-hon.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHIibUkg8sXx2d4SfyfCDSeOA8yC1qrjUEgs9_VUb8Qg&s=10",
+      "source_page_url": "https://katuo-tataki.com/ha-katsuo/",
+      "source_domain": "katuo-tataki.com"
+    },
+    {
+      "candidate_id": "cand_c9a35466617ef9a297c7582d",
+      "image_url": "https://gbaike-image.cdn.bcebos.com/2fdda3cc7cd98d1001e9b161f866af0e7bec54e73a13/2fdda3cc7cd98d1001e9b161f866af0e7bec54e73a13_url?x-bce-process=image/format,f_auto/resize,m_lfit,w_400,limit_1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ_h_7bvoK24W3GD2o17zrCM4JCzeEIJuVl_O1CNhFpA&s=10",
+      "source_page_url": "https://baike.baidu.com/ja/item/%E3%82%AB%E3%83%84%E3%82%AA/1142383",
+      "source_domain": "baike.baidu.com"
+    },
+    {
+      "candidate_id": "cand_7a4aac3e774e6e075b374213",
+      "image_url": "https://foodslink.jp/syokuzaihyakka/syun/sample/sakana/Hagatuo019(6720x4480).jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA76wIycevsl0HafCgRj4ZvFejl46gwZdQ6ArYhv25kw&s=10",
+      "source_page_url": "https://foodslink.jp/syokuzaihyakka/syun/fish/hagatuo.htm",
+      "source_domain": "foodslink.jp"
+    },
+    {
+      "candidate_id": "cand_35590e2c661946a8b9ab58e8",
+      "image_url": "https://img.hachimenroppi.com/image.php?f=CZgdoVDx&adir=topic&id=856",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm5qCmzObKFDh7q1FuOETdLwoPmgQynPg9_3lDzYQ3gA&s=10",
+      "source_page_url": "https://hachimenroppi.com/wiki/details/hagatsuo/?srsltid=AfmBOoo7JD6sa5kGpBtrlcQMYBsGB6s53J-FnfuOiKLnENQ9t4ldkXbP",
+      "source_domain": "hachimenroppi.com"
+    },
+    {
+      "candidate_id": "cand_b46a9a998e00db5c7d5f1f08",
+      "image_url": "https://pimg.1px.tw/aosfish/1617946007-663113829-g.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBl8wLiF75UMpf3TAVk3qT5m2kY-iwVBqbmVH-7NhLhg&s=10",
+      "source_page_url": "https://aosfish.pixnet.net/blog/posts/16035490250",
+      "source_domain": "aosfish.pixnet.net"
+    },
+    {
+      "candidate_id": "cand_cf1168e5732fe2c9ff297198",
+      "image_url": "https://cdn.totomon.fish/wp-content/uploads/2024/08/suma.jpg?strip=all&lossy=1&webp=85&ssl=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1qWra78jJ5vNczSXflMO136quTHSXuWiZvlkeapljSA&s=10",
+      "source_page_url": "https://totomon.fish/info/katuo/",
+      "source_domain": "totomon.fish"
+    },
+    {
+      "candidate_id": "cand_91f5efb0c31fa6ee50fb3f0e",
+      "image_url": "https://katuo-tataki.com/wp-content/uploads/2024/07/hakatuo.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjOtT2t4KAMGJMjvRRFr0W9WFD72ZorPhJeUu_-rDH1Q&s=10",
+      "source_page_url": "https://katuo-tataki.com/ha-katsuo/",
+      "source_domain": "katuo-tataki.com"
+    },
+    {
+      "candidate_id": "cand_39a4c4ccf0aa5a898e6f75a2",
+      "image_url": "https://i.ytimg.com/vi/egHQtQioalM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAY6I89oV7ijko28AtsGbxOd11xQQ",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyYncmoZSS2K1jK1YgweGrxs20fqFMROJSzXpVgdVDg&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=egHQtQioalM",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_d3d38e71a289088b7cb0aad4",
+      "image_url": "https://foodslink.jp/syokuzaihyakka/syun/sample/sakana/Hagatuo007(6720x4480).jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTRPVT4BsH5SdcAiETk5tbu3UBz8xQ7GUIjMp73IZCVQ&s=10",
+      "source_page_url": "https://foodslink.jp/syokuzaihyakka/syun/fish/hagatuo2.htm",
+      "source_domain": "foodslink.jp"
+    },
+    {
+      "candidate_id": "cand_1772629fe5296e481bbdffae",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGhCIaEE1EK1yq4km7xTzedB9abC5Xeb7FlQnMXg8GnSvTdCfw1jCB37y7Ud9tXxZfLsGhKDJx3AHhom3-dn97T5_NKeV0YN1V5Jgi56G_fQ9S28O0zEkQJ4G_cUuAtQhDNHQChyCopka2/s280/IMG_2548.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu1jZLBUrtPVdsVFupcCbYT9nKtHikvYsDtVAcZjsCPw&s",
+      "source_page_url": "https://dracula0911.blogspot.com/2014/04/blog-post_9370.html",
+      "source_domain": "dracula0911.blogspot.com"
+    },
+    {
+      "candidate_id": "cand_c02a6723cca0e952a8bdb1ef",
+      "image_url": "https://static7.orstatic.com/userphoto/photo/L/GO6/03AJZ6EE159618FCD7E19Dlv.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp_y-Tk0QVDSz5sgdik9smSZOMqhGmgM9eQFOKOf3AAg&s",
+      "source_page_url": "https://www.openrice.com/en/hongkong/p-gonpachi-p5531298",
+      "source_domain": "www.openrice.com"
+    },
+    {
+      "candidate_id": "cand_4bf4d8c966e6f76bd60617be",
+      "image_url": "https://www.honda.co.jp/fishing/picture-book/hagatsuo/image/main.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCEPmI8J751LyOmlFVLorOrQFQxO6_w364whGBi7WJqQ&s=10",
+      "source_page_url": "https://www.honda.co.jp/fishing/picture-book/hagatsuo/",
+      "source_domain": "www.honda.co.jp"
+    },
+    {
+      "candidate_id": "cand_8a684a4cbf4402c779e810df",
+      "image_url": "https://www.fishbar.com.tw/img.php?img=90_eba8ca03.jpg&dir=goods&width=390&height=400",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbZPJq3_KXwlYG8q_i3UFzsadpgMlcvIImywKWRGnTRQ&s=10",
+      "source_page_url": "https://www.fishbar.com.tw/store/goods/90?srsltid=AfmBOopU5RLxiTULdkKIMi57jZP4IrJLnEf2mQiDfe2c2omCWx-z5di2",
+      "source_domain": "www.fishbar.com.tw"
+    },
+    {
+      "candidate_id": "cand_ab45f608f830c8625637c22b",
+      "image_url": "https://i.ytimg.com/vi/6_fN8MWdtNY/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQimfkPWTistiQH2Tf9qbP4B7THH74nPwEuuKY_8zRJew&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=6_fN8MWdtNY",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_9b54bd968916a623ab7ef662",
+      "image_url": "https://www.chowari.jp/sp/book/img/312_4.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIDqVRICNLdQOb1Q4Edg0itpkp5PuAIe8FFz4n8aR8BA&s=10",
+      "source_page_url": "https://fishai.jp/312",
+      "source_domain": "fishai.jp"
+    },
+    {
+      "candidate_id": "cand_aac3219294d6acde982e9136",
+      "image_url": "https://i0.wp.com/etaiwan.news/wp-content/uploads/2024/01/img_4597.jpg?resize=960%2C720&ssl=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaZW_Y_yPh6hRCtNrNgn15XBZrS6MmQ0cVapEnZS4dbw&s=10",
+      "source_page_url": "https://etaiwan.news/2024/01/13/%E5%B7%B4%E9%B0%B9%EF%BD%9C%E4%B9%9F%E5%8F%AB%E3%80%8C%E4%B8%89%E9%BB%9E%E4%BB%94%E3%80%8D%EF%BC%8C%E8%BA%AB%E4%B8%8A%E7%9C%9F%E7%9A%84%E6%9C%89%E5%A5%BD%E5%B9%BE%E5%80%8B%E9%BB%9E%EF%BC%8C%E6%B6%88/",
+      "source_domain": "etaiwan.news"
+    },
+    {
+      "candidate_id": "cand_b6da62522fc19cc8e815234c",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2ueD_OOPUsSORkXm0GWktarBZ2jLD6rPho-RTybD9Pz-zKbl8FTCiunCfm847O9gmHM-7kx6MX3EFQsPXllpxGcfQSGgy3ZHnhw6yLfe9VX1bTp3SuDGDeqO-KoBV6RqdQpgXJ-XQlIva/s5472/DSC03113.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJKEy2XF1D9TZvzvQ6vhbKPmQxHhxh5RWya52z4PgBTg&s",
+      "source_page_url": "https://www.lovingtaiwan.tw/2021/01/blog-post_26.html",
+      "source_domain": "www.lovingtaiwan.tw"
+    },
+    {
+      "candidate_id": "cand_1c849b7c0fd49dcf4a2311da",
+      "image_url": "https://cdn.totomon.fish/wp-content/uploads/2024/08/26915252_l.jpg?strip=all&lossy=1&webp=85&ssl=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT19fUsOfGuWwzLNEBueOiBiHNIIElIRCr6jhp-koclPA&s=10",
+      "source_page_url": "https://totomon.fish/info/katuo/",
+      "source_domain": "totomon.fish"
+    },
+    {
+      "candidate_id": "cand_dd5493b29b9e7dfc81e2e66d",
+      "image_url": "https://i0.wp.com/etaiwan.news/wp-content/uploads/2026/02/img_4377-1.jpg?resize=768%2C1024&ssl=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_DOtOQAyZX8oLVytyonqNUaGATMvn3sm6SltG3CQoA&s=10",
+      "source_page_url": "https://etaiwan.news/2026/02/05/%E4%B8%89%E9%BB%9E%E4%BB%94%E9%AD%9A%EF%BC%88%E5%AD%B8%E5%90%8D%EF%BC%9A%E5%B7%B4%E9%B0%B9%EF%BC%89%EF%BD%9C%E4%B8%A6%E9%9D%9E%E5%8F%AA%E6%9C%89%E4%B8%89%E5%80%8B%E9%BB%9E%EF%BC%8C%E9%80%9A%E5%B8%B8/",
+      "source_domain": "etaiwan.news"
+    },
+    {
+      "candidate_id": "cand_43ed4f5431bb058dfabd882d",
+      "image_url": "https://www.ros-marry.com/images/fish/banito.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfUoW-CcNj5I6mT054r9PI1r1YF3C8UcDasiJDrgcgtg&s",
+      "source_page_url": "https://www.ros-marry.com/fish/%E5%B7%B4%E9%B0%B9%E3%80%81%E4%B8%89%E9%BB%9E%E4%BB%94(%E5%87%8D)",
+      "source_domain": "www.ros-marry.com"
+    },
+    {
+      "candidate_id": "cand_c9e55c4101f4e43e4cb340bf",
+      "image_url": "https://i.ytimg.com/vi/YRBM8mUIVKg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCxkgj9iJRw3oH1B6vdu7TgqSFBBQ",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfWvoQPDIIgK-YfDhBRbCnu_lW6tJ6PoiRLEAdz2uNeQ&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=YRBM8mUIVKg",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_65cffdfb2d2f33107d2d0c06",
+      "image_url": "https://image.raku-uru.jp/01/20490/268/%E3%83%8F%E3%82%AC%E3%83%84%E3%82%AA_1692496970836.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR20Yq0DeJHu8i6Y_kYp8OXlLj2duSDFl-UZbvl2AY_zg&s=10",
+      "source_page_url": "https://0-to.raku-uru.jp/item-detail/1568374?srsltid=AfmBOorp-hjMtS14F5jw8HfdXQqOHrI6XlfVh_JTCeuvIDbomVhYiWWX",
+      "source_domain": "0-to.raku-uru.jp"
+    },
+    {
+      "candidate_id": "cand_2796e034e6f47ad007efbc9a",
+      "image_url": "https://www.zukan-bouz.com/img/Fish/520/Thumb630/20111022401.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFdrdiDxdH3LQcHBcrTIzEBLis_5b7IUijrUqR19_sfA&s",
+      "source_page_url": "https://www.zukan-bouz.com/syu/%E3%83%8F%E3%82%AC%E3%83%84%E3%82%AA",
+      "source_domain": "www.zukan-bouz.com"
+    },
+    {
+      "candidate_id": "cand_cf0966039a6c33fa2f6392ad",
+      "image_url": "https://churaumi.okinawa/userfiles/fish_images/kuroshio/suma-resize.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFUdZGRpdZoEx2dmEZ3UFJrEyrQLRPod4cWddUe3GE3w&s=10",
+      "source_page_url": "https://churaumi.okinawa/sp/fishbook/00000534/",
+      "source_domain": "churaumi.okinawa"
+    },
+    {
+      "candidate_id": "cand_d060a3e20671d29929c9f430",
+      "image_url": "https://www.katsuobusi.com/wp-content/themes/hamaya/img/index/joho-01.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpkusvQcaZ4d-8FwRkbgeCxFtYp2nMyqGvyopirp-cKg&s=10",
+      "source_page_url": "https://www.katsuobusi.com/",
+      "source_domain": "www.katsuobusi.com"
+    },
+    {
+      "candidate_id": "cand_451bfb632051504c2102dc18",
+      "image_url": "https://i.ytimg.com/vi/OSDXjvxDYYg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLArT54h3MOAXWMcWMs5PDCwSlHnnQ",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiaircgdxuh6JVUMvaI7CqY39RDEDYhy2Q4VzCDztZGg&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=OSDXjvxDYYg",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_582602c3970f058763d81779",
+      "image_url": "https://katuo-tataki.com/wp-content/uploads/2025/01/hagatsuo.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQOwPNty4tlUF3Hae__njTmDviBelrrq18zcBTCo6P8A&s=10",
+      "source_page_url": "https://katuo-tataki.com/ha-katsuo/",
+      "source_domain": "katuo-tataki.com"
+    },
+    {
+      "candidate_id": "cand_874fe6e3b1319fbb85edfb25",
+      "image_url": "https://tsuttarou.net/wp-content/uploads/2025/06/82e8b3f73728103fd9e7b1752ecf81ab.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-eYguW5QW9l0VPayERLY0MX3-MFnSAOuonVXdhMDx5A&s=10",
+      "source_page_url": "https://tsuttarou.net/archives/220022",
+      "source_domain": "tsuttarou.net"
+    },
+    {
+      "candidate_id": "cand_34608d98df42b5bb81ef42ac",
+      "image_url": "https://blog.sakama.tokyo/wp-content/uploads/2024/09/IMG_2263-scaled.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2zXtH08V0pb-05sPGNx4TeBF0cVAmXxULVJ7UQWwXFQ&s=10",
+      "source_page_url": "https://blog.sakama.tokyo/archives/13132",
+      "source_domain": "blog.sakama.tokyo"
+    },
+    {
+      "candidate_id": "cand_0033da1facaa07b6452727e8",
+      "image_url": "https://foodslink.jp/syokuzaihyakka/syun/sample/sakana/Hagatuo018(6720x4480).jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp6BH2qeuNInz5hJtElnpMSxE-8Xq1F8vprCsAymQ2-g&s=10",
+      "source_page_url": "https://foodslink.jp/syokuzaihyakka/syun/fish/hagatuo.htm",
+      "source_domain": "foodslink.jp"
+    },
+    {
+      "candidate_id": "cand_0178ae87f2717f8d5cf903af",
+      "image_url": "https://www.zukan-bouz.com/img/Fish/105/Thumb630/20260512026.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWZYsJBRS346grUPL64QFVq1FWuX3e-cBFXG0qbiLTZQ&s=10",
+      "source_page_url": "https://www.zukan-bouz.com/syu/%E3%82%B9%E3%83%9E",
+      "source_domain": "www.zukan-bouz.com"
+    },
+    {
+      "candidate_id": "cand_5b1ef113bc0b4a6f7fc0a728",
+      "image_url": "https://cdn.totomon.fish/wp-content/uploads/2024/08/katuo_hikaku0.jpg?strip=all&lossy=1&webp=85&ssl=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5QLGRnLKxv-Swg0SMZ54CfSVVJN8KP5b1Gvm7IAAg8w&s=10",
+      "source_page_url": "https://totomon.fish/info/katuo/",
+      "source_domain": "totomon.fish"
+    },
+    {
+      "candidate_id": "cand_b1ff0016f0e33df34f8cc426",
+      "image_url": "https://i.ytimg.com/vi/6EBCwFoBquA/hqdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxt2UvmjAnXn28isrQVmO6VTtf_RB5bVrrGS-W_aIteQ&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=6EBCwFoBquA",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_7aa3f6e92ecbc52fc58dcfce",
+      "image_url": "https://fish-says.com/wp-content/uploads/2024/12/%E5%B7%B4%E9%B0%B9%E6%98%8E%E4%BF%A1%E7%89%87.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZplRSeyKwzX4vrevxiy-iO-eTaLYzalXS3uPs3fKhmw&s=10",
+      "source_page_url": "https://fish-says.com/product/%E5%B9%B4%E5%B9%B4%E6%9C%89%E9%B0%86%E6%98%8E%E4%BF%A1%E7%89%87-%E5%B7%B4%E9%B0%B9%E6%AC%BE/",
+      "source_domain": "fish-says.com"
+    },
+    {
+      "candidate_id": "cand_30a97ac59df70ab52804d210",
+      "image_url": "https://www.chowari.jp/sp/book/img/312_3.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUDiNCM-R0vKJ_fZ0zlLjC3xpPhPObLqkIbH5LGQkjmg&s=10",
+      "source_page_url": "https://fishai.jp/312",
+      "source_domain": "fishai.jp"
+    },
+    {
+      "candidate_id": "cand_9a0d861e79958964580a9fa6",
+      "image_url": "https://cdn.totomon.fish/wp-content/uploads/2024/08/marusouda.jpg?strip=all&lossy=1&webp=85&ssl=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSdCjqeBUeFH3VDzoEykDmzuKJa8jRyB2P5LLxGvL8nw&s=10",
+      "source_page_url": "https://totomon.fish/info/katuo/",
+      "source_domain": "totomon.fish"
+    },
+    {
+      "candidate_id": "cand_913f2c82ab58b230cafa27ee",
+      "image_url": "https://i0.wp.com/etaiwan.news/wp-content/uploads/2026/02/img_4378-1.jpg?resize=578%2C1024&ssl=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpRiC14fosyvR8WynKNtx4ieE-DtsqYU5fd2h14aegQQ&s=10",
+      "source_page_url": "https://etaiwan.news/2026/02/05/%E4%B8%89%E9%BB%9E%E4%BB%94%E9%AD%9A%EF%BC%88%E5%AD%B8%E5%90%8D%EF%BC%9A%E5%B7%B4%E9%B0%B9%EF%BC%89%EF%BD%9C%E4%B8%A6%E9%9D%9E%E5%8F%AA%E6%9C%89%E4%B8%89%E5%80%8B%E9%BB%9E%EF%BC%8C%E9%80%9A%E5%B8%B8/",
+      "source_domain": "etaiwan.news"
+    },
+    {
+      "candidate_id": "cand_4f8f576536a900a7d869b4a9",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSLv89DfBgjT5b9WhvlCKOV0oTy2saClj12MNfi-BNMvhyDAqiA23CSlzvlycYkQIAQQdy_M6j9m2PDO9noYg_xBARWZ9XId_GbSqWjHSI4b6LWs7fJDfRWAw91WWD29sf8h6AVE89FRea/s5444/DSC03123.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPOEGeQHp11MN_V_ri6ccPOkFVydqKx7lIZS4h2GFkLQ&s=10",
+      "source_page_url": "https://www.lovingtaiwan.tw/2021/01/blog-post_26.html",
+      "source_domain": "www.lovingtaiwan.tw"
+    },
+    {
+      "candidate_id": "cand_7581f11e025b8a579d452b70",
+      "image_url": "https://image.raku-uru.jp/01/20490/267/%E3%83%8F%E3%82%AC%E3%83%84%E3%82%AA%E5%88%BA%E8%BA%AB_1692496885604_1200.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9X-GK-Ac-KvwKX0U9Ra4NMZdr87zXiZL4edkh8O-ZWQ&s=10",
+      "source_page_url": "https://0-to.raku-uru.jp/item-detail/1568374?srsltid=AfmBOooYcDPu0ynNTbBEM0BDCM2feczt5LKN4rktwdjc8uBAzfUc-226",
+      "source_domain": "0-to.raku-uru.jp"
+    },
+    {
+      "candidate_id": "cand_42239c99922f8878116a3e97",
+      "image_url": "https://www.outdoorfoodgathering.jp/wp-content/uploads/KIMG1829-2.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlBcjKtIuC-3wX0LgREY6bKfTmEQx7Uq4YHMdmZrppBQ&s=10",
+      "source_page_url": "https://www.outdoorfoodgathering.jp/fish/hagatuo/",
+      "source_domain": "www.outdoorfoodgathering.jp"
+    },
+    {
+      "candidate_id": "cand_522421bf981cb2c5f16a338b",
+      "image_url": "https://www.fishbar.com.tw/img.php?img=6875_91b0ff7f.jpg&dir=goods_pic&width=390&height=400",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWUMx-fitOQ8AiHHcEefzq8SO7hUk9_L9VjSDT9rwJug&s=10",
+      "source_page_url": "https://www.fishbar.com.tw/store/goods/90?srsltid=AfmBOopmSivOwUCiJMawrYtPwaAe2od0cPYwRAQidBjw4hPodE4PXYBQ",
+      "source_domain": "www.fishbar.com.tw"
+    },
+    {
+      "candidate_id": "cand_b442fda10e6689b607de689a",
+      "image_url": "https://www.kochi-bank.co.jp/yosakoi-okyaku/blog/asset/12786_20161001-1-768x576.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLWRpa_W-evEy5e7KQOkJs80rk31Q-Avc_UBUL4OMm9w&s=10",
+      "source_page_url": "https://www.kochi-bank.co.jp/yosakoi-okyaku/blog/013387.html",
+      "source_domain": "www.kochi-bank.co.jp"
+    },
+    {
+      "candidate_id": "cand_cda6ec3f79d1f9164b0f776a",
+      "image_url": "https://foodslink.jp/syokuzaihyakka/syun/sample/sakana/Hagatuo021(6720x4480).jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPRa-MuxOkIgHnGpYfqbmetOV1vypOwJMrGGw61X6Z-w&s=10",
+      "source_page_url": "https://foodslink.jp/syokuzaihyakka/syun/fish/hagatuo2.htm",
+      "source_domain": "foodslink.jp"
+    },
+    {
+      "candidate_id": "cand_e02e7dfc591599be46f4ec8a",
+      "image_url": "https://kotobank.jp/image/dictionary/nipponica/media/81306024002650.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdt24L9zDEsf5mw-V4CLz7ObH25E6jPbrY3cdXqj0M7A&s=10",
+      "source_page_url": "https://kotobank.jp/word/%E3%81%AF%E3%81%8C%E3%81%A4%E3%81%8A-3163266",
+      "source_domain": "kotobank.jp"
+    },
+    {
+      "candidate_id": "cand_947a2847faa07955f56cb185",
+      "image_url": "https://www.marinepia.or.jp/picturebook/public/image/upload/118/main01.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHiwbzR_ykL_AY_Crmh9iHMZFa-CT2Yxps-ekKAA4TrQ&s=10",
+      "source_page_url": "https://www.marinepia.or.jp/picturebook/fish/entry-11669.html",
+      "source_domain": "www.marinepia.or.jp"
+    },
+    {
+      "candidate_id": "cand_b006fca908ecef8b030b7377",
+      "image_url": "https://shun-gate.com/wp-content/uploads/2019/05/7d2c58a1b8b66dd4040f103eb61c69a2.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpVR6MCpNsNHgT17ga4BJLCRdaDXj69Kch6qcZQweNpg&s=10",
+      "source_page_url": "https://shun-gate.com/power/power_70/",
+      "source_domain": "shun-gate.com"
+    },
+    {
+      "candidate_id": "cand_43db1ceffd25c3ec6a88b46f",
+      "image_url": "https://gbaike-image.cdn.bcebos.com/b7fd5266d0160924f027e373db0735fae6cd3453/b7fd5266d0160924f027e373db0735fae6cd3453_url?x-bce-process=image/format,f_auto/resize,m_lfit,w_400,limit_1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGt8Ril8HyPs-4GPSCN22tGrxz7l_U5S1-5Wkq-OyT2Q&s",
+      "source_page_url": "https://baike.baidu.com/ja/item/%E3%82%AB%E3%83%84%E3%82%AA/1142383",
+      "source_domain": "baike.baidu.com"
+    },
+    {
+      "candidate_id": "cand_a854667fe7d502a18443aaf6",
+      "image_url": "https://gustavusstory.com/wp-content/uploads/2022/03/20200616_125649.jpg?w=1024",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_nQ-RN7QvMdn7dHyTR5tYeGG6zD9jUlhoYG8-3dwZXA&s=10",
+      "source_page_url": "https://redpixmedia.com/products/b713895586304",
+      "source_domain": "redpixmedia.com"
+    },
+    {
+      "candidate_id": "cand_1f8a8e3a47857d5ac23f51a1",
+      "image_url": "http://pic.pimg.tw/fishtainan2011/1381073719-4269865508.jpg?v=1381073720",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf4YkVjG-lX97uxb3a-gOZkdelARRR8UAfirr8owIrew&s=10",
+      "source_page_url": "http://fishtainan.blogspot.com/2012/03/blog-post_50.html",
+      "source_domain": "fishtainan.blogspot.com"
+    },
+    {
+      "candidate_id": "cand_74d89632154b5a3d6a928621",
+      "image_url": "https://pds.exblog.jp/pds/1/201001/26/38/d0069838_8573665.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkrWWCkO4IElYRjJN4zsSE21NZtIkdsuiiKo8t8DW5yA&s=10",
+      "source_page_url": "https://nsakanaya.exblog.jp/10702176/",
+      "source_domain": "nsakanaya.exblog.jp"
+    },
+    {
+      "candidate_id": "cand_eaf0d26674dd35c9e5a3580d",
+      "image_url": "https://i0.wp.com/etaiwan.news/wp-content/uploads/2024/01/img_4603.jpg?resize=960%2C720&ssl=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpFq_nVeXf-j9LFeZjj3UVVx_LVeQPlD80OJeiaM5iCg&s=10",
+      "source_page_url": "https://etaiwan.news/2024/01/13/%E5%B7%B4%E9%B0%B9%EF%BD%9C%E4%B9%9F%E5%8F%AB%E3%80%8C%E4%B8%89%E9%BB%9E%E4%BB%94%E3%80%8D%EF%BC%8C%E8%BA%AB%E4%B8%8A%E7%9C%9F%E7%9A%84%E6%9C%89%E5%A5%BD%E5%B9%BE%E5%80%8B%E9%BB%9E%EF%BC%8C%E6%B6%88/",
+      "source_domain": "etaiwan.news"
+    },
+    {
+      "candidate_id": "cand_df11fc546c190e6c10a196c3",
+      "image_url": "https://www.zukan-bouz.com/img/Fish/105/Thumb630/20231201661.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMUxWF6lmNOwY_w6IxpAkAqMFyuRtk17RZtkjsLPPpfA&s",
+      "source_page_url": "https://www.zukan-bouz.com/syu/%E3%82%B9%E3%83%9E",
+      "source_domain": "www.zukan-bouz.com"
+    },
+    {
+      "candidate_id": "cand_316cbb65d0a5a13679885094",
+      "image_url": "https://www.kochi-bank.co.jp/yosakoi-okyaku/blog/asset/12786_20161001-2-768x576.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSx3YAZ2KfqjfhVaH_anz60jeT3E2DFARHU_8PsDPRug&s=10",
+      "source_page_url": "https://www.kochi-bank.co.jp/yosakoi-okyaku/blog/013387.html",
+      "source_domain": "www.kochi-bank.co.jp"
+    },
+    {
+      "candidate_id": "cand_02175243b14864e1339e1e2c",
+      "image_url": "http://digiarch.sinica.edu.tw/digiarch3/ImageCache/ImageCache/00/0f/97/20.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXQsJ-nIPmqD69aRRqyYEH_nVrJL_fqFSS3FTRENHazw&s=10",
+      "source_page_url": "https://digiarch.sinica.edu.tw/content/repository/resource_content.jsp?oid=4353442&queryString=%E5%B7%B4%E9%B0%B9%20%E9%AF%96%E7%A7%91",
+      "source_domain": "digiarch.sinica.edu.tw"
+    },
+    {
+      "candidate_id": "cand_30ebf892101ef95ffa20556f",
+      "image_url": "https://www.fishbar.com.tw/files/archive/879_e784ebd0.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVxEjSMNrQ65bsetswFkgPSveG2ET8hwnbc9--8Aekjw&s=10",
+      "source_page_url": "https://www.fishbar.com.tw/store/goods/90?srsltid=AfmBOoqq_3w0QSbpAYAnFH27JDEWQZ00GxXgPkw5Ob6tyGv5CtRZuXWN",
+      "source_domain": "www.fishbar.com.tw"
+    },
+    {
+      "candidate_id": "cand_6e8b213125514f15bd1afff3",
+      "image_url": "https://hocom.tw/ckfinder/connector?command=Proxy&type=Images&currentFolder=%2F&fileName=e9b0b9e9ad9a4e7a8aee59c96.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZi8tGwlSD-BA8zcryfmRc9OJEkFVGxStZZUrVmKPK8Q&s=10",
+      "source_page_url": "https://hocom.tw/h/datadetail?key=0222850512&cont=103179",
+      "source_domain": "hocom.tw"
+    },
+    {
+      "candidate_id": "cand_092d957b41435357245341a7",
+      "image_url": "https://images.agriharvest.tw/wp-content/uploads/2019/12/UNNPF-1-1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE3psBKV5Tukwt4F-7JzDIfSArlb9ASFE4UWZ5ZSsBPg&s=10",
+      "source_page_url": "https://www.agriharvest.tw/archives/8725/",
+      "source_domain": "www.agriharvest.tw"
+    },
+    {
+      "candidate_id": "cand_aa501652e83fd7a0f4fa60c1",
+      "image_url": "https://i.ytimg.com/vi/JfM9zsUwSNU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBh4jDVRG2QgDlk-soOBHIGG0V5pg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTztT3TfYEk-ZJtJee2X-r4qT6MmDY_GcEWIoN2602lOA&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=JfM9zsUwSNU",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_57a7fa0d6ddef13a9f0f8094",
+      "image_url": "https://img.freshmackerel.com/NewsPic/15876092975480.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj_OHF-EQ00aLGwg0elQUkB0jlYO1acIaZ30qBs5rxHA&s=10",
+      "source_page_url": "https://www.freshmackerel.com/fishKnowledge/750",
+      "source_domain": "www.freshmackerel.com"
+    },
+    {
+      "candidate_id": "cand_3d4ac5fad9175afe8cc7cbb5",
+      "image_url": "https://i0.wp.com/etaiwan.news/wp-content/uploads/2024/01/img_4607.jpg?resize=720%2C960&ssl=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBRQvRQ1ioI34zFDbvYeGNWR9D4_m4vBmBVlj7vCVtNA&s=10",
+      "source_page_url": "https://etaiwan.news/2024/01/13/%E5%B7%B4%E9%B0%B9%EF%BD%9C%E4%B9%9F%E5%8F%AB%E3%80%8C%E4%B8%89%E9%BB%9E%E4%BB%94%E3%80%8D%EF%BC%8C%E8%BA%AB%E4%B8%8A%E7%9C%9F%E7%9A%84%E6%9C%89%E5%A5%BD%E5%B9%BE%E5%80%8B%E9%BB%9E%EF%BC%8C%E6%B6%88/",
+      "source_domain": "etaiwan.news"
+    },
+    {
+      "candidate_id": "cand_835252153a1c7b8b24800421",
+      "image_url": "https://img.cloudimg.in/uploads/shops/33912/blogs/2a/2a339820c146eeec1091e4b8fe6e9e68.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrc0fwOCcfsTJHt3eBj4LzE2qa3qqHym-OhPwTyp813Q&s",
+      "source_page_url": "https://www.siho.com.tw/blog/17751?srsltid=AfmBOooXk2rILrO8Qr2IQrDWOajHvm29rdFRWl-0fYXfNm_0tcoJ49bn",
+      "source_domain": "www.siho.com.tw"
+    },
+    {
+      "candidate_id": "cand_3505fb4b3904b6cde268dc08",
+      "image_url": "https://pimg.1px.tw/auberge98/1419045382-2553310943.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQElGjIW3Q_ltgShxVWobeflMSGTJMOc7EvGPaZXyoIGA&s=10",
+      "source_page_url": "https://auberge98.pixnet.net/blog/posts/3044332522",
+      "source_domain": "auberge98.pixnet.net"
+    },
+    {
+      "candidate_id": "cand_1e1deb771b528d97feff9918",
+      "image_url": "https://img.cloudimg.in/uploads/shops/33912/blogs/91/917389515ea900d306b94a89658409ac.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZB0NPQZg4WezJGdCBXWs8o77BGH3ooQc2ojOWy8g_dA&s",
+      "source_page_url": "https://www.siho.com.tw/blog/17751?srsltid=AfmBOopLxhgfSgK15FXhfAPuO95lAZqk0I97Qq7dQetiqy7amhdr1p4C",
+      "source_domain": "www.siho.com.tw"
+    },
+    {
+      "candidate_id": "cand_bd7fdbf3f92c27f99a91bedb",
+      "image_url": "https://img.shoplineapp.com/media/image_clips/6978883fca27233b486be79c/original.png?1769506876=&owner_id=65263e600660e2005588135b",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC4ZmuykKX068Q_2op3Udxp8YkdNapjZ5B_12HQDhDRw&s=10",
+      "source_page_url": "https://www.goldrichff.com.hk/products/premium-smoked-norwegian-salmon-1000g",
+      "source_domain": "www.goldrichff.com.hk"
+    },
+    {
+      "candidate_id": "cand_c9f5b7f38c17bd5c2b029d31",
+      "image_url": "https://www.tpfish.com.tw/Upload/article/upload_630eb35b497931_96687183.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQchIsNMYcbtwP7wb450CHK_9VWZ0iy4BuGk3uj9e8Pqg&s=10",
+      "source_page_url": "https://www.tpfish.com.tw/fish_know_de.php?obj_id=nGjMWmszD45TKKf4UrsgGVGebNA2i64N",
+      "source_domain": "www.tpfish.com.tw"
+    },
+    {
+      "candidate_id": "cand_574c876b0b3bb6dccfe4bddd",
+      "image_url": "https://pimg.1px.tw/auberge98/1418918068-2775105586.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBFQR_Ch_sKMQvRpW6yAWBZOkthXAg4dQWw70NyJsKEg&s=10",
+      "source_page_url": "https://auberge98.pixnet.net/blog/posts/3044332522",
+      "source_domain": "auberge98.pixnet.net"
+    },
+    {
+      "candidate_id": "cand_addf2b34f4f2bffa4e80d911",
+      "image_url": "https://norwaysalmon.com.hk/cdn/shop/files/71.png?v=1778123735&width=1445",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8jlQoxSEM1C9tnm4GuqKdKIPe8HiBqfuTLdWvloBLAA&s",
+      "source_page_url": "https://norwaysalmon.com.hk/products/%E7%85%99%E9%B1%92%E9%AD%9A%E7%89%87100g?srsltid=AfmBOooZojiT6VenFJkQJtvg8tB_tkyHDTYMr8-vItO5NAOekXowKJz2",
+      "source_domain": "norwaysalmon.com.hk"
+    },
+    {
+      "candidate_id": "cand_9b10736381ace0f386b2e751",
+      "image_url": "https://i.ytimg.com/vi/M4txs0OKyXo/sddefault.jpg?v=642ae2d7",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1D75zim1xc8M2E2XK0ZOyewgspknWB3VsXJxo9HthCQ&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=M4txs0OKyXo",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_9c339a7f88bee454f4857b46",
+      "image_url": "https://www.oriolefood.com.hk/picture/product-media/large/718",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQekGitKbJKskwF5Df3hGcL3sDytB7tsezggz1k0MACdw&s=10",
+      "source_page_url": "https://www.oriolefood.com.hk/products/FWSF03",
+      "source_domain": "www.oriolefood.com.hk"
+    },
+    {
+      "candidate_id": "cand_679e14c60e724675396a52d1",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmfb0__7me9Hr_JQISv6zHmKLMy7GG-en68rw7_k5LxiT5NMP7lPTMWjS00kwu4xCrFO7oDiUIAx3LHbG_0IesN5jG5lItlOU42cfvz4EFXWU5S_hdKFto5HQx3CnkJQI_zvcj2Z5yfjcg/s1600/IMG_2380.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScf1KN3hlRmePQo5vohGzyCX2RjoPKr5iXOEBHr6uyHg&s=10",
+      "source_page_url": "https://dracula0911.blogspot.com/2014/03/blog-post_2611.html",
+      "source_domain": "dracula0911.blogspot.com"
+    },
+    {
+      "candidate_id": "cand_a014db8677a4cf418a185ac6",
+      "image_url": "https://static06.hket.com/res/v3/image/content/1370000/1370451/12715619_1024.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWKH_CEXEesYMF3dQipYFKfUP-WWprhdbX4AaAnWBWEQ&s=10",
+      "source_page_url": "https://topick.hket.com/article/1370451/%E7%85%99%E4%B8%89%E6%96%87%E9%AD%9A%E7%A9%B6%E7%AB%9F%E7%94%9F%E5%AE%9A%E7%86%9F%EF%BC%9F",
+      "source_domain": "topick.hket.com"
+    },
+    {
+      "candidate_id": "cand_4700e4e3d705091622ff89ec",
+      "image_url": "https://www.hgfood.com.hk/image/cache/catalog/product-856/6ceb394cb37ebb4eb3c883ccd4217d6a-850x850.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT41rJgz85e4WleqJYafAzcRhBVDphHz4dXdPEgXBW15Q&s=10",
+      "source_page_url": "https://www.hgfood.com.hk/Smoked-Salmon-Sliced-1kg",
+      "source_domain": "www.hgfood.com.hk"
+    },
+    {
+      "candidate_id": "cand_c167a67e71bbedbf7afce841",
+      "image_url": "https://img.cloudimg.in/uploads/shops/33912/blogs/69/690dcf13a6dca07c1b1464deda187ba1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5uPzPH32NFCIOktQDum6mA8cx6EUazoO-jpG-hVpBxg&s",
+      "source_page_url": "https://www.siho.com.tw/blog/17751?srsltid=AfmBOopXeCdmErz6TDRaX8l4Jx2qy2YRK0iDTujXQGe-1XBup1_AuxT8",
+      "source_domain": "www.siho.com.tw"
+    },
+    {
+      "candidate_id": "cand_d714e8883935f7baeb97ec99",
+      "image_url": "https://shoplineimg.com/59acca416ef2d4725900b16d/671614b0a97c40000dcf0989/800x.jpg?",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHZ1JzHtgB_gfzlnh70McKsQsA7Fu8FchqzHrh-mgfJw&s=10",
+      "source_page_url": "https://buy.hknest.com/products/scottish-monarch-smoked-salmon-premium-grade-ready-to-serve-100g",
+      "source_domain": "buy.hknest.com"
+    },
+    {
+      "candidate_id": "cand_9380bf1ae3605696751bf400",
+      "image_url": "https://shoplineimg.com/6135ba0a41429100450cf01e/61f10184ab989b002f7d4ce1/800x.jpg?",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-u7bWO2aiRCV0iJWCon5yi0j64RgWNUDf3_1u8gSgDQ&s=10",
+      "source_page_url": "https://www.nsmall.com.hk/products/%E6%80%A5%E5%87%8D-%E6%8C%AA%E5%A8%81%E7%85%99%E4%B8%89%E6%96%87%E9%AD%9A?srsltid=AfmBOooM0DY1mJLgrw76HNsh-TCAwoO3IP6YMotbP2Ib6IiqzYVKjlCK",
+      "source_domain": "www.nsmall.com.hk"
+    },
+    {
+      "candidate_id": "cand_b488bca27d7beae59dc9b5eb",
+      "image_url": "https://norwaysalmon.com.hk/cdn/shop/files/100g_1e579e6b-7157-4006-a821-401da9a60739.png?v=1777973115&width=1445",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqtzztVIwR9BLI1dkRtevG4MGiROYCTNdMRlHzLHMfFA&s",
+      "source_page_url": "https://norwaysalmon.com.hk/products/%E7%85%99%E9%B1%92%E9%AD%9A%E7%89%87100g?srsltid=AfmBOorD3m8H50vKLw6jzBeEmxtrl8xKVRZc_A3vw8B4pRZKqnWGtON5",
+      "source_domain": "norwaysalmon.com.hk"
+    },
+    {
+      "candidate_id": "cand_35d59d1a7a1f3e5fba410396",
+      "image_url": "https://ieat.hk/image/cache/data/All%20Product/New%20photo/FS088-100A%E7%85%99%E4%B8%89%E6%96%87%E9%AD%9A100g-600x600_0.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSffTklcnVIFBolAX4BQFr9epzk-5wBnB3B_JErP5wD1g&s=10",
+      "source_page_url": "https://ieat.hk/index.php?route=product/product&product_id=1358",
+      "source_domain": "ieat.hk"
+    },
+    {
+      "candidate_id": "cand_12e21df2e71313c3cdba2c11",
+      "image_url": "https://img.rtacdn-os.com/20220225/34016626-1be1-4741-9da3-c4ae1df5b568",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQQLjndORQJoRBNDYn52opqTH7o6h0bIR_Goc20xQ60g&s=10",
+      "source_page_url": "https://www.marketplacehk.com/zh-hant/p/Ocean's%20Favourites%20%20%E5%8E%9F%E5%91%B3%E7%85%99%E4%B8%89%E6%96%87%E9%AD%9A%20100GM/i/101375461.html",
+      "source_domain": "www.marketplacehk.com"
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "schema_version": 1,
+  "fish_id": "fish_015",
+  "canonical_name": "黃鰭鮪魚",
+  "aliases": [],
+  "pool_updated_at": "2026-08-25T05:12:22.848084+00:00",
+  "candidate_count": 79,
+  "candidates": [
+    {
+      "candidate_id": "cand_3257d8d71b2962a6a894276a",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Thunnus_albacares.png?utm_source=zh.wikipedia.org&utm_campaign=index&utm_content=original",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg2lW61X_s7MqWY6eQzVb7FjkWmTBt0oN3RBK04naCCA&s=10",
+      "source_page_url": "https://zh.wikipedia.org/zh-tw/%E9%BB%84%E9%B3%8D%E9%87%91%E6%9E%AA%E9%B1%BC",
+      "source_domain": "zh.wikipedia.org"
+    },
+    {
+      "candidate_id": "cand_5da554f6c362c2a95cc0a43a",
+      "image_url": "https://kmweb.moa.gov.tw/files/subject_WS/7891/A02_2.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPNL4QYNSape9K8QN38HKD419jMcet1GbJTa7xL56fHw&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/subject/subject.php?id=7891",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_777315461c91b4765a9b6af6",
+      "image_url": "https://i0.wp.com/etaiwan.news/wp-content/uploads/2025/04/img_9794-1.jpg?resize=576%2C1024&ssl=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH7b0ORPwuYkLGvGFWr_D6OOfmvYgFzqXN8PJbvvt0mQ&s=10",
+      "source_page_url": "https://etaiwan.news/2025/04/25/%E3%80%8A%E6%9D%B1%E5%8F%B0%E7%81%A3%E7%BE%8E%E9%A3%9F%E7%AF%87%E3%80%8B%E9%BB%83%E9%B0%AD%E9%AE%AA%E9%AD%9A%E6%AD%A3%E7%95%B6%E5%AD%A3%EF%BD%9C%E6%88%90%E5%8A%9F%E6%BC%81%E6%B8%AF%E7%86%B1%E9%8A%B7/",
+      "source_domain": "etaiwan.news"
+    },
+    {
+      "candidate_id": "cand_bed10f0299f8273dc95ff5cd",
+      "image_url": "http://ocean-treasure.com.tw/product/image/pics/%E9%BB%83%E8%82%8C%E9%AE%AA.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPO71fTBqnRNUGg8LbfvHUdJEVie57vu194V64PcbXUA&s=10",
+      "source_page_url": "https://www.ocean-treasure.com.tw/product-info.asp?id=276",
+      "source_domain": "www.ocean-treasure.com.tw"
+    },
+    {
+      "candidate_id": "cand_a74ffb871edfd698dd107cee",
+      "image_url": "https://i.ytimg.com/vi/g_VmbK7-TYY/maxresdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgph8w-N7uklOO8CD3Bsaz9Dcle-lYfa9tbTDL6fTlQ&s",
+      "source_page_url": "https://www.youtube.com/watch?v=g_VmbK7-TYY",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_a2c787b53cd182f244905f10",
+      "image_url": "https://fujikizai.jp/wp-content/uploads/2014/10/img_column002_04.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGAxxLoD0JE5fZ02ld8TaiV6eokltrvTdA8LBldZSsow&s=10",
+      "source_page_url": "https://fujikizai.jp/zh-hant/2014/10/20/column002/",
+      "source_domain": "fujikizai.jp"
+    },
+    {
+      "candidate_id": "cand_fd016602db4ef4ff99c3c690",
+      "image_url": "https://kmweb.moa.gov.tw/files/production_map/241/A01_2_m.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg6P8j8ImtJCJQXFebGJug5xD-J2yb0o2LZ_NO2usWkA&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/theme_data.php?theme=production_map&id=241",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_0fb317414d012a5ad1e34733",
+      "image_url": "https://i.ytimg.com/vi/U6bYVnmlOMg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBt0ey2bMoMeJnEDAzCWiA9z10Fdg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQyCPQv6QGQMUHYC9LQjTFS0HWQsvcvoAdoag6dvngRw&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=U6bYVnmlOMg",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_687bcb61902170a177aef2d3",
+      "image_url": "https://img.meepshop.com/bH3n1mMtU_SHsKFHE3bEnWGkwHiUA0Lhexo1sGKlKBo/w:1200/Z3M6Ly9pbWcubWVlcGNsb3VkLmNvbS9tZWVwc2hvcC9lMmNmZWNiOS0xMDQ0LTQxMzktODE4MC00YzhiNmMyNmIxNDkvZmlsZXMvMzBhOWI0NTgtOGUwNC00ZGYwLWE1NDMtYmEyNDlmNzY4ZmYxLnBuZw",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqKsJvIDP_SmVgvXZaATKc2C00UtNj41suI6YZvWMgyg&s=10",
+      "source_page_url": "https://www.seafood.com.tw/products/f59d8618-6460-44aa-a0a0-30ed23402fcb",
+      "source_domain": "www.seafood.com.tw"
+    },
+    {
+      "candidate_id": "cand_208a315c7aaad10113a112c8",
+      "image_url": "https://www.ocean-treasure.com.tw/product/image/pics/4D2B5ABF-C9CA-4DE7-AB67-228756B5ED44.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF8opX6Wi2OpcAhQ_aL9r6Rw0olGElfMym0f02LITpEA&s=10",
+      "source_page_url": "https://www.ocean-treasure.com.tw/product-info.asp?id=276",
+      "source_domain": "www.ocean-treasure.com.tw"
+    },
+    {
+      "candidate_id": "cand_622b97833c9cdbb722128d81",
+      "image_url": "https://fd-tuna.com/upload/1321/ckeditor_images/158d42c1-e99c-4ff3-9f7e-0e8c8a6db71c.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWY1G11JVi4fZ9oAGXFEVm9J6xD5OwOmMREeKd5NNZ8Q&s=10",
+      "source_page_url": "https://fd-tuna.com/article/BB61DBA5D10FD563",
+      "source_domain": "fd-tuna.com"
+    },
+    {
+      "candidate_id": "cand_13767e04c9fbfd39fff8575d",
+      "image_url": "https://rs.joo.com.tw/website/uploads_product/website_869/P0086900294897_4_1813712.jpeg?_41040",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzvs6rCjMGkHQY5GBjXKwCS4a494cbAySr7KxjSG5yQQ&s=10",
+      "source_page_url": "https://www.kazuoaquaculture.com/kazuoaquaculture/index.php?action=product_detail&prod_no=P0086900294897&srsltid=AfmBOorBfnlz-dsQkuip0OqyoeKIyUfZoL4X6FbWwQN6EJFaUihbfjbZ",
+      "source_domain": "www.kazuoaquaculture.com"
+    },
+    {
+      "candidate_id": "cand_f4152b67001222894c5fc8ec",
+      "image_url": "https://kmweb.moa.gov.tw/files/production_map/241/A01_4_m.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMCJUdZT9NMlyaNdCuj8dKflDP1z9OG86EjexR8lUakg&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/theme_data.php?theme=production_map&id=241",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_949af7d5c81d4659cfb94bf8",
+      "image_url": "https://img.91app.com/webapi/imagesV3/Original/SalePage/10732991/1/639228253098700000?v=1&quality=30",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXp6_E4OEJ6XlK5iJefdy1IaD_F_WTXxEdq4kNiILfBg&s=10",
+      "source_page_url": "https://www.jjfish.com.tw/SalePage/Index/10732991?srsltid=AfmBOorrl6zdDA0R1fM9PAspSa65AKNE8k53CZ3fLOQFWWrJU5X7ImqA",
+      "source_domain": "www.jjfish.com.tw"
+    },
+    {
+      "candidate_id": "cand_a2640b85b92e9b7e06e10dca",
+      "image_url": "https://rs.joo.com.tw/website/uploads/ckfinder/kazuoaquaculture/images/%E9%AE%AA%E9%AD%9A%E8%85%B9%E8%82%894.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSenxPBKsiOGXq9DHzog8RhsVMZjyEl2aVatnVheddYpQ&s=10",
+      "source_page_url": "https://www.kazuoaquaculture.com/kazuoaquaculture/index.php?action=product_detail&prod_no=P0086900294897&srsltid=AfmBOoqIzeYZ5L8ctuVKXcSObDdaKC1ht1oP_TFe0Ns8FJN6fw6g2lu3",
+      "source_domain": "www.kazuoaquaculture.com"
+    },
+    {
+      "candidate_id": "cand_137e503a054cf0d5070b710c",
+      "image_url": "https://palia.wiki.gg/images/Yellowfin_Tuna.png?68c288",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ssYYVfEve8KxacjYaLWROQfFNh2-1LToS9A8gpJgmQ&s=10",
+      "source_page_url": "https://palia.wiki.gg/wiki/Yellowfin_Tuna/zh-tw",
+      "source_domain": "palia.wiki.gg"
+    },
+    {
+      "candidate_id": "cand_2d498eb1a387f80e6b10b860",
+      "image_url": "https://i0.wp.com/etaiwan.news/wp-content/uploads/2024/04/img_2979-1.jpg?resize=768%2C1024&ssl=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGKs5f3Srkl_xLTkKrtLIMOBP1LKloIUKyo6Yi9LPi_w&s=10",
+      "source_page_url": "https://etaiwan.news/2024/04/17/%E9%BB%91%E9%AE%AA%E9%AD%9A%E5%AD%A3%E7%AF%80%E9%96%8B%E5%A7%8B%E4%BA%86%EF%BD%9C%E7%A2%BC%E9%A0%AD%E6%BB%BF%E6%BB%BF%E7%9A%84%E9%83%BD%E6%98%AF%EF%BC%8C%E8%87%BA%E6%9D%B1%E6%88%90%E5%8A%9F%E6%BC%81/",
+      "source_domain": "etaiwan.news"
+    },
+    {
+      "candidate_id": "cand_2665bc6e6aa4ac62f170c66d",
+      "image_url": "https://img.cloudimg.in/uploads/shops/33270/blogs/d7/d7442b90c2b76b9d5faa7923c77c214c.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHT35eTZhGsGNJDkKPYLwQ4wYSdIuTqvA2GOmoUfFhUg&s",
+      "source_page_url": "https://www.tunakingfresh.com.tw/blog/17780",
+      "source_domain": "www.tunakingfresh.com.tw"
+    },
+    {
+      "candidate_id": "cand_e52d9da48cf9c9ccf2bb81cd",
+      "image_url": "https://cdn.shopify.com/s/files/1/0930/2759/8620/files/Yellowfin_Tuna_Kihada_Maguro.png?v=1763297927",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlCRoe31XKGF9CRpQw5JfaV9VtSWloWC8unC-k8flldg&s",
+      "source_page_url": "https://abcarhk.com/blogs/%E6%90%B5%E9%A3%9F%E6%94%BB%E7%95%A5/%E6%97%A5%E6%9C%AC%E9%AD%9A%E9%A1%9E%E7%99%BE%E7%A7%91-%E9%BB%83%E9%B0%AD%E9%AE%AA%E9%AD%9A-yellowfin-tuna-%E3%81%8D%E3%81%AF%E3%81%A0%E3%81%BE%E3%81%90%E3%82%8D-kihada-maguro?srsltid=AfmBOoqXSrHrk6ZdnlfVMKv4be0hjcqOvzwmb9e4FlKYKagF4cnvkzdJ",
+      "source_domain": "abcarhk.com"
+    },
+    {
+      "candidate_id": "cand_be95214b729ed0511ab4d3c5",
+      "image_url": "https://i.ytimg.com/vi/cym-ohI2-t8/hqdefault.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqnYAkmMJIf3Jzv_vMSd-5L8fT5ML7ajw03Tohb1mS-w&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=cym-ohI2-t8",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_2a70ae5fc1a9b3b2b32be373",
+      "image_url": "https://img.yec.tw/ob/image/81246298-c78c-4b5f-bfc2-4621826dcb68.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5FDaz-OhNFn5BM4xUt4AgKWLUVZTysHfx468VOTXPqA&s=10",
+      "source_page_url": "https://tw.bid.yahoo.com/item/100158570438",
+      "source_domain": "tw.bid.yahoo.com"
+    },
+    {
+      "candidate_id": "cand_58638cfb1563f2c662d38cbd",
+      "image_url": "https://images.chinatimes.com/newsphoto/2022-04-08/656/20220408002090.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzloCe_gLSdwmTBFXJr2LNaEU7fLZmSCxm0qNkZvmsvA&s=10",
+      "source_page_url": "https://www.chinatimes.com/realtimenews/20220408002087-260405",
+      "source_domain": "www.chinatimes.com"
+    },
+    {
+      "candidate_id": "cand_a1f55b8250fc266d48f1f650",
+      "image_url": "https://cdn-general.cybassets.com/media/W1siZiIsIjM1MjA2L3Byb2R1Y3RzLzY2ODI3ODkxLzE3NzQ3NzUwNDZfMGEzOTRlNDAyZGNkYzQyNTM2ZDYuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=77f9bc6c2bb3c31d",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk0oCH8uPvVHMQEBA0uMnLGDzot5g4gPpbJUkf4gyOeA&s",
+      "source_page_url": "https://www.storysea3697.com/products/%E5%89%8D%E9%8E%AE%E6%BC%81%E6%B8%AF%E9%BB%83%E9%B0%AD%E9%AE%AA%E9%AD%9A",
+      "source_domain": "www.storysea3697.com"
+    },
+    {
+      "candidate_id": "cand_f066877644ac659c5b0326df",
+      "image_url": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20220408/983x768_20220408000035.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAmC5oXKh1vwe9ARzZpRXe65NALAiwBn_nLxjfk0YUGg&s=10",
+      "source_page_url": "https://www.cna.com.tw/news/aloc/202204080101.aspx",
+      "source_domain": "www.cna.com.tw"
+    },
+    {
+      "candidate_id": "cand_46845c804d78ae9e08eda86a",
+      "image_url": "https://www.boatboss-seafood.com/archive/image/product10/images/1712673513579_630_486.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRhxAhvCvfAGAybVwDVS-ogQMV3zYUnhDrpCdfHHfyQ&s=10",
+      "source_page_url": "https://www.boatboss-seafood.com/product_d.php?lang=tw&tb=10&id=2429",
+      "source_domain": "www.boatboss-seafood.com"
+    },
+    {
+      "candidate_id": "cand_519e1428b6615aee2775ca68",
+      "image_url": "https://www.aussiemeat.hk/cdn/shop/articles/Shopify_1080_33bcb264-b279-4430-9466-3db50662fa77_1000x1000.png?v=1737430421",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPOIf7imjRkMBzyeLAF3SP66RL6JoWK3Yg5UPACLq6gA&s=10",
+      "source_page_url": "https://www.aussiemeat.hk/zh/blogs/recipes-feed/how-to-prepare-australian-yellow-fin-tuna-peppery-tomatoes?srsltid=AfmBOoqnuc6iFDdDYTOG7_T2x9CIIVY5oNl9cjaF9_bvJed6G6GFEHaQ",
+      "source_domain": "www.aussiemeat.hk"
+    },
+    {
+      "candidate_id": "cand_dba2dfbd90d3f0787ce03402",
+      "image_url": "https://kmwebsys.moa.gov.tw/files/subject_WS/46367/A02_1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS81xwrFfT3Rt5eByVkAkJJd-ofPcTSyJ_HVQ7ZiZdKHg&s=10",
+      "source_page_url": "https://kmweb.moa.gov.tw/subject/subject.php?id=7805",
+      "source_domain": "kmweb.moa.gov.tw"
+    },
+    {
+      "candidate_id": "cand_6d4ba55ab01b9ee32de7b256",
+      "image_url": "https://img.ltn.com.tw/Upload/news/600/2010/04/10/66.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxB5lmXR4vcx1de7_F0nCghs2tXSX5AKTqYLq5kRs7ww&s=10",
+      "source_page_url": "https://news.ltn.com.tw/news/local/paper/386609",
+      "source_domain": "news.ltn.com.tw"
+    },
+    {
+      "candidate_id": "cand_e6a0fdb8b79c312576790f75",
+      "image_url": "https://images.chinatimes.com/newsphoto/2022-04-08/656/20220408002088.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_kbnv5xzOLX3IbnsGaTyJV-3ENWQE5rvSU-tLLRBlMA&s=10",
+      "source_page_url": "https://www.chinatimes.com/realtimenews/20220408002087-260405",
+      "source_domain": "www.chinatimes.com"
+    },
+    {
+      "candidate_id": "cand_8fa131502778b1bac84e4f83",
+      "image_url": "https://im-fish.com/wp-content/uploads/2022/06/216001%E9%AE%AA%E9%AD%9A%E7%94%9F%E7%89%87-1.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ2u_HkvrA-ZTaK0ju4G1kWboDqxtYhcKSlt450C_a4g&s=10",
+      "source_page_url": "https://im-fish.com/shop/16001/",
+      "source_domain": "im-fish.com"
+    },
+    {
+      "candidate_id": "cand_4ccc8a8184ee7b42a5ff3fe0",
+      "image_url": "https://img.cloudimg.in/uploads/shops/41022/products/97/9797fae1b1f45a5e0d08f19c1d61e57c.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy5TV-JWabPrAqEhD8o01uBKHCV0_STh51dCFSYxwgtA&s=10",
+      "source_page_url": "https://www.tunahouse.com.tw/product/detail/2176895",
+      "source_domain": "www.tunahouse.com.tw"
+    },
+    {
+      "candidate_id": "cand_361646c0f658d37dc0220900",
+      "image_url": "https://tokyo-kitchen.icook.network/uploads/recipe/cover/90275/17afbb9633ac4e7e.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtYWLZmwtuAyT-CLE_RevkGOLLtElcV0JdoGV_iHu-Q&s=10",
+      "source_page_url": "https://icook.tw/recipes/90275",
+      "source_domain": "icook.tw"
+    },
+    {
+      "candidate_id": "cand_3e040a02a0cbb7c852104c95",
+      "image_url": "https://attach.setn.com/newsimages/2022/04/08/3601785-PH.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFDmUnKDhpOmngl7d0MOLuYnHs_H_au8jDBhOi4e3GKg&s=10",
+      "source_page_url": "https://www.setn.com/news/1097182",
+      "source_domain": "www.setn.com"
+    },
+    {
+      "candidate_id": "cand_24c8c4eb05fac2411f453aef",
+      "image_url": "https://shoplineimg.com/62b3f00f627770004c0cedf5/670f5e3e581d05000e2a7f8d/800x.jpg?",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9jCx9ZEtcYvUJXVP7Sn60EZvUb7EdH9uy5mJQfQs2gA&s",
+      "source_page_url": "https://www.salmon-island.co/products/%E9%BB%83%E9%B0%AD%E9%AE%AA%E8%85%B9%E8%82%89300g%E5%8C%85-%E9%AE%AD%E5%B1%B1%E5%B3%B6%E6%B0%B4%E7%94%A2",
+      "source_domain": "www.salmon-island.co"
+    },
+    {
+      "candidate_id": "cand_fc21d1a8c0df7333c38fbe15",
+      "image_url": "https://en.pimg.jp/113/841/534/1/113841534.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvrMF6qoDD1dvE89g7YCGJseqE8Mzwq73nI5p0f4BAvQ&s",
+      "source_page_url": "https://tw.pixtastock.com/photo/113841534",
+      "source_domain": "tw.pixtastock.com"
+    },
+    {
+      "candidate_id": "cand_5b3f6669c45f87635ce5d80d",
+      "image_url": "https://media.nownews.com/nn_media/thumbnail/2023/01/1673334421731-290b82bb065a425587aa6b40cd0852f8-800x602.jpeg?unShow=false",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG9DjZhyWjpQOD1cEF-rz2pc0k53A5dJx4kBOuEXwPhw&s=10",
+      "source_page_url": "https://www.nownews.com/news/6024736?srsltid=AfmBOoqAdAHL8kDMcWEzRU6rsw3y87msDncwhULd7fOwI6XRi5Xbu3Z5",
+      "source_domain": "www.nownews.com"
+    },
+    {
+      "candidate_id": "cand_7153acf74253d2c014440e8c",
+      "image_url": "https://imgcdn.cna.com.tw/www/postwrite/2024/20240710/00376006.202407101947307829M.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDPG1RfQdN_5u-LN_w8BqP7t8gkSWq0QSVWbNdgAewgA&s=10",
+      "source_page_url": "https://www.cna.com.tw/postwrite/chi/376006",
+      "source_domain": "www.cna.com.tw"
+    },
+    {
+      "candidate_id": "cand_d73115844763d4eee1fb052b",
+      "image_url": "https://www.ros-marry.com/images/fish/yellowfintuna.webp",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSUl2hRri4kCn5eGYCEj1kvTSx17MEhIsJQMoGADhpbw&s",
+      "source_page_url": "https://www.ros-marry.com/fish/%E9%BB%83%E9%B0%AD%E9%AE%AA/",
+      "source_domain": "www.ros-marry.com"
+    },
+    {
+      "candidate_id": "cand_6dcb2116c861996e04072437",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Yellowfin_tuna_nurp.jpg/250px-Yellowfin_tuna_nurp.jpg?utm_source=zh.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqvZSOks0QEpnU-Yj3EqqY0rnPK9YExm6AZx1gjxf6kg&s=10",
+      "source_page_url": "https://zh.wikipedia.org/zh-tw/%E9%BB%84%E9%B3%8D%E9%87%91%E6%9E%AA%E9%B1%BC",
+      "source_domain": "zh.wikipedia.org"
+    },
+    {
+      "candidate_id": "cand_d6aa6263d6a0e386aee6f578",
+      "image_url": "https://attach.setn.com/newsimages/2022/04/12/3607169-PH.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbLkOMdK_B2q5N4AFe-v2DbBfzuXlaaCUG42VyQNzWQQ&s=10",
+      "source_page_url": "https://www.setn.com/news/1098941",
+      "source_domain": "www.setn.com"
+    },
+    {
+      "candidate_id": "cand_f179889d65c78873674f443b",
+      "image_url": "https://cdn01.pinkoi.com/product/2CKLKujJ/0/2/640x530.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-WG-XhHjDFd4IFXAVN1RUbIvNvOR8Dto7O5XDP0Na7w&s=10",
+      "source_page_url": "https://www.pinkoi.com/product/2CKLKujJ",
+      "source_domain": "www.pinkoi.com"
+    },
+    {
+      "candidate_id": "cand_22786bfee1bc52c72a2a9624",
+      "image_url": "https://img.cloudimg.in/uploads/shops/35917/products/f0/f0c86530669afd70ae378d7399def051.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy5KGKkJGINIfMcuKu6NsE4kQ5MALcpwKNRaoaCHh3MQ&s=10",
+      "source_page_url": "https://www.masazumi.com.tw/en/product/detail/1800358",
+      "source_domain": "www.masazumi.com.tw"
+    },
+    {
+      "candidate_id": "cand_6b58dde48cfdabc587ae3049",
+      "image_url": "https://i0.wp.com/etaiwan.news/wp-content/uploads/2026/05/img_6371.jpg?resize=1024%2C771&ssl=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI7v6wrNhMIUMMArMMnp9-jjmplH-8sTDp6fZuwL0jVA&s=10",
+      "source_page_url": "https://etaiwan.news/2026/05/05/%E7%BD%95%E8%A6%8B%E5%B7%A8%E5%A4%A7%E9%BB%83%E9%B0%AD%E9%AE%AA%E9%AD%9A%EF%BD%9C%E6%95%B4%E6%95%B492%E5%85%AC%E6%96%A4%E9%87%8D%EF%BC%8C%E8%B7%9F%E4%BA%BA%E4%B8%80%E6%A8%A3%E9%AB%98%EF%BC%81/",
+      "source_domain": "etaiwan.news"
+    },
+    {
+      "candidate_id": "cand_794e3497548651d76da7ff50",
+      "image_url": "http://otorotodoor.com/wordpress/wp-content/uploads/2015/06/%E9%BB%91%E9%AE%AA%E9%AD%9A%EF%BC%88%E8%97%8D%E9%B0%AD%E9%AE%AA%E9%AD%9A%EF%BC%89%EF%BC%9ABluefin-Tuna-2-600x435.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQW84qB8YkWjj6ucV1ae5rMGY_N4F-Kvyh8ySTAkvUqA&s=10",
+      "source_page_url": "http://otorotodoor.com/tag/%E9%BB%83%E9%B0%AD%E9%AE%AA%E9%AD%9A/",
+      "source_domain": "otorotodoor.com"
+    },
+    {
+      "candidate_id": "cand_343c51711725c80df947a669",
+      "image_url": "https://allnewstp.s3.ap-east-2.amazonaws.com/img/news/7ZHl2XhxYonySermxnmYe3xEk49Nynd2oQbGYJT2.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv2IW1VVvOx3Vz2tr-czC7AC9t6zer-qJRxZB37mRBOg&s=10",
+      "source_page_url": "https://www.allnews.tw/news/88282",
+      "source_domain": "www.allnews.tw"
+    },
+    {
+      "candidate_id": "cand_d55147fceeaca708319612d9",
+      "image_url": "https://live.staticflickr.com/2809/9874055523_37a599d88f_b.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPizMHRqjQpcC0cgu8_3R598pkINRPpTph-kAPrATtYA&s",
+      "source_page_url": "https://www.flickr.com/photos/100520715@N07/9874055523/",
+      "source_domain": "www.flickr.com"
+    },
+    {
+      "candidate_id": "cand_a97564b1da8321a3e7cf4c77",
+      "image_url": "https://img.mingchu.co/Nuploads/food/1606592263670593.jpg?x-oss-process=style/600_600_webapp.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtQKU6PGthM-m1l64qCBnwC82nFC_5bwU1NFUw2eOQhA&s",
+      "source_page_url": "https://m.mingchu.co/foodview?id=97073",
+      "source_domain": "m.mingchu.co"
+    },
+    {
+      "candidate_id": "cand_e5179c55819ed35e7981f470",
+      "image_url": "https://www.savesafe.com.tw//ProdImg/1876/155/00/1876155_00_main.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVDJpx2G9t16y4IiCc9PJmEdsHryRoMmNkMYmfx7RRKA&s=10",
+      "source_page_url": "https://www.savesafe.com.tw/Products/ProductView?s_id=c17c4638c49d3869783ad72c21c177fd",
+      "source_domain": "www.savesafe.com.tw"
+    },
+    {
+      "candidate_id": "cand_c42abf16ef22262a1ed01167",
+      "image_url": "https://preview.redd.it/300-pound-yellowfin-tuna-v0-sargkiostz3a1.png?width=838&format=png&auto=webp&s=678af71baaf7845b74f6ba405c158bf73a6f90ac",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG1DVeRsH3_xtEKVjg98wm8XGKE-W6J2F0SKReIpkZ5w&s=10",
+      "source_page_url": "https://www.reddit.com/r/Spearfishing/comments/zcum6a/300_pound_yellowfin_tuna/?tl=zh-hant",
+      "source_domain": "www.reddit.com"
+    },
+    {
+      "candidate_id": "cand_6f14a0e2e2169a9e9d65e19a",
+      "image_url": "https://m.media-amazon.com/images/I/717MazJXltL._AC_UF894,1000_QL80_AIweblab1381794,T1_.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSodUNA4X-YqKhE_hpD6XVKfor4QM0EJYU5xbYS_gwOQ&s=10",
+      "source_page_url": "https://www.amazon.com/-/zh_TW/Safe-Catch-%E9%87%8E%E7%94%9F%E9%BB%83%E9%B0%AD%E9%AE%AA%E9%AD%9A%E9%AD%9A%E9%AD%9A%E8%A2%8B-%E6%AF%8F%E6%A2%9D%E9%AD%9A%E9%83%BD%E7%B6%93%E9%81%8E%E6%B8%AC%E8%A9%A6-Whole30/dp/B083LKHKM6",
+      "source_domain": "www.amazon.com"
+    },
+    {
+      "candidate_id": "cand_06f5271c0058c0e24378c0a9",
+      "image_url": "https://img.yec.tw/cl/api/res/1.2/a3pMum6uokAyAsF_YQNagA--/YXBwaWQ9eXR3bWFsbDtoPTYwMDtxPTEwMDt3PTYwMA--/https://img.yec.tw/fy/0342/item/p1015264801357-item-016axf4x0750x0750-m.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8T-J1VDjJS_8ohgUWLrg-xMENvtT94dWmKC7RWm_w_Q&s=10",
+      "source_page_url": "https://tw.buy.yahoo.com/gdsale/gdsale.asp?gdid=p1015264801357",
+      "source_domain": "tw.buy.yahoo.com"
+    },
+    {
+      "candidate_id": "cand_8d84e9d60af436cc01027a02",
+      "image_url": "https://img.cloudimg.in/uploads/shops/33270/products/d4/d47c8e473aa68bda6c87d023c206d8a9.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIgLT4xdgjuIIpTIbBKsLIwczJf8duj8sOi4Sj_4JOww&s=10",
+      "source_page_url": "https://www.tunakingfresh.com.tw/product/detail/1572742",
+      "source_domain": "www.tunakingfresh.com.tw"
+    },
+    {
+      "candidate_id": "cand_21ca8904792e2be6482677ee",
+      "image_url": "https://cdn01.pinkoi.com/product/GamQJmQR/0/1/640x530.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoPZm7D_K3sFGf04-JAr2o7M445rhLKxzbt7mkSMOr-g&s=10",
+      "source_page_url": "https://www.pinkoi.com/product/GamQJmQR",
+      "source_domain": "www.pinkoi.com"
+    },
+    {
+      "candidate_id": "cand_368f0fd0246100807b9e826e",
+      "image_url": "https://static.owlting.com/market/public/items/thumbs/640x480/item_25513_0p6HCVBhuJggBuG3YRu7pQp1VERtoxYoAUjehooS",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScdxDmRudo3IQYJIxumZK5l8Ygo1fQbkq_6OCUrWFlJA&s",
+      "source_page_url": "https://market.owlting.com/items/25513",
+      "source_domain": "market.owlting.com"
+    },
+    {
+      "candidate_id": "cand_440b6146a0b739cf92bd2ac6",
+      "image_url": "https://img.cloudimg.in/uploads/shops/35917/products/e9/e9379ee0c4453e6529a7ddcb12c98a48.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXGauHvcF8iWm00nGVM-laaNwaM33TbRKPzVpa3slrBA&s",
+      "source_page_url": "https://www.masazumi.com.tw/en/product/detail/1800272",
+      "source_domain": "www.masazumi.com.tw"
+    },
+    {
+      "candidate_id": "cand_1131854bb98025457e788f79",
+      "image_url": "https://img.ltn.com.tw/Upload/news/600/2009/11/30/12.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRxlMJBwDtvzyfA894_6vu6iNs3vtQlBRaEgXRMjCYAQ&s=10",
+      "source_page_url": "https://news.ltn.com.tw/news/life/paper/354730",
+      "source_domain": "news.ltn.com.tw"
+    },
+    {
+      "candidate_id": "cand_fe30f19eae5c2d5d6023d5b9",
+      "image_url": "https://i.ytimg.com/vi/o7WTl8-pGm4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCiV0q_0tZN_fr6UjMNcFCYnes9Zg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnEHfaaBtP-7A0uMo8Nes-QuY8zr6r2HsvtVv9f041cw&s=10",
+      "source_page_url": "https://www.youtube.com/watch?v=o7WTl8-pGm4",
+      "source_domain": "www.youtube.com"
+    },
+    {
+      "candidate_id": "cand_b38368c2618af0ecee3b6586",
+      "image_url": "https://shoplineimg.com/62b3f00f627770004c0cedf5/670f5e3e7bc1c0000cc7009b/800x.jpg?",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9W8MwtIYD3Li8cqBGGx9wZkvPbG7nUkuxIQ6MjIcW2w&s=10",
+      "source_page_url": "https://www.salmon-island.co/products/%E9%BB%83%E9%B0%AD%E9%AE%AA%E8%85%B9%E8%82%89300g%E5%8C%85-%E9%AE%AD%E5%B1%B1%E5%B3%B6%E6%B0%B4%E7%94%A2",
+      "source_domain": "www.salmon-island.co"
+    },
+    {
+      "candidate_id": "cand_866ea3a2549746cff0c2986f",
+      "image_url": "https://www.oceanleader.com.tw/resource/upload/01_yellowfin-tuna_dark.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1S0rV1IGDyPkTFteoqg2nmEb66grTCV--OsTJZz11UQ&s=10",
+      "source_page_url": "https://www.oceanleader.com.tw/ch/yellowfin-tuna",
+      "source_domain": "www.oceanleader.com.tw"
+    },
+    {
+      "candidate_id": "cand_d6eb0ae5e8e64d3360872095",
+      "image_url": "https://cdn2.ettoday.net/images/4283/d4283764.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLurYTf8MPt0j93lFzDMCgJ4_-dWIuy6H5V1e9ofAvRA&s=10",
+      "source_page_url": "https://travel.ettoday.net/article/1505900.htm",
+      "source_domain": "travel.ettoday.net"
+    },
+    {
+      "candidate_id": "cand_7e51f6849aee42d260cb8770",
+      "image_url": "https://images.ctfassets.net/dxmy7ayvnqcs/645Id7DcugFQHfEGKpK9xu/1874cb93526a6150a8b56b6dcf2850ee/tunnis_of_twn.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF1d3N07KjsuH5XieikTNcWkNV796MSbTJAtQjo_fCJA&s=10",
+      "source_page_url": "https://www.congratulafins.org/blog/thunnini-near-taiwan-waters",
+      "source_domain": "www.congratulafins.org"
+    },
+    {
+      "candidate_id": "cand_98597f3cc8d8361a8e56123f",
+      "image_url": "https://www.ocean-treasure.com.tw/product/image/pics/%E9%AE%AA%E9%AD%9A%E9%A1%9E%E7%94%A2%E5%93%81%E5%88%97%E8%A1%A8-%E9%BB%83%E9%B0%AD%E9%AE%AA.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREN7M3TZ4uOPrU64sAz2CmGyKaw2Ndoz8QkQDwJDnXnw&s=10",
+      "source_page_url": "https://www.ocean-treasure.com.tw/product-info.asp?id=276",
+      "source_domain": "www.ocean-treasure.com.tw"
+    },
+    {
+      "candidate_id": "cand_bc20063e4faae38bc57b29fd",
+      "image_url": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/547f1a50-89d5-4891-b5c4-e9f6e3804f47.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMT21n8VYfYCNqlb1-H1bTA428K-l1BPhlBCV8DpWe4w&s=10",
+      "source_page_url": "https://www.ftvnews.com.tw/news/detail/2023110C14M1",
+      "source_domain": "www.ftvnews.com.tw"
+    },
+    {
+      "candidate_id": "cand_3fa9abfb8077272f85d6877f",
+      "image_url": "https://thumbnail.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/58086383843674-076c7326-650b-4018-8b09-ba9256659e2f.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0OokKKKQP2HwNBsdZpzeT6255tVsrVr2MNIQs601KxA&s",
+      "source_page_url": "https://www.tw.coupang.com/products/SAJO-%E9%BB%83%E9%B0%AD%E9%AE%AA%E9%AD%9A%E7%BD%90%E9%A0%AD-21008289711865",
+      "source_domain": "www.tw.coupang.com"
+    },
+    {
+      "candidate_id": "cand_21a2c82582bd85c5b6a9225e",
+      "image_url": "https://bkimg.cdn.bcebos.com/pic/500fd9f9d72a6059252dc3ff0864239b033b5ab50c8c?x-bce-process=image/format,f_auto/quality,Q_80/resize,m_lfit,limit_1,h_700",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvRwS8EMWGy0tNIhWOyrupKlikYIkhvUer9mcUVUV2mA&s",
+      "source_page_url": "https://baike.baidu.com/item/%E9%BB%84%E9%B3%8D%E9%B2%94/1981688",
+      "source_domain": "baike.baidu.com"
+    },
+    {
+      "candidate_id": "cand_42add7a476593556a08e835e",
+      "image_url": "https://im-fish.com/wp-content/uploads/2022/06/216001%E9%AE%AA%E9%AD%9A%E7%94%9F%E7%89%871.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYegET5wKMHtVfjs9kBvPpUWitnDXP3d6NUcmuRRyPLA&s=10",
+      "source_page_url": "https://im-fish.com/shop/16001/",
+      "source_domain": "im-fish.com"
+    },
+    {
+      "candidate_id": "cand_996c30f54bb9e025613ec573",
+      "image_url": "https://down-tw.img.susercontent.com/file/0dd6996bf87497d337d4ef2440b34562",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4XY3l0j-qcg-095yKd7UZvqxZ71Dq9dnxGGleNt1Jdw&s=10",
+      "source_page_url": "https://shopee.tw/%E3%80%90%E9%BB%83%E9%B0%AD%E9%AE%AA%E9%AD%9A%E8%85%B9%E8%82%89%E3%80%91-%E8%88%B9%E8%80%81%E5%A4%A7%E6%B5%B7%E7%89%A9-%E5%8F%B0%E5%8D%97-%E8%A5%BF%E6%BF%B1-%E5%B0%87%E8%BB%8D%E6%BC%81%E6%B8%AF-%E6%B5%B7%E9%87%A3-%E5%86%B7%E5%87%8D%E7%94%9F%E9%AE%AE-%E9%AE%AE%E9%AD%9A-%E9%9B%B6%E5%98%B4-%E6%BE%8E%E6%B9%96-%E6%B5%B7%E9%AE%AE-%E4%B8%80%E5%A4%9C%E5%B9%B2-%E5%AE%A2%E8%A3%BD%E5%8C%96-%E9%80%81%E7%A6%AE-%E7%A6%AE%E7%9B%92-i.396528434.3023564661",
+      "source_domain": "shopee.tw"
+    },
+    {
+      "candidate_id": "cand_45dbf6f4d400ca5edfce500f",
+      "image_url": "https://img.activityjapan.com/10/64621/10000006462101_XHMsCHCR_3.PNG?version=1782547443",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi-kS8j-wQrdpsj8EpvJR3T7PDsMTP7V4fTq-4nV3scw&s=10",
+      "source_page_url": "https://zh-cht.activityjapan.com/publish/plan/64621",
+      "source_domain": "zh-cht.activityjapan.com"
+    },
+    {
+      "candidate_id": "cand_78026bda5099857c40238924",
+      "image_url": "https://i0.wp.com/etaiwan.news/wp-content/uploads/2026/05/img_6374.jpg?resize=1024%2C768&ssl=1",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1sSBjbkjVPbKV_1TFa_6az2KUurVyfDybeJo7wLKF-w&s=10",
+      "source_page_url": "https://etaiwan.news/2026/05/05/%E7%BD%95%E8%A6%8B%E5%B7%A8%E5%A4%A7%E9%BB%83%E9%B0%AD%E9%AE%AA%E9%AD%9A%EF%BD%9C%E6%95%B4%E6%95%B492%E5%85%AC%E6%96%A4%E9%87%8D%EF%BC%8C%E8%B7%9F%E4%BA%BA%E4%B8%80%E6%A8%A3%E9%AB%98%EF%BC%81/",
+      "source_domain": "etaiwan.news"
+    },
+    {
+      "candidate_id": "cand_c7f056ae4fb643abb6cc73f5",
+      "image_url": "https://www.gcishop.com.tw/ezfiles/133/1133/plugin/ec/pictures/826/m/mczh-tw700x700_large732637.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH1lY0uNXw1SRgs_9J9gT_GAwQ7Rt9_7bMZJl5HMpyhQ&s=10",
+      "source_page_url": "https://www.gcishop.com.tw/m/2001-1133-855024.php",
+      "source_domain": "www.gcishop.com.tw"
+    },
+    {
+      "candidate_id": "cand_12ee04b5cbc152a47a9221b5",
+      "image_url": "https://wenchiseafood.com.tw/httpdocs/images/products/C03_A_01_13_OK.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVRfkoTp0exLyv8Jc9BStfVDKXnqqawxJ_KCV7jK1Aw&s=10",
+      "source_page_url": "https://wenchiseafood.com.tw/httpdocs/C0300_A_01.html",
+      "source_domain": "wenchiseafood.com.tw"
+    },
+    {
+      "candidate_id": "cand_a0e58985b1c514eadce1f0ea",
+      "image_url": "http://pic.pimg.tw/fishtainan2011/1381073723-3875940570.jpg?v=1381073724",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb78c9MkD1H2M1f-rcFfkwSHkaweUifDRMzhuZW2gvDg&s=10",
+      "source_page_url": "http://fishtainan.blogspot.com/2012/03/blog-post_27.html",
+      "source_domain": "fishtainan.blogspot.com"
+    },
+    {
+      "candidate_id": "cand_9e27d90f142864c85ae12905",
+      "image_url": "https://ak-d.tripcdn.com/images/1mi66224x9a1mxm58C14E.jpg?proc=resize%2Fm_z%2Cw_375%2Ch_0%3Bformat%2Ff_webp%2C9C2E",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS--Cl7jA1KflNMktfBCGv3phca3dZaPaa6-zO4NEZdpg&s",
+      "source_page_url": "https://sg.trip.com/moments/detail/hong-kong-38-148638366?locale=zh-SG",
+      "source_domain": "sg.trip.com"
+    },
+    {
+      "candidate_id": "cand_e830d964238c0ba0e8f4d7ba",
+      "image_url": "https://img-global.cpcdn.com/recipes/456a9e208ba0948ab36ffc1974982b01/120x160cq50/%E6%96%99%E4%BA%AD%E5%92%8C%E9%9C%B2%E8%92%9C%E9%A6%99%E9%86%AC%E7%87%92%E9%BB%83%E9%B0%AD%E9%AE%AA%E9%AD%9A-%E9%A3%9F%E8%AD%9C%E6%88%90%E5%93%81%E7%85%A7%E7%89%87.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8JuCm7admv152rKlZErMmKn4jDfzkkvzHu5FtCd7h&s",
+      "source_page_url": "https://cookpad.com/tw/%E6%90%9C%E5%B0%8B/%E9%BB%83%E9%B0%AD%E9%AE%AA%E9%AD%9A",
+      "source_domain": "cookpad.com"
+    },
+    {
+      "candidate_id": "cand_65e2987ae1d5d1fb1ca35c15",
+      "image_url": "https://img.meepshop.com/yvECAK00zFIGcednYSApdkfNja00vBbZfkv6-SSWMSg/w:1200/Z3M6Ly9pbWcubWVlcGNsb3VkLmNvbS9tZWVwc2hvcC9lMmNmZWNiOS0xMDQ0LTQxMzktODE4MC00YzhiNmMyNmIxNDkvZmlsZXMvMGYxODM0ZTQtOTg0MC00MWRiLThhYWUtODQ0ZmFkOGYwYzcwLnBuZw",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgPQU78QdYM67bcXjSo_Uw9BFyd-8D5GdMrvWbudTb9w&s",
+      "source_page_url": "https://www.seafood.com.tw/products/f59d8618-6460-44aa-a0a0-30ed23402fcb",
+      "source_domain": "www.seafood.com.tw"
+    },
+    {
+      "candidate_id": "cand_a17f46ef00a447deff69d23a",
+      "image_url": "https://media-cdn.tripadvisor.com/media/photo-s/06/05/9a/36/79.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtzWPoT91T2vq4RsRnpI0H9nwz8886LcTTNXEvbs_v6Q&s=10",
+      "source_page_url": "https://www.tripadvisor.co.nz/LocationPhotoDirectLink-g13795597-d6554083-i101030454-Xingang_Fishing_Market-Chenggong_Township_Taitung.html",
+      "source_domain": "www.tripadvisor.co.nz"
+    },
+    {
+      "candidate_id": "cand_69c7314696a6677983a62628",
+      "image_url": "https://i.redd.it/yb1j306zqo551.png",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnmm6kaD87sGZ9QZZ4TVxECiP63wl44W1EmGQ-M_CzBw&s=10",
+      "source_page_url": "https://www.reddit.com/r/interestingasfuck/comments/hbgjv6/marlin_slicing_through_a_yellowfin_tuna/?tl=zh-hant",
+      "source_domain": "www.reddit.com"
+    },
+    {
+      "candidate_id": "cand_8c1c41935f3846c45b16d826",
+      "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7qul3-lgt77jffxr1l0b",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGYEvvCrkhXKcgSwqHLNCKKfXSd-wkjon3NbXY77-3zw&s",
+      "source_page_url": "https://shopee.tw/%E3%80%90%E6%B0%B4%E6%B1%95%E6%B5%B7%E7%89%A9%E3%80%91%E9%87%8E%E7%94%9F%E6%B5%B7%E6%8D%95-%E7%8F%BE%E6%B5%81%E6%80%A5%E5%87%8D-%E9%BB%83%E9%B0%AD%E9%AE%AA%E9%AD%9A%E7%94%9F%E9%AD%9A%E7%89%87(%E6%B8%85%E8%82%89)%E3%80%82%E3%80%8E%E5%AF%A6%E9%AB%94%E5%BA%97%E9%9D%A2%E3%80%81%E5%93%81%E8%B3%AA%E4%BF%9D%E8%AD%89%E3%80%8F-i.6754446.14825202336",
+      "source_domain": "shopee.tw"
+    },
+    {
+      "candidate_id": "cand_a45e99b1762e3151b7f75600",
+      "image_url": "http://photo.fhl.net/img/animal/77.jpg",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8j_fdvtdWiUSEbAsotsHAFldr2rInPP_smdYjTCSSJw&s=10",
+      "source_page_url": "https://photo.fhl.net/main/animal/animal77.html",
+      "source_domain": "photo.fhl.net"
+    }
+  ]
+}

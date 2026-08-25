@@ -1,0 +1,27 @@
+candidate_pool:
+  taxonomy_path: Fish_Map/fish_taxonomy.csv
+  photo_targets_path: Fish_Map/photo_targets.csv
+  photos_dir: Photos
+  output_dir: Candidate_Pool
+  provider: serpapi_google_images
+  target_per_fish: 100
+  query_templates:
+    - "{canonical_name}"
+    - "{alias} 魚"
+  max_results_per_query: 100
+  max_queries_per_fish: 12
+  oversample_factor: 3.0
+  provider_page_size: 20
+  workers: 8
+  http_timeout: 10.0
+  # One retry after the initial attempt (at most two HTTP attempts total).
+  retry_count: 1
+  retry_backoff: 1.0
+  # Hard per-process cap, counting retries, to respect the hourly SerpAPI limit.
+  max_provider_requests: 50
+  # Give every fish one canonical-name API page before filling partial pools.
+  processing_priority: coverage_first
+  dedupe_mode: url
+  phash_threshold: 6
+  validation: true
+  max_image_bytes: 25000000

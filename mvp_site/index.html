@@ -1,0 +1,283 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#0b6b68">
+    <meta name="description" content="協助辨識魚類候選圖片的本機標註工具">
+    <title>台灣魚類辨識挑戰</title>
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#app-main">跳到主要內容</a>
+    <header class="site-header">
+      <a class="brand" href="./" aria-label="台灣魚類辨識挑戰首頁">
+        <span class="brand-mark" aria-hidden="true">魚</span>
+        <span>台灣魚類辨識挑戰</span>
+      </a>
+      <div class="header-actions">
+        <button id="dashboard-nav" class="header-button" type="button" data-action="dashboard" hidden>我的進度</button>
+        <button id="signout-button" class="header-button" type="button" data-action="signout" hidden>登出</button>
+        <details class="utility-menu">
+          <summary aria-label="開啟資料選單">資料選單</summary>
+          <div class="menu-panel">
+            <button type="button" data-action="export-csv">匯出 CSV</button>
+            <button type="button" data-action="export-json">匯出 JSON</button>
+            <hr>
+            <button type="button" class="danger-text" data-action="reset">重設本機資料</button>
+          </div>
+        </details>
+      </div>
+    </header>
+
+    <main id="app-main" tabindex="-1">
+      <section id="loading-screen" class="screen centered-screen" aria-live="polite">
+        <div class="loader" aria-hidden="true"></div>
+        <p>正在準備魚類題目…</p>
+      </section>
+
+      <section id="landing-screen" class="screen centered-screen" hidden>
+        <div class="landing-card">
+          <div class="hero-icon" aria-hidden="true">🐟</div>
+          <p class="eyebrow">公民科學影像標註</p>
+          <h1>一起辨識台灣魚類</h1>
+          <p class="lead">幫我們確認網路上的魚類照片，一起建立更可靠的魚類影像資料集。</p>
+          <form id="name-form">
+            <label for="display-name">你的名字／暱稱</label>
+            <input id="display-name" name="display_name" maxlength="60" autocomplete="name" required placeholder="例如：Amy">
+            <button class="primary-button full-width" type="submit">開始辨識 <span aria-hidden="true">→</span></button>
+          </form>
+          <div class="login-divider"><span>或</span></div>
+          <button id="google-login-button" class="google-button full-width" type="button" hidden>
+            <span class="google-mark" aria-hidden="true">G</span> 使用 Google 登入
+          </button>
+          <p class="privacy-note">Google 登入後會同步到 Supabase；使用暱名則保存在這個瀏覽器。</p>
+        </div>
+      </section>
+
+      <section id="game-screen" class="screen game-screen" hidden>
+        <div class="progress-bar-wrap" aria-label="本機標註進度">
+          <div class="progress-copy">
+            <span>本次協作進度</span>
+            <span><strong id="question-count">0</strong> 題 · <strong id="image-count">0</strong> 張圖片</span>
+          </div>
+          <div class="progress-track"><div id="progress-bar" class="progress-bar"></div></div>
+        </div>
+
+        <div class="workspace">
+          <aside class="reference-panel">
+            <p class="eyebrow">本題目標魚種</p>
+            <h1 id="fish-name"></h1>
+            <p id="fish-aliases" class="aliases"></p>
+            <div class="reference-frame">
+              <img id="reference-image" alt="本題參考魚類照片">
+              <div id="reference-error" class="image-placeholder" hidden>參考照片無法顯示，請換一題或重新準備資料。</div>
+            </div>
+            <div class="instruction-card">
+              <strong>請選出包含目標魚種的圖片</strong>
+              <p>參考照片可能包含多種魚。請直接點選包含目標魚種的圖片；未選取的圖片送出時會記為「不包含」。</p>
+            </div>
+            <div id="debug-task" class="debug-panel" hidden></div>
+          </aside>
+
+          <section class="candidate-panel" aria-labelledby="candidate-heading">
+            <div class="candidate-heading-row">
+              <div>
+                <p class="step-label">視覺判斷</p>
+                <h2 id="candidate-heading">哪些圖片包含「<span id="fish-name-inline"></span>」？</h2>
+              </div>
+              <div class="selection-legend" aria-label="操作說明">
+                <span><b class="legend-yes">✓</b> 包含</span>
+                <span>點選圖片即可切換</span>
+              </div>
+            </div>
+            <div id="candidate-grid" class="candidate-grid"></div>
+            <div class="submit-row">
+              <p id="selection-summary" aria-live="polite">尚未選取；送出後皆記為不包含</p>
+              <button id="submit-question" class="primary-button" type="button">提交這一題</button>
+            </div>
+          </section>
+        </div>
+      </section>
+
+      <section id="dashboard-screen" class="screen dashboard-screen" hidden>
+        <div class="dashboard-shell">
+          <div class="dashboard-heading">
+            <div>
+              <p class="eyebrow">個人協作紀錄</p>
+              <h1><span id="dashboard-name"></span> 的探索儀表板</h1>
+            <p class="lead small">顯示你在目前資料集的標註成果；Google 登入後可跨瀏覽器保留。</p>
+            </div>
+            <button id="dashboard-label-button" class="primary-button" type="button" data-action="continue-labeling">開始辨識</button>
+          </div>
+
+          <nav class="dashboard-tabs" aria-label="儀表板分頁">
+            <button class="dashboard-tab active" type="button" data-dashboard-tab="overview" aria-selected="true">總覽</button>
+            <button class="dashboard-tab" type="button" data-dashboard-tab="fish-progress" aria-selected="false">魚種進度</button>
+            <button class="dashboard-tab" type="button" data-dashboard-tab="collection" aria-selected="false">探索圖鑑</button>
+          </nav>
+
+          <section id="dashboard-page-overview" class="dashboard-page" data-dashboard-page="overview" aria-labelledby="overview-heading">
+          <div class="dashboard-overview">
+            <div class="overall-progress-card">
+              <div class="progress-ring" id="dashboard-progress-ring" aria-label="整體完成進度">
+                <div><strong id="dashboard-percent">0%</strong><span>總進度</span></div>
+              </div>
+              <div>
+                <p class="eyebrow">目前資料集</p>
+                <h2 id="overview-heading">每一張判斷，都讓資料更可靠</h2>
+                <p><strong id="dashboard-completed">0</strong> / <span id="dashboard-total">0</span> 張圖片已完成</p>
+                <div class="progress-track large"><div id="dashboard-progress-bar" class="progress-bar"></div></div>
+              </div>
+            </div>
+            <div class="metric-card"><span>完成題數</span><strong id="dashboard-questions">0</strong><small>題</small></div>
+            <div class="metric-card"><span>探索魚種</span><strong id="dashboard-species">0</strong><small>種</small></div>
+            <div class="metric-card"><span>判定包含</span><strong id="dashboard-yes">0</strong><small>張</small></div>
+          </div>
+
+          <section class="engagement-grid" aria-label="每日參與與下一個里程碑">
+            <article class="challenge-card">
+              <div class="engagement-icon" aria-hidden="true">☀️</div>
+              <div class="engagement-content">
+                <div class="engagement-heading"><div><p class="eyebrow">今日挑戰</p><h2>每天完成 10 題</h2></div><strong><span id="today-questions">0</span> / 10</strong></div>
+                <div class="progress-track large"><div id="daily-progress-bar" class="progress-bar"></div></div>
+                <p id="daily-challenge-message">今天一起完成第一題吧。</p>
+              </div>
+            </article>
+            <article class="streak-card">
+              <div class="engagement-icon" aria-hidden="true">🔥</div>
+              <div><p class="eyebrow">連續參與</p><strong><span id="streak-days">0</span> 天</strong><p id="active-days-copy">累積參與 0 天</p></div>
+            </article>
+            <article class="milestone-card">
+              <div class="engagement-icon" id="milestone-icon" aria-hidden="true">🎯</div>
+              <div class="engagement-content">
+                <p class="eyebrow">下一個里程碑</p>
+                <h2 id="milestone-name">初次下潛</h2>
+                <p id="milestone-copy">再完成 1 題即可解鎖</p>
+                <div class="progress-track"><div id="milestone-progress-bar" class="progress-bar"></div></div>
+                <button class="milestone-badge-button" type="button" data-action="badges" aria-expanded="false">查看我的勳章 <span aria-hidden="true">→</span></button>
+                <div id="badge-panel" class="badge-panel" hidden>
+                  <p id="badge-summary">完成標註來解鎖勳章。</p>
+                  <div id="badge-grid" class="badge-grid"></div>
+                </div>
+              </div>
+            </article>
+            <article class="weekly-card">
+              <div class="engagement-icon" aria-hidden="true">🗓️</div>
+              <div class="engagement-content">
+                <p class="eyebrow">本週任務</p>
+                <h2><span id="weekly-questions">0</span> / 30 題</h2>
+                <div class="progress-track"><div id="weekly-progress-bar" class="progress-bar"></div></div>
+                <p id="weekly-task-message">本週完成 30 題，解鎖任務徽記。</p>
+              </div>
+            </article>
+          </div>
+
+          <section class="activity-card dashboard-section" aria-labelledby="activity-heading">
+            <div class="section-heading">
+              <div><p class="eyebrow">社群公告</p><h2 id="activity-heading">近期活動</h2></div>
+              <span class="activity-status">彈性欄位</span>
+            </div>
+            <div id="activity-feed" class="activity-feed"></div>
+          </section>
+          <section class="leaderboard-card dashboard-section" aria-labelledby="leaderboard-heading">
+            <div class="section-heading">
+              <div><p class="eyebrow">共同協作</p><h2 id="leaderboard-heading">標註排行榜</h2></div>
+              <div class="leaderboard-switcher" role="group" aria-label="排行榜範圍">
+                <button type="button" class="leaderboard-period active" data-leaderboard-period="all">全部</button>
+                <button type="button" class="leaderboard-period" data-leaderboard-period="week">本週</button>
+              </div>
+            </div>
+            <p id="leaderboard-message" class="leaderboard-message">登入 Google 後即可查看共同排行榜。</p>
+            <div id="leaderboard-list" class="leaderboard-list"></div>
+          </section>
+          </section>
+
+          <section id="dashboard-page-fish-progress" class="dashboard-page" data-dashboard-page="fish-progress" aria-labelledby="fish-progress-heading" hidden>
+          <section class="dashboard-section">
+            <div class="section-heading">
+              <div><p class="eyebrow">分類進度</p><h2 id="fish-progress-heading">每種魚的完成度</h2></div>
+              <p>優先完成尚未標註完的魚種，讓資料集更均衡。</p>
+            </div>
+            <div id="fish-progress-list" class="fish-progress-list"></div>
+          </section>
+          </section>
+
+          <section id="dashboard-page-collection" class="dashboard-page" data-dashboard-page="collection" aria-labelledby="collection-heading" hidden>
+          <section class="dashboard-section">
+            <div class="section-heading">
+              <div><p class="eyebrow">魚種收藏</p><h2 id="collection-heading">我的探索圖鑑</h2></div>
+              <p id="collection-summary">完成任一魚種的第一題，即可點亮收藏。</p>
+            </div>
+            <div id="collection-grid" class="collection-grid"></div>
+          </section>
+          </section>
+
+          <p class="dashboard-local-note">此頁是個人紀錄，不代表所有參與者的共同進度。匯出資料也可保留你的成果。</p>
+        </div>
+      </section>
+
+      <section id="completion-screen" class="screen centered-screen" hidden>
+        <div class="completion-card">
+          <div class="hero-icon" aria-hidden="true">🎉</div>
+          <p class="eyebrow">目前資料集已完成</p>
+          <h1>這一輪完成了！</h1>
+          <p>你已協助判斷</p>
+          <div class="completion-stats">
+            <div><strong id="complete-images">0</strong><span>張圖片</span></div>
+            <div><strong id="complete-questions">0</strong><span>題</span></div>
+          </div>
+          <p class="lead small">謝謝你幫忙整理目前載入的魚類影像資料。</p>
+          <div class="button-group">
+            <button class="primary-button" data-action="export-csv" type="button">匯出標註 CSV</button>
+            <button class="secondary-button" data-action="export-json" type="button">匯出 JSON</button>
+          </div>
+        </div>
+      </section>
+
+      <section id="error-screen" class="screen centered-screen" hidden>
+        <div class="error-card">
+          <div class="hero-icon" aria-hidden="true">⚠️</div>
+          <h1>暫時無法載入題目</h1>
+          <p id="error-message"></p>
+          <button id="retry-button" class="primary-button" type="button">重新載入</button>
+        </div>
+      </section>
+    </main>
+
+    <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+
+    <dialog id="confirm-dialog" aria-labelledby="confirm-title" aria-describedby="confirm-message">
+      <form method="dialog" class="dialog-card">
+        <h2 id="confirm-title">請確認</h2>
+        <p id="confirm-message"></p>
+        <div class="dialog-actions">
+          <button value="cancel" class="secondary-button">返回檢查</button>
+          <button value="confirm" class="primary-button">確定</button>
+        </div>
+      </form>
+    </dialog>
+
+    <dialog id="fish-picker-dialog" aria-labelledby="fish-picker-title">
+      <form id="fish-picker-form" method="dialog" class="dialog-card fish-picker-card">
+        <h2 id="fish-picker-title">選擇辨識方式</h2>
+        <p>可以隨機探索，也可以直接搜尋想協助的魚種。</p>
+        <div class="picker-mode-buttons">
+          <button type="button" class="primary-button" data-fish-mode="random">隨機魚種</button>
+          <button type="button" class="secondary-button" data-fish-mode="specific">選擇特定魚種</button>
+        </div>
+        <label for="fish-picker-search">搜尋魚種</label>
+        <input id="fish-picker-search" type="search" placeholder="輸入魚種名稱或別名" autocomplete="off">
+        <div id="fish-picker-options" class="fish-picker-options" role="listbox" aria-label="魚種選擇"></div>
+        <div class="dialog-actions">
+          <button value="cancel" class="secondary-button">取消</button>
+          <button id="fish-picker-submit" value="confirm" class="primary-button" disabled>開始這個魚種</button>
+        </div>
+      </form>
+    </dialog>
+
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="js/supabase-config.js"></script>
+    <script type="module" src="js/app.js?v=20260825-deploy1"></script>
+  </body>
+</html>

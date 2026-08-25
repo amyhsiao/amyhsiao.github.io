@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+node_modules/
+mvp_site/js/supabase-config.js
+.venv/
+Candidate_Pool/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+supabase/.temp/
+supabase/.branches/
